@@ -1,0 +1,149 @@
+Report for Institution Code UAM, Resource uam_mamm
+Usage stats for June, 2014, generated on 2014/07/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 76
+Number of records retrieved in searches: 2574
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 28
+	Country: Denmark ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: United States ; Times: 41
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-06-01 ; Times: 13
+	Date: 2014-06-02 ; Times: 3
+	Date: 2014-06-03 ; Times: 3
+	Date: 2014-06-04 ; Times: 1
+	Date: 2014-06-05 ; Times: 6
+	Date: 2014-06-06 ; Times: 1
+	Date: 2014-06-09 ; Times: 3
+	Date: 2014-06-10 ; Times: 3
+	Date: 2014-06-12 ; Times: 3
+	Date: 2014-06-14 ; Times: 3
+	Date: 2014-06-16 ; Times: 8
+	Date: 2014-06-17 ; Times: 1
+	Date: 2014-06-18 ; Times: 1
+	Date: 2014-06-19 ; Times: 5
+	Date: 2014-06-20 ; Times: 1
+	Date: 2014-06-21 ; Times: 1
+	Date: 2014-06-22 ; Times: 1
+	Date: 2014-06-25 ; Times: 3
+	Date: 2014-06-26 ; Times: 7
+	Date: 2014-06-27 ; Times: 1
+	Date: 2014-06-30 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "byu" ; Times: 1
+	Query: "specificepithet:canadensis genus:lynx institutioncode:uam" ; Times: 2
+	Query: "Rungwecebus" ; Times: 1
+	Query: "Odobenus rosmarus rosmarus" ; Times: 2
+	Query: "goias" ; Times: 1
+	Query: "Trichechus manatus" ; Times: 3
+	Query: "auburn" ; Times: 1
+	Query: "ant" ; Times: 5
+	Query: "delphinapterus leucas" ; Times: 7
+	Query: "puma concolor stateprovince:"Texas"" ; Times: 1
+	Query: "Ursus maritimus" ; Times: 2
+	Query: "Delaney" ; Times: 1
+	Query: "Blarina brevicauda type:specimen stateprovince:"New York" genus:Blarina (Skull) tissue:1" ; Times: 1
+	Query: "callithrix jacchus" ; Times: 2
+	Query: "Syncerus" ; Times: 1
+	Query: "bigfoot" ; Times: 1
+	Query: ""female" specificepithet:canadensis genus:lynx institutioncode:uam" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:Dasypus" ; Times: 1
+	Query: "skull yukon "lynx canadensis" institutioncode:UAM" ; Times: 1
+	Query: "1834" ; Times: 1
+	Query: "trichechus manatus" ; Times: 1
+	Query: ""alopex lagopus" type:specimen" ; Times: 1
+	Query: "Pteropus lylei UAM" ; Times: 1
+	Query: "monodon monoceros" ; Times: 5
+	Query: "ursus maritimus" ; Times: 2
+	Query: ""male" specificepithet:canadensis genus:lynx institutioncode:uam" ; Times: 1
+	Query: ""lynx canadensis" institutioncode:UAM" ; Times: 1
+	Query: "type:specimen genus:Synaptomys tissue:1" ; Times: 1
+	Query: "sus scrofa" ; Times: 3
+	Query: "Canis lupus California type:specimen" ; Times: 1
+	Query: "stewart year >= 1973 year <= 1973" ; Times: 1
+	Query: "American Badger" ; Times: 1
+	Query: "mappable:1 hastypestatus:1 media:1" ; Times: 1
+	Query: "type:specimen genus:Enhydra" ; Times: 1
+	Query: ""lynx canadensis" institutioncode:UAM (skull)" ; Times: 1
+	Query: "Chrotopterus auritus tissue:1" ; Times: 1
+	Query: ""age" specificepithet:canadensis genus:lynx institutioncode:uam" ; Times: 1
+	Query: "caribou" ; Times: 1
+	Query: "specificepithet:auritus genus:Chrotopterus" ; Times: 1
+	Query: "american samoa" ; Times: 3
+	Query: "shrimp" ; Times: 1
+	Query: "Odobenus rosmarus" ; Times: 1
+	Query: "seagull" ; Times: 1
+	Query: "Pteropus lylei" ; Times: 1
+	Query: "myocastor coypus" ; Times: 6
+	Query: "glaucomys sabrinus mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 16 (out of 278 download events in this period)
+Total number of records downloaded: 3146 (out of 1064147 records downloaded for all resources in this period)
+Total number of unique records downloaded: 2539
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Chile ; Times: 1
+	Country: Israel ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: United States ; Times: 10
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-06-03 ; Times: 2
+	Date: 2014-06-05 ; Times: 1
+	Date: 2014-06-06 ; Times: 1
+	Date: 2014-06-10 ; Times: 3
+	Date: 2014-06-13 ; Times: 2
+	Date: 2014-06-18 ; Times: 2
+	Date: 2014-06-19 ; Times: 1
+	Date: 2014-06-23 ; Times: 3
+	Date: 2014-06-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Microtus miurus" ; Times: 1
+	Query: "mammal mammals stateprovince:"Veracruz"" ; Times: 1
+	Query: "stateprovince:"Texas" year >= 1980 year <= 2014 mappable:1" ; Times: 1
+	Query: "Peromyscus maniculatus" ; Times: 1
+	Query: "mammalia texas mappable:1" ; Times: 1
+	Query: "stateprovince:"Wyoming" genus:Thomomys" ; Times: 1
+	Query: "Mammalia stateprovince:"Texas" mappable:1" ; Times: 1
+	Query: "Peromyscus maniculatus year >= 1970 year <= 1985" ; Times: 1
+	Query: "tadarida brasiliensis" ; Times: 1
+	Query: "catalognumber:100000" ; Times: 1
+	Query: "type:specimen specificepithet:cinerea genus:Neotoma year >= 1800 year <= 2014" ; Times: 1
+	Query: "Mephitis mephitis country:"United States" year <= 2014" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "test" ; Times: 1
+	Query: "Mammals stateprovince:"Veracruz" AND (Veracruz)" ; Times: 1
+	Query: "puma concolor stateprovince:"Texas"" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 362
+Total number of records retrieved from searches: 5878
+Number of download events that retrieved data from the resource: 210
+Total number of records downloaded: 171885
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 362
+Total number of records retrieved from searches: 5878
+Number of download events that retrieved data from the resource: 297
+Total number of records downloaded: 264529
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
