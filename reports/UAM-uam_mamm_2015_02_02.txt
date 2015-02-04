@@ -1,0 +1,262 @@
+Report for Institution Code UAM, Resource uam_mamm
+Usage stats for January, 2015, generated on 2015/02/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 331
+Number of records retrieved in searches: 2631
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 8
+	Country: Chile ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: France ; Times: 8
+	Country: French Guiana ; Times: 5
+	Country: Italy ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Spain ; Times: 1
+	Country: Sweden ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: United States ; Times: 297
+	Country: Unknown ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-01-02 ; Times: 3
+	Date: 2015-01-03 ; Times: 1
+	Date: 2015-01-04 ; Times: 4
+	Date: 2015-01-06 ; Times: 5
+	Date: 2015-01-07 ; Times: 5
+	Date: 2015-01-08 ; Times: 17
+	Date: 2015-01-09 ; Times: 5
+	Date: 2015-01-10 ; Times: 1
+	Date: 2015-01-11 ; Times: 3
+	Date: 2015-01-12 ; Times: 4
+	Date: 2015-01-13 ; Times: 4
+	Date: 2015-01-15 ; Times: 5
+	Date: 2015-01-16 ; Times: 9
+	Date: 2015-01-18 ; Times: 1
+	Date: 2015-01-19 ; Times: 1
+	Date: 2015-01-20 ; Times: 6
+	Date: 2015-01-21 ; Times: 2
+	Date: 2015-01-22 ; Times: 6
+	Date: 2015-01-23 ; Times: 28
+	Date: 2015-01-24 ; Times: 7
+	Date: 2015-01-25 ; Times: 9
+	Date: 2015-01-26 ; Times: 35
+	Date: 2015-01-27 ; Times: 52
+	Date: 2015-01-28 ; Times: 53
+	Date: 2015-01-29 ; Times: 62
+	Date: 2015-01-30 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:1 institutioncode:UAM" ; Times: 1
+	Query: ""Dermoptera" mappable:1" ; Times: 2
+	Query: "Ochotona collaris" ; Times: 2
+	Query: "specificepithet:othus genus:Lepus" ; Times: 1
+	Query: "North American porcupine country:"united states" mappable:1" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 3
+	Query: "Dasypus "Dasypus novemcinctus" mappable:1" ; Times: 2
+	Query: "Dermoptera mappable:1" ; Times: 46
+	Query: "kansas university museum of natural history" ; Times: 1
+	Query: ""novemcinctus" mappable:1" ; Times: 1
+	Query: "Dasypus novemcinctus mappable:1" ; Times: 15
+	Query: "Equus type:specimen (Skeleton)" ; Times: 1
+	Query: "dermoptera mappable:1" ; Times: 77
+	Query: ""uam/uam-mammal-collection-arctos"" ; Times: 5
+	Query: "catalognumber:83643 skeleton" ; Times: 4
+	Query: "mus musculus stateprovince:"Alaska" mappable:1 tissue:1" ; Times: 1
+	Query: "George L. Cook" ; Times: 1
+	Query: "Cabassous" ; Times: 1
+	Query: "dermoptera java mappable:1" ; Times: 1
+	Query: "Octodon degus" ; Times: 1
+	Query: "dermoptera type:specimen mappable:1" ; Times: 1
+	Query: "rodentia county:"Millard" stateprovince:"Utah" year >= 1920 year <= 1980" ; Times: 3
+	Query: "j. n. clark" ; Times: 1
+	Query: "UAM 111882" ; Times: 2
+	Query: "class:mammalia catalognumber:45022" ; Times: 2
+	Query: "catalognumber:83643 class:mammalia" ; Times: 2
+	Query: "catalognumber:1 institutioncode:uam" ; Times: 1
+	Query: "Puma concolor mappable:1" ; Times: 2
+	Query: ""Ursus maritimus" mappable:1" ; Times: 3
+	Query: "stateprovince:"Minnesota" class:Mammalia institutioncode:UAM" ; Times: 1
+	Query: "G. gulo mappable:1" ; Times: 1
+	Query: "Dasypus (novemcinctus) mappable:1" ; Times: 1
+	Query: "Equus" ; Times: 1
+	Query: "E. dorsatum mappable:1" ; Times: 1
+	Query: "class:Mammalia bald head island" ; Times: 1
+	Query: "pika" ; Times: 2
+	Query: "stateprovince:"alaska" catalognumber:20719" ; Times: 1
+	Query: "seahorse" ; Times: 2
+	Query: "specificepithet:collaris genus:Ochotona year <= 1970" ; Times: 1
+	Query: ""Orcinus orca" mappable:1" ; Times: 1
+	Query: "Elephantidae" ; Times: 3
+	Query: "CM 863" ; Times: 2
+	Query: "puma concolor type:specimen country:"United States"" ; Times: 2
+	Query: ""Dasypus novemcinctus" mappable:1" ; Times: 20
+	Query: ""no data"" ; Times: 1
+	Query: ""Monodon monoceros" mappable:1" ; Times: 3
+	Query: "mus musculus institutioncode:UAM" ; Times: 1
+	Query: "mink" ; Times: 2
+	Query: "parryii (spermophilus or urocitellus) mappable:1" ; Times: 3
+	Query: "genus:dasypus" ; Times: 4
+	Query: "nmnh" ; Times: 1
+	Query: "peromyscus gardner" ; Times: 1
+	Query: "specificepithet:caligata genus:Marmota" ; Times: 1
+	Query: "mus musculus stateprovince:"alaska" (tissue ) tissue:1" ; Times: 1
+	Query: "museum number 48060" ; Times: 1
+	Query: "urocitellus parryii" ; Times: 1
+	Query: "Leptonycteris" ; Times: 1
+	Query: "DERMOPTERA mappable:1" ; Times: 1
+	Query: "type:specimen specificepithet:caligata genus:Marmota" ; Times: 1
+	Query: "antilocapra americana" ; Times: 1
+	Query: "squirrels" ; Times: 1
+	Query: "marmota vancouverensis" ; Times: 1
+	Query: "Cynocephalus mappable:1" ; Times: 1
+	Query: ""Dasypus" mappable:1" ; Times: 1
+	Query: "American badger" ; Times: 1
+	Query: ""dermoptera" mappable:1" ; Times: 4
+	Query: "2947 institutioncode:UAM" ; Times: 1
+	Query: ""ursus maritimus" mappable:1" ; Times: 2
+	Query: "dermoptera" ; Times: 4
+	Query: "specificepithet:parva genus:Cryptotis year >= 1970" ; Times: 1
+	Query: "country:"Canada" specificepithet:canadensis genus:Lynx" ; Times: 1
+	Query: "sheep type:specimen genus:Ovis" ; Times: 2
+	Query: "canidae skull type:specimen hastypestatus:1" ; Times: 1
+	Query: "ant" ; Times: 1
+	Query: "scandentia mappable:1" ; Times: 1
+	Query: ""Cynocephalus variegatus"" ; Times: 4
+	Query: ""dasypus novemcinctus" mappable:1" ; Times: 20
+	Query: "marmota camtschatica" ; Times: 1
+	Query: "hermaphrodite" ; Times: 1
+	Query: "Seahorse" ; Times: 1
+	Query: "UAM 61848" ; Times: 1
+	Query: "Erethizon dorsatum mappable:1" ; Times: 2
+	Query: "family:Elephantidae" ; Times: 1
+	Query: "36608 mammal" ; Times: 1
+	Query: ""dasypus novemcinctus"" ; Times: 4
+	Query: "UAM 41629" ; Times: 2
+	Query: "castor canadensis (skin AND skeleton) tissue:1" ; Times: 1
+	Query: ""university of arizona" class:mammalia" ; Times: 1
+	Query: "Panthera tigris" ; Times: 1
+	Query: "specificepithet:parva genus:Cryptotis year >= 1970 mappable:1" ; Times: 1
+	Query: "stateprovince:"nunavut" year >= 1850 year <= 2014 mappable:1" ; Times: 1
+	Query: "Dermoptera" ; Times: 3
+	Query: ""Dasypus novemcinctus"" ; Times: 1
+	Query: "dasypus novemcinctus mappable:1" ; Times: 6
+	Query: "UA" ; Times: 1
+	Query: ""ursus arctos" mappable:1" ; Times: 1
+	Query: "dasypus" ; Times: 2
+	Query: "UAM 82396" ; Times: 1
+	Query: "bison bone" ; Times: 1
+	Query: "wolves" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 75 (out of 445 download events in this period)
+Total number of records downloaded: 97763 (out of 2849158 records downloaded for all resources in this period)
+Total number of unique records downloaded: 72709
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 1
+	Country: Israel ; Times: 2
+	Country: Mexico ; Times: 18
+	Country: United States ; Times: 44
+	Country: Unknown ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-01-03 ; Times: 8
+	Date: 2015-01-04 ; Times: 10
+	Date: 2015-01-05 ; Times: 1
+	Date: 2015-01-06 ; Times: 3
+	Date: 2015-01-07 ; Times: 1
+	Date: 2015-01-08 ; Times: 2
+	Date: 2015-01-09 ; Times: 1
+	Date: 2015-01-12 ; Times: 1
+	Date: 2015-01-18 ; Times: 2
+	Date: 2015-01-19 ; Times: 2
+	Date: 2015-01-20 ; Times: 1
+	Date: 2015-01-21 ; Times: 2
+	Date: 2015-01-22 ; Times: 1
+	Date: 2015-01-23 ; Times: 3
+	Date: 2015-01-24 ; Times: 1
+	Date: 2015-01-25 ; Times: 1
+	Date: 2015-01-26 ; Times: 11
+	Date: 2015-01-27 ; Times: 6
+	Date: 2015-01-28 ; Times: 7
+	Date: 2015-01-29 ; Times: 6
+	Date: 2015-01-30 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "DERMOPTERA mappable:1" ; Times: 2
+	Query: "country:"Canada" specificepithet:canadensis genus:Lynx" ; Times: 1
+	Query: "tridecemlineatus michigan" ; Times: 1
+	Query: "American badger" ; Times: 1
+	Query: "Myodes rutilus" ; Times: 1
+	Query: "dermoptera type:specimen mappable:1" ; Times: 1
+	Query: "canis lupus" ; Times: 1
+	Query: "peromyscus (mexico)" ; Times: 1
+	Query: "Pilosa" ; Times: 1
+	Query: "urocyon cinereoargenteus" ; Times: 1
+	Query: "odocoileus virginianus" ; Times: 1
+	Query: "Cebidae" ; Times: 1
+	Query: "country:"Mexico" class:Mammalia year <= 2014" ; Times: 1
+	Query: "Clethrionomys rutilus" ; Times: 1
+	Query: ""Microtus pennsylvanicus"" ; Times: 2
+	Query: ""ochotona princeps"" ; Times: 1
+	Query: "stateprovince:"Minnesota" class:Mammalia" ; Times: 2
+	Query: "Procyon lotor" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 2
+	Query: "canidae skull" ; Times: 1
+	Query: "Dermoptera mappable:1" ; Times: 9
+	Query: "Taxidea taxus" ; Times: 2
+	Query: "Mustela frenata" ; Times: 1
+	Query: "stateprovince:"Kentucky" class:mammalia" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "Scalopus aquaticus" ; Times: 1
+	Query: "lepus californicus" ; Times: 1
+	Query: "castor canadensis (skin AND skeleton) tissue:1" ; Times: 1
+	Query: "Sylvilagus audubonii" ; Times: 1
+	Query: "type:specimen specificepithet:caligata genus:Marmota" ; Times: 1
+	Query: "Sylvilagus floridanus" ; Times: 1
+	Query: "Bassariscus astutus" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "Dermoptera" ; Times: 1
+	Query: "dermoptera mappable:1" ; Times: 13
+	Query: "Sciurus" ; Times: 1
+	Query: "myotis myotis" ; Times: 1
+	Query: "agouti paca" ; Times: 1
+	Query: "didelphis virginiana" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "mus musculus" ; Times: 1
+	Query: "Carnivora america" ; Times: 1
+	Query: ""dermoptera" mappable:1" ; Times: 1
+	Query: "didelphis marsupialis" ; Times: 2
+	Query: "Puma concolor" ; Times: 1
+	Query: "type:specimen class:mammalia hastypestatus:1" ; Times: 1
+	Query: "dermoptera" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 1139
+Total number of records retrieved from searches: 18529
+Number of download events that retrieved data from the resource: 75
+Total number of records downloaded: 97763
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 1470
+Total number of records retrieved from searches: 21160
+Number of download events that retrieved data from the resource: 553
+Total number of records downloaded: 573663
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
