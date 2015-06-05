@@ -1,0 +1,281 @@
+Report for Institution Code UAM, Resource uam_mamm
+Usage stats for May, 2015, generated on 2015/06/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 196
+Number of records retrieved in searches: 1991
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 5
+	Country: Australia ; Times: 2
+	Country: Belgium ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 9
+	Country: Chile ; Times: 10
+	Country: Colombia ; Times: 6
+	Country: Finland ; Times: 3
+	Country: Mexico ; Times: 20
+	Country: Russia ; Times: 3
+	Country: United Kingdom ; Times: 2
+	Country: United States ; Times: 125
+	Country: Unknown ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-05 ; Times: 3
+	Date: 2015-05-06 ; Times: 14
+	Date: 2015-05-07 ; Times: 6
+	Date: 2015-05-08 ; Times: 1
+	Date: 2015-05-09 ; Times: 2
+	Date: 2015-05-10 ; Times: 4
+	Date: 2015-05-11 ; Times: 13
+	Date: 2015-05-12 ; Times: 5
+	Date: 2015-05-13 ; Times: 3
+	Date: 2015-05-14 ; Times: 4
+	Date: 2015-05-15 ; Times: 3
+	Date: 2015-05-17 ; Times: 1
+	Date: 2015-05-18 ; Times: 7
+	Date: 2015-05-19 ; Times: 10
+	Date: 2015-05-20 ; Times: 4
+	Date: 2015-05-21 ; Times: 13
+	Date: 2015-05-22 ; Times: 5
+	Date: 2015-05-23 ; Times: 3
+	Date: 2015-05-24 ; Times: 1
+	Date: 2015-05-25 ; Times: 3
+	Date: 2015-05-26 ; Times: 19
+	Date: 2015-05-27 ; Times: 15
+	Date: 2015-05-28 ; Times: 12
+	Date: 2015-05-29 ; Times: 26
+	Date: 2015-05-30 ; Times: 18
+	Date: 2015-05-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "B 48218" ; Times: 1
+	Query: "Myocastoridae" ; Times: 1
+	Query: "Microtus pennsylvanicus stateprovince:"saskatchewan" genus:microtus" ; Times: 1
+	Query: "30758" ; Times: 1
+	Query: "microtus agrestis" ; Times: 1
+	Query: "122533" ; Times: 1
+	Query: "specificepithet:jubatus (cub OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "r-87381" ; Times: 1
+	Query: "genus:gulo (juvenile)" ; Times: 2
+	Query: "Microtus pennsylvanicus stateprovince:"saskatchewan" country:"Canada" genus:Microtus" ; Times: 1
+	Query: "119603" ; Times: 2
+	Query: "119602" ; Times: 1
+	Query: "trichechus manatus" ; Times: 3
+	Query: "Dasypus novemcinctus" ; Times: 3
+	Query: "Bison bison "Bison bison" type:specimen specificepithet:Bison genus:Bison (Mandible) AND (NOT priscus)" ; Times: 2
+	Query: "baily" ; Times: 1
+	Query: "tusk" ; Times: 1
+	Query: "3996" ; Times: 2
+	Query: "country:"United States" specificepithet:pinetorum genus:Microtus tissue:1" ; Times: 1
+	Query: "sus scrofa" ; Times: 6
+	Query: "panthera tigris (skull zoo)" ; Times: 1
+	Query: "Phoca vitulina type:specimen year >= 1600 year <= 2014" ; Times: 2
+	Query: "78732" ; Times: 1
+	Query: "type:specimen specificepithet:carolinensis genus:sciurus tissue:1" ; Times: 1
+	Query: "specificepithet:uncia genus:Panthera (juvenile OR subadult OR sub-adult)" ; Times: 2
+	Query: "575461" ; Times: 1
+	Query: "uncia" ; Times: 1
+	Query: "catalognumber:16156" ; Times: 1
+	Query: "catalognumber:92555" ; Times: 1
+	Query: "103178" ; Times: 1
+	Query: "type:specimen specificepithet:niger genus:sciurus tissue:1" ; Times: 1
+	Query: "martes americana" ; Times: 3
+	Query: "stateprovince:"Louisiana" class:Mammalia tissue:1" ; Times: 2
+	Query: "54847" ; Times: 1
+	Query: "specificepithet:uncia (cub OR juvenile OR subadult OR sub-adult)" ; Times: 2
+	Query: "catalognumber:21777 institutioncode:uam" ; Times: 2
+	Query: "myotis septentrionalis" ; Times: 2
+	Query: "AG 259" ; Times: 1
+	Query: "sorex hoyi" ; Times: 1
+	Query: "mustela nivalis" ; Times: 1
+	Query: "575460" ; Times: 1
+	Query: "pikas" ; Times: 1
+	Query: "trempealeau" ; Times: 1
+	Query: "52375" ; Times: 1
+	Query: "94030" ; Times: 1
+	Query: "gulo gulo idaho" ; Times: 2
+	Query: "genus:Panthera (cub OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "582080" ; Times: 1
+	Query: "Pygoderma year <= 2015" ; Times: 1
+	Query: "genus:Leptonychotes (cub OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "genus:Martes (cub OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "Leptonychotes weddellii" ; Times: 2
+	Query: "Sciurus vulgaris" ; Times: 3
+	Query: "specificepithet:leptonyx genus:Hydrurga (skull)" ; Times: 1
+	Query: "B431" ; Times: 1
+	Query: "ukraine" ; Times: 3
+	Query: "pika" ; Times: 2
+	Query: ""balaenoptera"" ; Times: 1
+	Query: "type:specimen specificepithet:parva genus:cryptotis tissue:1" ; Times: 1
+	Query: "specificepithet:uncia (juvenile OR cub OR subadult OR sub-adult OR neonate)" ; Times: 2
+	Query: "11092" ; Times: 1
+	Query: "11093" ; Times: 1
+	Query: "specificepithet:lutris genus:Enhydra" ; Times: 3
+	Query: "55546" ; Times: 1
+	Query: "Chrotopterus auritus" ; Times: 1
+	Query: "Hydrurga leptonyx" ; Times: 7
+	Query: "genus:panthera (cub OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "river otter" ; Times: 2
+	Query: "genus:Martes (cub OR neonate OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "(Nip*)" ; Times: 2
+	Query: "(caudal)" ; Times: 1
+	Query: "specificepithet:uncia (neonate OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "Lobodon carcinophagus" ; Times: 2
+	Query: "stateprovince:"alaska" recordedby:nicolai" ; Times: 1
+	Query: "genus:Enhydra (cub OR neonate OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "axis" ; Times: 3
+	Query: "ursus arctos stateprovince:"british columbia"" ; Times: 3
+	Query: "grizzly bear" ; Times: 2
+	Query: "Nip*" ; Times: 3
+	Query: "Nip%" ; Times: 1
+	Query: "88511" ; Times: 1
+	Query: "652669" ; Times: 2
+	Query: "75588" ; Times: 1
+	Query: "58062" ; Times: 1
+	Query: "Balaenoptera physalus" ; Times: 2
+	Query: "W. B. Richardson" ; Times: 1
+	Query: "fin whale" ; Times: 1
+	Query: "*Nip*" ; Times: 1
+	Query: "panthera uncia" ; Times: 7
+	Query: "10270" ; Times: 1
+	Query: "Alticola tissue:1" ; Times: 3
+	Query: "407299" ; Times: 1
+	Query: "genus:lynx (neonate OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "575457" ; Times: 1
+	Query: "genus:Lobodon (cub OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "B 431" ; Times: 1
+	Query: "marmota camtschatica" ; Times: 4
+	Query: "(Nip)" ; Times: 1
+	Query: "562760" ; Times: 1
+	Query: "genus:lynx (juvenile OR cub OR subadult OR sub-adult OR neonate)" ; Times: 1
+	Query: "genus:panthera (juvenile)" ; Times: 2
+	Query: "chiroptera Baja California" ; Times: 6
+	Query: "uncia uncia" ; Times: 13
+	Query: "catalognumber:30758" ; Times: 1
+	Query: "turtle tissue:1" ; Times: 1
+	Query: "49339" ; Times: 3
+	Query: "stateprovince:"Alaska" genus:Lynx" ; Times: 1
+	Query: "dasypus novemcinctus" ; Times: 1
+	Query: "Nip!" ; Times: 1
+	Query: "whale" ; Times: 1
+	Query: "country:"United States" specificepithet:parva genus:Cryptotis tissue:1" ; Times: 1
+	Query: "country:"Sweden" tissue:1" ; Times: 1
+	Query: "san felipe narrows stateprovince:"california"" ; Times: 1
+	Query: "specificepithet:gulo genus:gulo (juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "genus:lynx (juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "Koster" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 57 (out of 976 download events in this period)
+Total number of records downloaded: 125803 (out of 7910366 records downloaded for all resources in this period)
+Total number of unique records downloaded: 102470
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Chile ; Times: 2
+	Country: Mexico ; Times: 8
+	Country: United States ; Times: 42
+	Country: Unknown ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-06 ; Times: 1
+	Date: 2015-05-08 ; Times: 1
+	Date: 2015-05-09 ; Times: 2
+	Date: 2015-05-10 ; Times: 1
+	Date: 2015-05-12 ; Times: 2
+	Date: 2015-05-13 ; Times: 3
+	Date: 2015-05-18 ; Times: 4
+	Date: 2015-05-19 ; Times: 4
+	Date: 2015-05-20 ; Times: 4
+	Date: 2015-05-21 ; Times: 18
+	Date: 2015-05-22 ; Times: 6
+	Date: 2015-05-24 ; Times: 1
+	Date: 2015-05-25 ; Times: 2
+	Date: 2015-05-26 ; Times: 4
+	Date: 2015-05-27 ; Times: 2
+	Date: 2015-05-29 ; Times: 1
+	Date: 2015-05-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: ""Lontra canadensis"" ; Times: 1
+	Query: "microtus californicus (skin)" ; Times: 1
+	Query: "Peromyscus californicus" ; Times: 1
+	Query: "chiroptera stateprovince:"baja" country:"mexico"" ; Times: 1
+	Query: "Microtus pennsylvanicus stateprovince:"saskatchewan" genus:microtus" ; Times: 1
+	Query: "Peromyscus keeni" ; Times: 1
+	Query: "stateprovince:"Baja California" country:"Mexico"" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 1951 year <= 1960" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 1911 year <= 1920" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 1971 year <= 1980" ; Times: 1
+	Query: "type:specimen specificepithet:brevicauda genus:blarina tissue:1" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 1901 year <= 1910" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: ""lynx rufus"" ; Times: 1
+	Query: "trichechus manatus" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 1991 year <= 2000" ; Times: 1
+	Query: "Oligoryzomys" ; Times: 1
+	Query: "peromyscus truei" ; Times: 1
+	Query: "Zalophus californianus" ; Times: 1
+	Query: "chiroptera Baja California" ; Times: 1
+	Query: "Phyllostomidae" ; Times: 1
+	Query: "Sigmodontinae tissue:1" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 1941 year <= 1950" ; Times: 1
+	Query: "type:specimen specificepithet:megalotis genus:reithrodontomys tissue:1" ; Times: 1
+	Query: "country:"Mexico"" ; Times: 1
+	Query: "Ondatra zibethicus" ; Times: 1
+	Query: "stateprovince:"New Mexico" class:mammalia" ; Times: 1
+	Query: "year >= 1800 year <= 2015 distance(location,geopoint(35.9602229692967,-119.37744140625))<100000" ; Times: 1
+	Query: "Pygoderma year <= 2015" ; Times: 1
+	Query: "Neotoma albigula" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 1921 year <= 1930" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 1981 year <= 1990" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 1961 year <= 1970" ; Times: 1
+	Query: "Canis latrans" ; Times: 2
+	Query: "Phoca vitulina type:specimen year >= 1600 year <= 2014" ; Times: 1
+	Query: "type:specimen specificepithet:hispidus genus:sigmodon tissue:1" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 1850 year <= 1900" ; Times: 1
+	Query: "Ochotona" ; Times: 1
+	Query: "Tamias minimus" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 2001 year <= 2016" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "peromyscus polionotus" ; Times: 1
+	Query: "type:specimen specificepithet:pennsylvanicus genus:microtus tissue:1" ; Times: 1
+	Query: "Ochotona princeps mappable:1" ; Times: 1
+	Query: "Balaenoptera physalus" ; Times: 1
+	Query: "type:specimen specificepithet:niger genus:sciurus tissue:1" ; Times: 1
+	Query: "myotis stateprovince:"baja" country:"mexico"" ; Times: 1
+	Query: "martes americana" ; Times: 1
+	Query: "W. B. Richardson" ; Times: 1
+	Query: "stateprovince:"Nevada" country:"United States" class:Mammalia" ; Times: 1
+	Query: "Caviidae" ; Times: 1
+	Query: "Canis lupus lupus" ; Times: 1
+	Query: "peromyscus eremicus" ; Times: 1
+	Query: "myotis septentrionalis" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 1931 year <= 1940" ; Times: 1
+	Query: "peromyscus crinitus" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 1476
+Total number of records retrieved from searches: 23074
+Number of download events that retrieved data from the resource: 192
+Total number of records downloaded: 249804
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 1807
+Total number of records retrieved from searches: 25705
+Number of download events that retrieved data from the resource: 670
+Total number of records downloaded: 725704
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
