@@ -1,0 +1,312 @@
+Report for Institution Code UAM, Resource uam_mamm
+Usage stats for June, 2015, generated on 2015/07/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 262
+Number of records retrieved in searches: 2911
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Canada ; Times: 2
+	Country: Chile ; Times: 2
+	Country: Colombia ; Times: 2
+	Country: India ; Times: 2
+	Country: Italy ; Times: 22
+	Country: Mexico ; Times: 1
+	Country: Paraguay ; Times: 4
+	Country: Spain ; Times: 3
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 214
+	Country: Unknown ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-01 ; Times: 15
+	Date: 2015-06-02 ; Times: 42
+	Date: 2015-06-03 ; Times: 3
+	Date: 2015-06-04 ; Times: 4
+	Date: 2015-06-05 ; Times: 11
+	Date: 2015-06-06 ; Times: 15
+	Date: 2015-06-07 ; Times: 1
+	Date: 2015-06-08 ; Times: 6
+	Date: 2015-06-09 ; Times: 8
+	Date: 2015-06-10 ; Times: 3
+	Date: 2015-06-11 ; Times: 8
+	Date: 2015-06-12 ; Times: 4
+	Date: 2015-06-13 ; Times: 3
+	Date: 2015-06-14 ; Times: 2
+	Date: 2015-06-15 ; Times: 9
+	Date: 2015-06-16 ; Times: 2
+	Date: 2015-06-17 ; Times: 14
+	Date: 2015-06-18 ; Times: 35
+	Date: 2015-06-19 ; Times: 12
+	Date: 2015-06-20 ; Times: 2
+	Date: 2015-06-21 ; Times: 2
+	Date: 2015-06-23 ; Times: 1
+	Date: 2015-06-24 ; Times: 30
+	Date: 2015-06-25 ; Times: 7
+	Date: 2015-06-26 ; Times: 1
+	Date: 2015-06-28 ; Times: 1
+	Date: 2015-06-29 ; Times: 15
+	Date: 2015-06-30 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "B 48218" ; Times: 1
+	Query: "genus:lynx (neonate OR juvenile OR cub OR subadult OR sub-adult OR kitten OR immature)" ; Times: 1
+	Query: "marmot stateprovince:"MOntana"" ; Times: 1
+	Query: "specificepithet:maritimus genus:ursus (cub OR neonate OR juvenile OR subadult OR sub-adult)" ; Times: 2
+	Query: "catalognumber:35012" ; Times: 3
+	Query: "catalognumber:35017" ; Times: 1
+	Query: "CM 112117" ; Times: 2
+	Query: "Didelphis" ; Times: 1
+	Query: "Myotis lucifugus country:"canada"" ; Times: 1
+	Query: "stateprovince:"Alaska" country:"United States" year >= 1500 year <= 2015 hastypestatus:1 distance(location,geopoint(51.147446544106955,-175.52135467529297))<534677.0749926821" ; Times: 1
+	Query: "catalognumber:10981" ; Times: 1
+	Query: "specificepithet:theobaldi genus:Taphozous tissue:1" ; Times: 1
+	Query: "specificepithet:maritimus genus:ursus (neonate OR cub OR pup OR juvenile OR sub-adult OR subadult)" ; Times: 2
+	Query: "genus:Panthera (cub OR neonate OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "catalognumber:84696" ; Times: 1
+	Query: "catalognumber:94452" ; Times: 2
+	Query: "specificepithet:panamintinus genus:Dipodomys mappable:1" ; Times: 1
+	Query: "type:specimen catalognumber:62250" ; Times: 1
+	Query: "stateprovince:"arkansas" tissue:1" ; Times: 2
+	Query: "urocitellus parryii country:"Canada"" ; Times: 1
+	Query: "catalognumber:21640" ; Times: 2
+	Query: "catalognumber:88978" ; Times: 1
+	Query: "distance(location,geopoint(55.99019044209386,160.224609375))<100000" ; Times: 1
+	Query: "mammalia 107571" ; Times: 2
+	Query: "country:"paraguay" genus:dasypus" ; Times: 2
+	Query: "genus:panthera (neonate OR cub OR juvenile OR sub-adult OR subadult)" ; Times: 1
+	Query: "mammalia 43141" ; Times: 1
+	Query: "Antilocapra" ; Times: 22
+	Query: "Whale skeleton" ; Times: 3
+	Query: "genus:panthera (neonate OR juvenile OR cub OR subadult OR sub-adult)" ; Times: 1
+	Query: "catalognumber:100245 institutioncode:UAM" ; Times: 2
+	Query: "type:specimen catalognumber:14366" ; Times: 1
+	Query: "distance(location,geopoint(52.4158226123788,-169.47509765625))<100000" ; Times: 1
+	Query: "115476 mammalia" ; Times: 1
+	Query: "puma concolor type:specimen stateprovince:"California" genus:puma" ; Times: 1
+	Query: "distance(location,geopoint(51.890053935216926,-170.70556640625))<51798" ; Times: 1
+	Query: "distance(location,geopoint(51.890053935216926,-170.70556640625))<100000" ; Times: 1
+	Query: "("chaetodipus" "Nevada")" ; Times: 1
+	Query: "ZIN 444" ; Times: 1
+	Query: "american pika" ; Times: 4
+	Query: "distance(location,geopoint(72.63337363853837,-76.025390625))<100000" ; Times: 1
+	Query: "ziphiidae" ; Times: 1
+	Query: "mammalia 112234" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 3
+	Query: "mammalia 10757" ; Times: 1
+	Query: "231309" ; Times: 1
+	Query: "231308" ; Times: 2
+	Query: "Ixodes" ; Times: 2
+	Query: "catalognumber:14366" ; Times: 1
+	Query: "30684" ; Times: 1
+	Query: "mammalia 122341" ; Times: 2
+	Query: "catalognumber:11540 institutioncode:UAM" ; Times: 1
+	Query: "catalognumber:15563" ; Times: 1
+	Query: "puma concolor type:specimen stateprovince:"California"" ; Times: 1
+	Query: "specificepithet:tarandus genus:Rangifer" ; Times: 1
+	Query: "urocitellus richardsonii" ; Times: 2
+	Query: "skeleton Balaena mysticetus type:specimen institutioncode:UAM" ; Times: 1
+	Query: ""didelphis virginiana" tissue:1" ; Times: 1
+	Query: "genus:Bison class:Mammalia mappable:1" ; Times: 1
+	Query: "Ochotona princeps (Montana)" ; Times: 1
+	Query: "mammalia 112341" ; Times: 2
+	Query: "genus:panthera (neonate OR cub OR juvenile OR sub-adult OR subadult) AND (NOT leo)" ; Times: 1
+	Query: "puma concolor stateprovince:"California"" ; Times: 1
+	Query: "country:"Paraguay" genus:Cebus class:Mammalia" ; Times: 1
+	Query: "Lontra canadensis (Skeleton)" ; Times: 1
+	Query: "112237 mammalia" ; Times: 1
+	Query: "mammalia 107871" ; Times: 2
+	Query: "12243" ; Times: 1
+	Query: "pika" ; Times: 2
+	Query: "catalognumber:57526" ; Times: 1
+	Query: "ursus stateprovince:"montana"" ; Times: 1
+	Query: "91447" ; Times: 1
+	Query: "catalognumber:120059" ; Times: 1
+	Query: "catalognumber:38682" ; Times: 1
+	Query: "Myotis californicus country:"canada"" ; Times: 1
+	Query: "Balaena mysticetus type:specimen institutioncode:UAM" ; Times: 2
+	Query: "catalognumber:88094 institutioncode:UAM" ; Times: 1
+	Query: "catalognumber:61083 institutioncode:UAM" ; Times: 2
+	Query: "specificepithet:uncia" ; Times: 2
+	Query: "mammalia 112192" ; Times: 1
+	Query: "117737" ; Times: 1
+	Query: "Chrotopterus auritus" ; Times: 1
+	Query: "64392 mammalia" ; Times: 1
+	Query: "specificepithet:uncia genus:panthera" ; Times: 16
+	Query: "specificepithet:uncia (cub OR neonate OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "7348 tissue:1" ; Times: 2
+	Query: "country:"Paraguay" genus:Cabassous" ; Times: 1
+	Query: "specificepithet:lutris genus:enhydra (cub OR neonate OR juvenile OR subadult OR sub-adult)" ; Times: 6
+	Query: "catalognumber:100384 institutioncode:UAM" ; Times: 2
+	Query: "Canis lupus stateprovince:"Alaska" country:"United States"" ; Times: 1
+	Query: "bears" ; Times: 1
+	Query: "Balaena mysticetus type:specimen institutioncode:UAM (unknown)" ; Times: 1
+	Query: "12243 (skull)" ; Times: 1
+	Query: "20037" ; Times: 1
+	Query: "specificepithet:pennanti genus:martes (cub OR neonate OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "Balaena mysticetus type:specimen (skull)" ; Times: 1
+	Query: "canis lupus type:specimen (skull mandible)" ; Times: 1
+	Query: "Odobenus skeleton" ; Times: 1
+	Query: "distance(location,geopoint(52.36218321674427,-171.18896484375))<51797.83796376453" ; Times: 1
+	Query: "nmnh" ; Times: 1
+	Query: "35696" ; Times: 4
+	Query: "Eschrichtius robustus type:specimen institutioncode:UAM" ; Times: 1
+	Query: "urocitellus RICHARDSONII" ; Times: 1
+	Query: "mammalia 99439" ; Times: 1
+	Query: "EAR 1856" ; Times: 1
+	Query: "genus:Neovison (cub OR neonate OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "puma concolor type:specimen stateprovince:"California" year >= 1975 year <= 2015" ; Times: 1
+	Query: "urocitellus parryii" ; Times: 10
+	Query: "04/11/1886" ; Times: 1
+	Query: "mineral county colorado" ; Times: 1
+	Query: "catalognumber:49434" ; Times: 1
+	Query: "44801" ; Times: 1
+	Query: "112895" ; Times: 3
+	Query: "Myotis lucifugus country:"Canada"" ; Times: 1
+	Query: "24814" ; Times: 1
+	Query: "catalognumber:51493" ; Times: 1
+	Query: "cranium Balaena mysticetus type:specimen institutioncode:UAM" ; Times: 1
+	Query: "institution code" ; Times: 1
+	Query: "antilocapra americana mappable:1" ; Times: 1
+	Query: "Lepus americanus distance(location,geopoint(47.11499982620772,-122.36572265625))<100000" ; Times: 1
+	Query: "catalognumber:14017 institutioncode:UAM" ; Times: 2
+	Query: "930078" ; Times: 1
+	Query: ""Rattus norvegicus" type:specimen tissue:1" ; Times: 3
+	Query: "106615 class:Mammalia" ; Times: 1
+	Query: "cebus" ; Times: 1
+	Query: "Myotis volans country:"Canada"" ; Times: 1
+	Query: "B 431" ; Times: 1
+	Query: "catalognumber:18037" ; Times: 3
+	Query: "specificepithet:vulgaris genus:Sciurus" ; Times: 2
+	Query: "genus:panthera (neonate OR juvenile OR cub OR subadult OR sub-adult OR kitten OR immature)" ; Times: 1
+	Query: "distance(location,geopoint(52.36218321674427,-171.18896484375))<68974" ; Times: 1
+	Query: "Myotis keenii country:"Canada"" ; Times: 1
+	Query: "119799" ; Times: 1
+	Query: "specificepithet:uncia (neonate OR juvenile OR cub OR subadult OR sub-adult OR kitten OR immature)" ; Times: 1
+	Query: "24814 mammal" ; Times: 1
+	Query: "specificepithet:canadensis genus:lontra (cub OR neonate OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "catalognumber:86190" ; Times: 1
+	Query: "kansas harvey" ; Times: 2
+	Query: "class:Mammalia Rungwecebus kipunji" ; Times: 1
+	Query: "tamiasciurus bell museum" ; Times: 1
+	Query: "specificepithet:pennanti genus:martes institutioncode:UAM (cub OR neonate OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "12956" ; Times: 2
+	Query: "137212" ; Times: 1
+	Query: "64392" ; Times: 1
+	Query: "cmnh" ; Times: 1
+	Query: "specificepithet:mysticetus genus:Balaena" ; Times: 1
+	Query: "19720" ; Times: 1
+	Query: "mandible Balaena mysticetus type:specimen institutioncode:UAM" ; Times: 1
+	Query: "skull Balaena mysticetus type:specimen institutioncode:UAM" ; Times: 1
+	Query: "catalognumber:97237 institutioncode:UAM" ; Times: 2
+	Query: "genus:panthera (neonate OR juvenile OR cub OR subadult OR sub-adult OR kitten)" ; Times: 2
+	Query: "Myotis evotis country:"Canada"" ; Times: 1
+	Query: "distance(location,geopoint(52.46939684276205,-168.64013671875))<100000" ; Times: 1
+	Query: "viburnum" ; Times: 1
+	Query: "specificepithet:uncia genus:panthera (cub OR neonate OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "class:mammalia catalognumber:12911 year <= 1979" ; Times: 1
+	Query: "50396 mammalia" ; Times: 1
+	Query: "Felidae (cub OR neonate OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "Enhydra lutris lutris" ; Times: 1
+	Query: "Balaenoptera physalus type:specimen institutioncode:UAM" ; Times: 1
+	Query: "catalognumber:14017" ; Times: 1
+	Query: "harbor seal Phoca vitulina" ; Times: 1
+	Query: ""ursus arctos"" ; Times: 4
+	Query: "46590" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 40 (out of 1524 download events in this period)
+Total number of records downloaded: 1798 (out of 2759084 records downloaded for all resources in this period)
+Total number of unique records downloaded: 1767
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Paraguay ; Times: 1
+	Country: United States ; Times: 34
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-01 ; Times: 3
+	Date: 2015-06-02 ; Times: 1
+	Date: 2015-06-03 ; Times: 1
+	Date: 2015-06-05 ; Times: 1
+	Date: 2015-06-06 ; Times: 2
+	Date: 2015-06-09 ; Times: 14
+	Date: 2015-06-10 ; Times: 2
+	Date: 2015-06-11 ; Times: 1
+	Date: 2015-06-15 ; Times: 1
+	Date: 2015-06-16 ; Times: 2
+	Date: 2015-06-18 ; Times: 1
+	Date: 2015-06-19 ; Times: 2
+	Date: 2015-06-22 ; Times: 2
+	Date: 2015-06-24 ; Times: 1
+	Date: 2015-06-25 ; Times: 2
+	Date: 2015-06-26 ; Times: 2
+	Date: 2015-06-29 ; Times: 1
+	Date: 2015-06-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "ziphiidae" ; Times: 1
+	Query: "Chrotopterus auritus" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "Myotis volans country:"United States"" ; Times: 1
+	Query: "Myotis volans country:"Canada"" ; Times: 1
+	Query: "Myotis yumanensis country:"United States"" ; Times: 1
+	Query: "tamias umbrinus" ; Times: 2
+	Query: "Myotis lucifugus country:"canada"" ; Times: 1
+	Query: "type:specimen AND (mammalia) distance(location,geopoint(43.75522505306928,-74.55322265625))<58320" ; Times: 1
+	Query: "Tamias minimus" ; Times: 1
+	Query: "Leptonycteris nivalis" ; Times: 1
+	Query: "Myotis keenii country:"Canada"" ; Times: 1
+	Query: "Lasiurus cinereus country:"United States"" ; Times: 1
+	Query: "county:"san luis obispo" stateprovince:"California" country:"United States" mappable:1" ; Times: 1
+	Query: ""didelphis virginiana"" ; Times: 1
+	Query: "Jordan" ; Times: 1
+	Query: "Sturnira" ; Times: 1
+	Query: "sciurus niger rufiventer" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "Myotis californicus country:"canada"" ; Times: 1
+	Query: "type:specimen country:"United States" specificepithet:pennanti class:Mammalia" ; Times: 1
+	Query: "urocitellus richardsonii" ; Times: 1
+	Query: "Antrozous pallidus country:"United States"" ; Times: 1
+	Query: "stateprovince:"oklahoma" class:Mammalia" ; Times: 1
+	Query: "Veracruz mammals" ; Times: 1
+	Query: "Sigmodon hispidus" ; Times: 1
+	Query: "urocitellus parryii" ; Times: 1
+	Query: "Myotis evotis country:"United States"" ; Times: 1
+	Query: "Odobenus skeleton" ; Times: 1
+	Query: "county:"Kern" stateprovince:"california" mappable:1" ; Times: 1
+	Query: "Myotis thysanodes country:"United States"" ; Times: 1
+	Query: "Myotis keenii country:"United States"" ; Times: 1
+	Query: "Myotis evotis country:"Canada"" ; Times: 1
+	Query: "country:"paraguay" class:mammalia" ; Times: 1
+	Query: ""Rattus norvegicus" type:specimen tissue:1" ; Times: 1
+	Query: "Eptesicus fuscus country:"United States"" ; Times: 2
+	Query: "antilocapra americana mappable:1" ; Times: 1
+	Query: "Lasionycteris noctivagans country:"United States"" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 1738
+Total number of records retrieved from searches: 25985
+Number of download events that retrieved data from the resource: 232
+Total number of records downloaded: 251602
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 2069
+Total number of records retrieved from searches: 28616
+Number of download events that retrieved data from the resource: 710
+Total number of records downloaded: 727502
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
