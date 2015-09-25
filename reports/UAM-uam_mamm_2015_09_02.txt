@@ -1,0 +1,305 @@
+Report for Institution Code UAM, Resource Mammal specimens
+Usage stats for August, 2015, generated on 2015/09/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 203
+Number of records retrieved in searches: 2759
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Unknown ; Times: 203
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-01 ; Times: 6
+	Date: 2015-08-02 ; Times: 3
+	Date: 2015-08-03 ; Times: 8
+	Date: 2015-08-04 ; Times: 2
+	Date: 2015-08-05 ; Times: 9
+	Date: 2015-08-06 ; Times: 12
+	Date: 2015-08-07 ; Times: 5
+	Date: 2015-08-08 ; Times: 1
+	Date: 2015-08-09 ; Times: 3
+	Date: 2015-08-10 ; Times: 2
+	Date: 2015-08-11 ; Times: 15
+	Date: 2015-08-12 ; Times: 10
+	Date: 2015-08-13 ; Times: 3
+	Date: 2015-08-14 ; Times: 3
+	Date: 2015-08-15 ; Times: 1
+	Date: 2015-08-17 ; Times: 6
+	Date: 2015-08-18 ; Times: 5
+	Date: 2015-08-19 ; Times: 5
+	Date: 2015-08-20 ; Times: 7
+	Date: 2015-08-21 ; Times: 3
+	Date: 2015-08-22 ; Times: 3
+	Date: 2015-08-24 ; Times: 13
+	Date: 2015-08-25 ; Times: 29
+	Date: 2015-08-26 ; Times: 17
+	Date: 2015-08-27 ; Times: 10
+	Date: 2015-08-28 ; Times: 11
+	Date: 2015-08-29 ; Times: 3
+	Date: 2015-08-30 ; Times: 3
+	Date: 2015-08-31 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "58227" ; Times: 1
+	Query: ""Platyrrhinus lineatus" mappable:1" ; Times: 1
+	Query: "95008" ; Times: 1
+	Query: "tursiops truncatus" ; Times: 1
+	Query: "microtus agrestis" ; Times: 3
+	Query: "Dicrostonyx nelsoni" ; Times: 1
+	Query: "Ochotona collaris" ; Times: 1
+	Query: "neophoca" ; Times: 1
+	Query: "5073" ; Times: 2
+	Query: "48524" ; Times: 1
+	Query: "graves" ; Times: 1
+	Query: "4380" ; Times: 2
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "27167" ; Times: 1
+	Query: "5907" ; Times: 1
+	Query: "7754" ; Times: 2
+	Query: "92141" ; Times: 2
+	Query: "catalognumber:104113" ; Times: 1
+	Query: "sus scrofa" ; Times: 7
+	Query: "catalognumber:31491" ; Times: 1
+	Query: "118174 class:mammalia" ; Times: 1
+	Query: "19463" ; Times: 1
+	Query: "poliocitellus franklinii" ; Times: 1
+	Query: "1738 tissue:1" ; Times: 1
+	Query: "Lepus townsendii" ; Times: 1
+	Query: "dermoptera mappable:1" ; Times: 5
+	Query: "Orca tissue" ; Times: 3
+	Query: "catalognumber:8568" ; Times: 1
+	Query: "catalognumber:43286" ; Times: 1
+	Query: "ursus americanus idaho" ; Times: 1
+	Query: "Mustela nivalis" ; Times: 1
+	Query: "catalognumber:49060" ; Times: 1
+	Query: "american pika" ; Times: 1
+	Query: "walrus" ; Times: 1
+	Query: "orca" ; Times: 1
+	Query: "pusa hispida" ; Times: 1
+	Query: "meles meles" ; Times: 2
+	Query: "Globicephala" ; Times: 1
+	Query: "46549" ; Times: 1
+	Query: "Spermophilus franklinii" ; Times: 1
+	Query: "glacier point" ; Times: 1
+	Query: "Microtus abbreviatus" ; Times: 1
+	Query: "13148" ; Times: 1
+	Query: "uam 4243" ; Times: 1
+	Query: "Ovibos moschatus" ; Times: 1
+	Query: "Axis axis" ; Times: 1
+	Query: "catalognumber:113794" ; Times: 2
+	Query: "Dicrostonyx groenlandicus" ; Times: 3
+	Query: "synaptomys borealis" ; Times: 8
+	Query: "54895" ; Times: 1
+	Query: "year >= 2015 year <= 2015" ; Times: 1
+	Query: "Sciurus vulgaris" ; Times: 4
+	Query: "specificepithet:scrofa genus:sus" ; Times: 1
+	Query: "186643" ; Times: 1
+	Query: "Synaptomys borealis" ; Times: 1
+	Query: "94519" ; Times: 3
+	Query: "catalognumber:122" ; Times: 2
+	Query: "Cynomys ludovicianus" ; Times: 2
+	Query: "melanistic" ; Times: 1
+	Query: ""Dasypus novemcinctus" mappable:1" ; Times: 2
+	Query: "octopus" ; Times: 2
+	Query: "Lemmus trimucronatus" ; Times: 1
+	Query: "Neotoma cinerea tissue:1" ; Times: 1
+	Query: "catalognumber:100917" ; Times: 2
+	Query: "92141 mammal" ; Times: 1
+	Query: "76848" ; Times: 1
+	Query: "27999" ; Times: 1
+	Query: "Sorex ugyunak" ; Times: 1
+	Query: "stateprovince:"alaska" (harbor seal) year >= 1888 year <= 2014" ; Times: 1
+	Query: "116791 class:mammalia" ; Times: 1
+	Query: "class:Mammalia catalognumber:43286" ; Times: 1
+	Query: "Arborimus albipes" ; Times: 1
+	Query: "catalognumber:95738" ; Times: 1
+	Query: "102824" ; Times: 1
+	Query: "(gerard)" ; Times: 1
+	Query: ""myotis" media:1" ; Times: 2
+	Query: "orcinus orca" ; Times: 2
+	Query: "83487" ; Times: 1
+	Query: "lepus americanus distance(location,geopoint(47.989921667414166,-119.443359375))<100000" ; Times: 1
+	Query: "leptonychotes weddellii" ; Times: 7
+	Query: "Sorex leucogaster" ; Times: 1
+	Query: "lepus americanus british columbia" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "Phocarctos hookeri" ; Times: 2
+	Query: "county:"Hamilton" stateprovince:"Ohio" class:mammalia year <= 2015" ; Times: 2
+	Query: "type:specimen recordedby:bagley" ; Times: 2
+	Query: "31955" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "type:specimen stateprovince:"Kansas" hastypestatus:1" ; Times: 1
+	Query: "class:Mammalia catalognumber:43293" ; Times: 1
+	Query: "orcinus orca type:specimen" ; Times: 1
+	Query: "6294" ; Times: 1
+	Query: "58508" ; Times: 1
+	Query: "osteological" ; Times: 3
+	Query: "6213" ; Times: 1
+	Query: "alces alces" ; Times: 2
+	Query: "Sciurus carolinensis type:specimen tissue:1" ; Times: 2
+	Query: "catalognumber:52495" ; Times: 1
+	Query: "dermoptera" ; Times: 1
+	Query: "melanistic tissue:1" ; Times: 2
+	Query: "35044 class:mammalia" ; Times: 1
+	Query: "(photos)" ; Times: 1
+	Query: "Sorex tundrensis" ; Times: 1
+	Query: "10270" ; Times: 1
+	Query: "56147" ; Times: 1
+	Query: "281901" ; Times: 2
+	Query: "25393" ; Times: 1
+	Query: "Orcinus orca" ; Times: 2
+	Query: "catalognumber:86917" ; Times: 1
+	Query: "34677" ; Times: 1
+	Query: "county:"Hamilton" stateprovince:"Ohio" year <= 2015" ; Times: 1
+	Query: "western screech-owl" ; Times: 2
+	Query: "geomys type:specimen (weight)" ; Times: 1
+	Query: "Sorex bendirii" ; Times: 4
+	Query: "osu" ; Times: 1
+	Query: "Sorex alaskanus" ; Times: 1
+	Query: "catalognumber:21324" ; Times: 1
+	Query: "neophoca cinerea" ; Times: 5
+	Query: "83998" ; Times: 1
+	Query: "Marmota caligata" ; Times: 1
+	Query: "109322" ; Times: 1
+	Query: "60313" ; Times: 1
+	Query: "46610" ; Times: 1
+	Query: "118043 class:mammalia" ; Times: 1
+	Query: "Orca" ; Times: 1
+	Query: "202630 class:mammalia" ; Times: 1
+	Query: "catalognumber:123174" ; Times: 1
+	Query: "483" ; Times: 1
+	Query: "stateprovince:"Wisconsin" genus:Microtus tissue:1" ; Times: 1
+	Query: "6547" ; Times: 1
+	Query: "91707" ; Times: 1
+	Query: "29475" ; Times: 1
+	Query: "Microtus xanthognathus" ; Times: 1
+	Query: "myocastor coypus" ; Times: 1
+	Query: "Sorex jacksoni" ; Times: 1
+	Query: "mummy" ; Times: 1
+	Query: "stateprovince:"california" (Zalophus californianus) year >= 1888 year <= 2014" ; Times: 1
+	Query: "133329" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 81 (out of 1138 download events in this period)
+Total number of records downloaded: 23121 (out of 5370164 records downloaded for all resources in this period)
+Total number of unique records downloaded: 18788
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Unknown ; Times: 81
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-01 ; Times: 1
+	Date: 2015-08-04 ; Times: 2
+	Date: 2015-08-05 ; Times: 1
+	Date: 2015-08-06 ; Times: 4
+	Date: 2015-08-17 ; Times: 11
+	Date: 2015-08-18 ; Times: 1
+	Date: 2015-08-19 ; Times: 5
+	Date: 2015-08-21 ; Times: 6
+	Date: 2015-08-24 ; Times: 6
+	Date: 2015-08-25 ; Times: 35
+	Date: 2015-08-26 ; Times: 5
+	Date: 2015-08-29 ; Times: 1
+	Date: 2015-08-31 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "" ; Times: 1
+	Query: ""Artibeus lituratus" mappable:1" ; Times: 3
+	Query: "type:specimen stateprovince:"Delaware" country:"United States"" ; Times: 1
+	Query: "type:specimen stateprovince:"New York" country:"United States"" ; Times: 1
+	Query: "tamiasciurus hudsonicus" ; Times: 1
+	Query: ""Platyrrhinus lineatus" mappable:1" ; Times: 1
+	Query: "country:"Paraguay" class:mammalia" ; Times: 1
+	Query: "stateprovince:"Delaware" country:"United States"" ; Times: 1
+	Query: "microtus agrestis" ; Times: 1
+	Query: "microtus californicus" ; Times: 1
+	Query: "didelphidae" ; Times: 1
+	Query: "synaptomys borealis" ; Times: 1
+	Query: "type:specimen specificepithet:maniculatus genus:peromyscus tissue:1" ; Times: 1
+	Query: "Spermophilus franklinii" ; Times: 1
+	Query: "canis" ; Times: 1
+	Query: "Cebidae" ; Times: 2
+	Query: "Sorex ugyunak" ; Times: 1
+	Query: "stateprovince:"Pennsylvania"" ; Times: 1
+	Query: "Ovibos moschatus" ; Times: 1
+	Query: "Tamiasciurus douglasii" ; Times: 1
+	Query: "Phenacomys intermedius" ; Times: 1
+	Query: "riverside county" ; Times: 1
+	Query: ""Desmodus rotundus" mappable:1" ; Times: 1
+	Query: "Microtus xanthognathus" ; Times: 1
+	Query: "Arborimus longicaudus" ; Times: 1
+	Query: ""Carollia perspicillata" mappable:1" ; Times: 3
+	Query: "Didelphidae" ; Times: 1
+	Query: "Ochotona princeps" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "type:specimen stateprovince:"New Jersey" country:"United States"" ; Times: 1
+	Query: "orcinus orca" ; Times: 1
+	Query: "Spermophilus parryii" ; Times: 1
+	Query: "county:"Riverside County"" ; Times: 1
+	Query: "didelphis" ; Times: 1
+	Query: ""Lasiurus cinereus" mappable:1" ; Times: 1
+	Query: "stateprovince:"Pennsylvania" country:"United States"" ; Times: 1
+	Query: "type:specimen specificepithet:leucopus genus:peromyscus tissue:1" ; Times: 1
+	Query: "stateprovince:"New Jersey" country:"United States"" ; Times: 1
+	Query: "Dicrostonyx groenlandicus" ; Times: 1
+	Query: "Sorex jacksoni" ; Times: 1
+	Query: "distance(location,geopoint(32.379961464357315,-119.94873046875))<100000" ; Times: 1
+	Query: "Dipodomys merriami" ; Times: 1
+	Query: "Ovis dalli" ; Times: 1
+	Query: ""Didelphis marsupialis" mappable:1" ; Times: 1
+	Query: "type:specimen stateprovince:"Pennsylvania" country:"United States"" ; Times: 1
+	Query: "Mustela erminea" ; Times: 1
+	Query: "Callitrichidae" ; Times: 1
+	Query: "Ursus arctos" ; Times: 1
+	Query: "Sorex arcticus" ; Times: 1
+	Query: "Sorex pacificus" ; Times: 1
+	Query: "Marmota flaviventris" ; Times: 1
+	Query: "Lepus othus" ; Times: 1
+	Query: "Lepus townsendii" ; Times: 1
+	Query: "Spermophilus saturatus" ; Times: 1
+	Query: "Lepus arcticus" ; Times: 1
+	Query: "stateprovince:"New York" country:"United States"" ; Times: 1
+	Query: "Sciurus vulgaris" ; Times: 1
+	Query: ""Odocoileus virginianus" mappable:1" ; Times: 1
+	Query: "Oreamnos americanus" ; Times: 1
+	Query: "Rangifer tarandus" ; Times: 1
+	Query: "mus" ; Times: 1
+	Query: "Glaucomys sabrinus" ; Times: 1
+	Query: "orcinus orca type:specimen" ; Times: 1
+	Query: ""Chrotopterus auritus" mappable:1" ; Times: 1
+	Query: "Microtus miurus" ; Times: 1
+	Query: "Urocitellus beldingi" ; Times: 1
+	Query: "Canis lupus" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+	Query: "marmota flaviventris" ; Times: 1
+	Query: "Mustela nivalis" ; Times: 1
+	Query: "Synaptomys cooperi" ; Times: 1
+	Query: "Sciurus carolinensis type:specimen tissue:1" ; Times: 1
+	Query: ""Dasypus novemcinctus" mappable:1" ; Times: 1
+	Query: "Ochotona collaris" ; Times: 1
+	Query: "Caviidae" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 203
+Total number of records retrieved from searches: 2759
+Number of download events that retrieved data from the resource: 81
+Total number of records downloaded: 23121
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 203
+Total number of records retrieved from searches: 2759
+Number of download events that retrieved data from the resource: 81
+Total number of records downloaded: 23121
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
