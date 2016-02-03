@@ -1,0 +1,258 @@
+Report for Institution Code UAM, Resource uam_mamm
+Usage stats for October 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 152
+Number of records retrieved in searches: 2151
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 18
+	Country: Brazil ; Times: 3
+	Country: Bangladesh ; Times: 1
+	Country: Singapore ; Times: 3
+	Country: Unknown ; Times: 3
+	Country: Mexico ; Times: 7
+	Country: France ; Times: 1
+	Country: United States ; Times: 104
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Chile ; Times: 1
+	Country: Russia ; Times: 7
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 5
+	Date: 2015-10-17 ; Times: 1
+	Date: 2015-10-14 ; Times: 9
+	Date: 2015-10-15 ; Times: 9
+	Date: 2015-10-12 ; Times: 9
+	Date: 2015-10-13 ; Times: 4
+	Date: 2015-10-10 ; Times: 4
+	Date: 2015-10-19 ; Times: 7
+	Date: 2015-10-29 ; Times: 2
+	Date: 2015-10-28 ; Times: 4
+	Date: 2015-10-27 ; Times: 5
+	Date: 2015-10-26 ; Times: 4
+	Date: 2015-10-25 ; Times: 1
+	Date: 2015-10-24 ; Times: 5
+	Date: 2015-10-23 ; Times: 3
+	Date: 2015-10-22 ; Times: 7
+	Date: 2015-10-21 ; Times: 5
+	Date: 2015-10-20 ; Times: 6
+	Date: 2015-10-05 ; Times: 5
+	Date: 2015-10-04 ; Times: 1
+	Date: 2015-10-07 ; Times: 3
+	Date: 2015-10-06 ; Times: 7
+	Date: 2015-10-01 ; Times: 15
+	Date: 2015-10-03 ; Times: 1
+	Date: 2015-10-02 ; Times: 8
+	Date: 2015-10-09 ; Times: 7
+	Date: 2015-10-08 ; Times: 9
+	Date: 2015-10-30 ; Times: 2
+	Date: 2015-10-31 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "32700" ; Times: 1
+	Query: "bos grunniens" ; Times: 3
+	Query: "naked tissue:1" ; Times: 1
+	Query: "27542 mammal" ; Times: 1
+	Query: "Ursus maritimus" ; Times: 3
+	Query: "mustela putorius" ; Times: 1
+	Query: "15205" ; Times: 1
+	Query: "urocitellus undulatus" ; Times: 1
+	Query: "catalognumber:67850" ; Times: 1
+	Query: "sus scrofa" ; Times: 5
+	Query: "specificepithet:xanthognathus genus:Microtus" ; Times: 1
+	Query: "CMNH" ; Times: 1
+	Query: "country:&#34;Sweden&#34;" ; Times: 1
+	Query: "(Panthera tigris)" ; Times: 1
+	Query: "woodpecker skeleton" ; Times: 3
+	Query: "Mammalia (Newfoundland)" ; Times: 1
+	Query: "pellet" ; Times: 1
+	Query: "UAM 30353" ; Times: 1
+	Query: "Callithrix jacchus type:specimen year &gt;= 2000 year &lt;= 2015" ; Times: 1
+	Query: "lontra canadensis" ; Times: 2
+	Query: "specificepithet:scrofa genus:sus month &gt;= 2 month &lt;= 5" ; Times: 3
+	Query: "12739" ; Times: 1
+	Query: "(mustela nivalis OR mustela erminea)" ; Times: 1
+	Query: "procyon lotor type:specimen (skin) distance(location,geopoint(38.788345355085625,-121.728515625))&lt;100000" ; Times: 1
+	Query: "Enhydra lutris russia" ; Times: 3
+	Query: "canis latrans tissue:1" ; Times: 2
+	Query: "bison foetus" ; Times: 1
+	Query: "video" ; Times: 1
+	Query: "sciurus carolinensis length type:specimen" ; Times: 1
+	Query: "Ovibos" ; Times: 1
+	Query: "mummy" ; Times: 4
+	Query: "spermophilus undulatus country:&#34;Russia&#34;" ; Times: 1
+	Query: "cynopterus type:specimen year &gt;= 2000 year &lt;= 2015 institutioncode:UAM tissue:1" ; Times: 1
+	Query: "cetacea AND (fetus OR embryo)" ; Times: 1
+	Query: "Video" ; Times: 1
+	Query: "ERETHIZON CANADA" ; Times: 2
+	Query: "Bird claw" ; Times: 2
+	Query: "monster" ; Times: 6
+	Query: "specificepithet:scrofa genus:sus" ; Times: 1
+	Query: "axis axis" ; Times: 1
+	Query: "catalognumber:30246" ; Times: 1
+	Query: "cynopterus type:specimen year &gt;= 2000 year &lt;= 2015 tissue:1" ; Times: 1
+	Query: "catalognumber:30039" ; Times: 1
+	Query: "erethizon canada" ; Times: 3
+	Query: "pika" ; Times: 1
+	Query: "puma concolor san" ; Times: 1
+	Query: "26998" ; Times: 1
+	Query: "43288" ; Times: 1
+	Query: "100002" ; Times: 1
+	Query: "22250" ; Times: 1
+	Query: "eric lee" ; Times: 1
+	Query: "Wetzel" ; Times: 1
+	Query: "Lemmiscus curtatus" ; Times: 1
+	Query: "Christopher W. Thompson" ; Times: 2
+	Query: "lynx canadensis (canada)" ; Times: 4
+	Query: "class:Mammalia catalognumber:96258" ; Times: 1
+	Query: "uam 73006" ; Times: 1
+	Query: "catalognumber:50000" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "61430" ; Times: 1
+	Query: "puma concolor california" ; Times: 1
+	Query: "dogs" ; Times: 1
+	Query: "enhydra institutioncode:UAM" ; Times: 2
+	Query: "Mammalia (Newfoundland Rodentia)" ; Times: 1
+	Query: "573690" ; Times: 1
+	Query: "Vespertilionidae stateprovince:&#34;washington&#34; mappable:1 distance(location,geopoint(48.567520373908266,-122.93426513671875))&lt;100000" ; Times: 1
+	Query: "Erethizon (Canada)" ; Times: 1
+	Query: "R.E. Olson" ; Times: 1
+	Query: "stateprovince:&#34;alaska&#34; catalognumber:1068 institutioncode:UAM" ; Times: 1
+	Query: "catalognumber:7734" ; Times: 1
+	Query: "alopex lagopus" ; Times: 1
+	Query: "homo sapiens" ; Times: 1
+	Query: "north american porcupine" ; Times: 1
+	Query: "92289" ; Times: 1
+	Query: "Bradford Norman" ; Times: 4
+	Query: "bison fetus" ; Times: 1
+	Query: "mass mammalia" ; Times: 2
+	Query: "Myotis vivesi" ; Times: 1
+	Query: "catalognumber:33095" ; Times: 1
+	Query: "21258" ; Times: 1
+	Query: "Brasil" ; Times: 1
+	Query: "stateprovince:&#34;alaska&#34; catalognumber:1067 institutioncode:UAM" ; Times: 1
+	Query: "genetta genetta" ; Times: 1
+	Query: "cervus elaphus" ; Times: 1
+	Query: "catalognumber:27542" ; Times: 1
+	Query: "pah" ; Times: 1
+	Query: "type:specimen (Lepus townsendii) mappable:1" ; Times: 1
+	Query: "121056" ; Times: 2
+	Query: "spermophilus undulatus" ; Times: 1
+	Query: "cabassous" ; Times: 1
+	Query: "Genetta" ; Times: 1
+	Query: "catalognumber:29329" ; Times: 1
+	Query: "23218" ; Times: 1
+	Query: "specificepithet:borealis genus:Synaptomys" ; Times: 1
+	Query: "27542" ; Times: 1
+	Query: "whale" ; Times: 2
+	Query: "Myotis septentrionalis stateprovince:&#34;British columbia&#34;" ; Times: 1
+	Query: "ERETHIZON CANADA mappable:1" ; Times: 1
+	Query: "Callithrix jacchus year &gt;= 2000 tissue:1" ; Times: 1
+	Query: "specificepithet:macrotis genus:vulpes stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "UAM 11673" ; Times: 1
+	Query: "sirenia" ; Times: 2
+	Query: "eastern grey squirrel" ; Times: 1
+	Query: "Enhydra lutris lutris" ; Times: 5
+	Query: "Callithrix jacchus" ; Times: 1
+	Query: "type:specimen catalognumber:29329" ; Times: 1
+	Query: "UAM 11640" ; Times: 1
+	Query: "Enhydra lutris lutris skull" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 76 (out of 823 download events in this period)
+Total number of records downloaded: 5920
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 8
+	Country: Italy ; Times: 2
+	Country: Bangladesh ; Times: 1
+	Country: Singapore ; Times: 3
+	Country: Unknown ; Times: 5
+	Country: Mexico ; Times: 11
+	Country: United States ; Times: 43
+	Country: Chile ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 5
+	Date: 2015-10-17 ; Times: 3
+	Date: 2015-10-15 ; Times: 2
+	Date: 2015-10-12 ; Times: 2
+	Date: 2015-10-13 ; Times: 3
+	Date: 2015-10-19 ; Times: 2
+	Date: 2015-10-29 ; Times: 6
+	Date: 2015-10-28 ; Times: 2
+	Date: 2015-10-27 ; Times: 1
+	Date: 2015-10-26 ; Times: 3
+	Date: 2015-10-25 ; Times: 2
+	Date: 2015-10-24 ; Times: 1
+	Date: 2015-10-21 ; Times: 1
+	Date: 2015-10-20 ; Times: 3
+	Date: 2015-10-05 ; Times: 1
+	Date: 2015-10-04 ; Times: 1
+	Date: 2015-10-07 ; Times: 5
+	Date: 2015-10-01 ; Times: 4
+	Date: 2015-10-03 ; Times: 1
+	Date: 2015-10-02 ; Times: 1
+	Date: 2015-10-09 ; Times: 2
+	Date: 2015-10-08 ; Times: 8
+	Date: 2015-10-30 ; Times: 11
+	Date: 2015-10-31 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Rodentia genus:Microtus (Newfoundland OR Labrador)" ; Times: 1
+	Query: "Thomomys umbrinus" ; Times: 1
+	Query: "bison priscus" ; Times: 1
+	Query: "cynopterus" ; Times: 1
+	Query: "Myotis velifer" ; Times: 1
+	Query: "sus scrofa" ; Times: 1
+	Query: "paraguay" ; Times: 2
+	Query: "type:specimen (Lepus townsendii) mappable:1" ; Times: 1
+	Query: "sciurus vulgaris" ; Times: 2
+	Query: "class:Mammalia stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "mustela putorius" ; Times: 1
+	Query: "Blarina brevicauda type:specimen stateprovince:&#34;Minnesota&#34; mappable:1" ; Times: 1
+	Query: "ovis aries" ; Times: 1
+	Query: "Sciurus niger" ; Times: 1
+	Query: "ammospermophilus leucurus" ; Times: 1
+	Query: "Elephas maximus" ; Times: 1
+	Query: "cynopterus type:specimen year &gt;= 2000 year &lt;= 2015 institutioncode:UAM tissue:1" ; Times: 1
+	Query: "Panthera leo" ; Times: 4
+	Query: "ERETHIZON CANADA" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 21
+	Query: "lynx canadensis mappable:1" ; Times: 1
+	Query: "enhydra institutioncode:UAM" ; Times: 1
+	Query: "Panthera pardus" ; Times: 1
+	Query: "Lontra canadensis" ; Times: 1
+	Query: "Erethizon (Canada)" ; Times: 1
+	Query: "spermophilus undulatus" ; Times: 1
+	Query: "order:primates" ; Times: 1
+	Query: "specificepithet:scrofa genus:sus" ; Times: 1
+	Query: "ERETHIZON CANADA mappable:1" ; Times: 1
+	Query: "(Panthera tigris)" ; Times: 1
+	Query: "Balantiopteryx plicata" ; Times: 1
+	Query: "cynopterus type:specimen year &gt;= 2000 year &lt;= 2015 tissue:1" ; Times: 1
+	Query: "PARAGUAY" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "erethizon canada" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Nevada&#34;" ; Times: 2
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "lontra canadensis" ; Times: 1
+	Query: "Vespertilionidae stateprovince:&#34;washington&#34; mappable:1 distance(location,geopoint(48.567520373908266,-122.93426513671875))&lt;100000" ; Times: 1
+	Query: "genetta genetta" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "canis latrans tissue:1" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "Peromyscus leucopus stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "north american porcupine" ; Times: 2
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "cervus elaphus" ; Times: 1
+
+
+End of report.
