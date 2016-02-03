@@ -1,0 +1,383 @@
+Report for Institution Code UAM, Resource uam_mamm
+Usage stats for September 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 485
+Number of records retrieved in searches: 7919
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 7
+	Country: Brazil ; Times: 3
+	Country: Australia ; Times: 1
+	Country: Italy ; Times: 3
+	Country: Mexico ; Times: 49
+	Country: Unknown ; Times: 18
+	Country: Papua New Guinea ; Times: 1
+	Country: France ; Times: 3
+	Country: United States ; Times: 363
+	Country: Sweden ; Times: 2
+	Country: French Guiana ; Times: 1
+	Country: Chile ; Times: 6
+	Country: Russia ; Times: 26
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-22 ; Times: 8
+	Date: 2015-09-09 ; Times: 52
+	Date: 2015-09-10 ; Times: 46
+	Date: 2015-09-11 ; Times: 15
+	Date: 2015-09-12 ; Times: 7
+	Date: 2015-09-13 ; Times: 2
+	Date: 2015-09-14 ; Times: 4
+	Date: 2015-09-15 ; Times: 15
+	Date: 2015-09-16 ; Times: 9
+	Date: 2015-09-17 ; Times: 16
+	Date: 2015-09-18 ; Times: 5
+	Date: 2015-09-29 ; Times: 11
+	Date: 2015-09-30 ; Times: 6
+	Date: 2015-09-02 ; Times: 8
+	Date: 2015-09-19 ; Times: 12
+	Date: 2015-09-07 ; Times: 29
+	Date: 2015-09-06 ; Times: 8
+	Date: 2015-09-05 ; Times: 41
+	Date: 2015-09-04 ; Times: 7
+	Date: 2015-09-03 ; Times: 17
+	Date: 2015-09-28 ; Times: 7
+	Date: 2015-09-01 ; Times: 12
+	Date: 2015-09-25 ; Times: 15
+	Date: 2015-09-24 ; Times: 6
+	Date: 2015-09-27 ; Times: 9
+	Date: 2015-09-26 ; Times: 8
+	Date: 2015-09-21 ; Times: 17
+	Date: 2015-09-20 ; Times: 13
+	Date: 2015-09-23 ; Times: 11
+	Date: 2015-09-08 ; Times: 69
+
+List of queries that retrieved data from the resource: 
+	Query: "sea otter" ; Times: 2
+	Query: "Glaucomys" ; Times: 1
+	Query: "Castor" ; Times: 6
+	Query: "Microtus chrotorrhinus" ; Times: 2
+	Query: "american badger" ; Times: 1
+	Query: "Myotis volans" ; Times: 3
+	Query: "catalognumber:12073" ; Times: 1
+	Query: "catalognumber:48099" ; Times: 1
+	Query: "&#34;Mustela nivalis&#34;" ; Times: 3
+	Query: "85908" ; Times: 1
+	Query: "sorex hoyi" ; Times: 1
+	Query: "catalognumber:49294" ; Times: 1
+	Query: "Neotoma micropus" ; Times: 2
+	Query: "Poliocitellus franklinii" ; Times: 1
+	Query: "Myotis auriculus" ; Times: 3
+	Query: "(Dasypus novemcinctus) mappable:1" ; Times: 1
+	Query: "87603" ; Times: 1
+	Query: "class:Mammalia county:&#34;Fairbanks NOrth Star Borough&#34;" ; Times: 1
+	Query: "catalognumber:84697" ; Times: 1
+	Query: "catalognumber:94452" ; Times: 1
+	Query: "stateprovince:&#34;Washington&#34; specificepithet:norvegicus genus:rattus" ; Times: 2
+	Query: "Dermoptera mappable:1" ; Times: 21
+	Query: "puma concolor" ; Times: 1
+	Query: "roadkill" ; Times: 1
+	Query: "phocarctos" ; Times: 1
+	Query: "sus scrofa" ; Times: 3
+	Query: "Physeter" ; Times: 1
+	Query: "Dasypus novemcinctus mappable:1" ; Times: 4
+	Query: "Glaucomys " ; Times: 1
+	Query: "&#34;lynx canadensis&#34; genus:lynx (weight)" ; Times: 2
+	Query: "poliocitellus franklinii" ; Times: 2
+	Query: "stateprovince:&#34;Wyoming&#34; specificepithet:princeps genus:zapus" ; Times: 1
+	Query: "Idionycteris phyllotis" ; Times: 3
+	Query: "dermoptera mappable:1" ; Times: 77
+	Query: "specificepithet:borealis genus:synaptomys" ; Times: 1
+	Query: "Ictidomys mexicanus" ; Times: 1
+	Query: "megaptera novaeangliae" ; Times: 1
+	Query: "marmota caligata" ; Times: 1
+	Query: "lontra canadensis" ; Times: 5
+	Query: "distance(location,geopoint(54.36775852406841,-171.8701171875))&lt;100000" ; Times: 1
+	Query: "catalognumber:6141" ; Times: 1
+	Query: "&#34;lngth:&#34;" ; Times: 1
+	Query: "Neomys fodiens" ; Times: 1
+	Query: "find records with" ; Times: 1
+	Query: "&#34;Alces alces&#34; mappable:1" ; Times: 1
+	Query: "Otospermophilus beecheyi type:specimen mappable:1" ; Times: 3
+	Query: "Octodon degus" ; Times: 2
+	Query: "mustela nivalis" ; Times: 4
+	Query: "distance(location,geopoint(53.225768435790194,-170.914306640625))&lt;113176" ; Times: 1
+	Query: "&#34;Mustela nivalis&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "strix nebulosa" ; Times: 3
+	Query: "oryctolagus cuniculus" ; Times: 2
+	Query: "catalognumber:30513" ; Times: 2
+	Query: "Sciurus griseus" ; Times: 2
+	Query: "Cynomys" ; Times: 1
+	Query: "dermoptera]" ; Times: 1
+	Query: "cabassous" ; Times: 1
+	Query: "&#34;Dasypus Novemcinctus&#34; mappable:1" ; Times: 1
+	Query: "Ovibos" ; Times: 1
+	Query: "mummy" ; Times: 10
+	Query: "Myotis leibii" ; Times: 3
+	Query: "Xerospermophilus" ; Times: 1
+	Query: "Phocoena phocoena" ; Times: 1
+	Query: "Cuniculus" ; Times: 1
+	Query: "catalognumber:105274" ; Times: 1
+	Query: "search museum data" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "17255" ; Times: 1
+	Query: "synaptomys borealis" ; Times: 1
+	Query: "monster" ; Times: 18
+	Query: "genus:lynx (weight)" ; Times: 1
+	Query: "distance(location,geopoint(53.225768435790194,-170.914306640625))&lt;100000" ; Times: 1
+	Query: "(Dermoptera) mappable:1" ; Times: 2
+	Query: "Notiosorex crawfordi" ; Times: 1
+	Query: "specificepithet:abbreviatus genus:Microtus" ; Times: 1
+	Query: "Grey Wolf" ; Times: 1
+	Query: "dermoptera" ; Times: 15
+	Query: "distance(location,geopoint(28.8802369569,-113.049505705))&lt;10000" ; Times: 1
+	Query: "Ictidomys" ; Times: 1
+	Query: "Myotis keenii" ; Times: 3
+	Query: "distance(location,geopoint(28.8802369569,-112.949505705))&lt;10000" ; Times: 1
+	Query: "genus:Gulo AND (skull)" ; Times: 1
+	Query: "genetta" ; Times: 1
+	Query: "type:specimen catalognumber:19612" ; Times: 1
+	Query: "Cynomys ludovicianus" ; Times: 2
+	Query: "ursus maritimus mappable:1" ; Times: 3
+	Query: "Erethizon dorsatum" ; Times: 2
+	Query: "genus:Peromyscus stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "Castor canadensis" ; Times: 3
+	Query: "Sorex araneus" ; Times: 1
+	Query: "lost lake" ; Times: 1
+	Query: "R.30826" ; Times: 1
+	Query: "Myotis evotis" ; Times: 3
+	Query: "microtus pennsylvanicus tissue:1" ; Times: 2
+	Query: "&#34;Ursus arctos&#34; mappable:1" ; Times: 8
+	Query: "Mammuthus primigenius mappable:1" ; Times: 1
+	Query: "27176" ; Times: 1
+	Query: "Phocoena phocoena (skull)" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 2
+	Query: "Sciurus aberti" ; Times: 2
+	Query: "balaenoptera acutorostrata" ; Times: 1
+	Query: "Synaptomys borealis" ; Times: 1
+	Query: "Sciurus niger" ; Times: 1
+	Query: "octodon degus" ; Times: 1
+	Query: "Myotis californicus" ; Times: 3
+	Query: "carex" ; Times: 2
+	Query: "Lasionycteris noctivagans" ; Times: 3
+	Query: "Balaenoptera mappable:1" ; Times: 1
+	Query: "58779" ; Times: 1
+	Query: "catalognumber:5861" ; Times: 1
+	Query: "B. Kenyon" ; Times: 1
+	Query: "specificepithet:borealis genus:synaptomys country:&#34;united states&#34;" ; Times: 6
+	Query: "Cetacea institutioncode:UAM" ; Times: 1
+	Query: "Rawlins" ; Times: 1
+	Query: "Otospermophilus variegatus" ; Times: 2
+	Query: "&#34;len:&#34;" ; Times: 2
+	Query: "wild rice" ; Times: 1
+	Query: "95750" ; Times: 2
+	Query: "Myotis occultus" ; Times: 3
+	Query: "A. H. Wood" ; Times: 2
+	Query: "cabassous tissue:1" ; Times: 1
+	Query: "specificepithet:othus genus:Lepus" ; Times: 12
+	Query: "dasypus" ; Times: 1
+	Query: "mammal jordan" ; Times: 2
+	Query: "homo sapiens" ; Times: 2
+	Query: "NMW" ; Times: 2
+	Query: "animals" ; Times: 1
+	Query: "Erethizon" ; Times: 1
+	Query: "least weasel" ; Times: 1
+	Query: "spermophilus mohavensis" ; Times: 2
+	Query: "Glaucomys volans" ; Times: 3
+	Query: "specificepithet:septentrionalis genus:Myotis" ; Times: 2
+	Query: "90670" ; Times: 1
+	Query: "didelphis marsupialis" ; Times: 2
+	Query: "Bradford Norman" ; Times: 1
+	Query: "bison fetus" ; Times: 2
+	Query: "orcinus" ; Times: 1
+	Query: "Tursiops type:specimen" ; Times: 1
+	Query: "old woman" ; Times: 1
+	Query: "megaptera" ; Times: 1
+	Query: "specificepithet:borealis genus:synaptomys country:&#34;united states&#34; AND (not Alaska)" ; Times: 1
+	Query: "distance(location,geopoint(53.69670647530323,-174.55078125))&lt;100000" ; Times: 1
+	Query: "genus:Ochotona" ; Times: 2
+	Query: "&#34;dasypus novemcinctus&#34; mappable:1" ; Times: 7
+	Query: "simus" ; Times: 4
+	Query: "pig tissue:1" ; Times: 2
+	Query: "mustela erminea 500" ; Times: 1
+	Query: "genetta genetta" ; Times: 1
+	Query: "golden-mantled ground squirrel" ; Times: 2
+	Query: "64800" ; Times: 1
+	Query: "distance(location,geopoint(28.8802369569,-113.149505705))&lt;10000" ; Times: 1
+	Query: "uam 10592" ; Times: 2
+	Query: "Xerospermophilus spilosoma" ; Times: 2
+	Query: "Sorex alaskanus" ; Times: 1
+	Query: "type location" ; Times: 1
+	Query: "Macrotus californicus" ; Times: 3
+	Query: "&#34;dermoptera&#34; mappable:1" ; Times: 1
+	Query: "genus:Dasypus novemcinctus mappable:1" ; Times: 1
+	Query: "Alopex lagopus" ; Times: 2
+	Query: "genus:Gulo type:specimen mappable:1" ; Times: 4
+	Query: "golden-manteled ground squirrel" ; Times: 1
+	Query: "Keku" ; Times: 1
+	Query: "Peromyscus leucopus stateprovince:&#34;Michigan&#34; year &gt;= 1800 year &lt;= 1950" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 4
+	Query: "genus:Gulo type:specimen AND (skull) tissue:1" ; Times: 1
+	Query: "tamias sibiricus" ; Times: 1
+	Query: "21878" ; Times: 2
+	Query: "dasypus novemcinctus" ; Times: 1
+	Query: "Sorex dispar" ; Times: 1
+	Query: "Enhydra" ; Times: 2
+	Query: "&#34;lng:&#34;" ; Times: 1
+	Query: "whale" ; Times: 1
+	Query: "Sorex arcticus" ; Times: 1
+	Query: "catalognumber:117349" ; Times: 1
+	Query: "&#34;Dasypus novemcinctus&#34;" ; Times: 1
+	Query: "catalognumber:62042" ; Times: 1
+	Query: "&#34;Dasypus novemcinctus&#34; mappable:1" ; Times: 14
+	Query: "dasypus novemcinctus mappable:1" ; Times: 10
+	Query: "genus:Papio preparations:skull" ; Times: 1
+	Query: "archaeology" ; Times: 1
+	Query: "polar bear skull" ; Times: 1
+	Query: "Dermoptera" ; Times: 9
+	Query: "physeter macrocephalus" ; Times: 1
+	Query: "mappable:1 distance(location,geopoint(47.279229002570816,15.205078125))&lt;100000" ; Times: 1
+	Query: "or.2290" ; Times: 1
+	Query: "Enhydra lutris lutris" ; Times: 1
+	Query: "Cervus elaphus" ; Times: 2
+	Query: "7749" ; Times: 2
+	Query: "Leptonycteris nivalis" ; Times: 3
+	Query: "tayassu tajacu (mexico) mappable:1" ; Times: 1
+	Query: "Reithrodontomys montanus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 191 (out of 1045 download events in this period)
+Total number of records downloaded: 50349
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 4
+	Country: Italy ; Times: 2
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 10
+	Country: France ; Times: 1
+	Country: United States ; Times: 164
+	Country: Sweden ; Times: 1
+	Country: Chile ; Times: 2
+	Country: Hungary ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-22 ; Times: 3
+	Date: 2015-09-09 ; Times: 15
+	Date: 2015-09-10 ; Times: 46
+	Date: 2015-09-11 ; Times: 4
+	Date: 2015-09-12 ; Times: 3
+	Date: 2015-09-13 ; Times: 1
+	Date: 2015-09-14 ; Times: 3
+	Date: 2015-09-15 ; Times: 14
+	Date: 2015-09-16 ; Times: 33
+	Date: 2015-09-17 ; Times: 5
+	Date: 2015-09-18 ; Times: 1
+	Date: 2015-09-19 ; Times: 1
+	Date: 2015-09-30 ; Times: 4
+	Date: 2015-09-28 ; Times: 1
+	Date: 2015-09-29 ; Times: 8
+	Date: 2015-09-07 ; Times: 13
+	Date: 2015-09-06 ; Times: 1
+	Date: 2015-09-05 ; Times: 5
+	Date: 2015-09-04 ; Times: 1
+	Date: 2015-09-03 ; Times: 1
+	Date: 2015-09-02 ; Times: 2
+	Date: 2015-09-01 ; Times: 2
+	Date: 2015-09-25 ; Times: 7
+	Date: 2015-09-24 ; Times: 1
+	Date: 2015-09-27 ; Times: 2
+	Date: 2015-09-26 ; Times: 1
+	Date: 2015-09-21 ; Times: 1
+	Date: 2015-09-20 ; Times: 1
+	Date: 2015-09-23 ; Times: 2
+	Date: 2015-09-08 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "Condylura cristata" ; Times: 1
+	Query: "Ovis canadensis" ; Times: 1
+	Query: "&#34;macrotus californicus&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Myotis evotis" ; Times: 1
+	Query: "Sorex monticolus" ; Times: 1
+	Query: "Mephitis mephitis" ; Times: 1
+	Query: "Ondatra zibethicus" ; Times: 1
+	Query: "Cervus elaphus" ; Times: 2
+	Query: "Myotis volans" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 1
+	Query: "Microtus pinetorum" ; Times: 2
+	Query: "dipodomys ordii" ; Times: 9
+	Query: "Ursus maritimus" ; Times: 2
+	Query: "Sorex palustris" ; Times: 1
+	Query: "Sciurus griseus" ; Times: 1
+	Query: "Microtus longicaudus" ; Times: 2
+	Query: "genus:Peromyscus" ; Times: 1
+	Query: "Sorex vagrans" ; Times: 1
+	Query: "Bison bison" ; Times: 2
+	Query: "Myotis lucifugus" ; Times: 2
+	Query: "Tamias minimus" ; Times: 5
+	Query: "Spermophilus tridecemlineatus" ; Times: 1
+	Query: "octodon degus" ; Times: 1
+	Query: "(Mammuthus )" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "family:geomyidae type:specimen mappable:1" ; Times: 1
+	Query: "dermoptera" ; Times: 2
+	Query: "Vulpes vulpes" ; Times: 2
+	Query: "&#34;Erethizon dorsatum&#34; mappable:1" ; Times: 1
+	Query: "genus:ochotona" ; Times: 5
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 35
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "dermoptera cynocephalus" ; Times: 1
+	Query: "Alopex lagopus" ; Times: 1
+	Query: "tamiasciurus douglasii" ; Times: 1
+	Query: "Cetacea institutioncode:UAM" ; Times: 1
+	Query: "mustela nivalis" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "Lontra canadensis" ; Times: 1
+	Query: "order:Chiroptera continent:North America" ; Times: 2
+	Query: "Myodes gapperi" ; Times: 1
+	Query: "Octodon degus" ; Times: 1
+	Query: "(Peromyscus)" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "Dermoptera mappable:1" ; Times: 22
+	Query: "tamias sibiricus" ; Times: 1
+	Query: "genus:Papio preparations:skull" ; Times: 1
+	Query: "ochotona princeps" ; Times: 1
+	Query: "Tamias amoenus" ; Times: 2
+	Query: "Sylvilagus floridanus" ; Times: 1
+	Query: "stateprovince:&#34;Wyoming&#34; specificepithet:princeps genus:zapus" ; Times: 1
+	Query: "Microtus ochrogaster" ; Times: 1
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: "dermoptera mappable:1" ; Times: 27
+	Query: "Neovison vison" ; Times: 2
+	Query: "Microtus pennsylvanicus" ; Times: 1
+	Query: "poliocitellus franklinii" ; Times: 1
+	Query: "megaptera novaeangliae" ; Times: 1
+	Query: "Dermoptera" ; Times: 2
+	Query: "Napaeozapus insignis" ; Times: 1
+	Query: "dipodomys merriami" ; Times: 1
+	Query: "least weasel" ; Times: 1
+	Query: "Blarina brevicauda" ; Times: 2
+	Query: "Tamiasciurus hudsonicus" ; Times: 1
+	Query: "Tamias striatus" ; Times: 1
+	Query: "order:Chiroptera continent:South America" ; Times: 2
+	Query: "Marmota monax" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Oregon&#34; country:&#34;United States&#34; year &gt;= 1950 year &lt;= 2000 mappable:1" ; Times: 1
+	Query: "Zapus hudsonius" ; Times: 1
+	Query: "Onychomys leucogaster" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "Spermophilus lateralis" ; Times: 1
+	Query: "genus:Gulo type:specimen AND (skull) tissue:1" ; Times: 2
+	Query: "Castor canadensis" ; Times: 1
+	Query: "Zapus princeps" ; Times: 1
+	Query: "Odocoileus hemionus" ; Times: 1
+	Query: "Sorex araneus" ; Times: 1
+
+
+End of report.
