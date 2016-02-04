@@ -1,0 +1,219 @@
+Report for Institution Code UAM, Resource uam_mamm
+Usage stats for January 2016, generated on 2016/02/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 118
+Number of records retrieved in searches: 1032
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 8
+	Country: Canada ; Times: 4
+	Country: Unknown ; Times: 4
+	Country: France ; Times: 1
+	Country: United States ; Times: 76
+	Country: Sweden ; Times: 4
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Argentina ; Times: 2
+	Country: Russia ; Times: 15
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-22 ; Times: 5
+	Date: 2016-01-05 ; Times: 7
+	Date: 2016-01-06 ; Times: 1
+	Date: 2016-01-21 ; Times: 1
+	Date: 2016-01-26 ; Times: 9
+	Date: 2016-01-27 ; Times: 1
+	Date: 2016-01-24 ; Times: 1
+	Date: 2016-01-25 ; Times: 6
+	Date: 2016-01-28 ; Times: 3
+	Date: 2016-01-29 ; Times: 6
+	Date: 2016-01-08 ; Times: 7
+	Date: 2016-01-09 ; Times: 2
+	Date: 2016-01-14 ; Times: 7
+	Date: 2016-01-04 ; Times: 3
+	Date: 2016-01-23 ; Times: 2
+	Date: 2016-01-19 ; Times: 8
+	Date: 2016-01-07 ; Times: 7
+	Date: 2016-01-13 ; Times: 2
+	Date: 2016-01-12 ; Times: 5
+	Date: 2016-01-11 ; Times: 9
+	Date: 2016-01-10 ; Times: 1
+	Date: 2016-01-17 ; Times: 1
+	Date: 2016-01-15 ; Times: 6
+	Date: 2016-01-01 ; Times: 1
+	Date: 2016-01-31 ; Times: 6
+	Date: 2016-01-30 ; Times: 4
+	Date: 2016-01-03 ; Times: 3
+	Date: 2016-01-18 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:77896" ; Times: 1
+	Query: "morphological data" ; Times: 1
+	Query: "sea otter" ; Times: 1
+	Query: "dasypus" ; Times: 2
+	Query: "UAM 13411" ; Times: 1
+	Query: "Phocoenoides dalli PreservedSpecimen type:specimen" ; Times: 1
+	Query: "Uncia uncia" ; Times: 1
+	Query: "42565" ; Times: 1
+	Query: "lion" ; Times: 1
+	Query: "Phocoenoides type:specimen AND (skeleton)" ; Times: 1
+	Query: "Auburn University" ; Times: 1
+	Query: "Phocoenoides dalli type:specimen" ; Times: 1
+	Query: "&#34;dasypus novemcinctus&#34; mappable:1" ; Times: 1
+	Query: "125962 uam" ; Times: 1
+	Query: "116441" ; Times: 1
+	Query: "116021" ; Times: 1
+	Query: "&#34;Dasypus novemcinctus &#34; mappable:1" ; Times: 1
+	Query: "12113" ; Times: 1
+	Query: "enhydra" ; Times: 2
+	Query: "dasypus novemcinctus type:specimen preparations:skull" ; Times: 1
+	Query: "mummy" ; Times: 11
+	Query: "right whale" ; Times: 1
+	Query: "cm 788" ; Times: 1
+	Query: "Cuniculus" ; Times: 1
+	Query: "125417" ; Times: 1
+	Query: "Axis axis" ; Times: 1
+	Query: "Panthera uncia" ; Times: 1
+	Query: "orcinus orca" ; Times: 4
+	Query: "Dermoptera mappable:1" ; Times: 4
+	Query: "mustela ermine from north america" ; Times: 1
+	Query: "Cabassous tatouay" ; Times: 1
+	Query: "21381" ; Times: 1
+	Query: "class:mammalia county:&#34;Knox&#34; stateprovince:&#34;Tennessee&#34; mappable:1" ; Times: 1
+	Query: "162073" ; Times: 1
+	Query: "dasypus novemcinctus type:specimen preparations:skin" ; Times: 1
+	Query: "6977" ; Times: 1
+	Query: "sus scrofa" ; Times: 2
+	Query: "enhydra lutris" ; Times: 1
+	Query: "monster" ; Times: 11
+	Query: "suaveolens" ; Times: 1
+	Query: "UAM 13406" ; Times: 1
+	Query: "58820" ; Times: 1
+	Query: "genus:Sorex county:&#34;Douglas&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Dasypus" ; Times: 1
+	Query: "suaveolens type:specimen" ; Times: 1
+	Query: "killer whale" ; Times: 1
+	Query: "dasypus novemcinctus" ; Times: 2
+	Query: "specificepithet:subflavus stateprovince:&#34;Arkansas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "catalognumber:78131" ; Times: 1
+	Query: "Phocoenoides type:specimen" ; Times: 3
+	Query: "dermoptera mappable:1" ; Times: 6
+	Query: "rom tamiasciurus" ; Times: 1
+	Query: "whale" ; Times: 2
+	Query: "UAM 13412" ; Times: 2
+	Query: "squirrels" ; Times: 1
+	Query: "108529" ; Times: 1
+	Query: "class:mammalia county:&#34;Knox&#34; stateprovince:&#34;Tennessee&#34; year &gt;= 1980 year &lt;= 2015 mappable:1" ; Times: 1
+	Query: "Balaenoptera physalus" ; Times: 3
+	Query: "mustela frenata in Massachusetts" ; Times: 1
+	Query: "rattus norvegicus tissue:1" ; Times: 1
+	Query: "Crex crex type:specimen tissue:1" ; Times: 1
+	Query: "79-64" ; Times: 1
+	Query: "Peromyscus leucopus in Massachusetts" ; Times: 1
+	Query: "myotis septentrionalis" ; Times: 1
+	Query: "33490" ; Times: 1
+	Query: "Tursiops truncatus" ; Times: 2
+	Query: "Michigan year &gt;= 1985 year &lt;= 2015 tissue:1" ; Times: 1
+	Query: "bears" ; Times: 1
+	Query: "dasypus novemcinctus tissue:1" ; Times: 1
+	Query: "cebus apella" ; Times: 1
+	Query: "Equus" ; Times: 1
+	Query: "alces alces" ; Times: 2
+	Query: "genus:Equus" ; Times: 1
+	Query: "&#34;Dasypus novemcinctus&#34; mappable:1" ; Times: 1
+	Query: "newfoundland" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 63 (out of 507 download events in this period)
+Total number of records downloaded: 22691
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 44
+	Country: Unknown ; Times: 8
+	Country: Australia ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Brazil ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-04 ; Times: 4
+	Date: 2016-01-05 ; Times: 6
+	Date: 2016-01-06 ; Times: 3
+	Date: 2016-01-21 ; Times: 2
+	Date: 2016-01-26 ; Times: 2
+	Date: 2016-01-27 ; Times: 1
+	Date: 2016-01-03 ; Times: 1
+	Date: 2016-01-28 ; Times: 1
+	Date: 2016-01-29 ; Times: 4
+	Date: 2016-01-09 ; Times: 1
+	Date: 2016-01-22 ; Times: 1
+	Date: 2016-01-20 ; Times: 1
+	Date: 2016-01-19 ; Times: 3
+	Date: 2016-01-18 ; Times: 1
+	Date: 2016-01-13 ; Times: 2
+	Date: 2016-01-12 ; Times: 4
+	Date: 2016-01-11 ; Times: 5
+	Date: 2016-01-10 ; Times: 3
+	Date: 2016-01-16 ; Times: 1
+	Date: 2016-01-15 ; Times: 2
+	Date: 2016-01-14 ; Times: 1
+	Date: 2016-01-31 ; Times: 5
+	Date: 2016-01-30 ; Times: 7
+	Date: 2016-01-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Sorex county:&#34;Yamhill&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "boylii" ; Times: 1
+	Query: "dermoptera mappable:1" ; Times: 3
+	Query: "specificepithet:griseus genus:Sciurus" ; Times: 1
+	Query: "Uncia uncia" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon" ; Times: 1
+	Query: "genus:Sorex county:&#34;Benton&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "specificepithet:merriami genus:Dipodomys" ; Times: 1
+	Query: "Alberta" ; Times: 1
+	Query: "Cynomys" ; Times: 1
+	Query: "Phocoenoides dalli type:specimen" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "Niviventer" ; Times: 1
+	Query: "peromyscus boylii" ; Times: 1
+	Query: "family:Caviidae OR Abrocomidae OR Dinomyidae OR Dasyproctidae OR Cuniculidae OR Octodontidae OR Ctenomyidae OR Echimyidae OR Myocastoridae OR Capromyidae OR Heptaxodontidae OR Chinchillidae" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 1
+	Query: "berardius" ; Times: 1
+	Query: "Ochotona princeps" ; Times: 1
+	Query: "Lynx lynx" ; Times: 1
+	Query: "microtus pinetorum" ; Times: 1
+	Query: "orcinus orca" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 9
+	Query: "specificepithet:beecheyi genus:Otospermophilus" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus" ; Times: 1
+	Query: "dasypus novemcinctus type:specimen preparations:skin" ; Times: 1
+	Query: "Panthera pardus" ; Times: 1
+	Query: "Dermoptera mappable:1" ; Times: 7
+	Query: "specificepithet:ordii genus:Dipodomys" ; Times: 1
+	Query: "Panthera tigris" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "Phocoenoides type:specimen" ; Times: 1
+	Query: "specificepithet:montanus genus:Microtus" ; Times: 1
+	Query: "Blarina brevicauda stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela" ; Times: 1
+	Query: "Gulo gulo &#34;wolverine&#34; mappable:1" ; Times: 1
+	Query: "specificepithet:americanus genus:Lepus" ; Times: 1
+	Query: "Panthera uncia" ; Times: 1
+	Query: "Crex crex type:specimen tissue:1" ; Times: 1
+	Query: "martes americana" ; Times: 1
+	Query: "genus:Sorex county:&#34;Lincoln&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "dasypus novemcinctus tissue:1" ; Times: 1
+	Query: "specificepithet:penicillatus genus:Chaetodipus" ; Times: 1
+	Query: "specificepithet:bendirii genus:Sorex" ; Times: 1
+	Query: "specificepithet:mephitis genus:Mephitis" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+
+
+End of report.
