@@ -1,0 +1,216 @@
+Report for Institution Code UAM, Resource uam_mamm
+Usage stats for February 2016, generated on 2016/03/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 182
+Number of records retrieved in searches: 881
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 124
+	Country: Mexico ; Times: 19
+	Country: Unknown ; Times: 6
+	Country: France ; Times: 5
+	Country: United Kingdom ; Times: 4
+	Country: Sweden ; Times: 9
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Russia ; Times: 8
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-09 ; Times: 4
+	Date: 2016-02-22 ; Times: 2
+	Date: 2016-02-18 ; Times: 3
+	Date: 2016-02-19 ; Times: 16
+	Date: 2016-02-12 ; Times: 3
+	Date: 2016-02-13 ; Times: 4
+	Date: 2016-02-10 ; Times: 25
+	Date: 2016-02-11 ; Times: 7
+	Date: 2016-02-16 ; Times: 11
+	Date: 2016-02-17 ; Times: 6
+	Date: 2016-02-14 ; Times: 6
+	Date: 2016-02-15 ; Times: 1
+	Date: 2016-02-29 ; Times: 3
+	Date: 2016-02-23 ; Times: 9
+	Date: 2016-02-08 ; Times: 2
+	Date: 2016-02-21 ; Times: 6
+	Date: 2016-02-27 ; Times: 1
+	Date: 2016-02-26 ; Times: 2
+	Date: 2016-02-25 ; Times: 5
+	Date: 2016-02-24 ; Times: 4
+	Date: 2016-02-01 ; Times: 1
+	Date: 2016-02-03 ; Times: 18
+	Date: 2016-02-02 ; Times: 3
+	Date: 2016-02-05 ; Times: 8
+	Date: 2016-02-04 ; Times: 24
+	Date: 2016-02-07 ; Times: 3
+	Date: 2016-02-06 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "uam tamiasciurus whitehorse" ; Times: 1
+	Query: "balaenoptera physalus" ; Times: 1
+	Query: "&#34;Dermoptera&#34; mappable:1" ; Times: 1
+	Query: "specificepithet:hudsonius genus:Zapus stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "uam 57747" ; Times: 2
+	Query: "1900 jackson" ; Times: 1
+	Query: "catalognumber:1 hastypestatus:1" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 4
+	Query: "catalognumber:67850" ; Times: 1
+	Query: "virginiana mappable:1 tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:hudsonius genus:zapus locality:yakutat stateprovince:&#34;alaska&#34;" ; Times: 2
+	Query: "3991" ; Times: 1
+	Query: "type:specimen county:&#34;clermont&#34; stateprovince:&#34;ohio&#34;" ; Times: 2
+	Query: "catalognumber:78766" ; Times: 1
+	Query: "Dasypus novemcinctus mappable:1" ; Times: 2
+	Query: "80729" ; Times: 2
+	Query: "dermoptera mappable:1" ; Times: 9
+	Query: "specificepithet:latrans genus:canis tissue:1" ; Times: 2
+	Query: "Tursiops truncatus" ; Times: 2
+	Query: "type:specimen specificepithet:hudsonius genus:zapus stateprovince:&#34;ALASKA&#34;" ; Times: 1
+	Query: "dermoptera order:dermoptera" ; Times: 1
+	Query: "type:specimen specificepithet:hudsonius genus:zapus locality:haines stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "louisiana union" ; Times: 4
+	Query: "homo" ; Times: 1
+	Query: "Spermophilus franklinii" ; Times: 1
+	Query: "uam tamiasciurus 1999 whitehorse" ; Times: 1
+	Query: "procyon lotor type:specimen country:&#34;United States&#34; (fluid OR alcohol OR ethanol ) mappable:1" ; Times: 1
+	Query: "Antilocapra Americana" ; Times: 1
+	Query: "Dasypus mappable:1" ; Times: 2
+	Query: "55253" ; Times: 1
+	Query: "38377" ; Times: 1
+	Query: "mummy" ; Times: 7
+	Query: "specificepithet:hudsonius genus:zapus stateprovince:&#34;british columbia&#34;" ; Times: 3
+	Query: "Poliocitellus franklinii" ; Times: 1
+	Query: "novemcinctus mappable:1 tissue:1" ; Times: 2
+	Query: "vliet" ; Times: 1
+	Query: "dasypus mappable:1" ; Times: 2
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "order:Chiroptera stateprovince:&#34;British Columbia&#34;" ; Times: 1
+	Query: "46719" ; Times: 1
+	Query: "monster" ; Times: 5
+	Query: "specificepithet:hudsonius genus:zapus locality:Lake Clark stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "rom tamiasciurus" ; Times: 1
+	Query: "type:specimen specificepithet:hudsonius genus:zapus locality:izembek bay stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 5
+	Query: "family:cricetidae (8251 )" ; Times: 1
+	Query: "Procyon lotor type:specimen (fluid OR alcohol OR ethanol ) mappable:1" ; Times: 1
+	Query: "Panthera uncia" ; Times: 7
+	Query: "101225" ; Times: 1
+	Query: "&#34;Dasypus novemcinctus&#34; mappable:1" ; Times: 2
+	Query: "30149" ; Times: 1
+	Query: "CM 35891" ; Times: 2
+	Query: "CM 35890" ; Times: 1
+	Query: "specificepithet:hudsonius genus:zapus stateprovince:&#34;alberta&#34;" ; Times: 1
+	Query: "enhydra" ; Times: 1
+	Query: "Mephitis" ; Times: 1
+	Query: "orcinus orca" ; Times: 2
+	Query: "specificepithet:hudsonius genus:zapus locality:lake clark stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "Trichechus manatus" ; Times: 1
+	Query: "enhydra lutris" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "Dermoptera mappable:1" ; Times: 12
+	Query: "lepus americanus tissue:1" ; Times: 2
+	Query: "uam 71673" ; Times: 1
+	Query: "type:specimen genus:sus (skeleton)" ; Times: 1
+	Query: "uam 13411" ; Times: 2
+	Query: "uam 13412" ; Times: 1
+	Query: "72101" ; Times: 1
+	Query: "Sangao" ; Times: 1
+	Query: "dermoptera" ; Times: 8
+	Query: "92828" ; Times: 1
+	Query: "Erinaceus europaeus" ; Times: 1
+	Query: "Orcinus orca" ; Times: 2
+	Query: "panthera tissue:1" ; Times: 3
+	Query: "Vliet" ; Times: 1
+	Query: "82074" ; Times: 1
+	Query: "&#34;dasypus novemcinctus&#34; mappable:1" ; Times: 1
+	Query: "usnm mammalia rodentia" ; Times: 1
+	Query: "Armbruster" ; Times: 1
+	Query: "chiroptera baculum" ; Times: 19
+	Query: "genus:zapus stateprovince:&#34;british columbia&#34;" ; Times: 1
+	Query: "tom white" ; Times: 1
+	Query: "33903" ; Times: 1
+	Query: "Dermoptera" ; Times: 2
+	Query: "76895" ; Times: 2
+	Query: "&#34;Erinaceinae&#34; mappable:1" ; Times: 1
+	Query: "dasypus novemcinctus mappable:1" ; Times: 1
+	Query: "95118" ; Times: 1
+	Query: "fetus specificepithet:phocoena genus:phocoena" ; Times: 1
+	Query: "33755" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 78 (out of 512 download events in this period)
+Total number of records downloaded: 25050
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 21
+	Country: Unknown ; Times: 18
+	Country: South Africa ; Times: 1
+	Country: United States ; Times: 36
+	Country: Sweden ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-09 ; Times: 3
+	Date: 2016-02-18 ; Times: 7
+	Date: 2016-02-19 ; Times: 11
+	Date: 2016-02-12 ; Times: 1
+	Date: 2016-02-13 ; Times: 4
+	Date: 2016-02-10 ; Times: 2
+	Date: 2016-02-16 ; Times: 5
+	Date: 2016-02-17 ; Times: 2
+	Date: 2016-02-14 ; Times: 2
+	Date: 2016-02-15 ; Times: 1
+	Date: 2016-02-23 ; Times: 2
+	Date: 2016-02-22 ; Times: 1
+	Date: 2016-02-21 ; Times: 2
+	Date: 2016-02-20 ; Times: 1
+	Date: 2016-02-27 ; Times: 4
+	Date: 2016-02-26 ; Times: 1
+	Date: 2016-02-25 ; Times: 1
+	Date: 2016-02-24 ; Times: 1
+	Date: 2016-02-01 ; Times: 1
+	Date: 2016-02-03 ; Times: 5
+	Date: 2016-02-02 ; Times: 2
+	Date: 2016-02-05 ; Times: 2
+	Date: 2016-02-04 ; Times: 17
+
+List of queries that retrieved data from the resource: 
+	Query: "type:specimen genus:sus (skeleton)" ; Times: 1
+	Query: "Delphinidae" ; Times: 1
+	Query: "dermoptera mappable:1" ; Times: 8
+	Query: "&#34;Dermoptera&#34; mappable:1" ; Times: 1
+	Query: "procyon lotor type:specimen country:&#34;United States&#34; (fluid OR alcohol OR ethanol ) mappable:1" ; Times: 1
+	Query: "castor canadensis" ; Times: 1
+	Query: "Puma concolor" ; Times: 5
+	Query: "specificepithet:hudsonius genus:zapus stateprovince:&#34;british columbia&#34;" ; Times: 1
+	Query: "Callospermophilus lateralis" ; Times: 3
+	Query: "Dermoptera mappable:1" ; Times: 9
+	Query: "myotis thysanodes" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 18
+	Query: "puma concolor" ; Times: 8
+	Query: "spermophilus tridecemlineatus" ; Times: 1
+	Query: "Bos taurus" ; Times: 1
+	Query: "specificepithet:hudsonius genus:zapus locality:lake clark stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "ochotona princeps" ; Times: 1
+	Query: "Scapanus orarius" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "rom tamiasciurus" ; Times: 1
+	Query: "megaptera novaeangliae" ; Times: 1
+	Query: "specificepithet:hudsonius genus:zapus locality:Lake Clark stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "Panthera uncia" ; Times: 1
+	Query: "genus:sorex (NOT institutioncode:USNM)" ; Times: 1
+	Query: "pika" ; Times: 1
+	Query: "PUMA CONCOLOR" ; Times: 2
+	Query: "Oryctolagus cuniculus" ; Times: 1
+	Query: "dermoptera" ; Times: 3
+	Query: "Puma Concolor" ; Times: 1
+	Query: "genus:martes continent:north america" ; Times: 1
+
+
+End of report.
