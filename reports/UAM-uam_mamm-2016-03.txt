@@ -1,0 +1,99 @@
+Report for Institution Code UAM, Resource uam_mamm
+Usage stats for March 2016, generated on 2016/04/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 42
+Number of records retrieved in searches: 575
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 2
+	Country: Australia ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 26
+	Country: Puerto Rico ; Times: 1
+	Country: Switzerland ; Times: 2
+	Country: Russia ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-02 ; Times: 4
+	Date: 2016-03-03 ; Times: 6
+	Date: 2016-03-08 ; Times: 6
+	Date: 2016-03-09 ; Times: 4
+	Date: 2016-03-06 ; Times: 2
+	Date: 2016-03-14 ; Times: 4
+	Date: 2016-03-04 ; Times: 2
+	Date: 2016-03-05 ; Times: 1
+	Date: 2016-03-11 ; Times: 3
+	Date: 2016-03-10 ; Times: 2
+	Date: 2016-03-13 ; Times: 2
+	Date: 2016-03-01 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "116352" ; Times: 2
+	Query: "Marmota broweri" ; Times: 2
+	Query: "specificepithet:pardus genus:panthera family:felidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "Ursus maritimus" ; Times: 2
+	Query: "erethizon dorsatum" ; Times: 1
+	Query: "monster" ; Times: 4
+	Query: "95588" ; Times: 1
+	Query: "mesoplodon" ; Times: 2
+	Query: "2229" ; Times: 1
+	Query: "mummy" ; Times: 4
+	Query: "N. McIntyre" ; Times: 1
+	Query: "accession file 2003-142" ; Times: 1
+	Query: "genus:puma specificepithet:concolor" ; Times: 2
+	Query: "Canis lupus type:specimen (Alaska Wales Prince)" ; Times: 2
+	Query: "gregg" ; Times: 2
+	Query: "ochotona princeps" ; Times: 2
+	Query: "persons" ; Times: 1
+	Query: "osborne" ; Times: 1
+	Query: "Alces alces" ; Times: 1
+	Query: "29992" ; Times: 2
+	Query: "snowshoe hare" ; Times: 1
+	Query: "spermophilus mohavensis" ; Times: 1
+	Query: "Geomys" ; Times: 1
+	Query: "276604" ; Times: 1
+	Query: "11054" ; Times: 1
+	Query: "neotoma lepida utah" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 59 (out of 230 download events in this period)
+Total number of records downloaded: 1642114
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 46
+	Country: Unknown ; Times: 10
+	Country: Chile ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-09 ; Times: 14
+	Date: 2016-03-10 ; Times: 10
+	Date: 2016-03-08 ; Times: 4
+	Date: 2016-03-14 ; Times: 8
+	Date: 2016-03-07 ; Times: 2
+	Date: 2016-03-04 ; Times: 1
+	Date: 2016-03-05 ; Times: 2
+	Date: 2016-03-11 ; Times: 5
+	Date: 2016-03-03 ; Times: 2
+	Date: 2016-03-13 ; Times: 8
+	Date: 2016-03-12 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "family:Heteromyidae year &gt;= 1800 year &lt;= 2015 mappable:1 tissue:1" ; Times: 1
+	Query: "Sigmodontinae" ; Times: 1
+	Query: "ochotona" ; Times: 2
+	Query: "Callospermophilus lateralis" ; Times: 1
+	Query: "tissue" ; Times: 39
+	Query: "Alces alces" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 13
+
+
+End of report.
