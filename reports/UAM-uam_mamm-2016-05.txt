@@ -1,0 +1,150 @@
+Report for Institution Code UAM, Resource uam_mamm
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 110
+Number of records retrieved in searches: 1540
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Turkey ; Times: 1
+	Country: Canada ; Times: 2
+	Country: Australia ; Times: 2
+	Country: Italy ; Times: 4
+	Country: Czech Republic ; Times: 1
+	Country: Mexico ; Times: 9
+	Country: Unknown ; Times: 4
+	Country: France ; Times: 3
+	Country: United States ; Times: 71
+	Country: Netherlands ; Times: 3
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Russia ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-19 ; Times: 4
+	Date: 2016-05-16 ; Times: 3
+	Date: 2016-05-15 ; Times: 3
+	Date: 2016-05-13 ; Times: 3
+	Date: 2016-05-12 ; Times: 2
+	Date: 2016-05-11 ; Times: 2
+	Date: 2016-05-10 ; Times: 3
+	Date: 2016-05-31 ; Times: 42
+	Date: 2016-05-30 ; Times: 2
+	Date: 2016-05-08 ; Times: 2
+	Date: 2016-05-09 ; Times: 5
+	Date: 2016-05-01 ; Times: 3
+	Date: 2016-05-02 ; Times: 3
+	Date: 2016-05-03 ; Times: 8
+	Date: 2016-05-05 ; Times: 3
+	Date: 2016-05-06 ; Times: 1
+	Date: 2016-05-07 ; Times: 4
+	Date: 2016-05-26 ; Times: 3
+	Date: 2016-05-27 ; Times: 1
+	Date: 2016-05-24 ; Times: 1
+	Date: 2016-05-22 ; Times: 3
+	Date: 2016-05-23 ; Times: 1
+	Date: 2016-05-20 ; Times: 3
+	Date: 2016-05-21 ; Times: 1
+	Date: 2016-05-28 ; Times: 1
+	Date: 2016-05-29 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "57306" ; Times: 1
+	Query: "microtus abbreviatus north america" ; Times: 1
+	Query: "catalognumber:46487" ; Times: 1
+	Query: "meles meles" ; Times: 4
+	Query: "catalognumber:44144" ; Times: 1
+	Query: "specificepithet:delphis genus:Delphinus" ; Times: 4
+	Query: "specificepithet:novaeangliae genus:Megaptera" ; Times: 19
+	Query: "marmot" ; Times: 1
+	Query: "specificepithet:californianus genus:Zalophus" ; Times: 5
+	Query: "cm 349" ; Times: 1
+	Query: "gray wolf" ; Times: 2
+	Query: "specificepithet:townsendii genus:Lepus year &gt;= 1990 year &lt;= 2016" ; Times: 1
+	Query: "genus:Marmota tissue:1" ; Times: 1
+	Query: "Sus scrofa " ; Times: 1
+	Query: "catalognumber:66486" ; Times: 1
+	Query: "Marmota monax year &gt;= 1990 year &lt;= 2015" ; Times: 1
+	Query: "Gulo weight" ; Times: 3
+	Query: "John Dixon" ; Times: 1
+	Query: "kermode bear" ; Times: 2
+	Query: "mummy" ; Times: 6
+	Query: "104182" ; Times: 1
+	Query: "32603" ; Times: 1
+	Query: "specificepithet:townsendii genus:Lepus year &gt;= 1970 year &lt;= 2016" ; Times: 1
+	Query: "family:bovidae year &gt;= 1983 year &lt;= 1984" ; Times: 1
+	Query: "Kamchatka" ; Times: 1
+	Query: "monster" ; Times: 3
+	Query: "microtus abbreviatus" ; Times: 1
+	Query: "specificepithet:lucifugus genus:myotis tissue:1" ; Times: 1
+	Query: "catalognumber:95656 OR catalognumber:103274 OR catalognumber:186655 OR catalognumber:186656 OR catalognumber:220658 OR catalognumber:220659 OR catalognumber:220660 OR catalognumber:220661 OR catalognumber:224152 OR catalognumber:224153 OR catalognumber:285575 OR catalognumber:298234 OR catalognumber:301935 OR catalognumber:357942" ; Times: 1
+	Query: "Blake AND Island" ; Times: 1
+	Query: "catalognumber:53509" ; Times: 1
+	Query: "Physeter macrocephalus" ; Times: 1
+	Query: "R-67076" ; Times: 1
+	Query: "64234" ; Times: 1
+	Query: "110018}" ; Times: 1
+	Query: "skeleton type:specimen order:carnivora class:mammalia media:1" ; Times: 1
+	Query: "marmota vancouverensis" ; Times: 3
+	Query: "lontra canadensis" ; Times: 1
+	Query: "pika" ; Times: 3
+	Query: "709617" ; Times: 1
+	Query: "specificepithet:robustus genus:Eschrichtius" ; Times: 11
+	Query: "albicaudatus" ; Times: 1
+	Query: "myotis septentrionalis" ; Times: 1
+	Query: "primate" ; Times: 3
+	Query: "catalognumber:44571" ; Times: 1
+	Query: "grizzly bear" ; Times: 2
+	Query: "catalognumber:59092" ; Times: 1
+	Query: "Equus quagga quagga" ; Times: 1
+	Query: "catalognumber:56127" ; Times: 1
+	Query: "stateprovince:&#34;New Mexico&#34; specificepithet:Stephensi genus:Neotoma" ; Times: 1
+	Query: "Sciurus griseus anthonyi" ; Times: 1
+	Query: "panthera tigris tissue:1" ; Times: 1
+	Query: "Marmota camtschatica" ; Times: 1
+	Query: "specificepithet:sibiricus genus:Tamias" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 46 (out of 327 download events in this period)
+Total number of records downloaded: 14307
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 41
+	Country: Unknown ; Times: 1
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-04 ; Times: 1
+	Date: 2016-05-01 ; Times: 1
+	Date: 2016-05-15 ; Times: 1
+	Date: 2016-05-13 ; Times: 1
+	Date: 2016-05-12 ; Times: 4
+	Date: 2016-05-05 ; Times: 2
+	Date: 2016-05-31 ; Times: 32
+	Date: 2016-05-20 ; Times: 1
+	Date: 2016-05-22 ; Times: 2
+	Date: 2016-05-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:californianus genus:Zalophus" ; Times: 5
+	Query: "Peromyscus" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis" ; Times: 1
+	Query: "specificepithet:delphis genus:Delphinus" ; Times: 4
+	Query: "specificepithet:novaeangliae genus:Megaptera" ; Times: 13
+	Query: "Canis type:specimen" ; Times: 1
+	Query: "genus:Lepus continent:North America" ; Times: 2
+	Query: "puma concolor" ; Times: 1
+	Query: "mongolia" ; Times: 1
+	Query: "Marmota marmota" ; Times: 1
+	Query: "specificepithet:robustus genus:Eschrichtius" ; Times: 10
+	Query: "stateprovince:&#34;New Mexico&#34; specificepithet:Stephensi genus:Neotoma" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 2
+	Query: "PUMA CONCOLOR" ; Times: 2
+
+
+End of report.
