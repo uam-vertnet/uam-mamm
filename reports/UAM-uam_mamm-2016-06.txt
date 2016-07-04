@@ -1,0 +1,379 @@
+Report for Institution Code UAM, Resource uam_mamm
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 370
+Number of records retrieved in searches: 16844
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 6
+	Country: Brazil ; Times: 5
+	Country: Portugal ; Times: 42
+	Country: Mexico ; Times: 80
+	Country: Unknown ; Times: 4
+	Country: France ; Times: 5
+	Country: United States ; Times: 212
+	Country: United Kingdom ; Times: 1
+	Country: Laos ; Times: 1
+	Country: Russia ; Times: 12
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-24 ; Times: 8
+	Date: 2016-06-23 ; Times: 10
+	Date: 2016-06-22 ; Times: 4
+	Date: 2016-06-21 ; Times: 43
+	Date: 2016-06-20 ; Times: 45
+	Date: 2016-06-05 ; Times: 10
+	Date: 2016-06-04 ; Times: 1
+	Date: 2016-06-07 ; Times: 1
+	Date: 2016-06-06 ; Times: 4
+	Date: 2016-06-01 ; Times: 27
+	Date: 2016-06-03 ; Times: 6
+	Date: 2016-06-02 ; Times: 56
+	Date: 2016-06-09 ; Times: 3
+	Date: 2016-06-08 ; Times: 3
+	Date: 2016-06-18 ; Times: 8
+	Date: 2016-06-19 ; Times: 2
+	Date: 2016-06-16 ; Times: 13
+	Date: 2016-06-17 ; Times: 4
+	Date: 2016-06-14 ; Times: 30
+	Date: 2016-06-15 ; Times: 8
+	Date: 2016-06-13 ; Times: 77
+	Date: 2016-06-10 ; Times: 4
+	Date: 2016-06-11 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:groenlandicus genus:Dicrostonyx stateprovince:&#34;Alaska&#34; year &gt;= 2009 year &lt;= 2016" ; Times: 1
+	Query: "balaenoptera physalus" ; Times: 2
+	Query: "57529" ; Times: 1
+	Query: "specificepithet:parryii genus:Urocitellus stateprovince:&#34;Alaska&#34; year &gt;= 2009 year &lt;= 2016" ; Times: 2
+	Query: "49731" ; Times: 1
+	Query: "Ovis aries" ; Times: 2
+	Query: "catalognumber:54126" ; Times: 1
+	Query: "46539" ; Times: 1
+	Query: "77997" ; Times: 1
+	Query: "bison bison   " ; Times: 12
+	Query: "99393" ; Times: 1
+	Query: "61180" ; Times: 1
+	Query: "26378" ; Times: 1
+	Query: "53562" ; Times: 1
+	Query: "34808" ; Times: 1
+	Query: "couch" ; Times: 2
+	Query: "fasciata tissue:1" ; Times: 1
+	Query: "30753" ; Times: 1
+	Query: "Mammal tibia" ; Times: 1
+	Query: "12522" ; Times: 1
+	Query: "Cooper AND Island" ; Times: 1
+	Query: "specificepithet:erminea genus:Mustela stateprovince:&#34;Alaska&#34; year &gt;= 2009 year &lt;= 2016" ; Times: 2
+	Query: "Dasypus novemcinctus" ; Times: 4
+	Query: "129246" ; Times: 1
+	Query: "catalognumber:35344" ; Times: 2
+	Query: "specificepithet:rosmarus genus:Odobenus stateprovince:&#34;Alaska&#34; year &gt;= 2009 year &lt;= 2016" ; Times: 1
+	Query: "35018" ; Times: 1
+	Query: "182 UAM" ; Times: 1
+	Query: "specificepithet:hudsonicus genus:Tamiasciurus stateprovince:&#34;Alaska&#34; year &gt;= 2009 year &lt;= 2016" ; Times: 1
+	Query: "sorex camtschatica" ; Times: 1
+	Query: "13164" ; Times: 1
+	Query: "Erinaceus" ; Times: 3
+	Query: "73821" ; Times: 1
+	Query: "14352" ; Times: 1
+	Query: "type:specimen (heart mammalia) media:1" ; Times: 1
+	Query: "CMNH" ; Times: 1
+	Query: "18771" ; Times: 1
+	Query: "98763" ; Times: 1
+	Query: "109843" ; Times: 1
+	Query: "class:Mammalia county:&#34;Sheridan&#34; stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "county:&#34;Sheridan&#34; stateprovince:&#34;Kansas&#34; AND (NOT KU)" ; Times: 1
+	Query: "alces alces   " ; Times: 9
+	Query: "8442 mammalia" ; Times: 2
+	Query: "specificepithet:pennsylvanicus genus:Microtus stateprovince:&#34;Alaska&#34; year &gt;= 2009 year &lt;= 2016" ; Times: 1
+	Query: "38682" ; Times: 1
+	Query: "98762" ; Times: 2
+	Query: "98765" ; Times: 1
+	Query: "98764" ; Times: 1
+	Query: "monodon monoceros" ; Times: 1
+	Query: "127250" ; Times: 2
+	Query: "specificepithet:ursinus genus:Callorhinus stateprovince:&#34;Alaska&#34; year &gt;= 2009 year &lt;= 2016" ; Times: 1
+	Query: "mallard" ; Times: 2
+	Query: "120059" ; Times: 1
+	Query: "catalognumber:72923" ; Times: 1
+	Query: "Odobenus" ; Times: 2
+	Query: "111499" ; Times: 3
+	Query: "specificepithet:macrocephalus genus:Physeter stateprovince:&#34;Alaska&#34; year &gt;= 2009 year &lt;= 2016" ; Times: 1
+	Query: "49990" ; Times: 1
+	Query: "myocastor" ; Times: 1
+	Query: "73277" ; Times: 1
+	Query: "specificepithet:longicaudus genus:Microtus stateprovince:&#34;Alaska&#34; year &gt;= 2009 year &lt;= 2016" ; Times: 1
+	Query: "genus:dasypus mappable:1 tissue:1" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 5
+	Query: "R.161282" ; Times: 1
+	Query: "8442" ; Times: 2
+	Query: "145108" ; Times: 1
+	Query: "sorex dispar" ; Times: 1
+	Query: "11139" ; Times: 8
+	Query: "Rattus rattus" ; Times: 2
+	Query: "86655" ; Times: 1
+	Query: "16754" ; Times: 2
+	Query: "98774" ; Times: 1
+	Query: "specificepithet:alaskanus genus:Sorex" ; Times: 2
+	Query: "1897-08-04 AND Island" ; Times: 1
+	Query: "999 uam" ; Times: 1
+	Query: "93683" ; Times: 1
+	Query: "Axis axis" ; Times: 1
+	Query: "56134" ; Times: 1
+	Query: "MYOTIS evotis evotis AND Island" ; Times: 1
+	Query: "8516" ; Times: 1
+	Query: "46494" ; Times: 1
+	Query: "monster" ; Times: 7
+	Query: "88727" ; Times: 1
+	Query: "54714" ; Times: 1
+	Query: "124151" ; Times: 1
+	Query: "Monodon monoceros" ; Times: 1
+	Query: "Eschrichtius ROBUSTUS" ; Times: 1
+	Query: "Mus musculus" ; Times: 3
+	Query: "59041" ; Times: 2
+	Query: "34780" ; Times: 1
+	Query: "Rebecca Rowe" ; Times: 2
+	Query: "3262" ; Times: 1
+	Query: "county:&#34;Santa Clara&#34; stateprovince:&#34;California&#34; (&#34;Pallid Bat&#34; OR &#34; Antrozous pallidus&#34;) mappable:1" ; Times: 1
+	Query: "r. a. erickson" ; Times: 1
+	Query: "TURSIOPS" ; Times: 1
+	Query: "specificepithet:monax genus:Marmota stateprovince:&#34;Alaska&#34; year &gt;= 2009 year &lt;= 2016" ; Times: 3
+	Query: "Neovison vison 1" ; Times: 6
+	Query: "grey wolf" ; Times: 1
+	Query: "Panthera uncia" ; Times: 1
+	Query: "14852" ; Times: 1
+	Query: "118669" ; Times: 1
+	Query: "99609" ; Times: 1
+	Query: "Myocastor coypus 1" ; Times: 2
+	Query: "stuttgart" ; Times: 1
+	Query: "27097" ; Times: 1
+	Query: "Springs AND Island NOT Mexico" ; Times: 1
+	Query: "35723" ; Times: 1
+	Query: "103398" ; Times: 1
+	Query: "specificepithet:pribilofensis genus:Sorex stateprovince:&#34;Alaska&#34; year &gt;= 2009 year &lt;= 2016" ; Times: 1
+	Query: "11899" ; Times: 3
+	Query: "94314" ; Times: 1
+	Query: "Ovis aries 1" ; Times: 2
+	Query: "125408" ; Times: 3
+	Query: "mummy" ; Times: 5
+	Query: "Cervus elaphus" ; Times: 2
+	Query: "Genetta genetta 1" ; Times: 2
+	Query: "53440" ; Times: 1
+	Query: "Mus musculus 1" ; Times: 5
+	Query: "98759" ; Times: 1
+	Query: "80106" ; Times: 1
+	Query: "Sus scrofa" ; Times: 4
+	Query: "119164" ; Times: 1
+	Query: "119165" ; Times: 1
+	Query: "specificepithet:canadensis genus:Lontra stateprovince:&#34;Alaska&#34; year &gt;= 2009 year &lt;= 2016" ; Times: 1
+	Query: "Lupinus" ; Times: 1
+	Query: "34844" ; Times: 1
+	Query: "type:specimen catalognumber:1062" ; Times: 1
+	Query: "98754" ; Times: 2
+	Query: "M-1831" ; Times: 1
+	Query: "1831 L" ; Times: 1
+	Query: "catalognumber:7690" ; Times: 1
+	Query: "Primates country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Cabassous tatouay" ; Times: 1
+	Query: "county:&#34;wayne&#34; stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "337782" ; Times: 1
+	Query: "specificepithet:rutilus genus:Myodes stateprovince:&#34;Alaska&#34; year &gt;= 2009 year &lt;= 2016" ; Times: 1
+	Query: "38590" ; Times: 1
+	Query: "ovibos" ; Times: 3
+	Query: "172508" ; Times: 1
+	Query: "BC Canada" ; Times: 2
+	Query: "61247" ; Times: 1
+	Query: "64135" ; Times: 1
+	Query: "specificepithet:canadensis genus:Castor stateprovince:&#34;Alaska&#34; year &gt;= 2009 year &lt;= 2016" ; Times: 1
+	Query: "61092" ; Times: 1
+	Query: "4774" ; Times: 1
+	Query: "39534" ; Times: 1
+	Query: "182 uam" ; Times: 1
+	Query: "123899" ; Times: 1
+	Query: "Marmota marmota 1" ; Times: 5
+	Query: "Balaenoptera physalus" ; Times: 3
+	Query: "sorex jacksoni" ; Times: 1
+	Query: "72923" ; Times: 1
+	Query: "specificepithet:oeconomus genus:Microtus stateprovince:&#34;Alaska&#34; year &gt;= 2009 year &lt;= 2016" ; Times: 3
+	Query: "primate" ; Times: 1
+	Query: "catalognumber:8894" ; Times: 1
+	Query: "specificepithet:caligata genus:Marmota stateprovince:&#34;Alaska&#34; year &gt;= 2009 year &lt;= 2016" ; Times: 1
+	Query: "specificepithet:californianus genus:Zalophus stateprovince:&#34;Alaska&#34; year &gt;= 2009 year &lt;= 2016" ; Times: 1
+	Query: "genus:dasypus mappable:1" ; Times: 2
+	Query: "Orcinus orca" ; Times: 1
+	Query: "specificepithet:barbatus genus:Erignathus stateprovince:&#34;Alaska&#34; year &gt;= 2009 year &lt;= 2016" ; Times: 1
+	Query: "Sciurus griseus anthonyi" ; Times: 1
+	Query: "specificepithet:jubatus genus:Eumetopias stateprovince:&#34;Alaska&#34; year &gt;= 2009 year &lt;= 2016" ; Times: 1
+	Query: "ORCINUS ORCA" ; Times: 1
+	Query: "29961" ; Times: 2
+	Query: "catalognumber:45180" ; Times: 1
+	Query: "specificepithet:lutris genus:Enhydra stateprovince:&#34;Alaska&#34; year &gt;= 2009 year &lt;= 2016" ; Times: 1
+	Query: "catalognumber:59500" ; Times: 1
+	Query: "106011" ; Times: 3
+	Query: "7173" ; Times: 1
+	Query: "587642" ; Times: 1
+	Query: "genus:Bison" ; Times: 1
+	Query: "(Sorex minutus) mappable:1" ; Times: 2
+	Query: "59028" ; Times: 1
+	Query: "118956" ; Times: 1
+	Query: "specificepithet:tundrensis genus:Sorex" ; Times: 1
+	Query: "Snyder AND Island" ; Times: 1
+	Query: "catalognumber:16754" ; Times: 1
+	Query: "14557" ; Times: 1
+	Query: "59026" ; Times: 1
+	Query: "7777" ; Times: 1
+	Query: "281873" ; Times: 1
+	Query: "specificepithet:leucas genus:Delphinapterus stateprovince:&#34;Alaska&#34; year &gt;= 2009 year &lt;= 2016" ; Times: 1
+	Query: "281874" ; Times: 1
+	Query: "lagenorhynchus" ; Times: 1
+	Query: "specificepithet:fasciata genus:Histriophoca stateprovince:&#34;Alaska&#34; year &gt;= 2009 year &lt;= 2016" ; Times: 1
+	Query: "genus:bison" ; Times: 5
+	Query: "106853" ; Times: 3
+	Query: "41594" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "ORCA" ; Times: 1
+	Query: "specificepithet:palustris genus:sorex stateprovince:&#34;washington&#34;" ; Times: 1
+	Query: "108985" ; Times: 1
+	Query: "microtus xanthognathus" ; Times: 1
+	Query: "Canis lupus familiaris" ; Times: 2
+	Query: "stateprovince:&#34;alaska&#34; recordedby:libby" ; Times: 1
+	Query: "Dasypus" ; Times: 1
+	Query: "67447" ; Times: 1
+	Query: "97086" ; Times: 1
+	Query: "34959" ; Times: 2
+	Query: "Erinaceus type:specimen mappable:1" ; Times: 1
+	Query: "9197" ; Times: 1
+	Query: "8555" ; Times: 1
+	Query: "genus:canis" ; Times: 5
+	Query: "whale" ; Times: 1
+	Query: "45816" ; Times: 1
+	Query: "50388" ; Times: 1
+	Query: "specificepithet:trimucronatus genus:Lemmus stateprovince:&#34;Alaska&#34; year &gt;= 2009 year &lt;= 2016" ; Times: 1
+	Query: "catalognumber:54126 year &gt;= 1950 year &lt;= 2000" ; Times: 1
+	Query: "catalognumber:109343" ; Times: 1
+	Query: "77593" ; Times: 1
+	Query: "29872" ; Times: 1
+	Query: "canis lupus   " ; Times: 16
+	Query: "25087" ; Times: 1
+	Query: "75167" ; Times: 1
+	Query: "112237" ; Times: 1
+	Query: "genus:Puma specificepithet:concolor stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America mappable:1" ; Times: 1
+	Query: "96908" ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 1
+	Query: "Rattus norvegicus 1" ; Times: 6
+	Query: "Rattus rattus 1" ; Times: 9
+	Query: "Procyon lotor 1" ; Times: 4
+	Query: "Capra hircus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 136 (out of 1052 download events in this period)
+Total number of records downloaded: 68486
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 85
+	Country: Mexico ; Times: 41
+	Country: Unknown ; Times: 8
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-24 ; Times: 2
+	Date: 2016-06-09 ; Times: 2
+	Date: 2016-06-22 ; Times: 4
+	Date: 2016-06-21 ; Times: 2
+	Date: 2016-06-20 ; Times: 6
+	Date: 2016-06-05 ; Times: 2
+	Date: 2016-06-04 ; Times: 3
+	Date: 2016-06-06 ; Times: 6
+	Date: 2016-06-01 ; Times: 6
+	Date: 2016-06-03 ; Times: 7
+	Date: 2016-06-02 ; Times: 2
+	Date: 2016-06-23 ; Times: 6
+	Date: 2016-06-08 ; Times: 10
+	Date: 2016-06-18 ; Times: 9
+	Date: 2016-06-19 ; Times: 4
+	Date: 2016-06-16 ; Times: 6
+	Date: 2016-06-17 ; Times: 13
+	Date: 2016-06-14 ; Times: 9
+	Date: 2016-06-15 ; Times: 11
+	Date: 2016-06-12 ; Times: 2
+	Date: 2016-06-13 ; Times: 18
+	Date: 2016-06-10 ; Times: 3
+	Date: 2016-06-11 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "balaenoptera physalus" ; Times: 1
+	Query: "genus:Tadarida specificepithet:brasiliensis stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America mappable:1" ; Times: 1
+	Query: "specificepithet:novaeangliae genus:Megaptera" ; Times: 3
+	Query: "TURSIOPS ADUNCUS" ; Times: 1
+	Query: "Sorex cinereus" ; Times: 2
+	Query: "Rattus norvegicus" ; Times: 2
+	Query: "dipodomys microps" ; Times: 2
+	Query: "microtus ochrogaster" ; Times: 1
+	Query: "Martes pennanti" ; Times: 1
+	Query: "ORCINUS ORCA" ; Times: 1
+	Query: "genus:dasypus mappable:1 tissue:1" ; Times: 1
+	Query: "Microtus mexicanus" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "Puma concolor" ; Times: 3
+	Query: "odocoileus virginianus" ; Times: 1
+	Query: "microtus townsendii" ; Times: 1
+	Query: "microtus miurus" ; Times: 1
+	Query: "deserticola specificepithet:californicus genus:lepus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Tamias minimus" ; Times: 1
+	Query: "Leptonycteris nivalis" ; Times: 1
+	Query: "genus:Puma specificepithet:concolor stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America mappable:1" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 49
+	Query: "Eschrichtius ROBUSTUS" ; Times: 1
+	Query: "panthera leo" ; Times: 5
+	Query: "microtus pinetorum" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+	Query: "microtus oeconomus" ; Times: 1
+	Query: "lagenorhynchus" ; Times: 3
+	Query: "microtus mexicanus" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "peromyscus gossypinus" ; Times: 1
+	Query: "puma concolor" ; Times: 6
+	Query: "Loxodonta africana" ; Times: 2
+	Query: "Lepus americanus" ; Times: 1
+	Query: "Neovison vison" ; Times: 1
+	Query: "Dipodomys merriami" ; Times: 1
+	Query: "Martes americana" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "Ursus arctos" ; Times: 1
+	Query: "microtus oregoni" ; Times: 1
+	Query: "erethizon" ; Times: 1
+	Query: "VULPES VULPES" ; Times: 1
+	Query: "county:&#34;Santa Clara&#34; stateprovince:&#34;California&#34; (&#34;Pallid Bat&#34; OR &#34; Antrozous pallidus&#34;) mappable:1" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "Apodemus agrarius" ; Times: 1
+	Query: "desmodus rotundus" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:Microtus" ; Times: 1
+	Query: "panthera pardus" ; Times: 1
+	Query: "dipodomys merriami" ; Times: 1
+	Query: "canis latrans" ; Times: 3
+	Query: "Marmota monax" ; Times: 1
+	Query: "Canis lupus" ; Times: 1
+	Query: "Glaucomys volans" ; Times: 1
+	Query: "Zapus hudsonius" ; Times: 1
+	Query: "Clethrionomys glareolus" ; Times: 1
+	Query: "Monodon monoceros" ; Times: 1
+	Query: "Sorex hoyi" ; Times: 1
+	Query: "microtus xanthognathus" ; Times: 2
+	Query: "MUSTELA frenata" ; Times: 1
+	Query: "Castor canadensis" ; Times: 1
+	Query: "monodon monoceros" ; Times: 1
+	Query: "Apodemus flavicollis" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 1
+
+
+End of report.
