@@ -1,0 +1,232 @@
+Report for Institution Code UAM, Resource uam_mamm
+Usage stats for July 2016, generated on 2016/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 188
+Number of records retrieved in searches: 3822
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: United States ; Times: 108
+	Country: Portugal ; Times: 27
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 9
+	Country: India ; Times: 1
+	Country: Mongolia ; Times: 3
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 2
+	Country: Peru ; Times: 1
+	Country: Denmark ; Times: 16
+	Country: Japan ; Times: 13
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-07-11 ; Times: 6
+	Date: 2016-07-10 ; Times: 3
+	Date: 2016-07-13 ; Times: 7
+	Date: 2016-07-12 ; Times: 2
+	Date: 2016-07-15 ; Times: 2
+	Date: 2016-07-17 ; Times: 2
+	Date: 2016-07-16 ; Times: 2
+	Date: 2016-07-19 ; Times: 4
+	Date: 2016-07-18 ; Times: 31
+	Date: 2016-07-20 ; Times: 11
+	Date: 2016-07-21 ; Times: 28
+	Date: 2016-07-23 ; Times: 4
+	Date: 2016-07-24 ; Times: 3
+	Date: 2016-07-25 ; Times: 7
+	Date: 2016-07-26 ; Times: 3
+	Date: 2016-07-27 ; Times: 12
+	Date: 2016-07-06 ; Times: 3
+	Date: 2016-07-07 ; Times: 4
+	Date: 2016-07-22 ; Times: 9
+	Date: 2016-07-05 ; Times: 2
+	Date: 2016-07-08 ; Times: 24
+	Date: 2016-07-09 ; Times: 2
+	Date: 2016-07-28 ; Times: 12
+	Date: 2016-07-29 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Kerivoula order:Chiroptera tissue:1" ; Times: 2
+	Query: "29865" ; Times: 1
+	Query: "river otter type:specimen country:&#34;United States&#34;" ; Times: 1
+	Query: "catalognumber:18873" ; Times: 1
+	Query: "stateprovince:&#34;alaska&#34; recordedby:floyd" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "Genetta genetta 1" ; Times: 1
+	Query: "distance(location,geopoint(50.79899141148551,99.613037109375))&lt;100000" ; Times: 1
+	Query: "Antrozous pallidus stateprovince:&#34;Arizona&#34;" ; Times: 3
+	Query: "16884 tissue:1" ; Times: 2
+	Query: "arkansas institutioncode:UAM" ; Times: 1
+	Query: "Lepus townsendii" ; Times: 3
+	Query: "genus:Ochotona basisofrecord:PreservedSpecimen haslifestage:1 hasmass:1 hassex:1 haslength:1" ; Times: 1
+	Query: "R-69104" ; Times: 1
+	Query: "19 Sept 1952" ; Times: 1
+	Query: "Cavia porcellus type:specimen" ; Times: 1
+	Query: "distance(location,geopoint(50.1557858853846,99.437255859375))&lt;64127" ; Times: 1
+	Query: "genus:Tylonycteris order:Chiroptera tissue:1" ; Times: 2
+	Query: "stateprovince:&#34;alaska&#34; recordedby:rex AND (NOT wfvz NOT ypm)" ; Times: 2
+	Query: "urocitellus columbianus" ; Times: 4
+	Query: "panthera tigris tissue:1" ; Times: 1
+	Query: "orca" ; Times: 1
+	Query: "distance(location,geopoint(50.1557858853846,99.437255859375))&lt;124134.24407537171" ; Times: 1
+	Query: "grouse" ; Times: 1
+	Query: "189561" ; Times: 3
+	Query: "52755 tissue:1" ; Times: 2
+	Query: "61504 tissue:1" ; Times: 2
+	Query: "22406" ; Times: 1
+	Query: "catalognumber:92 institutioncode:UAM" ; Times: 1
+	Query: "59664" ; Times: 1
+	Query: "104370" ; Times: 1
+	Query: "mummy" ; Times: 4
+	Query: "12159" ; Times: 1
+	Query: "69104" ; Times: 1
+	Query: "monster" ; Times: 1
+	Query: "catalognumber:561 institutioncode:UAM" ; Times: 1
+	Query: "33274" ; Times: 1
+	Query: "Naja naja" ; Times: 1
+	Query: "R-66881" ; Times: 1
+	Query: "117822" ; Times: 1
+	Query: "stateprovince:&#34;alaska&#34; recordedby:floyd AND (NOT wfvz NOT ypm)" ; Times: 1
+	Query: "41533" ; Times: 1
+	Query: "Neovison vison 1" ; Times: 5
+	Query: "Urocitellus columbianus" ; Times: 17
+	Query: "hastypestatus:1 media:1 tissue:1" ; Times: 1
+	Query: "catalognumber:1215" ; Times: 1
+	Query: "Myocastor coypus 1" ; Times: 1
+	Query: "catalognumber:13734" ; Times: 1
+	Query: "(screech owl)" ; Times: 1
+	Query: "21839 tissue:1" ; Times: 1
+	Query: "arctic fox" ; Times: 1
+	Query: "mappable:1 hastypestatus:1 media:1 tissue:1" ; Times: 1
+	Query: "river otter type:specimen" ; Times: 1
+	Query: "oxnard" ; Times: 1
+	Query: "36294" ; Times: 1
+	Query: "weasel" ; Times: 1
+	Query: "Mus musculus 1" ; Times: 2
+	Query: "mesoplodon" ; Times: 1
+	Query: "type:specimen catalognumber:3956" ; Times: 1
+	Query: "26335" ; Times: 1
+	Query: "90221 tissue:1" ; Times: 2
+	Query: "ixodes" ; Times: 1
+	Query: "58791 tissue:1" ; Times: 2
+	Query: "hayward creek" ; Times: 1
+	Query: "(95894) tissue:1" ; Times: 1
+	Query: "family:dasypodidae" ; Times: 4
+	Query: "561 institutioncode:UAM" ; Times: 1
+	Query: "24340" ; Times: 1
+	Query: "genus:myodes stateprovince:&#34;new hampshire&#34; institutioncode:UAM" ; Times: 2
+	Query: "beluga" ; Times: 1
+	Query: "Marmota marmota 1" ; Times: 4
+	Query: "36259" ; Times: 1
+	Query: "78681" ; Times: 1
+	Query: "377be098-626f-4cc2-b4b5-35700050669a" ; Times: 1
+	Query: "Black lab" ; Times: 2
+	Query: "36394" ; Times: 1
+	Query: "peromyscus maniculatus stateprovince:&#34;Oklahoma&#34; mappable:1" ; Times: 1
+	Query: "R.65002" ; Times: 1
+	Query: "30033" ; Times: 1
+	Query: "genus:myodes stateprovince:&#34;new hampshire&#34;" ; Times: 2
+	Query: "type:specimen specificepithet:novemcinctus genus:dasypus" ; Times: 1
+	Query: "recordedby:Armbruster" ; Times: 1
+	Query: "recordedby:Neeley" ; Times: 1
+	Query: "52755" ; Times: 1
+	Query: "mammal tissue samples" ; Times: 1
+	Query: "stateprovince:&#34;alaska&#34; recordedby:lance" ; Times: 1
+	Query: "74206" ; Times: 3
+	Query: "family:hominidae (cranium)" ; Times: 4
+	Query: "MSB 2485" ; Times: 1
+	Query: "ursus thibetanus" ; Times: 2
+	Query: "aphis" ; Times: 1
+	Query: "lepus townsendii" ; Times: 2
+	Query: "16893 tissue:1" ; Times: 2
+	Query: "genus:Ochotona basisofrecord:PreservedSpecimen hassex:1 haslength:1" ; Times: 2
+	Query: "Rattus norvegicus 1" ; Times: 4
+	Query: "Skeleton type:specimen specificepithet:arctos genus:Ursus" ; Times: 1
+	Query: "catalognumber:49041" ; Times: 1
+	Query: "95894" ; Times: 1
+	Query: "kogia" ; Times: 2
+	Query: "catalognumber:80029" ; Times: 2
+	Query: "Ovis aries 1" ; Times: 1
+	Query: "catalognumber:86029" ; Times: 1
+	Query: "gbifdatasetid:377be098-626f-4cc2-b4b5-35700050669a" ; Times: 1
+	Query: "Sorex dispar" ; Times: 2
+	Query: "Rattus rattus 1" ; Times: 3
+	Query: "Dasypus novemcinctus novemcinctus" ; Times: 1
+	Query: "Procyon lotor 1" ; Times: 15
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 172 (out of 1219 download events in this period)
+Total number of records downloaded: 17161
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 56
+	Country: Netherlands ; Times: 110
+	Country: Mexico ; Times: 4
+	Country: Portugal ; Times: 1
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-07-11 ; Times: 11
+	Date: 2016-07-10 ; Times: 7
+	Date: 2016-07-13 ; Times: 11
+	Date: 2016-07-12 ; Times: 7
+	Date: 2016-07-15 ; Times: 3
+	Date: 2016-07-14 ; Times: 6
+	Date: 2016-07-17 ; Times: 7
+	Date: 2016-07-19 ; Times: 8
+	Date: 2016-07-18 ; Times: 10
+	Date: 2016-07-20 ; Times: 3
+	Date: 2016-07-07 ; Times: 9
+	Date: 2016-07-24 ; Times: 4
+	Date: 2016-07-25 ; Times: 5
+	Date: 2016-07-26 ; Times: 7
+	Date: 2016-07-27 ; Times: 4
+	Date: 2016-07-06 ; Times: 1
+	Date: 2016-07-21 ; Times: 27
+	Date: 2016-07-22 ; Times: 4
+	Date: 2016-07-23 ; Times: 1
+	Date: 2016-07-08 ; Times: 10
+	Date: 2016-07-09 ; Times: 10
+	Date: 2016-07-28 ; Times: 12
+	Date: 2016-07-29 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Otospermophilus beecheyi stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Ochotona princeps tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:novemcinctus genus:dasypus" ; Times: 1
+	Query: "marmota monax type:specimen" ; Times: 1
+	Query: "order:Chiroptera" ; Times: 1
+	Query: "Myotis lucifugus" ; Times: 1
+	Query: "&#34;sciurus carolinensis&#34;" ; Times: 1
+	Query: "family:hominidae (cranium)" ; Times: 1
+	Query: "Ochotona princeps" ; Times: 1
+	Query: "dasypodidae" ; Times: 1
+	Query: "Callospermophilus lateralis" ; Times: 11
+	Query: "perognathus" ; Times: 2
+	Query: "Mustela frenata" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 115
+	Query: "Antrozous pallidus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "family:dasypodidae" ; Times: 1
+	Query: "mammalia Mexico" ; Times: 4
+	Query: "Ochotona" ; Times: 1
+	Query: "haslifestage:1 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Urocitellus columbianus" ; Times: 8
+	Query: "Erethizon dorsatum type:specimen" ; Times: 1
+	Query: "Skeleton type:specimen specificepithet:arctos genus:Ursus" ; Times: 3
+	Query: "Notiosorex crawfordi type:specimen" ; Times: 1
+	Query: "Cavia porcellus type:specimen" ; Times: 2
+	Query: "&#34;Otospermophilus beecheyi&#34; mappable:1" ; Times: 1
+	Query: "Michigan Mammalia" ; Times: 1
+	Query: "lepus townsendii" ; Times: 1
+	Query: "&#34;Spermophilus beecheyi&#34; mappable:1" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis preparations:skin" ; Times: 1
+	Query: "Dipodomys" ; Times: 1
+	Query: "urocitellus columbianus" ; Times: 3
+	Query: "Peromyscus polionotus type:specimen" ; Times: 1
+
+
+End of report.
