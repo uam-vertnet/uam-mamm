@@ -1,0 +1,286 @@
+Report for Institution Code UAM, Resource uam_mamm
+Usage stats for August 2016, generated on 2016/09/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 182
+Number of records retrieved in searches: 1933
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Canada ; Times: 2
+	Country: Australia ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 9
+	Country: Unknown ; Times: 23
+	Country: France ; Times: 7
+	Country: United Kingdom ; Times: 4
+	Country: Germany ; Times: 1
+	Country: Chile ; Times: 1
+	Country: United States ; Times: 124
+	Country: Russia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-10 ; Times: 4
+	Date: 2016-08-11 ; Times: 5
+	Date: 2016-08-12 ; Times: 11
+	Date: 2016-08-13 ; Times: 2
+	Date: 2016-08-14 ; Times: 7
+	Date: 2016-08-15 ; Times: 15
+	Date: 2016-08-16 ; Times: 15
+	Date: 2016-08-17 ; Times: 6
+	Date: 2016-08-18 ; Times: 4
+	Date: 2016-08-19 ; Times: 4
+	Date: 2016-08-30 ; Times: 16
+	Date: 2016-08-31 ; Times: 6
+	Date: 2016-08-29 ; Times: 8
+	Date: 2016-08-28 ; Times: 4
+	Date: 2016-08-25 ; Times: 23
+	Date: 2016-08-24 ; Times: 13
+	Date: 2016-08-27 ; Times: 2
+	Date: 2016-08-26 ; Times: 8
+	Date: 2016-08-20 ; Times: 8
+	Date: 2016-08-23 ; Times: 9
+	Date: 2016-08-22 ; Times: 11
+	Date: 2016-08-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "114007" ; Times: 1
+	Query: "34126" ; Times: 1
+	Query: "Lepus americanus distance(location,geopoint(46.800059446787316,-122.0361328125))&lt;100000" ; Times: 1
+	Query: "genus:Ovis Nelson" ; Times: 1
+	Query: "specificepithet:monax genus:Marmota hasmass:1" ; Times: 1
+	Query: "catalognumber:114007" ; Times: 1
+	Query: "lontra canadensis tissue:1" ; Times: 1
+	Query: "mustela putorius" ; Times: 2
+	Query: "90-171" ; Times: 2
+	Query: "ribbon seal" ; Times: 1
+	Query: "trichechus manatus" ; Times: 1
+	Query: "54750" ; Times: 1
+	Query: "egg alaska 1894" ; Times: 1
+	Query: "urocitellus undulatus" ; Times: 5
+	Query: "Dermoptera mappable:1" ; Times: 2
+	Query: "Lepus americanus distance(location,geopoint(46.800059446787316,-122.0361328125))&lt;200072" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "Lepus americanus distance(location,geopoint(47.87214396888731,-118.916015625))&lt;216446" ; Times: 1
+	Query: "uam 11634" ; Times: 1
+	Query: "&#34;mustela putorius&#34;" ; Times: 1
+	Query: "genus:napaeozapus stateprovince:&#34;new hampshire&#34; institutioncode:UAM" ; Times: 2
+	Query: "ringed seal" ; Times: 1
+	Query: "genus:Canis hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:scrofa genus:sus month &gt;= 2 month &lt;= 5" ; Times: 2
+	Query: "Lepus americanus distance(location,geopoint(46.22545288226939,-120.9814453125))&lt;236124" ; Times: 1
+	Query: "Lepus americanus distance(location,geopoint(46.800059446787316,-122.0361328125))&lt;156049" ; Times: 1
+	Query: "haslifestage:1 hassex:1 hasmass:1 haslength:1 hastypestatus:1 hasmedia:1 hastissue:1" ; Times: 1
+	Query: "catalognumber:25201" ; Times: 1
+	Query: "specificepithet:bachmani genus:Sylvilagus tissue:1" ; Times: 1
+	Query: "8974" ; Times: 1
+	Query: "orca" ; Times: 1
+	Query: "Cabassous" ; Times: 1
+	Query: "Lepus americanus year &gt;= 1984 year &lt;= 2015 distance(location,geopoint(47.15984001304432,-119.970703125))&lt;219702" ; Times: 1
+	Query: "Lepus americanus distance(location,geopoint(47.87214396888731,-118.916015625))&lt;312851" ; Times: 1
+	Query: "skulls" ; Times: 1
+	Query: "microtus abbreviatus" ; Times: 4
+	Query: "ovis dalli zoo" ; Times: 1
+	Query: "mummy" ; Times: 6
+	Query: "class:Mammalia ovis canadensis" ; Times: 1
+	Query: "96656" ; Times: 1
+	Query: "Octodon" ; Times: 1
+	Query: "uam 16615" ; Times: 1
+	Query: "52883" ; Times: 1
+	Query: "oxymycterus delator" ; Times: 2
+	Query: "catalognumber:116487" ; Times: 1
+	Query: "monster" ; Times: 6
+	Query: "San Nicolas Island AND 1946 NOT MExico NOT ICH NOT Fish" ; Times: 2
+	Query: "catalognumber:119809" ; Times: 1
+	Query: "Lepus americanus distance(location,geopoint(46.22545288226939,-120.9814453125))&lt;200071.56360911494" ; Times: 1
+	Query: "enhydra" ; Times: 1
+	Query: "95656" ; Times: 1
+	Query: "pika" ; Times: 1
+	Query: "Lepus americanus year &gt;= 1984 year &lt;= 2015" ; Times: 1
+	Query: "&#34;Orcinus orca&#34; mappable:1" ; Times: 1
+	Query: "Xerospermophilus mohavensis" ; Times: 1
+	Query: "class:Mammalia type:specimen mappable:1 media:1 tissue:1" ; Times: 1
+	Query: "Lepus americanus year &gt;= 1984 year &lt;= 2015 distance(location,geopoint(47.15984001304432,-119.970703125))&lt;100000" ; Times: 1
+	Query: "genus:Ovis nelson" ; Times: 1
+	Query: "notiosorex mexico" ; Times: 2
+	Query: "&#34;Dasypus novemcinctus&#34; mappable:1" ; Times: 1
+	Query: "Clark Mountain" ; Times: 2
+	Query: "tom r. johnson" ; Times: 1
+	Query: "21820" ; Times: 1
+	Query: "genus:MEPHITIS stateprovince:&#34;WASHINGTON&#34;" ; Times: 5
+	Query: "Lepus americanus year &gt;= 1980 year &lt;= 2016 distance(location,geopoint(46.78501604269253,-120.47607421875))&lt;282828" ; Times: 1
+	Query: "whale" ; Times: 1
+	Query: "type:specimen specificepithet:macrocephalus genus:Physeter tissue:1" ; Times: 1
+	Query: "mesoplodon" ; Times: 3
+	Query: "Homo sapiens AND Island" ; Times: 1
+	Query: "orcinus orca" ; Times: 1
+	Query: "Cabassous tatouay" ; Times: 1
+	Query: "Barbara Island AND Phoca" ; Times: 1
+	Query: "Callithrix jacchus 1" ; Times: 1
+	Query: "axillary girth" ; Times: 2
+	Query: "72619" ; Times: 1
+	Query: "American Pika" ; Times: 1
+	Query: "90-128" ; Times: 1
+	Query: "Granite Mountain" ; Times: 1
+	Query: "microtus canicaudus" ; Times: 3
+	Query: "genus:Oryctolagus lengthinmm &gt;= 20 lengthinmm &lt;= 600 haslength:1" ; Times: 2
+	Query: "64030" ; Times: 1
+	Query: "Panthera uncia" ; Times: 1
+	Query: "ant" ; Times: 1
+	Query: "primate" ; Times: 1
+	Query: "glaucomys volans massachusetts" ; Times: 1
+	Query: "grampus griseus" ; Times: 4
+	Query: "spermophilus mohavensis" ; Times: 1
+	Query: "tom johnson" ; Times: 1
+	Query: "10923" ; Times: 3
+	Query: "10929" ; Times: 1
+	Query: "ovis zoo" ; Times: 2
+	Query: "71290" ; Times: 1
+	Query: "14878" ; Times: 1
+	Query: "berardius bairdii" ; Times: 1
+	Query: "minimus institutioncode:UAM tissue:1" ; Times: 1
+	Query: "catalognumber:41513" ; Times: 1
+	Query: "Grizzly bear" ; Times: 2
+	Query: "genus:napaeozapus stateprovince:&#34;new hampshire&#34;" ; Times: 1
+	Query: "92074" ; Times: 1
+	Query: "Maxomys surifer mappable:1" ; Times: 1
+	Query: "Lepus americanus distance(location,geopoint(46.22545288226939,-120.9814453125))&lt;305888" ; Times: 1
+	Query: "TP" ; Times: 1
+	Query: "uncia uncia" ; Times: 1
+	Query: "specificepithet:leucas genus:Delphinapterus stateprovince:&#34;Alaska&#34; year &gt;= 2009 year &lt;= 2016" ; Times: 1
+	Query: "CM 92563" ; Times: 1
+	Query: "Lepus Townsendii" ; Times: 5
+	Query: "lepus townsendii" ; Times: 3
+	Query: "Homo sapiens" ; Times: 3
+	Query: "genus:Oryctolagus lengthinmm &gt;= 20 lengthinmm &lt;= 600 lengthtype:total length haslength:1" ; Times: 2
+	Query: "catalognumber:1726" ; Times: 1
+	Query: "13787" ; Times: 1
+	Query: "microtus xanthognathus" ; Times: 1
+	Query: "genus:mephitis stateprovince:&#34;WASHINGTON&#34;" ; Times: 1
+	Query: "mustela frenata massachusetts" ; Times: 2
+	Query: "fasciata mammal" ; Times: 3
+	Query: "hydrurga" ; Times: 2
+	Query: "175126" ; Times: 1
+	Query: "Borba mammalia" ; Times: 1
+	Query: "mustela putorius mappable:1 tissue:1" ; Times: 1
+	Query: "catalognumber:120426" ; Times: 1
+	Query: "dasypus" ; Times: 1
+	Query: "type:specimen specificepithet:macrocephalus genus:Physeter" ; Times: 1
+	Query: "lengthtype:head-body length" ; Times: 1
+	Query: "108905" ; Times: 1
+	Query: "haslifestage:1 hassex:1 hasmass:1 haslength:1 hasmedia:1 hastissue:1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 103 (out of 924 download events in this period)
+Total number of records downloaded: 47363
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Netherlands ; Times: 4
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: Unknown ; Times: 18
+	Country: France ; Times: 6
+	Country: United States ; Times: 65
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-10 ; Times: 2
+	Date: 2016-08-11 ; Times: 3
+	Date: 2016-08-12 ; Times: 3
+	Date: 2016-08-13 ; Times: 1
+	Date: 2016-08-14 ; Times: 4
+	Date: 2016-08-15 ; Times: 6
+	Date: 2016-08-16 ; Times: 16
+	Date: 2016-08-17 ; Times: 1
+	Date: 2016-08-18 ; Times: 1
+	Date: 2016-08-19 ; Times: 2
+	Date: 2016-08-30 ; Times: 7
+	Date: 2016-08-31 ; Times: 12
+	Date: 2016-08-29 ; Times: 3
+	Date: 2016-08-28 ; Times: 3
+	Date: 2016-08-25 ; Times: 17
+	Date: 2016-08-24 ; Times: 9
+	Date: 2016-08-27 ; Times: 1
+	Date: 2016-08-26 ; Times: 2
+	Date: 2016-08-21 ; Times: 1
+	Date: 2016-08-20 ; Times: 3
+	Date: 2016-08-23 ; Times: 3
+	Date: 2016-08-22 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:truei genus:Peromyscus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:ordii genus:Dipodomys distance(location,geopoint(39.740986355883614,-114.89501953125))&lt;304067.83599563397" ; Times: 1
+	Query: "Clark Mountain" ; Times: 2
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "specificepithet:longicaudus genus:Microtus stateprovince:&#34;California&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "order:Lagomorpha hasmass:1" ; Times: 2
+	Query: "microtus longicaudus" ; Times: 1
+	Query: "Lepus americanus distance(location,geopoint(47.87214396888731,-118.916015625))&lt;312851" ; Times: 1
+	Query: "canis lupus" ; Times: 2
+	Query: "specificepithet:monax genus:Marmota hasmass:1" ; Times: 1
+	Query: "dipodomys microps" ; Times: 1
+	Query: "microtus californicus" ; Times: 1
+	Query: "lontra canadensis tissue:1" ; Times: 1
+	Query: "artibeus lituratus" ; Times: 1
+	Query: "order:Lagomorpha haslength:1" ; Times: 4
+	Query: "specificepithet:ordii genus:Dipodomys stateprovince:&#34;Utah&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "specificepithet:longicaudus genus:Microtus stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "specificepithet:ordii genus:Dipodomys stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;California&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 2
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "microtus townsendii" ; Times: 1
+	Query: "microtus miurus" ; Times: 2
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Nevada&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "order:Rodentia distance(location,geopoint(39.94343646197423,-115.15869140625))&lt;247312.59442489027" ; Times: 1
+	Query: "microtus xanthognathus" ; Times: 1
+	Query: "lutra" ; Times: 1
+	Query: "microtus chrotorrhinus" ; Times: 1
+	Query: "Maxomys surifer mappable:1" ; Times: 1
+	Query: "Lepus americanus distance(location,geopoint(46.22545288226939,-120.9814453125))&lt;305888" ; Times: 1
+	Query: "specificepithet:longicaudus genus:Microtus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "microtus pinetorum" ; Times: 1
+	Query: "specificepithet:microps genus:Dipodomys stateprovince:&#34;Nevada&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "microtus oeconomus" ; Times: 1
+	Query: "Dermoptera mappable:1" ; Times: 1
+	Query: "microtus mexicanus" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 24
+	Query: "Coyote (Canis)" ; Times: 1
+	Query: "microtus montanus" ; Times: 1
+	Query: "lepus townsendii" ; Times: 1
+	Query: "&#34;mustela putorius&#34;" ; Times: 1
+	Query: "specificepithet:montanus genus:Microtus stateprovince:&#34;California&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "microtus ochrogaster" ; Times: 1
+	Query: "order:Lagomorpha hasmass:1 haslength:1" ; Times: 1
+	Query: "microtus abbreviatus" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Idaho&#34;" ; Times: 2
+	Query: "specificepithet:megalotis genus:Reithrodontomys stateprovince:&#34;California&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "Granite Mountain" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "specificepithet:microps genus:Dipodomys stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "microtus oregoni" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Idaho&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 2
+	Query: "Papio skull type:specimen" ; Times: 1
+	Query: "genus:Myotis hasmass:1" ; Times: 1
+	Query: "ovis canadensis" ; Times: 1
+	Query: "berardius bairdii" ; Times: 1
+	Query: "microtus canicaudus" ; Times: 2
+	Query: "genus:ochotona" ; Times: 1
+	Query: "lontra canadensis" ; Times: 1
+	Query: "Mexico" ; Times: 1
+	Query: "myotis septentrionalis" ; Times: 1
+	Query: "spermophilus mohavensis" ; Times: 1
+	Query: "Xerospermophilus mohavensis" ; Times: 1
+	Query: "specificepithet:truei genus:Peromyscus stateprovince:&#34;California&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Microtus class:Mammalia basisofrecord:PreservedSpecimen hassex:1 hasmass:1 haslength:1 mappable:1" ; Times: 1
+	Query: "mammalia Cryptotis" ; Times: 2
+	Query: "specificepithet:montanus genus:Microtus stateprovince:&#34;California&#34;" ; Times: 1
+
+
+End of report.
