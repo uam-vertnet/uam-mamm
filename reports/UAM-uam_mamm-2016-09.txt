@@ -1,0 +1,256 @@
+Report for Institution Code UAM, Resource uam_mamm
+Usage stats for September 2016, generated on 2016/10/31
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 416
+Number of records retrieved in searches: 6649
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 363
+	Country: Portugal ; Times: 31
+	Country: Unknown ; Times: 3
+	Country: Costa Rica ; Times: 1
+	Country: United Kingdom ; Times: 3
+	Country: Colombia ; Times: 11
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-07 ; Times: 111
+	Date: 2016-09-01 ; Times: 9
+	Date: 2016-09-13 ; Times: 17
+	Date: 2016-09-12 ; Times: 21
+	Date: 2016-09-11 ; Times: 1
+	Date: 2016-09-10 ; Times: 11
+	Date: 2016-09-08 ; Times: 81
+	Date: 2016-09-09 ; Times: 17
+	Date: 2016-09-14 ; Times: 13
+	Date: 2016-09-04 ; Times: 14
+	Date: 2016-09-23 ; Times: 1
+	Date: 2016-09-05 ; Times: 42
+	Date: 2016-09-21 ; Times: 6
+	Date: 2016-09-26 ; Times: 1
+	Date: 2016-09-06 ; Times: 41
+	Date: 2016-09-02 ; Times: 16
+	Date: 2016-09-03 ; Times: 14
+
+List of queries that retrieved data from the resource: 
+	Query: "north american porcupine genus:Erethizon dorsatum mappable:1" ; Times: 1
+	Query: "&#34;Dermoptera&#34; mappable:1" ; Times: 4
+	Query: "human" ; Times: 1
+	Query: "scientificname:&#34;smilodectes gracilis&#34; OR scientificname:&#34;platychoerops daubrei&#34; OR scientificname:&#34;bustylus marandati&#34; OR scientificname:&#34;afrodon gheerbranti&#34; OR scientificname:&#34;nasalis larvatus&#34; OR scientificname:&#34;miopithecus talapoin&#34; OR scientificname:&#34;galeopterus variegatus&#34; OR scientificname:&#34;leptadapis magnus&#34; OR scientificname:&#34;mandrillus sphinx&#34; OR scientificname:&#34;chiropotes satanas&#34; OR scientificname:&#34;cebus capucinus&#34; OR scientificname:&#34;cacajao calvus&#34; OR scientificname:&#34;callicebus moloch&#34; OR scientificname:&#34;ptilocercus lowii&#34; OR scientificname:&#34;adapis parisiensis&#34; OR scientificname:&#34;[not referred] [not referred]&#34; OR scientificname:&#34;titanoboa cerrejonensis&#34; OR scientificname:&#34;callithrix argentata&#34; OR scientificname:&#34;callithrix humeralifera&#34; OR scientificname:&#34;callithrix jacchus&#34; OR scientificname:&#34;callithrix sp.&#34; OR scientificname:&#34;cebus apella&#34; OR scientificname:&#34;calippus cerasinus&#34; OR scientificname:&#34;calippus elachistus&#34; OR scientificname:&#34;anchitherium clarencei&#34; OR scientificname:&#34;parahippus leonensis&#34; OR scientificname:&#34;parahippus barbouri&#34; OR scientificname:&#34;archaeohippus blackbergi&#34; OR scientificname:&#34;sifrhippus sandrae&#34; OR scientificname:&#34;nannippus peninsulatus&#34; OR scientificname:&#34;dinohippus mexicanus&#34;" ; Times: 1
+	Query: "cynocephalus" ; Times: 2
+	Query: "(Dasypus novemcinctus) mappable:1" ; Times: 1
+	Query: "dermoptera Cynocephalidae mappable:1" ; Times: 1
+	Query: "specificepithet:hudsonius genus:zapus locality:yakutat stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "&#34;Odobenus rosmarus&#34; mappable:1" ; Times: 3
+	Query: "scientificname:&#34;cynocephalus variegatus&#34; OR scientificname:&#34;cynocephalus volans&#34; OR scientificname:&#34;daubentonia madagascariensis&#34; OR scientificname:&#34;eulemur fulvus&#34; OR scientificname:&#34;galago senegalensis&#34; OR scientificname:&#34;microcebus murinus&#34; OR scientificname:&#34;mirza coquereli&#34; OR scientificname:&#34;lagothrix sp&#34; OR scientificname:&#34;alouatta palliata&#34; OR scientificname:&#34;lemur catta&#34; OR scientificname:&#34;varecia variegata&#34;" ; Times: 1
+	Query: "Genetta genetta 1" ; Times: 1
+	Query: "Dasypus &#34;Dasypus novemcinctus&#34; mappable:1" ; Times: 1
+	Query: "Dermoptera mappable:1" ; Times: 58
+	Query: "(Dasypus &#34;novemcinctus&#34;) mappable:1" ; Times: 2
+	Query: "82991" ; Times: 1
+	Query: "&#34;novemcinctus&#34; mappable:1" ; Times: 3
+	Query: "Dasypus novemcinctus mappable:1" ; Times: 6
+	Query: "Rodent is" ; Times: 1
+	Query: "120126" ; Times: 1
+	Query: "Dasypus &#34;dasypus novemcinctus&#34; mappable:1" ; Times: 1
+	Query: "dermoptera mappable:1" ; Times: 87
+	Query: "specificepithet:frenata genus:mustela institutioncode:UAM" ; Times: 1
+	Query: "13921" ; Times: 1
+	Query: "cynocephalus variegatus mappable:1" ; Times: 1
+	Query: "Tursiops truncatus" ; Times: 1
+	Query: "John Gilbert" ; Times: 2
+	Query: "american pika" ; Times: 1
+	Query: "scientificname:&#34;arctocebus calabarensis&#34; OR scientificname:&#34;nyticebus coucang&#34; OR scientificname:&#34;perodicticus potto&#34; OR scientificname:&#34;lemur catta&#34; OR scientificname:&#34;alouatta palliata&#34; OR scientificname:&#34;nycticebus coucang&#34; OR scientificname:&#34;omomyidae incertae sedis&#34; OR scientificname:&#34;avahi laniger&#34; OR scientificname:&#34;cheirogaleus major&#34; OR scientificname:&#34;cheirogaleus medius&#34; OR scientificname:&#34;cynocephalus variegatus&#34; OR scientificname:&#34;cynocephalus volans&#34; OR scientificname:&#34;daubentonia madagascariensis&#34; OR scientificname:&#34;eulemur fulvus&#34; OR scientificname:&#34;galago senegalensis&#34; OR scientificname:&#34;microcebus murinus&#34; OR scientificname:&#34;mirza coquereli&#34; OR scientificname:&#34;lagothrix sp&#34; OR scientificname:&#34;varecia variegata&#34; OR scientificname:&#34;galago alleni&#34; OR scientificname:&#34;galago demidovii&#34; OR scientificname:&#34;indri indri&#34; OR scientificname:&#34;lepilemur mustelinus&#34; OR scientificname:&#34;loris tardigradus&#34; OR scientificname:&#34;microcebus griseorufus&#34; OR scientificname:&#34;microcebus coquereli&#34; OR scientificname:&#34;phaner furcifer&#34; OR scientificname:&#34;propithecus diadema&#34; OR scientificname:&#34;propithecus verreauxi&#34; OR scientificname:&#34;tarsius bancanus&#34; OR scientificname:&#34;tarsius borneanus&#34;" ; Times: 6
+	Query: "DERMOPTERA" ; Times: 1
+	Query: "393519" ; Times: 1
+	Query: "catalognumber:12498" ; Times: 1
+	Query: "Odobenus mappable:1" ; Times: 1
+	Query: "stikine specificepithet:hudsonius genus:zapus stateprovince:&#34;alaska&#34; institutioncode:UAM" ; Times: 1
+	Query: "34187 institutioncode:UAM" ; Times: 2
+	Query: "Glossophaga soricina 1" ; Times: 1
+	Query: "37187 institutioncode:UAM tissue:1" ; Times: 1
+	Query: "lutrinae" ; Times: 1
+	Query: "scientificname:&#34;aotus trivirgatus&#34; OR scientificname:&#34;alouatta caraya&#34; OR scientificname:&#34;hylobates lar&#34; OR scientificname:&#34;macaca fascicularis&#34; OR scientificname:&#34;alouatta sp.&#34; OR scientificname:&#34;macaca fuscata&#34; OR scientificname:&#34;macaca mulatta&#34; OR scientificname:&#34;macaca sylvanus&#34; OR scientificname:&#34;mandrillus leucophaeus&#34; OR scientificname:&#34;ateles sp.&#34; OR scientificname:&#34;callithrix jacchus&#34; OR scientificname:&#34;callithrix pygmaea&#34; OR scientificname:&#34;saguinus midas&#34; OR scientificname:&#34;cebus apella&#34; OR scientificname:&#34;saimiri boliviensis&#34; OR scientificname:&#34;saimiri sciureus&#34; OR scientificname:&#34;semnopithecus entellus&#34; OR scientificname:&#34;pan troglodytes&#34; OR scientificname:&#34;pongo pygmaeus&#34; OR scientificname:&#34;cacajao calvus&#34; OR scientificname:&#34;callicebus moloch&#34; OR scientificname:&#34;microcebus griseorufus&#34; OR scientificname:&#34;propithecus verreauxi&#34; OR scientificname:&#34;eulemur fulvus&#34; OR scientificname:&#34;lemur catta&#34; OR scientificname:&#34;lepilemur mustelinus&#34; OR scientificname:&#34;euoticus elegantulus&#34; OR scientificname:&#34;galago senegalensis&#34; OR scientificname:&#34;galagoides demidovii&#34; OR scientificname:&#34;otolemur crassicaudatus&#34; OR scientificname:&#34;arctocebus calabarensis&#34;" ; Times: 1
+	Query: "Dermoptera cynocephalidae mappable:1" ; Times: 2
+	Query: "PTC" ; Times: 1
+	Query: "specificepithet:hudsonius genus:zapus stateprovince:&#34;british columbia&#34;" ; Times: 1
+	Query: "&#34;dermoptera&#34; mappable:1" ; Times: 2
+	Query: "type:specimen specificepithet:alaskanus genus:Sorex" ; Times: 1
+	Query: "21963" ; Times: 1
+	Query: "monster" ; Times: 1
+	Query: "elephantidae type:specimen tissue:1" ; Times: 1
+	Query: " (mustela nivalis OR mustela erminea)" ; Times: 1
+	Query: "&#34;porcupine&#34; &#34;Erethizon&#34; mappable:1" ; Times: 1
+	Query: "dasypus &#34;novemcinctus&#34; mappable:1" ; Times: 2
+	Query: "creek specificepithet:hudsonius genus:zapus stateprovince:&#34;alaska&#34; institutioncode:UAM" ; Times: 2
+	Query: "(Dermoptera) mappable:1" ; Times: 1
+	Query: "27582" ; Times: 1
+	Query: "Neovison vison 1" ; Times: 6
+	Query: "70064" ; Times: 1
+	Query: "99447" ; Times: 1
+	Query: "pika" ; Times: 2
+	Query: "69273" ; Times: 1
+	Query: "specificepithet:hudsonius genus:zapus locality:cottonwood" ; Times: 1
+	Query: "Myocastor coypus 1" ; Times: 1
+	Query: "Human" ; Times: 1
+	Query: "&#34;Dasypus novemcinctus&#34; mappable:1" ; Times: 33
+	Query: "Panthera tigris zoo" ; Times: 1
+	Query: "type:specimen specificepithet:franklinii genus:poliocitellus" ; Times: 2
+	Query: "Fairbanks specificepithet:hudsonius genus:zapus stateprovince:&#34;alaska&#34; institutioncode:UAM" ; Times: 1
+	Query: "slate creek specificepithet:hudsonius genus:zapus stateprovince:&#34;alaska&#34; institutioncode:UAM" ; Times: 1
+	Query: "77230" ; Times: 1
+	Query: "&#34;Oreamnos americanus&#34; mappable:1" ; Times: 1
+	Query: "ants" ; Times: 1
+	Query: "locality:akutan stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "bos taurus taurus" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "Mus musculus 1" ; Times: 2
+	Query: "&#34;porcupine&#34; &#34;erethizon&#34; mappable:1" ; Times: 2
+	Query: "Leptonycteris nivalis 1" ; Times: 1
+	Query: "(dermoptera) mappable:1" ; Times: 1
+	Query: "orcinus orca" ; Times: 3
+	Query: "scientificname:&#34;cacajao melanocephalus&#34; OR scientificname:&#34;callicebus donacophilus&#34; OR scientificname:&#34;callicebus moloch&#34; OR scientificname:&#34;callicebus torquatus&#34; OR scientificname:&#34;cebus apella&#34; OR scientificname:&#34;cebus capucinus&#34; OR scientificname:&#34;chiropotes albinasus&#34; OR scientificname:&#34;chiropotes satanas&#34; OR scientificname:&#34;lagothrix lagotricha&#34; OR scientificname:&#34;pithecia monachus&#34; OR scientificname:&#34;pithecia pithecia&#34; OR scientificname:&#34;saimiri boliviensis&#34; OR scientificname:&#34;saimiri sciureus&#34; OR scientificname:&#34;asiadapis cambayensis&#34; OR scientificname:&#34;marcgodinotius indicus&#34; OR scientificname:&#34;incertae sedis&#34; OR scientificname:&#34;necrolemur antiquus&#34; OR scientificname:&#34;alouatta seniculus&#34; OR scientificname:&#34;stirtonia tatacoensis&#34; OR scientificname:&#34;tupaia glis&#34; OR scientificname:&#34;lagothrix sp&#34; OR scientificname:&#34;varecia variegata&#34; OR scientificname:&#34;lemur catta&#34; OR scientificname:&#34;eulemur fulvus&#34; OR scientificname:&#34;galago senegalensis&#34; OR scientificname:&#34;loris tardigradus&#34; OR scientificname:&#34;microcebus griseorufus&#34; OR scientificname:&#34;mirza coquereli&#34; OR scientificname:&#34;nycticebus coucang&#34; OR scientificname:&#34;perodicticus potto&#34; OR scientificname:&#34;aegyptopithecus zeuxis&#34;" ; Times: 2
+	Query: "Alces" ; Times: 1
+	Query: "72673" ; Times: 1
+	Query: "&#34;Dasypus&#34; &#34;novemcinctus&#34; mappable:1" ; Times: 1
+	Query: "scientificname:&#34;arctocebus&#34; OR scientificname:&#34;arctocebus calabarensis&#34; OR scientificname:&#34;nyticebus&#34; OR scientificname:&#34;nyticebus coucang&#34; OR scientificname:&#34;perodicticus&#34; OR scientificname:&#34;perodicticus potto&#34; OR scientificname:&#34;lemur&#34; OR scientificname:&#34;lemur catta&#34; OR scientificname:&#34;alouatta&#34; OR scientificname:&#34;alouatta palliata&#34; OR scientificname:&#34;nycticebus&#34; OR scientificname:&#34;nycticebus coucang&#34; OR scientificname:&#34;omomyidae&#34; OR scientificname:&#34;omomyidae incertae sedis&#34; OR scientificname:&#34;avahi&#34; OR scientificname:&#34;avahi laniger&#34; OR scientificname:&#34;cheirogaleus&#34; OR scientificname:&#34;cheirogaleus major&#34; OR scientificname:&#34;cheirogaleus medius&#34; OR scientificname:&#34;cynocephalus&#34; OR scientificname:&#34;cynocephalus variegatus&#34; OR scientificname:&#34;cynocephalus volans&#34; OR scientificname:&#34;daubentonia&#34; OR scientificname:&#34;daubentonia madagascariensis&#34; OR scientificname:&#34;eulemur&#34; OR scientificname:&#34;eulemur fulvus&#34; OR scientificname:&#34;galago&#34; OR scientificname:&#34;galago senegalensis&#34; OR scientificname:&#34;microcebus&#34; OR scientificname:&#34;microcebus murinus&#34; OR scientificname:&#34;mirza&#34; OR scientificname:&#34;mirza coquereli&#34;" ; Times: 2
+	Query: "&#34;Odobenus&#34; mappable:1" ; Times: 1
+	Query: "NA 1" ; Times: 9
+	Query: "DERMOPTERA mappable:1" ; Times: 2
+	Query: "&#34;bison bison&#34; mappable:1" ; Times: 1
+	Query: "specificepithet:hudsonius genus:zapus locality:amalik bay stateprovince:&#34;alaska&#34; institutioncode:UAM" ; Times: 1
+	Query: "homo sapiens" ; Times: 1
+	Query: "Cynocephalus mappable:1" ; Times: 2
+	Query: "lynx rufus massachusetts" ; Times: 3
+	Query: "homo" ; Times: 1
+	Query: "specificepithet:hudsonius genus:zapus stateprovince:&#34;alaska&#34; institutioncode:UAM" ; Times: 1
+	Query: "dermoptera Cynocephalidae (java) mappable:1" ; Times: 1
+	Query: "&#34;mammuthus primigenius&#34; mappable:1" ; Times: 1
+	Query: "dermoptera" ; Times: 13
+	Query: "14798" ; Times: 1
+	Query: "genus:&#34;arctocebus&#34; OR scientificname:&#34;arctocebus calabarensis&#34; OR genus:&#34;nyticebus&#34; OR scientificname:&#34;nyticebus coucang&#34; OR genus:&#34;perodicticus&#34; OR scientificname:&#34;perodicticus potto&#34; OR genus:&#34;lemur&#34; OR scientificname:&#34;lemur catta&#34; OR genus:&#34;alouatta&#34; OR scientificname:&#34;alouatta palliata&#34; OR genus:&#34;nycticebus&#34; OR scientificname:&#34;nycticebus coucang&#34; OR genus:&#34;omomyidae&#34; OR scientificname:&#34;omomyidae incertae sedis&#34; OR genus:&#34;avahi&#34; OR scientificname:&#34;avahi laniger&#34; OR genus:&#34;cheirogaleus&#34; OR scientificname:&#34;cheirogaleus major&#34; OR scientificname:&#34;cheirogaleus medius&#34; OR genus:&#34;cynocephalus&#34; OR scientificname:&#34;cynocephalus variegatus&#34; OR scientificname:&#34;cynocephalus volans&#34; OR genus:&#34;daubentonia&#34; OR scientificname:&#34;daubentonia madagascariensis&#34; OR genus:&#34;eulemur&#34; OR scientificname:&#34;eulemur fulvus&#34; OR genus:&#34;galago&#34; OR scientificname:&#34;galago senegalensis&#34; OR genus:&#34;microcebus&#34; OR scientificname:&#34;microcebus murinus&#34; OR genus:&#34;mirza&#34; OR scientificname:&#34;mirza coquereli&#34;" ; Times: 1
+	Query: "specificepithet:hudsonius genus:zapus locality:Fairbanks stateprovince:&#34;alaska&#34; institutioncode:UAM" ; Times: 1
+	Query: "dermoptera mappable:1 cynocephalus variegatus" ; Times: 1
+	Query: "&#34;dasypus novemcinctus&#34; mappable:1" ; Times: 9
+	Query: "118309" ; Times: 2
+	Query: "Dasypodidae continent:North America mappable:1" ; Times: 1
+	Query: "&#34;dasypus&#34; mappable:1" ; Times: 2
+	Query: "Ovis aries 1" ; Times: 1
+	Query: "&#34;dermoptera&#34;" ; Times: 1
+	Query: "12359" ; Times: 1
+	Query: "Erethizon dorsatum mappable:1" ; Times: 1
+	Query: "genus:&#34;arctocebus&#34; OR genus:&#34;nyticebus&#34; OR genus:&#34;perodicticus&#34; OR genus:&#34;lemur&#34; OR genus:&#34;alouatta&#34; OR genus:&#34;nycticebus&#34; OR genus:&#34;omomyidae&#34; OR genus:&#34;avahi&#34; OR genus:&#34;cheirogaleus&#34; OR genus:&#34;cynocephalus&#34; OR genus:&#34;daubentonia&#34; OR genus:&#34;eulemur&#34; OR genus:&#34;galago&#34; OR genus:&#34;microcebus&#34; OR genus:&#34;mirza&#34; OR genus:&#34;lagothrix&#34; OR genus:&#34;varecia&#34; OR genus:&#34;indri&#34; OR genus:&#34;lepilemur&#34; OR genus:&#34;loris&#34; OR genus:&#34;phaner&#34; OR genus:&#34;propithecus&#34; OR genus:&#34;tarsius&#34;" ; Times: 4
+	Query: "locality:atka stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 2
+	Query: "tuluksak specificepithet:hudsonius genus:zapus stateprovince:&#34;alaska&#34; institutioncode:UAM" ; Times: 1
+	Query: "dasypus novemcinctus" ; Times: 5
+	Query: "genus:Dasypus mappable:1" ; Times: 1
+	Query: "R-185165" ; Times: 1
+	Query: "PTC 09-1" ; Times: 1
+	Query: "Cynocephalidae mappable:1" ; Times: 1
+	Query: "Marmota marmota 1" ; Times: 6
+	Query: "Dermoptera" ; Times: 5
+	Query: "scientificname:&#34;arctocebus calabarensis&#34; OR scientificname:&#34;nyticebus coucang&#34; OR scientificname:&#34;perodicticus potto&#34; OR scientificname:&#34;lemur catta&#34; OR scientificname:&#34;alouatta palliata&#34; OR scientificname:&#34;nycticebus coucang&#34; OR scientificname:&#34;omomyidae incertae sedis&#34; OR scientificname:&#34;avahi laniger&#34; OR scientificname:&#34;cheirogaleus major&#34; OR scientificname:&#34;cheirogaleus medius&#34; OR scientificname:&#34;cynocephalus variegatus&#34;" ; Times: 2
+	Query: "specificepithet:hudsonius genus:zapus locality:fairbanks stateprovince:&#34;alaska&#34; institutioncode:UAM" ; Times: 1
+	Query: "slate specificepithet:hudsonius genus:zapus stateprovince:&#34;alaska&#34; institutioncode:UAM" ; Times: 2
+	Query: "dasypus novemcinctus mappable:1" ; Times: 8
+	Query: "44736" ; Times: 1
+	Query: "Lagopus lagopus 1" ; Times: 1
+	Query: "Procyon lotor 1" ; Times: 8
+	Query: "trichechus manatus mappable:1" ; Times: 1
+	Query: "Rattus rattus 1" ; Times: 4
+	Query: "Rattus norvegicus 1" ; Times: 7
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 250 (out of 811 download events in this period)
+Total number of records downloaded: 6717
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 3
+	Country: Netherlands ; Times: 99
+	Country: Unknown ; Times: 1
+	Country: Costa Rica ; Times: 1
+	Country: United States ; Times: 141
+	Country: United Kingdom ; Times: 1
+	Country: Paraguay ; Times: 1
+	Country: Thailand ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-13 ; Times: 11
+	Date: 2016-09-12 ; Times: 12
+	Date: 2016-09-11 ; Times: 9
+	Date: 2016-09-10 ; Times: 2
+	Date: 2016-09-17 ; Times: 1
+	Date: 2016-09-16 ; Times: 3
+	Date: 2016-09-15 ; Times: 8
+	Date: 2016-09-14 ; Times: 4
+	Date: 2016-09-30 ; Times: 5
+	Date: 2016-09-19 ; Times: 3
+	Date: 2016-09-18 ; Times: 4
+	Date: 2016-09-06 ; Times: 25
+	Date: 2016-09-07 ; Times: 27
+	Date: 2016-09-27 ; Times: 10
+	Date: 2016-09-02 ; Times: 20
+	Date: 2016-09-25 ; Times: 2
+	Date: 2016-09-28 ; Times: 3
+	Date: 2016-09-29 ; Times: 2
+	Date: 2016-09-08 ; Times: 25
+	Date: 2016-09-09 ; Times: 2
+	Date: 2016-09-22 ; Times: 5
+	Date: 2016-09-23 ; Times: 9
+	Date: 2016-09-20 ; Times: 1
+	Date: 2016-09-21 ; Times: 3
+	Date: 2016-09-04 ; Times: 4
+	Date: 2016-09-01 ; Times: 13
+	Date: 2016-09-24 ; Times: 1
+	Date: 2016-09-03 ; Times: 21
+	Date: 2016-09-05 ; Times: 15
+
+List of queries that retrieved data from the resource: 
+	Query: "molossidae tissue:1" ; Times: 1
+	Query: "DERMOPTERA mappable:1" ; Times: 1
+	Query: "mustela nivalis" ; Times: 1
+	Query: "stikine specificepithet:hudsonius genus:zapus stateprovince:&#34;alaska&#34; institutioncode:UAM" ; Times: 1
+	Query: "class:Mammalia country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "order:Lagomorpha stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:hudsonius genus:zapus locality:yakutat stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;California&#34;" ; Times: 12
+	Query: "tadpole" ; Times: 1
+	Query: "(dermoptera) mappable:1" ; Times: 1
+	Query: "&#34;Cynocephalidae&#34; mappable:1" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;Utah&#34;" ; Times: 4
+	Query: "genus:ochotona" ; Times: 2
+	Query: "genus:ochotona year:2005" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 120
+	Query: "specificepithet:hudsonius genus:zapus locality:amalik bay stateprovince:&#34;alaska&#34; institutioncode:UAM" ; Times: 1
+	Query: "specificepithet:hudsonius genus:zapus locality:yakutat" ; Times: 1
+	Query: "specificepithet:hudsonius genus:zapus locality:Fairbanks stateprovince:&#34;alaska&#34; institutioncode:UAM" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;Nevada&#34;" ; Times: 6
+	Query: "Dermoptera mappable:1" ; Times: 23
+	Query: "desmodus rotundus" ; Times: 1
+	Query: "&#34;Mephitis mephitis&#34; mappable:1" ; Times: 2
+	Query: "Bethel specificepithet:hudsonius genus:zapus stateprovince:&#34;alaska&#34; institutioncode:UAM" ; Times: 1
+	Query: "Cynocephalidae mappable:1" ; Times: 1
+	Query: "dermoptera mappable:1" ; Times: 47
+	Query: "Dermoptera" ; Times: 1
+	Query: "Macrotus californicus mappable:1" ; Times: 1
+	Query: "Cynocephalus mappable:1" ; Times: 1
+	Query: "Myotis keenii" ; Times: 1
+	Query: "thailand" ; Times: 2
+	Query: "type:specimen country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "tamias amoenus" ; Times: 1
+	Query: "&#34;dermoptera&#34; mappable:1" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;Idaho&#34;" ; Times: 4
+	Query: "dermoptera" ; Times: 2
+	Query: "glossophaga soricina" ; Times: 1
+
+
+End of report.
