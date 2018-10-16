@@ -1,0 +1,944 @@
+Report for Institution Code UAM, Resource uam_mamm
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 2404
+Number of records retrieved in searches: 8544
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 53
+	Country: United States ; Times: 201
+	Country: Israel ; Times: 7
+	Country: Australia ; Times: 1
+	Country: Colombia ; Times: 5
+	Country: Portugal ; Times: 6
+	Country: Mexico ; Times: 6
+	Country: Denmark ; Times: 2109
+	Country: Singapore ; Times: 4
+	Country: Czechia ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: China ; Times: 2
+	Country: Ireland ; Times: 2
+	Country: Unknown ; Times: 3
+	Country: Belgium ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-09 ; Times: 10
+	Date: 2018-02-08 ; Times: 8
+	Date: 2018-02-03 ; Times: 8
+	Date: 2018-02-02 ; Times: 19
+	Date: 2018-02-01 ; Times: 73
+	Date: 2018-02-07 ; Times: 7
+	Date: 2018-02-06 ; Times: 18
+	Date: 2018-02-05 ; Times: 16
+	Date: 2018-02-04 ; Times: 2101
+	Date: 2018-02-21 ; Times: 7
+	Date: 2018-02-20 ; Times: 9
+	Date: 2018-02-23 ; Times: 5
+	Date: 2018-02-22 ; Times: 7
+	Date: 2018-02-24 ; Times: 2
+	Date: 2018-02-27 ; Times: 16
+	Date: 2018-02-26 ; Times: 9
+	Date: 2018-02-28 ; Times: 9
+	Date: 2018-02-14 ; Times: 3
+	Date: 2018-02-15 ; Times: 8
+	Date: 2018-02-16 ; Times: 19
+	Date: 2018-02-17 ; Times: 6
+	Date: 2018-02-10 ; Times: 5
+	Date: 2018-02-11 ; Times: 2
+	Date: 2018-02-12 ; Times: 6
+	Date: 2018-02-13 ; Times: 21
+	Date: 2018-02-18 ; Times: 5
+	Date: 2018-02-19 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:33016?seid=738761&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118708?seid=2055057&#34;" ; Times: 4
+	Query: "dermoptera order:dermoptera mappable:1" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118601?seid=2054950&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118733?seid=2055082&#34;" ; Times: 4
+	Query: "Capra" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118414?seid=2054763&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118679?seid=2055028&#34;" ; Times: 4
+	Query: "Elephas maximus maximus" ; Times: 2
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118518?seid=2054867&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118742?seid=2055091&#34;" ; Times: 4
+	Query: "catalognumber:1322" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:33014?seid=1508746&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118634?seid=2054983&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118483?seid=2054832&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118595?seid=2054944&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:85891?seid=780050&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118642?seid=2054991&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118614?seid=2054963&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118565?seid=2054914&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118463?seid=2054812&#34;" ; Times: 4
+	Query: "Dasypus novemcinctus mappable:1" ; Times: 3
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118516?seid=2054865&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:32999?seid=1469923&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118488?seid=2054837&#34;" ; Times: 4
+	Query: "harbor seal" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118558?seid=2054907&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118528?seid=2054877&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118559?seid=2054908&#34;" ; Times: 4
+	Query: "catalognumber:1508" ; Times: 1
+	Query: "lepus timidus" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118465?seid=2054814&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118619?seid=2054968&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:130651?seid=3174550&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118509?seid=2054858&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118511?seid=2054860&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118701?seid=2055050&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118502?seid=2054851&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118527?seid=2054876&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:97412?seid=1112199&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118657?seid=2055006&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118569?seid=2054918&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118401?seid=2054750&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:97411?seid=302453&#34;" ; Times: 4
+	Query: "15928" ; Times: 1
+	Query: "specificepithet:AEGAGRUS genus:CAPRA" ; Times: 9
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118570?seid=2054919&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118489?seid=2054838&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:33012?seid=1328370&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118639?seid=2054988&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118665?seid=2055014&#34;" ; Times: 4
+	Query: "(19137)" ; Times: 1
+	Query: "specificepithet:attenuata genus:Stenella hastissue:1" ; Times: 1
+	Query: "Ovis canadensis mappable:1" ; Times: 2
+	Query: "&#34;sorex cinereus&#34; vntype:specimen stateprovince:&#34;Minnesota&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "order:dermoptera mappable:1" ; Times: 3
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:130648?seid=3174546&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:111807?seid=289727&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118452?seid=2054801&#34;" ; Times: 4
+	Query: "vntype:specimen country:&#34;United States&#34; (callithrix)" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118738?seid=2055087&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118560?seid=2054909&#34;" ; Times: 4
+	Query: "Equus quagga" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118419?seid=2054768&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118582?seid=2054931&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:33000?seid=1186031&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118660?seid=2055009&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118647?seid=2054996&#34;" ; Times: 4
+	Query: "catalognumber:434" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118484?seid=2054833&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118638?seid=2054987&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:33009?seid=634667&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118534?seid=2054883&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118713?seid=2055062&#34;" ; Times: 4
+	Query: "grypus" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:53753?seid=912895&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118577?seid=2054926&#34;" ; Times: 4
+	Query: "catalognumber:6604" ; Times: 2
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118500?seid=2054849&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118693?seid=2055042&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118553?seid=2054902&#34;" ; Times: 4
+	Query: "ORYCTOLAGUS CUNICULUS EUROPE" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118688?seid=2055037&#34;" ; Times: 4
+	Query: "dasypus &#34;novemcinctus&#34; mappable:1" ; Times: 1
+	Query: "catalognumber:7902" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118404?seid=2054753&#34;" ; Times: 4
+	Query: "85180" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118436?seid=2054785&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118451?seid=2054800&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:33010?seid=777031&#34;" ; Times: 4
+	Query: "80294" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:63105?seid=1384538&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118750?seid=2055099&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118513?seid=2054862&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118561?seid=2054910&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:32971?seid=372159&#34;" ; Times: 4
+	Query: "64210" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118421?seid=2054770&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118485?seid=2054834&#34;" ; Times: 4
+	Query: "Chrotopterus auritus" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118539?seid=2054888&#34;" ; Times: 4
+	Query: "63298" ; Times: 1
+	Query: "rodent" ; Times: 3
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118454?seid=2054803&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:32985?seid=490381&#34;" ; Times: 4
+	Query: "Elephas maximus" ; Times: 2
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:130647?seid=3174545&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118520?seid=2054869&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:32980?seid=329885&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:33007?seid=1240134&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118727?seid=2055076&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118670?seid=2055019&#34;" ; Times: 4
+	Query: "50129" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118718?seid=2055067&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118661?seid=2055010&#34;" ; Times: 4
+	Query: "orcinus orca" ; Times: 2
+	Query: "Bassariscus" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:4840?seid=363273&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:130658?seid=3174558&#34;" ; Times: 4
+	Query: "birds of prey" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118716?seid=2055065&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:32974?seid=447547&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:3391?seid=1112609&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118596?seid=2054945&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118492?seid=2054841&#34;" ; Times: 4
+	Query: "&#34;peromyscus leucopus&#34; vntype:specimen stateprovince:&#34;Michigan&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118531?seid=2054880&#34;" ; Times: 4
+	Query: "ORYCTOLAGUS CUNICULUS" ; Times: 1
+	Query: "Alces alces" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118739?seid=2055088&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118664?seid=2055013&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118587?seid=2054936&#34;" ; Times: 4
+	Query: "pika" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:24886?seid=1396938&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:14420?seid=810296&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118599?seid=2054948&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118395?seid=2054744&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118743?seid=2055092&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118681?seid=2055030&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:32988?seid=1744774&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118430?seid=2054779&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118726?seid=2055075&#34;" ; Times: 4
+	Query: "&#34;sorex cinereus&#34; vntype:specimen stateprovince:&#34;Pennsylvania&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118697?seid=2055046&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:130663?seid=3174563&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118478?seid=2054827&#34;" ; Times: 4
+	Query: "Loxodonta africana" ; Times: 3
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:130666?seid=3174567&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118625?seid=2054974&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:130655?seid=3174554&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118702?seid=2055051&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118705?seid=2055054&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118583?seid=2054932&#34;" ; Times: 4
+	Query: "catalognumber:74868" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118648?seid=2054997&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:33008?seid=935800&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118503?seid=2054852&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118499?seid=2054848&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118550?seid=2054899&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118462?seid=2054811&#34;" ; Times: 4
+	Query: "catalognumber:15484" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118615?seid=2054964&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118588?seid=2054937&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:126616?seid=3083824&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:126569?seid=3083777&#34;" ; Times: 4
+	Query: "Ovis dalli mappable:1" ; Times: 4
+	Query: "&#34;peromyscus gossypinus&#34; vntype:specimen stateprovince:&#34;South Carolina&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118434?seid=2054783&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118646?seid=2054995&#34;" ; Times: 4
+	Query: "Sorex portenkoi " ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118604?seid=2054953&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:389?seid=1392721&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118431?seid=2054780&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:33001?seid=1033044&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118608?seid=2054957&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118623?seid=2054972&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:44530?seid=1480292&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118408?seid=2054757&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:32984?seid=1078176&#34;" ; Times: 4
+	Query: "catalognumber:16045" ; Times: 1
+	Query: "catalognumber:10378" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:53788?seid=99868&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:33018?seid=578341&#34;" ; Times: 4
+	Query: "Sorex yukonicus " ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:32981?seid=550104&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:130643?seid=3174541&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118423?seid=2054772&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118709?seid=2055058&#34;" ; Times: 4
+	Query: "catalognumber:129640" ; Times: 1
+	Query: "specificepithet:maritimus genus:Ursus institutioncode:UAM" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118674?seid=2055023&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118698?seid=2055047&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:130653?seid=3174552&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118389?seid=2054738&#34;" ; Times: 4
+	Query: "specificepithet:angustirostris genus:Mirounga" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118537?seid=2054886&#34;" ; Times: 4
+	Query: "trichechus manatus" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118719?seid=2055068&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:130646?seid=3174544&#34;" ; Times: 4
+	Query: "distance(location,geopoint(43.447923027286,-91.1660457369999))&lt;23821" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:97410?seid=1824136&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:16551?seid=1316714&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118663?seid=2055012&#34;" ; Times: 4
+	Query: "35931" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:126597?seid=3083805&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118470?seid=2054819&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118496?seid=2054845&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118686?seid=2055035&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:32987?seid=1726203&#34;" ; Times: 4
+	Query: "Phocarctos hookeri " ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118541?seid=2054890&#34;" ; Times: 4
+	Query: "vntype:specimen specificepithet:gapperi stateprovince:&#34;Minnesota&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118521?seid=2054870&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118475?seid=2054824&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:126602?seid=3083810&#34;" ; Times: 4
+	Query: "catalognumber:29771" ; Times: 1
+	Query: "specificepithet:lemmus genus:lemmus hasmass:1" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118695?seid=2055044&#34;" ; Times: 4
+	Query: "specificepithet:cinereus genus:Lasiurus" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:4808?seid=1766231&#34;" ; Times: 4
+	Query: "&#34;blarina brevicauda&#34; vntype:specimen stateprovince:&#34;Pennsylvania&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118547?seid=2054896&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118620?seid=2054969&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:33013?seid=1379898&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118546?seid=2054895&#34;" ; Times: 4
+	Query: "rattus alaska" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118413?seid=2054762&#34;" ; Times: 4
+	Query: "catalognumber:120" ; Times: 2
+	Query: "catalognumber:31071 hastypestatus:1" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118740?seid=2055089&#34;" ; Times: 4
+	Query: "specificepithet:lotor genus:Procyon year &gt;= 2000 year &lt;= 2018" ; Times: 2
+	Query: "specificepithet:terrestris genus:arvicola hasmass:1" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:80783?seid=328009&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:32991?seid=429968&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:32973?seid=262253&#34;" ; Times: 4
+	Query: "River Otter" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118745?seid=2055094&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118508?seid=2054857&#34;" ; Times: 4
+	Query: "Perissodactyla" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118594?seid=2054943&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:99012?seid=942566&#34;" ; Times: 4
+	Query: "wolverine" ; Times: 1
+	Query: "&#34;sorex cinereus&#34; vntype:specimen stateprovince:&#34;Wisconsin&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:33015?seid=1224736&#34;" ; Times: 4
+	Query: "monster" ; Times: 3
+	Query: "Mustelidae hasmass:1" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118751?seid=2055100&#34;" ; Times: 4
+	Query: "19848" ; Times: 1
+	Query: "catalognumber:14911" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118722?seid=2055071&#34;" ; Times: 4
+	Query: "order:dermoptera" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:124579?seid=2623137&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118736?seid=2055085&#34;" ; Times: 4
+	Query: "vntype:specimen stateprovince:&#34;Minnesota&#34; country:&#34;United States&#34; hasmass:1 &#34;blarina brevicauda&#34;" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118575?seid=2054924&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118711?seid=2055060&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:3512?seid=1839885&#34;" ; Times: 4
+	Query: "&#34;clethrionomys gapperi&#34; vntype:specimen stateprovince:&#34;Minnesota&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118706?seid=2055055&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118598?seid=2054947&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:33002?seid=1055930&#34;" ; Times: 4
+	Query: "Cabassous tatouay " ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:130645?seid=3174543&#34;" ; Times: 4
+	Query: "Alces alces alces" ; Times: 3
+	Query: "catalognumber:447" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:91768?seid=1277348&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118637?seid=2054986&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118524?seid=2054873&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118600?seid=2054949&#34;" ; Times: 4
+	Query: "vntype:specimen specificepithet:physalus genus:Balaenoptera preparations:baleen" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:130667?seid=3174568&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118556?seid=2054905&#34;" ; Times: 4
+	Query: "Sorex alaskanus " ; Times: 1
+	Query: "&#34;tamias striatus&#34; vntype:specimen stateprovince:&#34;Minnesota&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:130652?seid=3174551&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118542?seid=2054891&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118690?seid=2055039&#34;" ; Times: 4
+	Query: "79588" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:133219?seid=3359822&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118522?seid=2054871&#34;" ; Times: 4
+	Query: "specificepithet:hoyi genus:Sorex hasmass:1 haslength:1" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118427?seid=2054776&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118666?seid=2055015&#34;" ; Times: 4
+	Query: "Hydrodamalis gigas " ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:32990?seid=1213675&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:2432?seid=1085420&#34;" ; Times: 4
+	Query: "Megaptera novaeangliae" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118455?seid=2054804&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118658?seid=2055007&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:15543?seid=999184&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118656?seid=2055005&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118636?seid=2054985&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118667?seid=2055016&#34;" ; Times: 4
+	Query: "vntype:specimen country:&#34;United States&#34; (pan)" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:32983?seid=535645&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118641?seid=2054990&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118530?seid=2054879&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118707?seid=2055056&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118519?seid=2054868&#34;" ; Times: 4
+	Query: "Loxodonta africana africana" ; Times: 3
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118732?seid=2055081&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118418?seid=2054767&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118433?seid=2054782&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118532?seid=2054881&#34;" ; Times: 4
+	Query: "grampus griseus" ; Times: 3
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118603?seid=2054952&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118728?seid=2055077&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118412?seid=2054761&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118538?seid=2054887&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118411?seid=2054760&#34;" ; Times: 4
+	Query: "Sorex leucogaster " ; Times: 1
+	Query: "Guiguet" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:4841?seid=1747833&#34;" ; Times: 6
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118416?seid=2054765&#34;" ; Times: 4
+	Query: "&#34;microtus pennsylvanicus&#34; vntype:specimen stateprovince:&#34;Wisconsin&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:3384?seid=267895&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:130634?seid=3174532&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118635?seid=2054984&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:126566?seid=3083774&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118590?seid=2054939&#34;" ; Times: 4
+	Query: "edule" ; Times: 2
+	Query: "scientificname:&#34;dendrogale murina&#34;" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118397?seid=2054746&#34;" ; Times: 4
+	Query: "guiguet" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118447?seid=2054796&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118651?seid=2055000&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118540?seid=2054889&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118605?seid=2054954&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118632?seid=2054981&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:130638?seid=3174536&#34;" ; Times: 4
+	Query: "146501" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118529?seid=2054878&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:130640?seid=3174538&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118723?seid=2055072&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:130668?seid=3174569&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118422?seid=2054771&#34;" ; Times: 4
+	Query: "92661" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118717?seid=2055066&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118432?seid=2054781&#34;" ; Times: 4
+	Query: "catalognumber:31071" ; Times: 1
+	Query: "&#34;tamias striatus&#34; vntype:specimen stateprovince:&#34;Michigan&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118551?seid=2054900&#34;" ; Times: 4
+	Query: "halichoerus grypus" ; Times: 5
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:32972?seid=137210&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118673?seid=2055022&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:32995?seid=104362&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:32977?seid=57507&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:111542?seid=1763492&#34;" ; Times: 4
+	Query: "Tick Island" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118682?seid=2055031&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118692?seid=2055041&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118602?seid=2054951&#34;" ; Times: 4
+	Query: "viverridae" ; Times: 3
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:73312?seid=851230&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:24792?seid=153985&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:126567?seid=3083775&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118549?seid=2054898&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118724?seid=2055073&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118584?seid=2054933&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:130639?seid=3174537&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:2435?seid=1453645&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:16552?seid=673297&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:130633?seid=3174531&#34;" ; Times: 4
+	Query: "catalognumber:1639" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118425?seid=2054774&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:97602?seid=249840&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118731?seid=2055080&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118624?seid=2054973&#34;" ; Times: 4
+	Query: "North Midden" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:32996?seid=847527&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:73311?seid=250708&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118435?seid=2054784&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118612?seid=2054961&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118490?seid=2054839&#34;" ; Times: 4
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "Marmota camtschatica " ; Times: 1
+	Query: "Dermoptera mappable:1" ; Times: 16
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118535?seid=2054884&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118644?seid=2054993&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118568?seid=2054917&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118468?seid=2054817&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:32982?seid=1823315&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118581?seid=2054930&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:85495?seid=608366&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:130657?seid=3174556&#34;" ; Times: 4
+	Query: "Ursus maritimus mappable:1" ; Times: 3
+	Query: "dermoptera mappable:1" ; Times: 14
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118700?seid=2055049&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118459?seid=2054808&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:130660?seid=3174560&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118652?seid=2055001&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118744?seid=2055093&#34;" ; Times: 4
+	Query: "Pusa hispida" ; Times: 2
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118616?seid=2054965&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118517?seid=2054866&#34;" ; Times: 4
+	Query: "Pikas" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:126548?seid=3083756&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:130664?seid=3174564&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118477?seid=2054826&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118567?seid=2054916&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:91730?seid=1004089&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118415?seid=2054764&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118631?seid=2054980&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118552?seid=2054901&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118730?seid=2055079&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118449?seid=2054798&#34;" ; Times: 4
+	Query: "Oxymycterus delator " ; Times: 1
+	Query: "vntype:specimen specificepithet:gapperi stateprovince:&#34;Wisconsin&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118396?seid=2054745&#34;" ; Times: 4
+	Query: "catalognumber:50232 &#34;blarina brevicauda&#34;" ; Times: 1
+	Query: "genus:rattus stateprovince:&#34;Alaska&#34;" ; Times: 6
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:130665?seid=3174565&#34;" ; Times: 4
+	Query: "Alces alces gigas" ; Times: 3
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118610?seid=2054959&#34;" ; Times: 4
+	Query: "catalognumber:23926" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:47105?seid=1644262&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118694?seid=2055043&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118668?seid=2055017&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118574?seid=2054923&#34;" ; Times: 4
+	Query: "vntype:specimen specificepithet:vulpes genus:Vulpes (zoo OR captive)" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118746?seid=2055095&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118486?seid=2054835&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:36592?seid=669565&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:130635?seid=3174533&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118684?seid=2055033&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:32993?seid=56367&#34;" ; Times: 4
+	Query: "specificepithet:vulgaris genus:Sciurus (zoo OR captive)" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118579?seid=2054928&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:2434?seid=281195&#34;" ; Times: 4
+	Query: "catalognumber:4152" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118597?seid=2054946&#34;" ; Times: 4
+	Query: "&#34;Orcinus orca&#34; mappable:1" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118402?seid=2054751&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118611?seid=2054960&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:126598?seid=3083806&#34;" ; Times: 4
+	Query: "Myocastor coypus mappable:1" ; Times: 3
+	Query: "11297" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:53754?seid=1528856&#34;" ; Times: 4
+	Query: "114020" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118458?seid=2054807&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118715?seid=2055064&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:110272?seid=882067&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118734?seid=2055083&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118481?seid=2054830&#34;" ; Times: 4
+	Query: "&#34;myodes gapperi&#34; vntype:specimen stateprovince:&#34;Minnesota&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118453?seid=2054802&#34;" ; Times: 4
+	Query: "grampus" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118720?seid=2055069&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118741?seid=2055090&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118428?seid=2054777&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118710?seid=2055059&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118444?seid=2054793&#34;" ; Times: 4
+	Query: "catalognumber:15136" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118491?seid=2054840&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118406?seid=2054755&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118467?seid=2054816&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118704?seid=2055053&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118628?seid=2054977&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118593?seid=2054942&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118691?seid=2055040&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118464?seid=2054813&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:126565?seid=3083773&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:33003?seid=441527&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118526?seid=2054875&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:54457?seid=911706&#34;" ; Times: 4
+	Query: "Bassariscus astutus" ; Times: 1
+	Query: "genus:stenella hastissue:1" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:111599?seid=80746&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:4843?seid=613514&#34;" ; Times: 6
+	Query: "alopex lagopus" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:4998?seid=1764554&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118494?seid=2054843&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118409?seid=2054758&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:130656?seid=3174555&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118735?seid=2055084&#34;" ; Times: 4
+	Query: "catalognumber:6020" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118749?seid=2055098&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:33005?seid=1223018&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118536?seid=2054885&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118630?seid=2054979&#34;" ; Times: 4
+	Query: "dermoptera" ; Times: 2
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118669?seid=2055018&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:130636?seid=3174534&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118515?seid=2054864&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118585?seid=2054934&#34;" ; Times: 4
+	Query: "specificepithet:fulvescens genus:reithrodontomys county:&#34;woods&#34; stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:126610?seid=3083818&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118472?seid=2054821&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:91729?seid=784604&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:32997?seid=1527547&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118548?seid=2054897&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118629?seid=2054978&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:126601?seid=3083809&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118557?seid=2054906&#34;" ; Times: 4
+	Query: "114041" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118687?seid=2055036&#34;" ; Times: 4
+	Query: "vntype:specimen specificepithet:cinereus genus:sorex stateprovince:&#34;Wisconsin&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118469?seid=2054818&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118676?seid=2055025&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118578?seid=2054927&#34;" ; Times: 4
+	Query: "&#34;peromyscus maniculatus&#34; vntype:specimen stateprovince:&#34;Pennsylvania&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "catalognumber:2201" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118446?seid=2054795&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:3521?seid=194167&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118504?seid=2054853&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118571?seid=2054920&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118497?seid=2054846&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118388?seid=2054737&#34;" ; Times: 4
+	Query: "Genetta genetta mappable:1" ; Times: 3
+	Query: "vntype:specimen specificepithet:cinereus genus:sorex stateprovince:&#34;Pennsylvania&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118510?seid=2054859&#34;" ; Times: 4
+	Query: "&#34;lutra lutra&#34; mappable:1" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118426?seid=2054775&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118493?seid=2054842&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:32986?seid=840547&#34;" ; Times: 4
+	Query: "genus:Canis institutioncode:UAM" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:97405?seid=1201876&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118545?seid=2054894&#34;" ; Times: 4
+	Query: "catalognumber:35240" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:97537?seid=1159979&#34;" ; Times: 4
+	Query: "vntype:specimen specificepithet:cinereus genus:sorex stateprovince:&#34;Minnesota&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:111790?seid=265223&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118482?seid=2054831&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118621?seid=2054970&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118591?seid=2054940&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118543?seid=2054892&#34;" ; Times: 4
+	Query: "&#34;Dasypus novemcinctus&#34; mappable:1" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118417?seid=2054766&#34;" ; Times: 4
+	Query: "dasypus novemcinctus mappable:1" ; Times: 7
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:134760?seid=3609169&#34;" ; Times: 4
+	Query: "Bos mutus " ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118748?seid=2055097&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:126568?seid=3083776&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:53755?seid=965851&#34;" ; Times: 4
+	Query: "&#34;peromyscus leucopus&#34; vntype:specimen stateprovince:&#34;Wisconsin&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118501?seid=2054850&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:99004?seid=121496&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118474?seid=2054823&#34;" ; Times: 4
+	Query: "dermoptera continent:asia mappable:1" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118466?seid=2054815&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:32979?seid=1570855&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:3392?seid=116189&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118649?seid=2054998&#34;" ; Times: 4
+	Query: "scientificname:&#34;equus quagga&#34;" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118618?seid=2054967&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118562?seid=2054911&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:126570?seid=3083778&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:54456?seid=896901&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118653?seid=2055002&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118572?seid=2054921&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118461?seid=2054810&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:130637?seid=3174535&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:83034?seid=533221&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118640?seid=2054989&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118523?seid=2054872&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:22823?seid=1399642&#34;" ; Times: 4
+	Query: "ISU" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118512?seid=2054861&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118627?seid=2054976&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118437?seid=2054786&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118654?seid=2055003&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118399?seid=2054748&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:33006?seid=1213013&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118564?seid=2054913&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118476?seid=2054825&#34;" ; Times: 4
+	Query: "placenta" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:32978?seid=1680683&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118672?seid=2055021&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118506?seid=2054855&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118586?seid=2054935&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:126551?seid=3083759&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118480?seid=2054829&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:390?seid=1263732&#34;" ; Times: 4
+	Query: "281688" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118386?seid=2054735&#34;" ; Times: 4
+	Query: "&#34;blarina brevicauda&#34; vntype:specimen stateprovince:&#34;Wisconsin&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:130661?seid=3174561&#34;" ; Times: 4
+	Query: "(hind limb)" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118606?seid=2054955&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118592?seid=2054941&#34;" ; Times: 4
+	Query: "Octodon degus" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118675?seid=2055024&#34;" ; Times: 4
+	Query: "Lemmus amurensis " ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118457?seid=2054806&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118655?seid=2055004&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118507?seid=2054856&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118645?seid=2054994&#34;" ; Times: 4
+	Query: "specificepithet:virginiana genus:Didelphis stateprovince:&#34;Wisconsin&#34;" ; Times: 1
+	Query: "54553" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118703?seid=2055052&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118405?seid=2054754&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:53756?seid=498697&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118420?seid=2054769&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:126564?seid=3083772&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118429?seid=2054778&#34;" ; Times: 4
+	Query: "mummy" ; Times: 1
+	Query: "&#34;tamias striatus&#34; vntype:specimen stateprovince:&#34;New York&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 2
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118677?seid=2055026&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118607?seid=2054956&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118387?seid=2054736&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:91744?seid=905279&#34;" ; Times: 4
+	Query: "specificepithet:sibiricus genus:lemmus hasmass:1" ; Times: 1
+	Query: "UAM 120070" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:85490?seid=765106&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:126609?seid=3083817&#34;" ; Times: 4
+	Query: "Equus" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118505?seid=2054854&#34;" ; Times: 4
+	Query: "46181" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118680?seid=2055029&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118573?seid=2054922&#34;" ; Times: 4
+	Query: "specificepithet:abbreviatus genus:Microtus stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "locality:chevak stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118699?seid=2055048&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:130649?seid=3174547&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118659?seid=2055008&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:4997?seid=731811&#34;" ; Times: 4
+	Query: "class:Mammalia stateprovince:&#34;Saskatchewan&#34; country:&#34;Canada&#34; continent:North America lengthtype:total length mappable:1" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:33011?seid=671957&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118544?seid=2054893&#34;" ; Times: 4
+	Query: "Monodon monoceros mappable:1" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:32998?seid=1290425&#34;" ; Times: 4
+	Query: "catalognumber:77146" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118589?seid=2054938&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118471?seid=2054820&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:130650?seid=3174549&#34;" ; Times: 4
+	Query: "&#34;blarina brevicauda&#34; vntype:specimen stateprovince:&#34;Minnesota&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 2
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:4842?seid=537427&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118747?seid=2055096&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118737?seid=2055086&#34;" ; Times: 4
+	Query: "specificepithet:lutra genus:Lutra hastissue:1" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:32975?seid=1289347&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:130642?seid=3174540&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118563?seid=2054912&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118440?seid=2054789&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118495?seid=2054844&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:32976?seid=563856&#34;" ; Times: 4
+	Query: "13773" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:19350?seid=909255&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118424?seid=2054773&#34;" ; Times: 4
+	Query: "&#34;tamias striatus&#34; vntype:specimen stateprovince:&#34;Wisconsin&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118442?seid=2054791&#34;" ; Times: 4
+	Query: "13778" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:126596?seid=3083804&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118721?seid=2055070&#34;" ; Times: 4
+	Query: "&#34;myodes gapperi&#34; vntype:specimen stateprovince:&#34;Wisconsin&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Halichoerus grypus" ; Times: 3
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118448?seid=2054797&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118685?seid=2055034&#34;" ; Times: 4
+	Query: "cm 127589" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118643?seid=2054992&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118410?seid=2054759&#34;" ; Times: 4
+	Query: "Rungwecebus kipunji " ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118609?seid=2054958&#34;" ; Times: 4
+	Query: "Crocidura phanluongi " ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:130654?seid=3174553&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118525?seid=2054874&#34;" ; Times: 4
+	Query: "Capra aegagrus " ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118407?seid=2054756&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:3383?seid=1658600&#34;" ; Times: 4
+	Query: "pinniped" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118662?seid=2055011&#34;" ; Times: 4
+	Query: "specificepithet:fulvescens genus:Reithrodontomys county:&#34;Woods&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118725?seid=2055074&#34;" ; Times: 4
+	Query: "Ziphius cavirostris" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:32992?seid=1545086&#34;" ; Times: 4
+	Query: "vntype:specimen country:&#34;United States&#34; (mico)" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118650?seid=2054999&#34;" ; Times: 4
+	Query: "Dasypus &#34;novemcinctus&#34; mappable:1" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118576?seid=2054925&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:4839?seid=753982&#34;" ; Times: 6
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118689?seid=2055038&#34;" ; Times: 4
+	Query: "didelphis marsupialis" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118696?seid=2055045&#34;" ; Times: 4
+	Query: "&#34;peromyscus leucopus&#34; vntype:specimen stateprovince:&#34;Minnesota&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "DERMOPTERA mappable:1" ; Times: 3
+	Query: "&#34;zapus hudsonius&#34; vntype:specimen stateprovince:&#34;Wisconsin&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118555?seid=2054904&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118714?seid=2055063&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:130662?seid=3174562&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118633?seid=2054982&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118460?seid=2054809&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:32989?seid=691715&#34;" ; Times: 4
+	Query: "Sorex camtschatica " ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:130644?seid=3174542&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118712?seid=2055061&#34;" ; Times: 4
+	Query: "&#34;dasypus novemcinctus&#34; mappable:1" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:126533?seid=3083741&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118683?seid=2055032&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118613?seid=2054962&#34;" ; Times: 4
+	Query: "108688" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118514?seid=2054863&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118398?seid=2054747&#34;" ; Times: 4
+	Query: "catalognumber:13829" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118671?seid=2055020&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:30102?seid=896082&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118445?seid=2054794&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:33017?seid=591552&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118400?seid=2054749&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118566?seid=2054915&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:130641?seid=3174539&#34;" ; Times: 4
+	Query: "Dendrogale murina " ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118403?seid=2054752&#34;" ; Times: 4
+	Query: "Equus quagga " ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118729?seid=2055078&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118622?seid=2054971&#34;" ; Times: 4
+	Query: "&#34;peromyscus leucopus&#34; vntype:specimen stateprovince:&#34;Pennsylvania&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118626?seid=2054975&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118487?seid=2054836&#34;" ; Times: 4
+	Query: "123022" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis institutioncode:UAM" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:32994?seid=1066162&#34;" ; Times: 4
+	Query: "75244" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:2430?seid=1416390&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:130659?seid=3174559&#34;" ; Times: 4
+	Query: "Artibeus hirsutus" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:33004?seid=1136049&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118678?seid=2055027&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118498?seid=2054847&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118554?seid=2054903&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118580?seid=2054929&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:118617?seid=2054966&#34;" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 159 (out of 1892 download events in this period)
+Total number of records downloaded: 438753
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 27
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: Denmark ; Times: 1
+	Country: United States ; Times: 123
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-14 ; Times: 1
+	Date: 2018-02-15 ; Times: 3
+	Date: 2018-02-16 ; Times: 2
+	Date: 2018-02-17 ; Times: 3
+	Date: 2018-02-11 ; Times: 1
+	Date: 2018-02-12 ; Times: 3
+	Date: 2018-02-13 ; Times: 15
+	Date: 2018-02-07 ; Times: 1
+	Date: 2018-02-19 ; Times: 1
+	Date: 2018-02-06 ; Times: 2
+	Date: 2018-02-09 ; Times: 6
+	Date: 2018-02-27 ; Times: 1
+	Date: 2018-02-21 ; Times: 2
+	Date: 2018-02-02 ; Times: 7
+	Date: 2018-02-01 ; Times: 90
+	Date: 2018-02-23 ; Times: 4
+	Date: 2018-02-08 ; Times: 4
+	Date: 2018-02-20 ; Times: 3
+	Date: 2018-02-05 ; Times: 8
+	Date: 2018-02-24 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Ammospermophilus leucurus" ; Times: 2
+	Query: "Pteronotus davyi" ; Times: 1
+	Query: "specificepithet:maritimus genus:Ursus institutioncode:UAM" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Saskatchewan&#34; country:&#34;Canada&#34;" ; Times: 1
+	Query: "Peromyscus eremicus" ; Times: 1
+	Query: "Myotis lucifugus" ; Times: 1
+	Query: "Thomomys umbrinus" ; Times: 1
+	Query: "Meriones" ; Times: 1
+	Query: "&#34;blarina brevicauda&#34; vntype:specimen stateprovince:&#34;New York&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Reithrodontomys megalotis" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "Peromyscus maniculatus" ; Times: 3
+	Query: "Dermoptera mappable:1" ; Times: 9
+	Query: "Ursus americanus" ; Times: 1
+	Query: "Sturnira lilium" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "Peromyscus crinitus" ; Times: 1
+	Query: "vntype:specimen specificepithet:gapperi stateprovince:&#34;Minnesota&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "Thomomys bottae" ; Times: 1
+	Query: "xerospermophilus spilosoma" ; Times: 1
+	Query: "dermoptera mappable:1" ; Times: 11
+	Query: "specificepithet:cinereus genus:Lasiurus" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Alberta&#34; country:&#34;Canada&#34;" ; Times: 1
+	Query: "&#34;blarina brevicauda&#34; vntype:specimen stateprovince:&#34;Pennsylvania&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "&#34;peromyscus maniculatus&#34; vntype:specimen stateprovince:&#34;Pennsylvania&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Lemmiscus curtatus" ; Times: 1
+	Query: "Microtus longicaudus" ; Times: 1
+	Query: "genus:castor" ; Times: 1
+	Query: "Ochrotomys nuttalli" ; Times: 1
+	Query: "choloepus" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Alberta&#34; country:&#34;Canada&#34; continent:North America lengthtype:total length mappable:1" ; Times: 1
+	Query: "Microtus pennsylvanicus" ; Times: 1
+	Query: "Ondatra zibethicus" ; Times: 1
+	Query: "vntype:specimen specificepithet:gapperi stateprovince:&#34;Wisconsin&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "genus:rattus stateprovince:&#34;Alaska&#34;" ; Times: 4
+	Query: "Peromyscus gossypinus" ; Times: 1
+	Query: "&#34;sorex cinereus&#34; vntype:specimen stateprovince:&#34;Minnesota&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "order:dermoptera mappable:1" ; Times: 2
+	Query: "Glossophaga soricina" ; Times: 2
+	Query: "Microtus ochrogaster" ; Times: 1
+	Query: "Peromyscus californicus" ; Times: 1
+	Query: "&#34;tamias striatus&#34; vntype:specimen stateprovince:&#34;New York&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Dipodomys panamintinus" ; Times: 1
+	Query: "specificepithet:sibiricus genus:lemmus hasmass:1" ; Times: 1
+	Query: "&#34;sorex cinereus&#34; vntype:specimen stateprovince:&#34;Wisconsin&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "specificepithet:gapperi genus:myodes hasmass:1" ; Times: 1
+	Query: "class:Mammalia institutioncode:UAM" ; Times: 3
+	Query: "Octodon degus" ; Times: 1
+	Query: "Mus musculus" ; Times: 1
+	Query: "Notiosorex crawfordi" ; Times: 1
+	Query: "Thomomys talpoides" ; Times: 1
+	Query: "mammal minnesota" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Saskatchewan&#34; country:&#34;Canada&#34; continent:North America lengthtype:total length mappable:1" ; Times: 1
+	Query: "specificepithet:americanus genus:Lepus" ; Times: 1
+	Query: "pika" ; Times: 1
+	Query: "Tamiasciurus hudsonicus" ; Times: 1
+	Query: "Cynomys ludovicianus" ; Times: 1
+	Query: "&#34;blarina brevicauda&#34; vntype:specimen stateprovince:&#34;Wisconsin&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "&#34;clethrionomys gapperi&#34; vntype:specimen stateprovince:&#34;Minnesota&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:cinereus genus:sorex stateprovince:&#34;Minnesota&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "Condylura cristata" ; Times: 1
+	Query: "Peromyscus truei" ; Times: 1
+	Query: "&#34;blarina brevicauda&#34; vntype:specimen stateprovince:&#34;Minnesota&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Peromyscus leucopus" ; Times: 1
+	Query: "Chrotopterus auritus" ; Times: 1
+	Query: "Blarina brevicauda" ; Times: 1
+	Query: "&#34;myodes gapperi&#34; vntype:specimen stateprovince:&#34;Minnesota&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "&#34;tamias striatus&#34; vntype:specimen stateprovince:&#34;Minnesota&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "specificepithet:rufocanus genus:myodes hasmass:1" ; Times: 1
+	Query: "&#34;tamias striatus&#34; vntype:specimen stateprovince:&#34;Wisconsin&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Mammal country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Carollia perspicillata" ; Times: 1
+	Query: "&#34;myodes gapperi&#34; vntype:specimen stateprovince:&#34;Wisconsin&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Bassariscus" ; Times: 2
+	Query: "Halichoerus grypus" ; Times: 1
+	Query: "Tamias merriami" ; Times: 1
+	Query: "Dipodomys merriami" ; Times: 2
+	Query: "&#34;peromyscus leucopus&#34; vntype:specimen stateprovince:&#34;Michigan&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "stateprovince:&#34;arizona&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "Neotoma lepida" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "Pteronotus parnellii" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis institutioncode:UAM" ; Times: 1
+	Query: "Canis lupus" ; Times: 3
+	Query: "Artibeus lituratus" ; Times: 1
+	Query: "order:Chiroptera country:&#34;United States&#34;" ; Times: 1
+	Query: "&#34;sorex cinereus&#34; vntype:specimen stateprovince:&#34;Pennsylvania&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Chaetodipus penicillatus" ; Times: 1
+	Query: "Napaeozapus insignis" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 1
+	Query: "&#34;zapus hudsonius&#34; vntype:specimen stateprovince:&#34;Wisconsin&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "&#34;microtus pennsylvanicus&#34; vntype:specimen stateprovince:&#34;Wisconsin&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Geomys bursarius" ; Times: 1
+	Query: "&#34;tamias striatus&#34; vntype:specimen stateprovince:&#34;Michigan&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Myotis thysanodes" ; Times: 1
+	Query: "Spermophilus beecheyi" ; Times: 1
+	Query: "Microtus montanus" ; Times: 1
+	Query: "Tamias minimus" ; Times: 1
+	Query: "vntype:specimen specificepithet:cinereus genus:sorex stateprovince:&#34;Wisconsin&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Desmodus rotundus" ; Times: 1
+	Query: "Onychomys torridus" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "vntype:specimen specificepithet:cinereus genus:sorex stateprovince:&#34;Pennsylvania&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Microtus pinetorum" ; Times: 1
+	Query: "michigan" ; Times: 1
+	Query: "specificepithet:lemmus genus:lemmus hasmass:1" ; Times: 1
+	Query: "Scalopus aquaticus" ; Times: 2
+	Query: "Martes americana" ; Times: 1
+	Query: "Sylvilagus audubonii" ; Times: 1
+	Query: "&#34;peromyscus gossypinus&#34; vntype:specimen stateprovince:&#34;South Carolina&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "puma" ; Times: 2
+	Query: "&#34;peromyscus leucopus&#34; vntype:specimen stateprovince:&#34;Pennsylvania&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "specificepithet:trimucronatus genus:lemmus hasmass:1" ; Times: 1
+	Query: "&#34;peromyscus leucopus&#34; vntype:specimen stateprovince:&#34;Minnesota&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Microtus californicus" ; Times: 2
+	Query: "Artibeus hirsutus" ; Times: 1
+	Query: "&#34;peromyscus leucopus&#34; vntype:specimen stateprovince:&#34;Wisconsin&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Myodes gapperi" ; Times: 2
+
+
+End of report.
