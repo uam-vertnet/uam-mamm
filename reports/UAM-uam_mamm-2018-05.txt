@@ -1,0 +1,246 @@
+Report for Institution Code UAM, Resource uam_mamm
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 181
+Number of records retrieved in searches: 1855
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 10
+	Country: Italy ; Times: 34
+	Country: Colombia ; Times: 4
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 2
+	Country: India ; Times: 1
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: China ; Times: 6
+	Country: Peru ; Times: 2
+	Country: Japan ; Times: 2
+	Country: Argentina ; Times: 1
+	Country: United States ; Times: 108
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-29 ; Times: 9
+	Date: 2018-05-21 ; Times: 13
+	Date: 2018-05-22 ; Times: 1
+	Date: 2018-05-23 ; Times: 20
+	Date: 2018-05-24 ; Times: 2
+	Date: 2018-05-25 ; Times: 8
+	Date: 2018-05-26 ; Times: 4
+	Date: 2018-05-27 ; Times: 2
+	Date: 2018-05-06 ; Times: 10
+	Date: 2018-05-07 ; Times: 3
+	Date: 2018-05-04 ; Times: 13
+	Date: 2018-05-05 ; Times: 1
+	Date: 2018-05-02 ; Times: 7
+	Date: 2018-05-03 ; Times: 8
+	Date: 2018-05-01 ; Times: 10
+	Date: 2018-05-08 ; Times: 23
+	Date: 2018-05-09 ; Times: 3
+	Date: 2018-05-31 ; Times: 1
+	Date: 2018-05-30 ; Times: 3
+	Date: 2018-05-15 ; Times: 7
+	Date: 2018-05-14 ; Times: 2
+	Date: 2018-05-17 ; Times: 10
+	Date: 2018-05-16 ; Times: 1
+	Date: 2018-05-11 ; Times: 6
+	Date: 2018-05-10 ; Times: 8
+	Date: 2018-05-13 ; Times: 2
+	Date: 2018-05-19 ; Times: 1
+	Date: 2018-05-18 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen family:Otariidae preparations:skeleton hasmedia:1" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Washington&#34; country:&#34;United States&#34; continent:North America mappable:1 hastissue:1" ; Times: 1
+	Query: "catalognumber:1 institutioncode:UAM" ; Times: 1
+	Query: "71073" ; Times: 1
+	Query: "11051" ; Times: 1
+	Query: "specificepithet:zibethicus genus:Ondatra mappable:1 year&gt;=2000" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Washington&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "specificepithet:lagopus genus:vulpes year &gt;= 1970 year &lt;= 1979" ; Times: 1
+	Query: "Eschrichtius robustus" ; Times: 1
+	Query: "specificepithet:norvegicus genus:Rattus mappable:1 year&gt;=2000" ; Times: 1
+	Query: "catalognumber:121173" ; Times: 1
+	Query: "specificepithet:musculus genus:Mus stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sciurus mappable:1 year&gt;=2000" ; Times: 1
+	Query: "specificepithet:sibiricus genus:Tamias mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(46.9340888008072,-95.7192915126383))&lt;56921" ; Times: 1
+	Query: "specificepithet:leucopus genus:peromyscus year&gt;=1950 year&lt;=2018" ; Times: 1
+	Query: "specificepithet:aegyptiacus genus:Rousettus mappable:1 year&gt;=2000" ; Times: 1
+	Query: "entomology" ; Times: 1
+	Query: "(Oreamnos)" ; Times: 1
+	Query: "equus quagga" ; Times: 2
+	Query: "vntype:specimen family:monodontidae preparations:skeleton hasmedia:1" ; Times: 1
+	Query: "order:Chiroptera AND hastypestatus:1 AND NOT (MSB)" ; Times: 2
+	Query: "distance(location,geopoint(43.447923027286,-91.1660457369999))&lt;23821" ; Times: 2
+	Query: "18002" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Oregon&#34; mappable:1 hastissue:1" ; Times: 3
+	Query: "37184" ; Times: 1
+	Query: "125990" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon mappable:1 year&gt;=2000" ; Times: 1
+	Query: "specificepithet:lagopus genus:Vulpes year &gt;= 1990 year &lt;= 1999" ; Times: 1
+	Query: "catalognumber:1852" ; Times: 1
+	Query: "specificepithet:lagopus genus:Vulpes year &gt;= 1880 year &lt;= 1889" ; Times: 1
+	Query: "Cabassous" ; Times: 2
+	Query: "specificepithet:lutra genus:Lutra mappable:1" ; Times: 8
+	Query: "mustela nivalis" ; Times: 1
+	Query: "catalognumber:95077" ; Times: 1
+	Query: "catalognumber:47562" ; Times: 1
+	Query: "specificepithet:lutra genus:Lutra" ; Times: 6
+	Query: "Dogs" ; Times: 1
+	Query: "brain size" ; Times: 3
+	Query: "36458" ; Times: 1
+	Query: "mummy" ; Times: 6
+	Query: "95215" ; Times: 1
+	Query: "Microtus xanthognathus year &gt;= 2000 hastissue:1" ; Times: 1
+	Query: "specificepithet:lagopus genus:Vulpes year &gt;= 1940 year &lt;= 1949" ; Times: 1
+	Query: "vntype:specimen family:Odobenidae preparations:skeleton hasmedia:1" ; Times: 1
+	Query: "specificepithet:vison genus:Neovison mappable:1 year&gt;=2000" ; Times: 1
+	Query: "monster" ; Times: 3
+	Query: "vntype:specimen family:Phocidae preparations:skeleton hasmedia:1" ; Times: 1
+	Query: "specificepithet:lagopus genus:Vulpes year &gt;= 2010 year &lt;= 2018" ; Times: 4
+	Query: "specificepithet:virginiana genus:Didelphis hastissue:1" ; Times: 1
+	Query: "Urocitellus columbianus" ; Times: 1
+	Query: "40447" ; Times: 2
+	Query: "specificepithet:moschatus genus:Ovibos mappable:1" ; Times: 1
+	Query: "specificepithet:erythraeus genus:Callosciurus mappable:1" ; Times: 1
+	Query: "Microtus oregoni year &gt;= 2000 hastissue:1" ; Times: 1
+	Query: "37232" ; Times: 1
+	Query: "Phoca hispida" ; Times: 1
+	Query: "specificepithet:polionotus genus:peromyscus year&gt;=1950 year&lt;=2018" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis catalognumber:122877 hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:erminea genus:Mustela stateprovince:&#34;British Columbia&#34; lengthtype:total length hassex:1 haslength:1" ; Times: 2
+	Query: "brain mass" ; Times: 1
+	Query: "CM 9041" ; Times: 1
+	Query: "AL 3054" ; Times: 1
+	Query: "specificepithet:frenata genus:mustela haslength:1" ; Times: 2
+	Query: "Chrotopterus auritus" ; Times: 1
+	Query: "(camelus bactrianus)" ; Times: 1
+	Query: "catalognumber:9336" ; Times: 1
+	Query: "bats" ; Times: 1
+	Query: "Microtus abbreviatus hastissue:1" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1880 year &lt;= 1889" ; Times: 1
+	Query: "Arctocephalus pusillus" ; Times: 1
+	Query: "107218" ; Times: 1
+	Query: "Microtus chrotorrhinus hastissue:1" ; Times: 1
+	Query: "genus:Didelphis stateprovince:&#34;California&#34; preparations:skin" ; Times: 1
+	Query: "catalognumber:66465" ; Times: 1
+	Query: "crex vntype:specimen hastissue:1" ; Times: 1
+	Query: "specificepithet:canadensis genus:Castor mappable:1 year&gt;=2000" ; Times: 1
+	Query: "specificepithet:aegyptiacus genus:Rousettus mappable:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:erminea genus:Mustela stateprovince:&#34;Washington&#34; lengthtype:total length hassex:1 haslength:1" ; Times: 1
+	Query: "vntype:specimen family:ziphiidae preparations:skeleton hasmedia:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:frenata genus:Mustela lengthtype:total length" ; Times: 1
+	Query: "specificepithet:coypus genus:Myocastor mappable:1" ; Times: 1
+	Query: "Microtus abbreviatus year &gt;= 2000 hastissue:1" ; Times: 1
+	Query: "specificepithet:sibiricus genus:Tamias mappable:1 year&gt;=2000" ; Times: 1
+	Query: "distance(location,geopoint(38.823841899042,-90.7090116510005))&lt;58590" ; Times: 1
+	Query: "27634" ; Times: 1
+	Query: "133988" ; Times: 1
+	Query: "camelus bactrianus mappable:1 hastissue:1" ; Times: 1
+	Query: "catalognumber:6490 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "alces" ; Times: 1
+	Query: "specificepithet:striatus genus:Tamias mappable:1 year&gt;=2000" ; Times: 1
+	Query: "cm 3257" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Alaska&#34; mappable:1 hastissue:1" ; Times: 2
+	Query: "Microtus townsendii year &gt;= 2000 hastissue:1" ; Times: 1
+	Query: "specificepithet:macrorhynchus genus:Globicephala" ; Times: 1
+	Query: "44963" ; Times: 1
+	Query: "specificepithet:erythraeus genus:Callosciurus mappable:1 year&gt;=2000" ; Times: 1
+	Query: "north american porcupine" ; Times: 2
+	Query: "109699" ; Times: 1
+	Query: "39454" ; Times: 1
+	Query: "mule deer" ; Times: 1
+	Query: "CM 9306" ; Times: 2
+	Query: "aorta" ; Times: 1
+	Query: "Myotis vivesi" ; Times: 1
+	Query: "Clark county Stephens I" ; Times: 1
+	Query: "vntype:specimen specificepithet:frenata genus:Mustela stateprovince:&#34;British Columbia&#34; lengthtype:total length hassex:1 haslength:1" ; Times: 1
+	Query: "Microtus chrotorrhinus year &gt;= 2000 hastissue:1" ; Times: 1
+	Query: "Orcinus orca" ; Times: 1
+	Query: "Microtus canicaudus hastissue:1" ; Times: 2
+	Query: "specificepithet:lagopus genus:Vulpes year &gt;= 1930 year &lt;= 1939" ; Times: 1
+	Query: "56785" ; Times: 1
+	Query: "62245" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;washington&#34; country:&#34;United States&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "specificepithet:gossypinus genus:peromyscus year&gt;=1950 year&lt;=2018" ; Times: 4
+	Query: "specificepithet:lagopus genus:Vulpes year &gt;= 1900 year &lt;= 1909" ; Times: 1
+	Query: "35076" ; Times: 1
+	Query: "31227" ; Times: 2
+	Query: "24432" ; Times: 2
+	Query: "specificepithet:lagopus genus:Vulpes year &gt;= 2000 year &lt;= 2009" ; Times: 2
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Oregon&#34; country:&#34;United States&#34; continent:North America mappable:1 hastissue:1" ; Times: 1
+	Query: "lesion" ; Times: 2
+	Query: "vntype:specimen specificepithet:frenata genus:mustela haslength:1" ; Times: 1
+	Query: "specificepithet:capensis genus:Lepus mappable:1" ; Times: 1
+	Query: "specificepithet:moschatus genus:Ovibos mappable:1 year&gt;=2000" ; Times: 1
+	Query: "Lutra lutra" ; Times: 2
+	Query: "genus:Didelphis stateprovince:&#34;California&#34; hastissue:1" ; Times: 1
+	Query: "M.279030" ; Times: 1
+	Query: "Humans" ; Times: 1
+	Query: "specificepithet:lagopus genus:Vulpes year &gt;= 1980 year &lt;= 1989" ; Times: 1
+	Query: "Equus quagga quagga" ; Times: 2
+	Query: "50785" ; Times: 2
+	Query: "wolves" ; Times: 1
+	Query: "hastissue:1 myotis septentrionalis" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 22 (out of 1178 download events in this period)
+Total number of records downloaded: 4024
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+	Country: Canada ; Times: 5
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-06 ; Times: 2
+	Date: 2018-05-07 ; Times: 1
+	Date: 2018-05-17 ; Times: 2
+	Date: 2018-05-11 ; Times: 2
+	Date: 2018-05-10 ; Times: 2
+	Date: 2018-05-13 ; Times: 1
+	Date: 2018-05-14 ; Times: 1
+	Date: 2018-05-18 ; Times: 2
+	Date: 2018-05-08 ; Times: 1
+	Date: 2018-05-09 ; Times: 1
+	Date: 2018-05-28 ; Times: 1
+	Date: 2018-05-15 ; Times: 3
+	Date: 2018-05-22 ; Times: 1
+	Date: 2018-05-25 ; Times: 1
+	Date: 2018-05-03 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:frenata genus:mustela haslength:1" ; Times: 1
+	Query: "callitrichidae" ; Times: 1
+	Query: "Arctocephalus pusillus" ; Times: 1
+	Query: "lesion" ; Times: 2
+	Query: "brain size" ; Times: 1
+	Query: "genus:urocyon" ; Times: 1
+	Query: "specificepithet:macrorhynchus genus:Globicephala" ; Times: 1
+	Query: "chiroptera mexico" ; Times: 2
+	Query: "genus:Didelphis stateprovince:&#34;California&#34; preparations:skin" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "neotoma macrotis" ; Times: 1
+	Query: "vntype:specimen specificepithet:frenata genus:Mustela stateprovince:&#34;British Columbia&#34; lengthtype:total length hassex:1 haslength:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:erminea genus:Mustela stateprovince:&#34;British Columbia&#34; lengthtype:total length hassex:1 haslength:1" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis hastissue:1" ; Times: 1
+	Query: "Orcinus orca" ; Times: 1
+	Query: "specificepithet:dorsatum genus:Erethizon" ; Times: 1
+	Query: "Urocitellus columbianus" ; Times: 1
+	Query: "vntype:specimen (Microtus ) year &gt;= 2000 hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:erminea genus:Mustela stateprovince:&#34;Washington&#34; lengthtype:total length hassex:1 haslength:1" ; Times: 1
+
+
+End of report.
