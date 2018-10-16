@@ -1,0 +1,468 @@
+Report for Institution Code UAM, Resource uam_mamm
+Usage stats for March 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 848
+Number of records retrieved in searches: 18037
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 16
+	Country: Canada ; Times: 7
+	Country: Israel ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 16
+	Country: Denmark ; Times: 242
+	Country: Poland ; Times: 14
+	Country: United States ; Times: 489
+	Country: China ; Times: 6
+	Country: United Kingdom ; Times: 14
+	Country: Peru ; Times: 11
+	Country: Unknown ; Times: 11
+	Country: Germany ; Times: 6
+	Country: Argentina ; Times: 3
+	Country: Russia ; Times: 1
+	Country: Spain ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-06 ; Times: 38
+	Date: 2018-03-29 ; Times: 27
+	Date: 2018-03-17 ; Times: 2
+	Date: 2018-03-16 ; Times: 14
+	Date: 2018-03-15 ; Times: 10
+	Date: 2018-03-14 ; Times: 8
+	Date: 2018-03-13 ; Times: 3
+	Date: 2018-03-12 ; Times: 9
+	Date: 2018-03-11 ; Times: 8
+	Date: 2018-03-27 ; Times: 80
+	Date: 2018-03-30 ; Times: 12
+	Date: 2018-03-19 ; Times: 4
+	Date: 2018-03-18 ; Times: 1
+	Date: 2018-03-01 ; Times: 17
+	Date: 2018-03-02 ; Times: 40
+	Date: 2018-03-03 ; Times: 19
+	Date: 2018-03-04 ; Times: 8
+	Date: 2018-03-05 ; Times: 42
+	Date: 2018-03-28 ; Times: 19
+	Date: 2018-03-07 ; Times: 245
+	Date: 2018-03-08 ; Times: 11
+	Date: 2018-03-09 ; Times: 11
+	Date: 2018-03-24 ; Times: 1
+	Date: 2018-03-25 ; Times: 14
+	Date: 2018-03-22 ; Times: 4
+	Date: 2018-03-23 ; Times: 7
+	Date: 2018-03-20 ; Times: 55
+	Date: 2018-03-21 ; Times: 28
+	Date: 2018-03-26 ; Times: 111
+
+List of queries that retrieved data from the resource: 
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:115666?seid=1943301&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:64234?seid=230343&#34;" ; Times: 4
+	Query: "class:Mammalia recordedby:W. B. Richardson" ; Times: 1
+	Query: "genus:Homo specificepithet:sapiens" ; Times: 10
+	Query: "recordedby:W. B. Richardson" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:7550?seid=432426&#34;" ; Times: 4
+	Query: "Glaucomys sabrinus skeleton" ; Times: 2
+	Query: "genus:Glaucomys specificepithet:volans" ; Times: 5
+	Query: "genus:Eonycteris specificepithet:spelaea" ; Times: 2
+	Query: "genus:Erethizon specificepithet:dorsatum" ; Times: 5
+	Query: "genus:Lutra specificepithet:lutra" ; Times: 5
+	Query: "xerospermophilus mohavensis" ; Times: 1
+	Query: "specificepithet:mohavensis genus:Xerospermophilus" ; Times: 1
+	Query: "specificepithet:gibbsii genus:Neurotrichus" ; Times: 3
+	Query: "105820" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:7551?seid=437654&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:115668?seid=1943303&#34;" ; Times: 4
+	Query: "119705" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:97873?seid=212803&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:7548?seid=1203459&#34;" ; Times: 4
+	Query: "genus:Tamiasciurus stateprovince:&#34;Idaho&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Myotis specificepithet:keenii" ; Times: 5
+	Query: "sorex hoyi hasmass:1" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:30654?seid=1067797&#34;" ; Times: 4
+	Query: "91774" ; Times: 2
+	Query: "genus:Lepus specificepithet:californicus" ; Times: 2
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:7547?seid=1382961&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:134762?seid=3609171&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:7546?seid=197366&#34;" ; Times: 4
+	Query: "Eschrichtius robustus" ; Times: 3
+	Query: "genus:Cercopithecus specificepithet:mitis" ; Times: 2
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:115667?seid=1943302&#34;" ; Times: 4
+	Query: "genus:Megaptera specificepithet:novaeangliae" ; Times: 5
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:1525?seid=1728203&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:97891?seid=398656&#34;" ; Times: 4
+	Query: "genus:Lasiurus specificepithet:cinereus" ; Times: 2
+	Query: "R 23339" ; Times: 1
+	Query: "catalognumber:13515" ; Times: 1
+	Query: "vntype:specimen specificepithet:maritimus genus:Ursus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "american marten" ; Times: 2
+	Query: "genus:Cynocephalus specificepithet:volans" ; Times: 9
+	Query: "genus:Pteropus specificepithet:lylei" ; Times: 5
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:97875?seid=605554&#34;" ; Times: 4
+	Query: "catalognumber:7360" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:30652?seid=161075&#34;" ; Times: 4
+	Query: "aplodontia rufa" ; Times: 1
+	Query: "genus:Ursus specificepithet:americanus" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:7554?seid=654153&#34;" ; Times: 4
+	Query: "genus:Bos specificepithet:taurus" ; Times: 5
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:66411?seid=214734&#34;" ; Times: 4
+	Query: "catalognumber:43401" ; Times: 1
+	Query: "genus:Rhinolophus specificepithet:acuminatus" ; Times: 5
+	Query: "92774" ; Times: 1
+	Query: "harbor seal" ; Times: 1
+	Query: "specificepithet:fulvescens genus:Reithrodontomys" ; Times: 1
+	Query: "15119" ; Times: 1
+	Query: "26861" ; Times: 1
+	Query: "specificepithet:bendirii genus:sorex" ; Times: 4
+	Query: "16577" ; Times: 1
+	Query: "genus:Lasionycteris month &lt;= 2" ; Times: 1
+	Query: "family:Felidae hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "placenta hastissue:1" ; Times: 2
+	Query: "genus:Oryctolagus specificepithet:cuniculus" ; Times: 7
+	Query: "placenta" ; Times: 1
+	Query: "catalognumber:26000 institutioncode:UAM" ; Times: 1
+	Query: "genus:Puma specificepithet:concolor" ; Times: 5
+	Query: "specificepithet:obliquidens genus:Lagenorhynchus" ; Times: 3
+	Query: "72742" ; Times: 1
+	Query: "genus:Oryzomys" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:97874?seid=1019493&#34;" ; Times: 4
+	Query: "130171" ; Times: 1
+	Query: "Tursiops truncatus" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:30650?seid=266542&#34;" ; Times: 4
+	Query: "genus:Artibeus specificepithet:hirsutus" ; Times: 5
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:64238?seid=1206493&#34;" ; Times: 4
+	Query: "16171" ; Times: 3
+	Query: "genus:Napaeozapus specificepithet:insignis" ; Times: 2
+	Query: "balaena mysticetus" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:30653?seid=1037175&#34;" ; Times: 4
+	Query: "genus:Ursus recordedby:Wood" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:64235?seid=780953&#34;" ; Times: 4
+	Query: "specificepithet:lupus genus:Canis institutioncode:UAM" ; Times: 1
+	Query: "vntype:specimen family:Viverridae basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Pteropus lylei" ; Times: 1
+	Query: "genus:Micromys specificepithet:minutus" ; Times: 2
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:7542?seid=716809&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:19351?seid=311700&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:7541?seid=1402705&#34;" ; Times: 4
+	Query: "genus:Tupaia specificepithet:belangeri" ; Times: 7
+	Query: "catalognumber:17951 institutioncode:UAM" ; Times: 1
+	Query: "vulpes vulpes hasmass:1" ; Times: 2
+	Query: "recordedby:Faucett" ; Times: 1
+	Query: "glacier bay glaucomys" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:87096?seid=1626164&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:64233?seid=198953&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:7556?seid=1732159&#34;" ; Times: 4
+	Query: "genus:Lemmus specificepithet:trimucronatus" ; Times: 5
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:85503?seid=306560&#34;" ; Times: 4
+	Query: "genus:Myotis specificepithet:vivesi" ; Times: 5
+	Query: "160535" ; Times: 1
+	Query: "genus:Pteronotus specificepithet:davyi" ; Times: 5
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:7552?seid=1073576&#34;" ; Times: 4
+	Query: "genus:Lontra specificepithet:canadensis" ; Times: 5
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:7543?seid=312078&#34;" ; Times: 4
+	Query: "genus:Idionycteris specificepithet:phyllotis" ; Times: 5
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:115669?seid=1943304&#34;" ; Times: 4
+	Query: "specificepithet:mexicana genus:Neotoma" ; Times: 1
+	Query: "genus:Myotis specificepithet:auriculus" ; Times: 5
+	Query: "genus:Vulpes specificepithet:vulpes" ; Times: 2
+	Query: "specificepithet:novemcinctus genus:Dasypus" ; Times: 1
+	Query: "genus:Tylonycteris specificepithet:pachypus" ; Times: 2
+	Query: "catalognumber:24417 hastissue:1" ; Times: 1
+	Query: "catalognumber:64879" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis" ; Times: 1
+	Query: "genus:Phoca" ; Times: 1
+	Query: "catalognumber:42382" ; Times: 2
+	Query: "136806" ; Times: 1
+	Query: "35919" ; Times: 1
+	Query: "Ovibos moschatus" ; Times: 5
+	Query: "33640" ; Times: 1
+	Query: "genus:Rousettus specificepithet:aegyptiacus" ; Times: 5
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:19766?seid=653194&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:7553?seid=1748449&#34;" ; Times: 4
+	Query: "marmota caligata" ; Times: 2
+	Query: "genus:Petaurista  specificepithet:petaurista" ; Times: 3
+	Query: "genus:Panthera specificepithet:leo" ; Times: 2
+	Query: "Charles Alexander" ; Times: 1
+	Query: "93526" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:6116?seid=685271&#34;" ; Times: 4
+	Query: "Faucett" ; Times: 1
+	Query: "sorex cinereus haslifestage:1 hasmass:1" ; Times: 1
+	Query: "52261" ; Times: 1
+	Query: "genus:Erinaceus specificepithet:europaeus" ; Times: 10
+	Query: "Lontra canadensis" ; Times: 1
+	Query: "monster" ; Times: 3
+	Query: "specificepithet:obliquidens genus:lagenorhynchus" ; Times: 1
+	Query: "SEA TURTLE" ; Times: 1
+	Query: "genus:Sturnira specificepithet:lilium" ; Times: 2
+	Query: "year &gt;= 1936 year &lt;= 1936 institutioncode:UAM" ; Times: 1
+	Query: "genus:Neofiber specificepithet:alleni" ; Times: 5
+	Query: "genus:Ondatra specificepithet:zibethicus" ; Times: 1
+	Query: "specificepithet:parva genus:Cryptotis hastissue:1" ; Times: 2
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:15855?seid=126374&#34;" ; Times: 4
+	Query: "53539" ; Times: 1
+	Query: "sorex araneus vntype:specimen hassex:1 hasmass:1" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:30655?seid=981406&#34;" ; Times: 4
+	Query: "pika" ; Times: 1
+	Query: "sitka spruce" ; Times: 1
+	Query: "genus:Gulo institutioncode:UAM" ; Times: 1
+	Query: "genus:Phoca locality:Iliamna stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "locality:Near Morgan" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:53847?seid=1571622&#34;" ; Times: 4
+	Query: "(myodes glareolus) hasmass:1" ; Times: 1
+	Query: "catalognumber:24417" ; Times: 1
+	Query: "genus:Scotophilus specificepithet:kuhlii" ; Times: 2
+	Query: "90545" ; Times: 1
+	Query: "90544" ; Times: 1
+	Query: "Myocastor coypus mappable:1" ; Times: 2
+	Query: "genus:Ursus specificepithet:arctos" ; Times: 5
+	Query: "sorex minutus hasmass:1" ; Times: 1
+	Query: "genus:Castor specificepithet:canadensis" ; Times: 3
+	Query: "90543" ; Times: 1
+	Query: "90542" ; Times: 2
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:1929?seid=1167633&#34;" ; Times: 4
+	Query: "34047" ; Times: 1
+	Query: "Camelidae" ; Times: 3
+	Query: "Cabassous tatouay" ; Times: 1
+	Query: "specificepithet:fuscipes genus:Neotoma" ; Times: 2
+	Query: "genus:Lasionycteris specificepithet:noctivagans" ; Times: 2
+	Query: "tursiops" ; Times: 3
+	Query: "genus:Lasionycteris month &gt;= 12 month &lt;= 12" ; Times: 1
+	Query: "44414" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:64237?seid=1074666&#34;" ; Times: 4
+	Query: "catalognumber:72742 hastissue:1" ; Times: 2
+	Query: "genus:Cynocephalus specificepithet:variegatus" ; Times: 7
+	Query: "catalognumber:117945" ; Times: 3
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:97520?seid=1650572&#34;" ; Times: 4
+	Query: "50204" ; Times: 1
+	Query: "genus:Pygoderma specificepithet:bilabiatum" ; Times: 5
+	Query: "genus:Hipposideros specificepithet:pomona" ; Times: 5
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:64236?seid=610717&#34;" ; Times: 4
+	Query: "10273" ; Times: 1
+	Query: "genus:Balantiopteryx specificepithet:plicata" ; Times: 2
+	Query: "24890" ; Times: 1
+	Query: "specificepithet:leucurus genus:Ammospermophilus county:&#34;kern&#34; stateprovince:&#34;california&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:66410?seid=942278&#34;" ; Times: 4
+	Query: "specificepithet:vison genus:Neovison stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "genus:Myotis specificepithet:californicus" ; Times: 2
+	Query: "S. Meyer" ; Times: 1
+	Query: "specificepithet:concolor genus:Puma" ; Times: 1
+	Query: "Platyrrhinus lineatus" ; Times: 8
+	Query: "catalognumber:2600 institutioncode:UAM" ; Times: 1
+	Query: "genus:Oryzomys specificepithet:palustris" ; Times: 4
+	Query: "North Midden" ; Times: 2
+	Query: "myodes glareolus europe hassex:1 hasmass:1" ; Times: 2
+	Query: "Phoca vitulina" ; Times: 3
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:97890?seid=1305513&#34;" ; Times: 4
+	Query: "Sorex arcticus hasmass:1" ; Times: 1
+	Query: "specificepithet:hoyi genus:Sorex hasmass:1 haslength:1" ; Times: 2
+	Query: "genus:Stenella specificepithet:attenuata" ; Times: 4
+	Query: "genus:Cebus specificepithet:apella" ; Times: 7
+	Query: "Lund Museum" ; Times: 1
+	Query: "Kerivoula" ; Times: 2
+	Query: "genus:Enhydra specificepithet:lutris" ; Times: 5
+	Query: "genus:Neovison specificepithet:vison" ; Times: 3
+	Query: "genus:Microtus specificepithet:ochrogaster" ; Times: 2
+	Query: "B 1482" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:24081?seid=991280&#34;" ; Times: 4
+	Query: "genus:Thomomys stateprovince:&#34;Montana&#34;" ; Times: 2
+	Query: "genus:Myotis specificepithet:evotis" ; Times: 2
+	Query: "122774" ; Times: 1
+	Query: "catalognumber:76325" ; Times: 2
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:7555?seid=74339&#34;" ; Times: 4
+	Query: "mountain beaver" ; Times: 1
+	Query: "mummy" ; Times: 5
+	Query: "catalognumber:63511" ; Times: 2
+	Query: "genus:Ondatra" ; Times: 1
+	Query: "97501" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:30656?seid=261593&#34;" ; Times: 4
+	Query: "family:Felidae haslength:1" ; Times: 1
+	Query: "trichechus" ; Times: 2
+	Query: "genus:Platyrrhinus specificepithet:lineatus" ; Times: 5
+	Query: "Physeter macrocephalus" ; Times: 4
+	Query: "*Urocitellus columbianus" ; Times: 1
+	Query: "101843" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:30651?seid=182938&#34;" ; Times: 4
+	Query: "26996" ; Times: 1
+	Query: "NMW" ; Times: 2
+	Query: "Ovibos moschatus moschatus" ; Times: 5
+	Query: "vntype:specimen family:Odobenidae basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Tamias specificepithet:striatus" ; Times: 1
+	Query: "Sorex araneus hasmass:1" ; Times: 1
+	Query: "primate" ; Times: 2
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:4664?seid=1288940&#34;" ; Times: 4
+	Query: "genus:Panthera specificepithet:pardus" ; Times: 2
+	Query: "genus:Dendrogale specificepithet:murina" ; Times: 5
+	Query: "genus:Aplodontia year &gt;= 1990 year &lt;= 2018" ; Times: 1
+	Query: "genus:Kogia specificepithet:breviceps" ; Times: 5
+	Query: "genus:Aplodontia specificepithet:rufa" ; Times: 6
+	Query: "specificepithet:gulo genus:gulo" ; Times: 5
+	Query: "specificepithet:leucas genus:delphinapterus hassex:1 hastissue:1" ; Times: 4
+	Query: "genus:Tylonycteris specificepithet:robustula" ; Times: 5
+	Query: "HF 166" ; Times: 1
+	Query: "catalognumber:27577" ; Times: 1
+	Query: "genus:Balaenoptera specificepithet:physalus" ; Times: 5
+	Query: "specificepithet:californicus genus:microtus county:&#34;San Bernardino&#34;" ; Times: 2
+	Query: "genus:Synaptomys specificepithet:cooperi" ; Times: 5
+	Query: "catalognumber:20841" ; Times: 1
+	Query: "genus:Macrotus specificepithet:californicus" ; Times: 2
+	Query: "genus:Pteromys" ; Times: 3
+	Query: "specificepithet:princeps genus:Ochotona year &gt;= 2000 year &lt;= 2018 institutioncode:UAM" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:57951?seid=524276&#34;" ; Times: 4
+	Query: "15144" ; Times: 1
+	Query: "8221" ; Times: 1
+	Query: "order:Lagomorpha lengthtype:head-body length" ; Times: 1
+	Query: "catalognumber:26157" ; Times: 1
+	Query: "specificepithet:latrans genus:canis year &gt;= 1700 year &lt;= 1900" ; Times: 1
+	Query: "Myotis vivesi" ; Times: 1
+	Query: "recordedby:S. Mayer" ; Times: 1
+	Query: "genus:Microtus specificepithet:pinetorum" ; Times: 2
+	Query: "12594 R" ; Times: 1
+	Query: "specificepithet:volans genus:Glaucomys" ; Times: 1
+	Query: "specificepithet:macrocephalus genus:Physeter order:Cetacea country:&#34;United States&#34;" ; Times: 1
+	Query: "26356" ; Times: 1
+	Query: "genus:Ochrotomys specificepithet:nuttalli" ; Times: 5
+	Query: "genus:Neotoma specificepithet:cinerea" ; Times: 2
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:7549?seid=760659&#34;" ; Times: 4
+	Query: "Search museum data" ; Times: 4
+	Query: "Pika" ; Times: 1
+	Query: "catalognumber:66195" ; Times: 1
+	Query: "genus:Cynopterus specificepithet:sphinx" ; Times: 5
+	Query: "244353" ; Times: 1
+	Query: "genus:Steno specificepithet:bredanensis" ; Times: 5
+	Query: "Equidae" ; Times: 4
+	Query: "lobodon carcinophagus" ; Times: 1
+	Query: "genus:Callithrix specificepithet:jacchus" ; Times: 7
+	Query: "class:Mammalia locality:Kansas" ; Times: 2
+	Query: "genus:Chrotopterus specificepithet:auritus" ; Times: 5
+	Query: "Panthera tigris " ; Times: 1
+	Query: "14C" ; Times: 3
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:7544?seid=239797&#34;" ; Times: 4
+	Query: "genus:Petaurista specificepithet:petaurista" ; Times: 2
+	Query: "specificepithet:ugyunak genus:Sorex" ; Times: 1
+	Query: "18525" ; Times: 1
+	Query: "62969" ; Times: 1
+	Query: "catalognumber:64268" ; Times: 1
+	Query: "genus:Ursus recordedby:Robinson" ; Times: 1
+	Query: "genus:Dasypus specificepithet:novemcinctus" ; Times: 5
+	Query: "genus:Aplodontia year &gt;= 1970 year &lt;= 2018" ; Times: 1
+	Query: "47432`" ; Times: 1
+	Query: "body size" ; Times: 3
+	Query: "Lagenorhynchus obliquidens" ; Times: 2
+	Query: "16003" ; Times: 1
+	Query: "genus:Lynx specificepithet:rufus" ; Times: 1
+	Query: "genus:Globicephala  specificepithet:macrorhynchus" ; Times: 3
+	Query: "genus:Zapus specificepithet:hudsonius" ; Times: 2
+	Query: "specificepithet:dispar genus:sorex" ; Times: 1
+	Query: "genus:Mammuthus specificepithet:primigenius" ; Times: 6
+	Query: "Tick Island" ; Times: 3
+	Query: "genus:Hipposideros specificepithet:larvatus" ; Times: 5
+	Query: "genus:Equus specificepithet:quagga" ; Times: 5
+	Query: "sorex araneus vntype:specimen year &gt;= 1980 year &lt;= 2017 hassex:1 hasmass:1" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:7545?seid=475463&#34;" ; Times: 4
+	Query: "21570" ; Times: 2
+	Query: "order:rodentia class:Mammalia locality:antelope valley stateprovince:&#34;California&#34;" ; Times: 3
+	Query: "specificepithet:griseus genus:sciurus" ; Times: 2
+	Query: "specificepithet:latrans genus:Canis institutioncode:UAM" ; Times: 1
+	Query: "genus:Globicephala specificepithet:macrorhynchus" ; Times: 2
+	Query: "Mirounga angustirostris" ; Times: 2
+	Query: "lagenorhynchus obliquidens" ; Times: 4
+	Query: "119120" ; Times: 1
+	Query: "101537" ; Times: 2
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:51073?seid=1144244&#34;" ; Times: 4
+	Query: "Mallard" ; Times: 2
+	Query: "65223" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:97876?seid=569917&#34;" ; Times: 4
+	Query: "tick island" ; Times: 1
+	Query: "genus:Orcinus specificepithet:orca" ; Times: 5
+	Query: "class:Mammalia lengthtype:head-body length" ; Times: 1
+	Query: "Sorex hoyi hasmass:1" ; Times: 2
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:85203?seid=503783&#34;" ; Times: 4
+	Query: "Hominidae" ; Times: 2
+	Query: "genus:Peromyscus specificepithet:gossypinus" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UAM:Mamm:7540?seid=652993&#34;" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 54 (out of 1284 download events in this period)
+Total number of records downloaded: 168877
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: Unknown ; Times: 5
+	Country: Poland ; Times: 12
+	Country: France ; Times: 1
+	Country: United States ; Times: 27
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-06 ; Times: 2
+	Date: 2018-03-19 ; Times: 2
+	Date: 2018-03-10 ; Times: 2
+	Date: 2018-03-23 ; Times: 2
+	Date: 2018-03-16 ; Times: 3
+	Date: 2018-03-15 ; Times: 2
+	Date: 2018-03-14 ; Times: 1
+	Date: 2018-03-05 ; Times: 1
+	Date: 2018-03-28 ; Times: 2
+	Date: 2018-03-29 ; Times: 7
+	Date: 2018-03-08 ; Times: 2
+	Date: 2018-03-27 ; Times: 5
+	Date: 2018-03-24 ; Times: 5
+	Date: 2018-03-26 ; Times: 10
+	Date: 2018-03-30 ; Times: 1
+	Date: 2018-03-09 ; Times: 6
+	Date: 2018-03-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "sorex cinereus haslifestage:1 hasmass:1" ; Times: 1
+	Query: "family:Felidae" ; Times: 1
+	Query: "vntype:specimen family:Otariidae basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Myotis vivesi" ; Times: 1
+	Query: "talpidae hasmass:1" ; Times: 1
+	Query: "genus:Gulo institutioncode:UAM" ; Times: 1
+	Query: "specificepithet:mohavensis genus:Xerospermophilus" ; Times: 1
+	Query: "Neotoma micropus" ; Times: 2
+	Query: "family:Soricidae country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:leucurus genus:Ammospermophilus county:&#34;kern&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "sorex hoyi hasmass:1" ; Times: 1
+	Query: "peromyscus truei" ; Times: 1
+	Query: "vntype:specimen family:Vespertilionidae stateprovince:&#34;Wisconsin&#34;" ; Times: 1
+	Query: "vntype:specimen family:Phocidae basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "sorex fumeus hasmass:1" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "soricidae hasmass:1" ; Times: 1
+	Query: "Sorex arcticus hasmass:1" ; Times: 1
+	Query: "rodentia hasmass:1" ; Times: 3
+	Query: "Bassariscus" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "vntype:specimen family:Odobenidae basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:lilium genus:Sturnira country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Sturnira country:&#34;Mexico&#34;" ; Times: 1
+	Query: "israel" ; Times: 1
+	Query: "class:Mammalia Didelphis marsupialis" ; Times: 1
+	Query: "Pika" ; Times: 1
+	Query: "cricetidae hasmass:1" ; Times: 1
+	Query: "order:rodentia class:Mammalia locality:antelope valley stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:lutris genus:Enhydra basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "aplodontia rufa" ; Times: 3
+	Query: "family:Felidae haslength:1" ; Times: 1
+	Query: "genus:Artibeus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "*Urocitellus columbianus" ; Times: 1
+	Query: "order:Cingulata preparations:skull" ; Times: 1
+	Query: "family:Felidae hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "vntype:specimen order:Cetacea basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:maritimus genus:Ursus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis institutioncode:UAM" ; Times: 3
+	Query: "Sorex araneus hasmass:1" ; Times: 1
+	Query: "Talpa" ; Times: 1
+	Query: "lagenorhynchus obliquidens" ; Times: 2
+	Query: "specificepithet:lupus genus:Canis institutioncode:UAM" ; Times: 1
+	Query: "Pteropus lylei" ; Times: 1
+	Query: "family:Vespertilionidae stateprovince:&#34;Wisconsin&#34;" ; Times: 1
+	Query: "sorex cinereus hasmass:1" ; Times: 1
+
+
+End of report.
