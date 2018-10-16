@@ -1,0 +1,438 @@
+Report for Institution Code UAM, Resource uam_mamm
+Usage stats for January 2018, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 949
+Number of records retrieved in searches: 9467
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 30
+	Country: United States ; Times: 767
+	Country: Australia ; Times: 4
+	Country: Italy ; Times: 6
+	Country: Chile ; Times: 2
+	Country: Mexico ; Times: 19
+	Country: Denmark ; Times: 85
+	Country: Finland ; Times: 2
+	Country: Luxembourg ; Times: 1
+	Country: United Kingdom ; Times: 15
+	Country: Peru ; Times: 1
+	Country: Unknown ; Times: 9
+	Country: Colombia ; Times: 3
+	Country: Russia ; Times: 1
+	Country: Brazil ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 14
+	Date: 2018-01-18 ; Times: 26
+	Date: 2018-01-31 ; Times: 43
+	Date: 2018-01-30 ; Times: 35
+	Date: 2018-01-11 ; Times: 10
+	Date: 2018-01-10 ; Times: 6
+	Date: 2018-01-13 ; Times: 7
+	Date: 2018-01-12 ; Times: 38
+	Date: 2018-01-15 ; Times: 41
+	Date: 2018-01-14 ; Times: 20
+	Date: 2018-01-17 ; Times: 9
+	Date: 2018-01-16 ; Times: 29
+	Date: 2018-01-24 ; Times: 115
+	Date: 2018-01-25 ; Times: 143
+	Date: 2018-01-08 ; Times: 16
+	Date: 2018-01-09 ; Times: 14
+	Date: 2018-01-28 ; Times: 7
+	Date: 2018-01-29 ; Times: 11
+	Date: 2018-01-02 ; Times: 12
+	Date: 2018-01-03 ; Times: 7
+	Date: 2018-01-26 ; Times: 23
+	Date: 2018-01-01 ; Times: 3
+	Date: 2018-01-06 ; Times: 4
+	Date: 2018-01-21 ; Times: 21
+	Date: 2018-01-22 ; Times: 61
+	Date: 2018-01-07 ; Times: 3
+	Date: 2018-01-04 ; Times: 1
+	Date: 2018-01-05 ; Times: 1
+	Date: 2018-01-23 ; Times: 206
+	Date: 2018-01-27 ; Times: 9
+	Date: 2018-01-20 ; Times: 14
+
+List of queries that retrieved data from the resource: 
+	Query: "Cynocephalus variegatus mappable:1" ; Times: 1
+	Query: "vntype:specimen hasmass:1 &#34;vulpes vulpes&#34;" ; Times: 1
+	Query: "Dasypus novemcinctus skeleton" ; Times: 1
+	Query: "Alces alces" ; Times: 5
+	Query: "Pteronotus davyi" ; Times: 1
+	Query: "Oxymycterus" ; Times: 1
+	Query: "rodent" ; Times: 1
+	Query: "&#34;Dermoptera&#34; mappable:1" ; Times: 1
+	Query: "specificepithet:Bison genus:Bison" ; Times: 1
+	Query: "Ursus maritimus" ; Times: 3
+	Query: "erethizon dorsatum" ; Times: 1
+	Query: "48520" ; Times: 1
+	Query: "118132" ; Times: 1
+	Query: "Elephas maximus maximus" ; Times: 2
+	Query: "&#34;didelphis virginiana&#34; mappable:1" ; Times: 1
+	Query: "alces alces mappable:1" ; Times: 1
+	Query: "92095" ; Times: 1
+	Query: "beluga" ; Times: 1
+	Query: "E. Dorsatum mappable:1" ; Times: 1
+	Query: "catalognumber:121671" ; Times: 1
+	Query: "&#34;Odobenus rosmarus&#34; mappable:1" ; Times: 2
+	Query: "Elephas maximus" ; Times: 2
+	Query: "order:rodentia class:mammalia 23608" ; Times: 1
+	Query: "Dermoptera mappable:1" ; Times: 160
+	Query: "(Cynocephalidae)" ; Times: 1
+	Query: "(dermoptera java) mappable:1" ; Times: 1
+	Query: "Loxodonta africana" ; Times: 12
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "Dasypus novemcinctus mappable:1" ; Times: 27
+	Query: "Alces alces gigas mappable:1" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "(dermoptera)" ; Times: 3
+	Query: "Chrotopterus auritus" ; Times: 1
+	Query: "(&#34;14C&#34;)" ; Times: 1
+	Query: "vntype:specimen order:Rodentia recordedby:Reed" ; Times: 1
+	Query: "(Cynocephalidae) mappable:1" ; Times: 1
+	Query: "dermoptera mappable:1" ; Times: 136
+	Query: "95638" ; Times: 1
+	Query: "catalognumber:11201 institutioncode:UAM" ; Times: 1
+	Query: "walrus fetus" ; Times: 1
+	Query: "cynocephalus variegatus mappable:1" ; Times: 1
+	Query: "Birch Island" ; Times: 1
+	Query: "Mammal specimens 20978 mappable:1" ; Times: 1
+	Query: "mappable:1 hastissue:1 distance(location,geopoint(50.958426723359935,-120.849609375))&lt;100000" ; Times: 1
+	Query: "Canada lynx" ; Times: 1
+	Query: "dermoptera year &lt;= 1940 mappable:1" ; Times: 1
+	Query: "Dermoptera Java" ; Times: 2
+	Query: "&#34;ERETHIZON DORSATUM&#34; mappable:1" ; Times: 1
+	Query: "dasypus novemcinctus" ; Times: 15
+	Query: "order:Dermoptera" ; Times: 1
+	Query: "Cebus" ; Times: 1
+	Query: "dermoptera vntype:specimen mappable:1" ; Times: 1
+	Query: "Cavia porcellus" ; Times: 1
+	Query: "Panthera leo" ; Times: 3
+	Query: "dermoptera java mappable:1" ; Times: 1
+	Query: "(Dasypus Novemcinctus) mappable:1" ; Times: 1
+	Query: "&#34;ursus arctos&#34; frozen" ; Times: 1
+	Query: "order:dermoptera mappable:1" ; Times: 1
+	Query: "Trichechus manatus" ; Times: 1
+	Query: "specificepithet:bison genus:bison preparations:skin" ; Times: 1
+	Query: "Loxodonta africana africana" ; Times: 4
+	Query: "catalognumber:1290" ; Times: 1
+	Query: "Panthera pardus pardus" ; Times: 2
+	Query: "&#34;erethizon dorsatum&#34; mappable:1" ; Times: 3
+	Query: "(&#34;Dasypus novemcinctus&#34;) mappable:1" ; Times: 1
+	Query: "elephas maximus continent:asia" ; Times: 1
+	Query: "29233" ; Times: 3
+	Query: "Ursus arctos frozen vntype:specimen year &gt;= 2005 year &lt;= 2018 hastissue:1" ; Times: 1
+	Query: "order:rodentia class:mammalia 25014" ; Times: 1
+	Query: "balaenoptera Physalus" ; Times: 4
+	Query: "Leptonycteris nivalis stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "marine mammal parasites" ; Times: 2
+	Query: "&#34;Ursus arctos&#34; frozen vntype:specimen sex:Male year &gt;= 2005 year &lt;= 2018 hastissue:1" ; Times: 1
+	Query: "Ovibos" ; Times: 3
+	Query: "order:rodentia class:mammalia 52091" ; Times: 2
+	Query: "Dermoptera continent:asia mappable:1" ; Times: 1
+	Query: "Field board country:&#34;United States&#34; year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "76908" ; Times: 1
+	Query: "36607" ; Times: 3
+	Query: "r-87617" ; Times: 1
+	Query: "Octodon" ; Times: 1
+	Query: "&#34;Ursus maritimus&#34; mappable:1" ; Times: 3
+	Query: "(dermoptera ) mappable:1" ; Times: 2
+	Query: "island specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;alaska&#34; institutioncode:UAM" ; Times: 1
+	Query: "&#34;DASYPUS NOVEMCINCTUS&#34; mappable:1" ; Times: 1
+	Query: "Pipistrellus subflavus" ; Times: 1
+	Query: "77136" ; Times: 1
+	Query: "Marmota vancouverensis" ; Times: 4
+	Query: "monster" ; Times: 1
+	Query: "American Badger" ; Times: 4
+	Query: "grypus" ; Times: 1
+	Query: "order:rodentia class:mammalia catalognumber:52091" ; Times: 2
+	Query: "24880" ; Times: 1
+	Query: "(Dermoptera) mappable:1" ; Times: 2
+	Query: "erethizon dorsatum mappable:1" ; Times: 2
+	Query: "order:rodentia class:mammalia 52019" ; Times: 1
+	Query: "genus:Tylonycteris institutioncode:UAM" ; Times: 2
+	Query: "Urocitellus columbianus" ; Times: 1
+	Query: "109562" ; Times: 1
+	Query: "W. E. English" ; Times: 1
+	Query: "Eumetopias jubata " ; Times: 2
+	Query: "pika" ; Times: 1
+	Query: "Kodiak Bear" ; Times: 1
+	Query: "family:Sciuridae stateprovince:&#34;Oklahoma&#34;" ; Times: 2
+	Query: "&#34;Meles meles&#34; mappable:1" ; Times: 1
+	Query: "&#34;Orcinus orca&#34; mappable:1" ; Times: 1
+	Query: "20821" ; Times: 1
+	Query: "octodon" ; Times: 1
+	Query: "91908" ; Times: 1
+	Query: "(&#34;dasypus novemcinctus&#34;) mappable:1" ; Times: 7
+	Query: "North American Porcupine" ; Times: 1
+	Query: "Alces alces alces" ; Times: 4
+	Query: "Cervus elaphus elaphus" ; Times: 4
+	Query: "&#34;dasypus&#34; &#34;novemcinctus&#34; mappable:1" ; Times: 3
+	Query: "Dermoptera Java mappable:1" ; Times: 2
+	Query: "&#34;Didelphis virginiana&#34; mappable:1" ; Times: 1
+	Query: "&#34;Megaptera novaeangliae&#34; mappable:1" ; Times: 1
+	Query: "Camelus bactrianus" ; Times: 2
+	Query: "Cervus elaphus" ; Times: 5
+	Query: "Phocarctos hookeri " ; Times: 2
+	Query: "catalognumber:35341" ; Times: 1
+	Query: "Camelus bactrianus bactrianus" ; Times: 1
+	Query: "gbifdatasetid:377be098-626f-4cc2-b4b5-35700050669a" ; Times: 1
+	Query: "Alces alces alces mappable:1" ; Times: 1
+	Query: "dermoptera year &lt;= 1970" ; Times: 1
+	Query: "Balantiopteryx plicata" ; Times: 1
+	Query: "Ovibos moschatus" ; Times: 3
+	Query: "norway rat" ; Times: 1
+	Query: "north american porcupine mappable:1" ; Times: 2
+	Query: "Sus scrofa" ; Times: 1
+	Query: "&#34;Orcinus&#34; &#34;orca&#34; mappable:1" ; Times: 1
+	Query: "bears" ; Times: 1
+	Query: "E. dorsatum Erethizon dorsatum mappable:1" ; Times: 4
+	Query: "Alces alces mappable:1" ; Times: 3
+	Query: "catalognumber:11315 institutioncode:UAM" ; Times: 6
+	Query: "84111" ; Times: 1
+	Query: "UAM Mammal specimens 20978" ; Times: 1
+	Query: "genus:mus stateprovince:&#34;Alaska&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "specificepithet:hoyi genus:Sorex hasmass:1 haslength:1" ; Times: 1
+	Query: "(dermoptera) mappable:1" ; Times: 12
+	Query: "&#34;Erethizon dorsatum&#34; mappable:1" ; Times: 3
+	Query: "(cynocephalidae) mappable:1" ; Times: 3
+	Query: "Panthera tigris tigris" ; Times: 4
+	Query: "(dasypus novemcinctus) mappable:1" ; Times: 4
+	Query: "Panthera tigris altaica" ; Times: 3
+	Query: "catalognumber:17707 institutioncode:UAM" ; Times: 2
+	Query: "Megaptera novaeangliae" ; Times: 2
+	Query: "birds of prey" ; Times: 1
+	Query: "Crex Crex" ; Times: 1
+	Query: "grey squirrel" ; Times: 1
+	Query: "Equus caballus" ; Times: 3
+	Query: "UAM 26413" ; Times: 1
+	Query: "family:sciuridae stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Panthera leo leo" ; Times: 3
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "catalognumber:4458" ; Times: 2
+	Query: "Equus caballus caballus" ; Times: 2
+	Query: "Dasypus Novemcinctus" ; Times: 1
+	Query: "tupaia" ; Times: 1
+	Query: "51835" ; Times: 1
+	Query: "homo sapiens" ; Times: 2
+	Query: "pinniped" ; Times: 1
+	Query: "Ovibos moschatus moschatus" ; Times: 3
+	Query: "24291" ; Times: 1
+	Query: "119073" ; Times: 4
+	Query: "26413" ; Times: 1
+	Query: "Phoca vitulina richardsi " ; Times: 2
+	Query: "cynocephalidae" ; Times: 1
+	Query: "catalognumber:15421 institutioncode:UAM" ; Times: 2
+	Query: "catalognumber:8365 institutioncode:UAM" ; Times: 2
+	Query: "martes pennanti hasmass:1" ; Times: 1
+	Query: "&#34;vulpes vulpes&#34; vntype:specimen country:&#34;Canada&#34; continent:North America hasmass:1" ; Times: 1
+	Query: "&#34;Dasypus&#34; &#34;novemcinctus&#34;" ; Times: 2
+	Query: "Callosciurus erythraeus" ; Times: 1
+	Query: "dermoptera" ; Times: 39
+	Query: "61419" ; Times: 1
+	Query: "catalognumber:1044" ; Times: 1
+	Query: "17892" ; Times: 1
+	Query: "DERMOPTERA mappable:1" ; Times: 10
+	Query: "dermoptera year &lt;= 1970 mappable:1" ; Times: 1
+	Query: "Neotoma mexicana" ; Times: 1
+	Query: "catalognumber:11203 institutioncode:UAM" ; Times: 2
+	Query: "14014" ; Times: 1
+	Query: "ziphius cavirostris" ; Times: 1
+	Query: "89962" ; Times: 1
+	Query: "order:rodentia class:mammalia 52199" ; Times: 1
+	Query: "Ursus arctos frozen vntype:specimen sex:Male year &gt;= 2005 year &lt;= 2018 hastissue:1" ; Times: 1
+	Query: "catalognumber:11316 institutioncode:UAM" ; Times: 2
+	Query: "18139" ; Times: 2
+	Query: "UAM 28841" ; Times: 1
+	Query: "Dermoptera vntype:specimen mappable:1" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "catalognumber:4208" ; Times: 1
+	Query: "ursus maritimus mappable:1" ; Times: 1
+	Query: "ursus thibetanus continent:asia" ; Times: 1
+	Query: "123553" ; Times: 1
+	Query: "catalognumber:10738" ; Times: 3
+	Query: "catalognumber:15109 institutioncode:UAM" ; Times: 3
+	Query: "bison skin" ; Times: 3
+	Query: "genetta genetta" ; Times: 2
+	Query: "order:rodentia class:mammalia 52109" ; Times: 1
+	Query: "Tamias sibiricus" ; Times: 1
+	Query: "catalognumber:96993" ; Times: 1
+	Query: "specificepithet:mohavensis" ; Times: 1
+	Query: "catalognumber:17884 institutioncode:UAM" ; Times: 2
+	Query: "Sirenia mappable:1" ; Times: 1
+	Query: "Erethizon dorsatum mappable:1" ; Times: 2
+	Query: "&#34;Erethizon&#34; &#34;dorsatum&#34; mappable:1" ; Times: 1
+	Query: "(bigfoot) mappable:1" ; Times: 2
+	Query: "Mustela frenata" ; Times: 1
+	Query: "&#34;dermoptera&#34; mappable:1" ; Times: 2
+	Query: "&#34;dasypus novemcinctus&#34;" ; Times: 6
+	Query: "86159" ; Times: 1
+	Query: "Panthera pardus" ; Times: 2
+	Query: "carcinophagus" ; Times: 1
+	Query: "tamias sibiricus" ; Times: 1
+	Query: "catalognumber:13158 institutioncode:UAM" ; Times: 2
+	Query: "Panthera tigris" ; Times: 3
+	Query: "american bison" ; Times: 1
+	Query: "dermoptera Cynocephalus variegatus mappable:1" ; Times: 2
+	Query: "trichechidae vntype:specimen" ; Times: 8
+	Query: "Dermoptera" ; Times: 21
+	Query: "equus" ; Times: 1
+	Query: "&#34;Dasypus novemcinctus&#34;" ; Times: 6
+	Query: "(&#34;dermoptera&#34;) mappable:1" ; Times: 1
+	Query: "&#34;Dasypus&#34; &#34;novemcinctus&#34; mappable:1" ; Times: 4
+	Query: "&#34;Dasypus novemcinctus&#34; mappable:1" ; Times: 56
+	Query: "dasypus novemcinctus class:Mammalia continent:North America mappable:1" ; Times: 1
+	Query: "Alces alces gigas" ; Times: 4
+	Query: "dasypus novemcinctus mappable:1" ; Times: 25
+	Query: "Dasypus novemcinctus" ; Times: 11
+	Query: "&#34;dasypus novemcinctus&#34; mappable:1" ; Times: 27
+	Query: "Halichoerus grypus" ; Times: 11
+	Query: "&#34;vulpes vulpes&#34; vntype:specimen continent:North America hasmass:1" ; Times: 1
+	Query: "genus:panthera hastissue:1" ; Times: 5
+	Query: "Mallard" ; Times: 1
+	Query: "Strix nebulosa" ; Times: 3
+	Query: "Oryctolagus cuniculus" ; Times: 1
+	Query: "42679" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:Dasypus" ; Times: 1
+	Query: "interlocked" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 316 (out of 1398 download events in this period)
+Total number of records downloaded: 11714
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United Kingdom ; Times: 2
+	Country: Australia ; Times: 2
+	Country: Italy ; Times: 16
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: Czechia ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 286
+	Country: Colombia ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 10
+	Date: 2018-01-18 ; Times: 9
+	Date: 2018-01-31 ; Times: 13
+	Date: 2018-01-30 ; Times: 25
+	Date: 2018-01-11 ; Times: 2
+	Date: 2018-01-13 ; Times: 1
+	Date: 2018-01-12 ; Times: 1
+	Date: 2018-01-15 ; Times: 1
+	Date: 2018-01-17 ; Times: 2
+	Date: 2018-01-16 ; Times: 5
+	Date: 2018-01-24 ; Times: 38
+	Date: 2018-01-08 ; Times: 2
+	Date: 2018-01-09 ; Times: 5
+	Date: 2018-01-28 ; Times: 3
+	Date: 2018-01-29 ; Times: 1
+	Date: 2018-01-02 ; Times: 18
+	Date: 2018-01-25 ; Times: 38
+	Date: 2018-01-26 ; Times: 5
+	Date: 2018-01-27 ; Times: 2
+	Date: 2018-01-06 ; Times: 11
+	Date: 2018-01-21 ; Times: 5
+	Date: 2018-01-22 ; Times: 28
+	Date: 2018-01-05 ; Times: 1
+	Date: 2018-01-04 ; Times: 1
+	Date: 2018-01-23 ; Times: 80
+	Date: 2018-01-20 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "Myotis evotis mappable:1" ; Times: 1
+	Query: "genus:Tamias striatus year &gt;= 1700 year &lt;= 1960 hasmass:1" ; Times: 1
+	Query: "Mus musculus" ; Times: 1
+	Query: "specificepithet:speciosus genus:Tamias" ; Times: 1
+	Query: "Ondatra zibethicus" ; Times: 1
+	Query: "dermoptera mappable:1" ; Times: 100
+	Query: "Lasiurus cinereus mappable:1" ; Times: 1
+	Query: "order:Artiodactyla" ; Times: 2
+	Query: "family:Leporidae basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Myotis leibii mappable:1" ; Times: 1
+	Query: "Myotis keenii mappable:1" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "microtus oregoni mappable:1" ; Times: 1
+	Query: "Dermoptera mappable:1" ; Times: 91
+	Query: "elephas maximus continent:asia" ; Times: 1
+	Query: "specificepithet:princeps genus:Ochotona" ; Times: 1
+	Query: "island specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;alaska&#34; institutioncode:UAM" ; Times: 1
+	Query: "Myotis volans mappable:1" ; Times: 1
+	Query: "Rattus rattus" ; Times: 2
+	Query: "specificepithet:maniculatus genus:Peromyscus haslength:1" ; Times: 1
+	Query: "genus:peromyscus stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "ursus thibetanus continent:asia" ; Times: 1
+	Query: "Dermoptera vntype:specimen mappable:1" ; Times: 1
+	Query: "Myotis thysanodes mappable:1" ; Times: 1
+	Query: "Aplodontia rufa" ; Times: 1
+	Query: "genetta genetta" ; Times: 1
+	Query: "Myotis lucifugus mappable:1" ; Times: 1
+	Query: "hasmedia:1" ; Times: 1
+	Query: "notiosorex" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "Callospermophilus lateralis" ; Times: 2
+	Query: "Octodon" ; Times: 1
+	Query: "(dermoptera) mappable:1" ; Times: 9
+	Query: "(dermoptera ) mappable:1" ; Times: 3
+	Query: "sorex arcticus vntype:specimen country:&#34;Canada&#34;" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;california&#34; (Sorex) mappable:1" ; Times: 1
+	Query: "specificepithet:glareolus genus:Myodes family:Cricetidae order:Rodentia class:Mammalia year &gt;= 1970 year &lt;= 2018" ; Times: 1
+	Query: "Myotis ciliolabrum mappable:1" ; Times: 1
+	Query: "Dipodomys" ; Times: 1
+	Query: "Ursus arctos frozen vntype:specimen sex:Male year &gt;= 2005 year &lt;= 2018 hastissue:1" ; Times: 1
+	Query: "Myotis septentrionalis mappable:1" ; Times: 1
+	Query: "genus:Napaeozapus" ; Times: 1
+	Query: "Sciurus niger rufiventer" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "specificepithet:fuscus genus:Eptesicus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Neovison vison" ; Times: 1
+	Query: "genus:Odocoileus country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:Zapus" ; Times: 1
+	Query: "order:Chiroptera" ; Times: 1
+	Query: "tamias sibiricus" ; Times: 1
+	Query: "class:Mammalia hasmass:1 mappable:1 hasmedia:1" ; Times: 1
+	Query: "Tamias sibiricus" ; Times: 1
+	Query: "American Badger" ; Times: 2
+	Query: "Sylvilagus floridanus" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 1
+	Query: "Callosciurus erythraeus" ; Times: 1
+	Query: "Ursus arctos frozen vntype:specimen year &gt;= 2005 year &lt;= 2018 hastissue:1" ; Times: 1
+	Query: "dermoptera Cynocephalus variegatus mappable:1" ; Times: 2
+	Query: "(Cynocephalidae) mappable:1" ; Times: 2
+	Query: "DERMOPTERA mappable:1" ; Times: 9
+	Query: "Dermoptera" ; Times: 2
+	Query: "Urocitellus columbianus" ; Times: 1
+	Query: "cynocephalus variegatus mappable:1" ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 1
+	Query: "Vulpes macrotis" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis mappable:1" ; Times: 1
+	Query: "(Dermoptera) mappable:1" ; Times: 4
+	Query: "Myotis yumanensis mappable:1" ; Times: 1
+	Query: "Cavia porcellus" ; Times: 1
+	Query: "genus:Ochotona AND (NOT princeps) hastissue:1" ; Times: 1
+	Query: "family:Sciuridae stateprovince:&#34;Oklahoma&#34;" ; Times: 2
+	Query: "Neurotrichus gibbsii" ; Times: 1
+	Query: "genus:Tamias striatus year &gt;= 1961 year &lt;= 2017 hasmass:1" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "genus:Odocoileus virginianus" ; Times: 1
+	Query: "Myotis californicus mappable:1" ; Times: 1
+	Query: "order:Didelphimorphia" ; Times: 1
+	Query: "order:Chiroptera country:&#34;United States&#34;" ; Times: 1
+	Query: "didelphis marsupialis" ; Times: 1
+	Query: "Chaetodipus penicillatus" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "dermoptera" ; Times: 15
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "Lepus californicus" ; Times: 1
+
+
+End of report.
