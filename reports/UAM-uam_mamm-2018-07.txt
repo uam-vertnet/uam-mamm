@@ -1,0 +1,354 @@
+Report for Institution Code UAM, Resource uam_mamm
+Usage stats for July 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 304
+Number of records retrieved in searches: 2597
+Number of different countries where searches have been originated: 21
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 6
+	Country: Lithuania ; Times: 10
+	Country: United Kingdom ; Times: 10
+	Country: Belgium ; Times: 1
+	Country: Sweden ; Times: 2
+	Country: Germany ; Times: 3
+	Country: Ecuador ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Denmark ; Times: 1
+	Country: Sri Lanka ; Times: 3
+	Country: China ; Times: 4
+	Country: Argentina ; Times: 1
+	Country: United States ; Times: 244
+	Country: Russia ; Times: 2
+	Country: Spain ; Times: 4
+	Country: Ukraine ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-07 ; Times: 1
+	Date: 2018-07-01 ; Times: 2
+	Date: 2018-07-02 ; Times: 22
+	Date: 2018-07-03 ; Times: 49
+	Date: 2018-07-28 ; Times: 4
+	Date: 2018-07-29 ; Times: 2
+	Date: 2018-07-08 ; Times: 1
+	Date: 2018-07-09 ; Times: 2
+	Date: 2018-07-04 ; Times: 6
+	Date: 2018-07-05 ; Times: 8
+	Date: 2018-07-06 ; Times: 17
+	Date: 2018-07-21 ; Times: 19
+	Date: 2018-07-26 ; Times: 13
+	Date: 2018-07-27 ; Times: 8
+	Date: 2018-07-24 ; Times: 10
+	Date: 2018-07-25 ; Times: 15
+	Date: 2018-07-13 ; Times: 6
+	Date: 2018-07-12 ; Times: 11
+	Date: 2018-07-11 ; Times: 5
+	Date: 2018-07-10 ; Times: 29
+	Date: 2018-07-16 ; Times: 8
+	Date: 2018-07-15 ; Times: 1
+	Date: 2018-07-14 ; Times: 2
+	Date: 2018-07-31 ; Times: 17
+	Date: 2018-07-30 ; Times: 4
+	Date: 2018-07-19 ; Times: 3
+	Date: 2018-07-18 ; Times: 3
+	Date: 2018-07-22 ; Times: 3
+	Date: 2018-07-23 ; Times: 14
+	Date: 2018-07-20 ; Times: 19
+
+List of queries that retrieved data from the resource: 
+	Query: "89544" ; Times: 1
+	Query: "UAM 35336" ; Times: 1
+	Query: "EAR 5078" ; Times: 1
+	Query: "18318" ; Times: 1
+	Query: "133024" ; Times: 1
+	Query: "44690" ; Times: 1
+	Query: "specificepithet:suslicus country:&#34;Russia&#34;" ; Times: 1
+	Query: "166417" ; Times: 1
+	Query: "genus:Eptesicus county:&#34;Grant&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "37260" ; Times: 1
+	Query: "UAM 20949" ; Times: 1
+	Query: "UAM 73830" ; Times: 1
+	Query: "47680" ; Times: 1
+	Query: "catalognumber:44449" ; Times: 1
+	Query: "catalognumber:44448" ; Times: 1
+	Query: "specificepithet:cinereus genus:Lasiurus county:&#34;Grant&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Elephas maximus" ; Times: 1
+	Query: "UAM 23492" ; Times: 1
+	Query: "18420" ; Times: 1
+	Query: "genus:Lontra stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "104695" ; Times: 1
+	Query: "UAM 23717" ; Times: 1
+	Query: "UAM 23956" ; Times: 1
+	Query: "278943" ; Times: 2
+	Query: "22763" ; Times: 2
+	Query: "UAM 52518" ; Times: 1
+	Query: "82901" ; Times: 1
+	Query: "20167" ; Times: 1
+	Query: "UAM 76353" ; Times: 1
+	Query: "57433" ; Times: 1
+	Query: "121036" ; Times: 1
+	Query: "kirirom" ; Times: 1
+	Query: "specificepithet:velox genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil) year &gt;= 1990 year &lt;= 1999 institutioncode:UAM" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1880 year &lt;= 1889" ; Times: 1
+	Query: "wrangell island genus:microtus class:mammalia" ; Times: 1
+	Query: "UAM 23658" ; Times: 1
+	Query: "Orcinus" ; Times: 3
+	Query: "specificepithet:keeni genus:peromyscus stateprovince:&#34;British columbia&#34; institutioncode:UAM" ; Times: 1
+	Query: "country:&#34;Ukraine&#34; continent:Europe" ; Times: 2
+	Query: "29686" ; Times: 1
+	Query: "UAM 52689" ; Times: 1
+	Query: "278439" ; Times: 1
+	Query: "UAM 52967" ; Times: 1
+	Query: "specificepithet:crawfordi genus:Notiosorex county:&#34;grant&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "&#34;lost horse&#34;" ; Times: 2
+	Query: "right whale 2016" ; Times: 1
+	Query: "90043" ; Times: 4
+	Query: "92002" ; Times: 1
+	Query: "mitkof specificepithet:pennsylvanicus genus:microtus" ; Times: 1
+	Query: "12781" ; Times: 2
+	Query: "13018" ; Times: 1
+	Query: "34490" ; Times: 1
+	Query: "30999" ; Times: 1
+	Query: "UAM 73829" ; Times: 1
+	Query: "catalognumber:20886" ; Times: 1
+	Query: "33717" ; Times: 1
+	Query: "admiralty specificepithet:pennsylvanicus genus:microtus" ; Times: 1
+	Query: "16252" ; Times: 1
+	Query: "UAM 49631" ; Times: 1
+	Query: "specificepithet:macrotis genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1880 year &lt;= 1889" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:Tadarida county:&#34;grant&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;alaska&#34; institutioncode:UAM" ; Times: 1
+	Query: "MSB 53322" ; Times: 2
+	Query: "EAR 3286" ; Times: 1
+	Query: "99162" ; Times: 2
+	Query: "UAM 30343" ; Times: 1
+	Query: "UAM 52696" ; Times: 1
+	Query: "UAM 52690" ; Times: 1
+	Query: "UAM 52691" ; Times: 1
+	Query: "UAM 52692" ; Times: 1
+	Query: "UAM 52693" ; Times: 1
+	Query: "mummy" ; Times: 5
+	Query: "UAM 74970" ; Times: 1
+	Query: "specificepithet:caligata genus:Marmota stateprovince:&#34;Alaska&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "UAM 52699" ; Times: 1
+	Query: "UAM 73711" ; Times: 1
+	Query: "UAM 23425" ; Times: 1
+	Query: "83545" ; Times: 1
+	Query: "19663" ; Times: 1
+	Query: "manis linneaus" ; Times: 1
+	Query: "murrelet" ; Times: 1
+	Query: "32863" ; Times: 2
+	Query: "specificepithet:evotis genus:Myotis county:&#34;grant&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "16129" ; Times: 1
+	Query: "monster" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis year &gt;= 1880 year &lt;= 1889" ; Times: 1
+	Query: "UAM 60272" ; Times: 1
+	Query: "9524" ; Times: 1
+	Query: "specificepithet:californicus genus:Myotis county:&#34;Grant&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "UAM 76238" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes country:&#34;Canada&#34; (skull OR skeleton) AND (NOT fossil) year &gt;= 1840 year &lt;= 1899" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;yukon&#34; institutioncode:UAM" ; Times: 1
+	Query: "UAM 35335" ; Times: 1
+	Query: "UAM 43431" ; Times: 3
+	Query: "UAM 42924" ; Times: 1
+	Query: "26423" ; Times: 1
+	Query: "130313" ; Times: 1
+	Query: "genus:Antrozous county:&#34;Grant&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "131302" ; Times: 1
+	Query: "Panthera uncia" ; Times: 4
+	Query: "100529" ; Times: 1
+	Query: "UAM 51070" ; Times: 2
+	Query: "278984" ; Times: 1
+	Query: "UAM 23437" ; Times: 1
+	Query: "22740" ; Times: 1
+	Query: "13038" ; Times: 1
+	Query: "specificepithet:caligata genus:Marmota stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "278493" ; Times: 3
+	Query: "UAM 50802" ; Times: 1
+	Query: "Aberdeen" ; Times: 1
+	Query: "graham specificepithet:pennsylvanicus genus:microtus" ; Times: 1
+	Query: "53355" ; Times: 1
+	Query: "MSB 122918" ; Times: 2
+	Query: "15899" ; Times: 1
+	Query: "23651" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes (captive OR zoo)" ; Times: 1
+	Query: "121394" ; Times: 1
+	Query: "121395" ; Times: 1
+	Query: "785882" ; Times: 1
+	Query: "19692" ; Times: 1
+	Query: "UAM 42939" ; Times: 1
+	Query: "&#34;*Urocitellus columbianus&#34;" ; Times: 1
+	Query: "UAM 69673" ; Times: 1
+	Query: "vank specificepithet:pennsylvanicus genus:microtus" ; Times: 1
+	Query: "(Mallory)" ; Times: 1
+	Query: "UAM 31725" ; Times: 1
+	Query: "echo 39" ; Times: 1
+	Query: "UAM 23442" ; Times: 1
+	Query: "UAM 23834" ; Times: 1
+	Query: "89930" ; Times: 1
+	Query: "specificepithet:hoyi genus:Sorex hasmass:1 haslength:1" ; Times: 5
+	Query: "vank genus:microtus" ; Times: 1
+	Query: "specificepithet:keeni genus:peromyscus stateprovince:&#34;British columbia&#34;" ; Times: 1
+	Query: "admiralty island specificepithet:pennsylvanicus genus:microtus" ; Times: 2
+	Query: "73161" ; Times: 1
+	Query: "Cabassous tatouay" ; Times: 1
+	Query: "24926" ; Times: 1
+	Query: "Maxomys" ; Times: 2
+	Query: "specificepithet:auriculus genus:Myotis county:&#34;Grant&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "UAM 30821" ; Times: 1
+	Query: "orcinus orca" ; Times: 1
+	Query: "catalognumber:27771" ; Times: 1
+	Query: "UAM 23992" ; Times: 1
+	Query: "MSB 122841" ; Times: 1
+	Query: "MSB 122840" ; Times: 1
+	Query: "53348" ; Times: 1
+	Query: "Pygoderma bilabiatum" ; Times: 1
+	Query: "49649-1" ; Times: 1
+	Query: "Elephas maximus year&gt;=1960 year&lt;=2018 month&gt;=1 month&lt;=7 day&gt;=1 day&lt;=26" ; Times: 2
+	Query: "UAM 35337" ; Times: 1
+	Query: "pika" ; Times: 2
+	Query: "UAM 20582" ; Times: 2
+	Query: "74358" ; Times: 1
+	Query: "chiropodomys" ; Times: 1
+	Query: "121463" ; Times: 1
+	Query: "schultz creek" ; Times: 1
+	Query: "UAM 44887" ; Times: 1
+	Query: "UAM 23107" ; Times: 1
+	Query: "Ochotona hyperborea" ; Times: 1
+	Query: "cm 4597" ; Times: 1
+	Query: "UAM 45820" ; Times: 1
+	Query: "UAM 42795" ; Times: 1
+	Query: "42239" ; Times: 1
+	Query: "24679" ; Times: 2
+	Query: "genus:Parascalops country:&#34;United States&#34;" ; Times: 3
+	Query: "UAM 50770" ; Times: 2
+	Query: "Globicephala macrorhynchus" ; Times: 2
+	Query: "specificepithet:velox genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil) year &gt;= 1990 year &lt;= 1999" ; Times: 1
+	Query: "14651" ; Times: 1
+	Query: "100446" ; Times: 2
+	Query: "29884" ; Times: 1
+	Query: "MSB 122838" ; Times: 2
+	Query: "MSB 122839" ; Times: 2
+	Query: "catalognumber:9359" ; Times: 1
+	Query: "126440" ; Times: 1
+	Query: "specificepithet:breweri genus:Parascalops country:&#34;United States&#34;" ; Times: 2
+	Query: "UAM 35341" ; Times: 2
+	Query: "1196 p" ; Times: 1
+	Query: "278394" ; Times: 1
+	Query: "Puma concolor" ; Times: 13
+	Query: "kupreanof genus:microtus" ; Times: 2
+	Query: "catalognumber:24164" ; Times: 1
+	Query: "14616" ; Times: 1
+	Query: "24 August 1997" ; Times: 1
+	Query: "Delphinapterus" ; Times: 1
+	Query: "UAM 77795" ; Times: 2
+	Query: "specificepithet:vulpes genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil) year &gt;= 2010 year &lt;= 2018" ; Times: 2
+	Query: "canyon island specificepithet:pennsylvanicus genus:microtus" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis institutioncode:UAM" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;british columbia&#34; institutioncode:UAM" ; Times: 2
+	Query: "catalognumber:52844" ; Times: 1
+	Query: "56062" ; Times: 1
+	Query: "UAM 23665" ; Times: 1
+	Query: "UAM 76385" ; Times: 1
+	Query: "19982" ; Times: 1
+	Query: "specificepithet:collaris genus:Ochotona stateprovince:&#34;Alaska&#34; country:&#34;United States&#34; year &gt;= 2000 year &lt;= 2018" ; Times: 3
+	Query: "39041" ; Times: 1
+	Query: "Mustela frenata" ; Times: 1
+	Query: "39043" ; Times: 1
+	Query: "specificepithet:cinerea genus:neotoma haslength:1" ; Times: 2
+	Query: "12513" ; Times: 1
+	Query: "genus:Scalopus stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "65253" ; Times: 1
+	Query: "22213" ; Times: 2
+	Query: "midas" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis stateprovince:&#34;Alaska&#34; country:&#34;United States&#34; year &gt;= 2010 year &lt;= 2018" ; Times: 1
+	Query: "genus:Parascalops" ; Times: 1
+	Query: "76389" ; Times: 1
+	Query: "68499" ; Times: 1
+	Query: "26817" ; Times: 2
+	Query: "genus:Lasionycteris county:&#34;Grant&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "gyrfalcon" ; Times: 2
+	Query: "13625" ; Times: 1
+	Query: "14764" ; Times: 1
+	Query: "vank class:mammalia" ; Times: 1
+	Query: "UAM 70150" ; Times: 1
+	Query: "mastodon" ; Times: 1
+	Query: "Hydrodamalis" ; Times: 2
+	Query: "specificepithet:ornatus genus:Sorex institutioncode:UAM" ; Times: 1
+	Query: "kadin specificepithet:pennsylvanicus genus:microtus" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus stateprovince:&#34;oregon&#34; hastissue:1" ; Times: 1
+	Query: "Hunter Island" ; Times: 1
+	Query: "CM 11717" ; Times: 1
+	Query: "29140" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Grant&#34; stateprovince:&#34;new mexico&#34; country:&#34;United States&#34; hastissue:1" ; Times: 1
+	Query: "UAM 52700" ; Times: 1
+	Query: "UAM 52701" ; Times: 1
+	Query: "20055" ; Times: 1
+	Query: "catalognumber:121016" ; Times: 1
+	Query: "32613" ; Times: 1
+	Query: "lengthtype:snout-vent length range" ; Times: 1
+	Query: "UAM 41652" ; Times: 3
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;alaska&#34; preparations:skull institutioncode:UAM" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 26 (out of 977 download events in this period)
+Total number of records downloaded: 3530
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Ukraine ; Times: 1
+	Country: Chile ; Times: 1
+	Country: United States ; Times: 19
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-12 ; Times: 1
+	Date: 2018-07-11 ; Times: 2
+	Date: 2018-07-10 ; Times: 1
+	Date: 2018-07-08 ; Times: 1
+	Date: 2018-07-16 ; Times: 1
+	Date: 2018-07-15 ; Times: 1
+	Date: 2018-07-06 ; Times: 5
+	Date: 2018-07-18 ; Times: 1
+	Date: 2018-07-26 ; Times: 2
+	Date: 2018-07-24 ; Times: 1
+	Date: 2018-07-25 ; Times: 3
+	Date: 2018-07-21 ; Times: 2
+	Date: 2018-07-07 ; Times: 2
+	Date: 2018-07-17 ; Times: 1
+	Date: 2018-07-19 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Glossophaga soricina" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis institutioncode:UAM" ; Times: 1
+	Query: "point reyes national seashore" ; Times: 1
+	Query: "country:&#34;Tanzania&#34;" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "didelphis marsupialis" ; Times: 2
+	Query: "vntype:specimen genus:Peromyscus year &gt;= 2003 year &lt;= 2018" ; Times: 1
+	Query: "&#34;lost horse&#34;" ; Times: 1
+	Query: "country:&#34;Ukraine&#34; continent:Europe" ; Times: 1
+	Query: "Pygoderma bilabiatum" ; Times: 1
+	Query: "specificepithet:keeni genus:peromyscus stateprovince:&#34;British columbia&#34;" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 6
+	Query: "Carollia perspicillata" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;yukon&#34; institutioncode:UAM" ; Times: 1
+	Query: "specificepithet:cinerea genus:neotoma haslength:1" ; Times: 1
+	Query: "genus:tamiasciurus hastissue:1" ; Times: 1
+	Query: "specificepithet:AURICULUS genus:MYOTIS" ; Times: 1
+	Query: "Aberdeen" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;british columbia&#34; institutioncode:UAM" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;alaska&#34; preparations:skull institutioncode:UAM" ; Times: 1
+
+
+End of report.
