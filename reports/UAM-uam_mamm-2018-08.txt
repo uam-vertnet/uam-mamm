@@ -1,0 +1,419 @@
+Report for Institution Code UAM, Resource uam_mamm
+Usage stats for August 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 496
+Number of records retrieved in searches: 5808
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 367
+	Country: Israel ; Times: 9
+	Country: Australia ; Times: 2
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 22
+	Country: Unknown ; Times: 3
+	Country: South Africa ; Times: 8
+	Country: United Kingdom ; Times: 9
+	Country: Germany ; Times: 3
+	Country: Finland ; Times: 2
+	Country: Denmark ; Times: 44
+	Country: Sri Lanka ; Times: 13
+	Country: New Zealand ; Times: 5
+	Country: Argentina ; Times: 1
+	Country: Spain ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-30 ; Times: 199
+	Date: 2018-08-31 ; Times: 41
+	Date: 2018-08-18 ; Times: 2
+	Date: 2018-08-19 ; Times: 1
+	Date: 2018-08-16 ; Times: 5
+	Date: 2018-08-23 ; Times: 10
+	Date: 2018-08-14 ; Times: 4
+	Date: 2018-08-15 ; Times: 7
+	Date: 2018-08-12 ; Times: 1
+	Date: 2018-08-13 ; Times: 4
+	Date: 2018-08-10 ; Times: 8
+	Date: 2018-08-11 ; Times: 8
+	Date: 2018-08-02 ; Times: 2
+	Date: 2018-08-08 ; Times: 3
+	Date: 2018-08-03 ; Times: 4
+	Date: 2018-08-17 ; Times: 2
+	Date: 2018-08-27 ; Times: 4
+	Date: 2018-08-25 ; Times: 1
+	Date: 2018-08-24 ; Times: 8
+	Date: 2018-08-09 ; Times: 4
+	Date: 2018-08-22 ; Times: 8
+	Date: 2018-08-21 ; Times: 26
+	Date: 2018-08-20 ; Times: 25
+	Date: 2018-08-05 ; Times: 3
+	Date: 2018-08-04 ; Times: 1
+	Date: 2018-08-07 ; Times: 4
+	Date: 2018-08-06 ; Times: 19
+	Date: 2018-08-01 ; Times: 26
+	Date: 2018-08-29 ; Times: 25
+	Date: 2018-08-28 ; Times: 41
+
+List of queries that retrieved data from the resource: 
+	Query: "UAM 20698" ; Times: 2
+	Query: "Elephas maximus year&gt;=1960 year&lt;=2018 month&gt;=1 month&lt;=7 day&gt;=1 day&lt;=26" ; Times: 3
+	Query: "35547" ; Times: 1
+	Query: "UAM 23492" ; Times: 2
+	Query: "specificepithet:pinetorum genus:Microtus hastissue:1" ; Times: 1
+	Query: "UAM 23490" ; Times: 2
+	Query: "Clethrionomys distance(location,geopoint(58.97215136814559,-136.90704345703125))&lt;100000" ; Times: 1
+	Query: "genus:Erethizon specificepithet:dorsatum" ; Times: 2
+	Query: "&#34;myotis lucifugus&#34; hassex:1 hasmass:1" ; Times: 3
+	Query: "10699" ; Times: 1
+	Query: "MSB 70714" ; Times: 2
+	Query: "tumor hastissue:1" ; Times: 1
+	Query: "24493" ; Times: 1
+	Query: "35625" ; Times: 1
+	Query: "genus:Lepus  specificepithet:americanus" ; Times: 1
+	Query: "tamiasciurus distance(location,geopoint(58.97215136814559,-136.90704345703125))&lt;100000" ; Times: 1
+	Query: "UAM 43440" ; Times: 2
+	Query: "UAM 20949" ; Times: 3
+	Query: "UAM 20948" ; Times: 1
+	Query: "recordedby:bryant year &gt;= 1964 year &lt;= 1964" ; Times: 2
+	Query: "82383" ; Times: 1
+	Query: "21408" ; Times: 1
+	Query: "UAM 20662" ; Times: 2
+	Query: "UAM 70143" ; Times: 1
+	Query: "megaptera novaeangliae" ; Times: 1
+	Query: "field musuem" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "UAM 31727" ; Times: 1
+	Query: "UAM 30822" ; Times: 1
+	Query: "UAM 30821" ; Times: 1
+	Query: "UAM 20582" ; Times: 2
+	Query: "104041" ; Times: 1
+	Query: "51957" ; Times: 1
+	Query: "T-1484" ; Times: 1
+	Query: "genus:sorex stateprovince:&#34;alaska&#34; (copper river) institutioncode:UAM" ; Times: 1
+	Query: "59754" ; Times: 1
+	Query: "catalognumber:67859" ; Times: 1
+	Query: "69162" ; Times: 1
+	Query: "UAM 31107" ; Times: 1
+	Query: "cebus" ; Times: 1
+	Query: "34645" ; Times: 1
+	Query: "UAM 52518" ; Times: 1
+	Query: "UAM 52516" ; Times: 1
+	Query: "30046" ; Times: 1
+	Query: "UAM 43024" ; Times: 2
+	Query: "UAM 52511" ; Times: 2
+	Query: "UAM 30590" ; Times: 1
+	Query: "UAM 76353" ; Times: 1
+	Query: "calomys callosus" ; Times: 1
+	Query: "UAM 52680" ; Times: 1
+	Query: "25211" ; Times: 1
+	Query: "30447" ; Times: 1
+	Query: "UAM 49629" ; Times: 2
+	Query: "13171" ; Times: 1
+	Query: "catalognumber:102593" ; Times: 3
+	Query: "specificepithet:trowbridgii genus:sorex stateprovince:&#34;oregon&#34; hastissue:1" ; Times: 3
+	Query: "76624" ; Times: 1
+	Query: "61905" ; Times: 2
+	Query: "UAM 31106" ; Times: 1
+	Query: "UAM 31105" ; Times: 2
+	Query: "UAM 31104" ; Times: 2
+	Query: "UAM 31103" ; Times: 1
+	Query: "UAM 31102" ; Times: 2
+	Query: "purdue" ; Times: 1
+	Query: "25891" ; Times: 1
+	Query: "UAM 73829" ; Times: 2
+	Query: "UAM 23655" ; Times: 1
+	Query: "UAM 23656" ; Times: 3
+	Query: "88945" ; Times: 1
+	Query: "Raw" ; Times: 4
+	Query: "V 1128" ; Times: 1
+	Query: "UAM 20619" ; Times: 2
+	Query: "family:Felidae continent:America year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "(Cabassous OR Panthera) year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "33004" ; Times: 1
+	Query: "25004" ; Times: 1
+	Query: "UAM 76821" ; Times: 2
+	Query: "49831" ; Times: 1
+	Query: "UAM 76823" ; Times: 2
+	Query: "128101" ; Times: 1
+	Query: "UAM 52661" ; Times: 1
+	Query: "T 1484" ; Times: 1
+	Query: "Naja mappable:1" ; Times: 3
+	Query: "UAM 52665" ; Times: 1
+	Query: "UAM 52664" ; Times: 1
+	Query: "UAM 52967" ; Times: 1
+	Query: "26688" ; Times: 1
+	Query: "60030" ; Times: 1
+	Query: "UAM 50570" ; Times: 2
+	Query: "Puma concolor " ; Times: 1
+	Query: "vntype:specimen specificepithet:hoyi genus:Sorex lengthtype:total length hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "69084" ; Times: 1
+	Query: "UAM 30343" ; Times: 3
+	Query: "UAM 52696" ; Times: 1
+	Query: "17984" ; Times: 1
+	Query: "UAM 52691" ; Times: 1
+	Query: "UAM 52692" ; Times: 1
+	Query: "UAM 52693" ; Times: 1
+	Query: "mummy" ; Times: 2
+	Query: "tick island" ; Times: 1
+	Query: "UAM 74131" ; Times: 1
+	Query: "UAM 52699" ; Times: 1
+	Query: "UAM 42580" ; Times: 1
+	Query: "UAM 73711" ; Times: 1
+	Query: "UAM 23425" ; Times: 2
+	Query: "Equus quagga" ; Times: 1
+	Query: "UAM 71622" ; Times: 1
+	Query: "UAM 50932" ; Times: 1
+	Query: "UAM 23421" ; Times: 2
+	Query: "UAM 50930" ; Times: 2
+	Query: "11472" ; Times: 1
+	Query: "UAM 42836" ; Times: 1
+	Query: "MSB 18064" ; Times: 1
+	Query: "UAM 23732" ; Times: 1
+	Query: "UAM 71581" ; Times: 1
+	Query: "UAM 23730" ; Times: 2
+	Query: "UAM 20664" ; Times: 1
+	Query: "133884" ; Times: 2
+	Query: "13900" ; Times: 1
+	Query: "monster" ; Times: 1
+	Query: "recordedby:r. mullen" ; Times: 1
+	Query: "UAM 60272" ; Times: 2
+	Query: "catalognumber:7064" ; Times: 1
+	Query: "class:Mammalia (Cabassous OR Panthera OR Ateles) year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "UAM 50800" ; Times: 2
+	Query: "UAM 76238" ; Times: 1
+	Query: "UAM 35318" ; Times: 2
+	Query: "Dease Lake hastissue:1" ; Times: 1
+	Query: "UAM 52689" ; Times: 1
+	Query: "stevens point wi" ; Times: 1
+	Query: "UAM 43431" ; Times: 2
+	Query: "UAM 50936" ; Times: 1
+	Query: "UAM 44886" ; Times: 2
+	Query: "UAM 42924" ; Times: 2
+	Query: "UAM 23491" ; Times: 2
+	Query: "UAM 74968" ; Times: 2
+	Query: "UAM 74969" ; Times: 1
+	Query: "UAM 74128" ; Times: 1
+	Query: "22213" ; Times: 1
+	Query: "UAM 51070" ; Times: 2
+	Query: "278416" ; Times: 1
+	Query: "UAM 74125" ; Times: 2
+	Query: "UAM 42581" ; Times: 1
+	Query: "&#34;Myotis lucifugus&#34; hassex:1 hasmass:1" ; Times: 1
+	Query: "tumor" ; Times: 1
+	Query: "39306" ; Times: 1
+	Query: "UAM 23820" ; Times: 1
+	Query: "26380" ; Times: 1
+	Query: "UAM 50802" ; Times: 2
+	Query: "UAM 23829" ; Times: 1
+	Query: "UAM 23828" ; Times: 2
+	Query: "11297" ; Times: 1
+	Query: "MSB 122918" ; Times: 2
+	Query: "UAM 23847" ; Times: 2
+	Query: "UAM 20945" ; Times: 2
+	Query: "UAM 34604" ; Times: 2
+	Query: "UAM 52642" ; Times: 2
+	Query: "physeter macrocephalus" ; Times: 1
+	Query: "82879" ; Times: 1
+	Query: "UAM 50751" ; Times: 3
+	Query: "genus:Mammuthus specificepithet:primigenius" ; Times: 4
+	Query: "UAM 42831" ; Times: 2
+	Query: "UAM 42939" ; Times: 2
+	Query: "class:Mammalia (Cabassous OR Panthera OR (Ateles AND belzebuth)) year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "UAM 69673" ; Times: 1
+	Query: "orcinus orca" ; Times: 1
+	Query: "553460" ; Times: 1
+	Query: "UAM 23449" ; Times: 1
+	Query: "genus:Pteropus hastissue:1" ; Times: 5
+	Query: "UAM 20620" ; Times: 1
+	Query: "UAM 50754" ; Times: 1
+	Query: "UAM 31725" ; Times: 1
+	Query: "UAM 23443" ; Times: 1
+	Query: "UAM 23442" ; Times: 2
+	Query: "UAM 23834" ; Times: 1
+	Query: "UAM 30820" ; Times: 1
+	Query: "UAM 23830" ; Times: 1
+	Query: "UAM 23831" ; Times: 2
+	Query: "catalognumber:117386" ; Times: 1
+	Query: "catalognumber:46769" ; Times: 1
+	Query: "24921" ; Times: 1
+	Query: "Megaptera novaeangliae" ; Times: 1
+	Query: "70707" ; Times: 1
+	Query: "UAM 23438" ; Times: 1
+	Query: "UAM 52705" ; Times: 1
+	Query: "UAM 73830" ; Times: 1
+	Query: "class:Mammalia (Cabassous OR Panthera OR (Ateles AND chamek)) year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "24949" ; Times: 1
+	Query: "V-1128" ; Times: 1
+	Query: "32613" ; Times: 2
+	Query: "UAM 42788" ; Times: 1
+	Query: "specificepithet:maritimus genus:ursus" ; Times: 7
+	Query: "15862" ; Times: 2
+	Query: "morejohn" ; Times: 1
+	Query: "UAM 23711" ; Times: 1
+	Query: "13353" ; Times: 1
+	Query: "Physeter macrocephalus" ; Times: 2
+	Query: "UAM 48129" ; Times: 2
+	Query: "UAM 35335" ; Times: 1
+	Query: "UAM 35336" ; Times: 1
+	Query: "UAM 35337" ; Times: 1
+	Query: "60257" ; Times: 2
+	Query: "UAM 52666" ; Times: 1
+	Query: "92685" ; Times: 2
+	Query: "Marine Mammal Specimens" ; Times: 1
+	Query: "76835" ; Times: 1
+	Query: "UAM 23108" ; Times: 1
+	Query: "fur sample" ; Times: 2
+	Query: "least weasel" ; Times: 4
+	Query: "57648" ; Times: 1
+	Query: "UAM 23104" ; Times: 2
+	Query: "UAM 44887" ; Times: 1
+	Query: "UAM 23106" ; Times: 1
+	Query: "UAM 23107" ; Times: 1
+	Query: "class:Mammalia catalognumber:117386" ; Times: 1
+	Query: "27449" ; Times: 1
+	Query: "UAM 42790" ; Times: 1
+	Query: "96782" ; Times: 1
+	Query: "UAM 42792" ; Times: 1
+	Query: "UAM 49631" ; Times: 2
+	Query: "UAM 42794" ; Times: 1
+	Query: "UAM 52310" ; Times: 2
+	Query: "Callosciurus erythraeus" ; Times: 1
+	Query: "UAM 50436" ; Times: 2
+	Query: "UAM 30873" ; Times: 1
+	Query: "UAM 30874" ; Times: 2
+	Query: "order:Cetacea institutioncode:UAM" ; Times: 1
+	Query: "UAM 23992" ; Times: 2
+	Query: "UAM 69668" ; Times: 2
+	Query: "UAM 23956" ; Times: 2
+	Query: "48541" ; Times: 1
+	Query: "228603" ; Times: 1
+	Query: "UAM 71580" ; Times: 2
+	Query: "UAM 43469" ; Times: 1
+	Query: "UAM 35344" ; Times: 1
+	Query: "Rangifer tarandus mappable:1" ; Times: 4
+	Query: "UAM 35341" ; Times: 1
+	Query: "89692" ; Times: 1
+	Query: "Capreolus capreolus" ; Times: 1
+	Query: "93971" ; Times: 1
+	Query: "32593" ; Times: 7
+	Query: "111755" ; Times: 1
+	Query: "UAM 23437" ; Times: 2
+	Query: "Puma concolor" ; Times: 21
+	Query: "abnormal growth" ; Times: 4
+	Query: "catalognumber:16759" ; Times: 1
+	Query: "UAM 34616" ; Times: 1
+	Query: "12116" ; Times: 1
+	Query: "UAM 23773" ; Times: 1
+	Query: "UAM 77795" ; Times: 2
+	Query: "UAM 23771" ; Times: 3
+	Query: "UAM 52700" ; Times: 1
+	Query: "UAM 23775" ; Times: 1
+	Query: "UAM 23774" ; Times: 1
+	Query: "10760" ; Times: 2
+	Query: "43649" ; Times: 1
+	Query: "UAM 23665" ; Times: 2
+	Query: "UAM 76385" ; Times: 1
+	Query: "UAM 23667" ; Times: 2
+	Query: "792926" ; Times: 1
+	Query: "UAM 44888" ; Times: 1
+	Query: "UAM 71660" ; Times: 1
+	Query: "UAM 31729" ; Times: 1
+	Query: "98047" ; Times: 1
+	Query: "UAM 49643" ; Times: 2
+	Query: "iNSCRIPTION" ; Times: 2
+	Query: "UAM 71620" ; Times: 2
+	Query: "UAM 52704" ; Times: 1
+	Query: "UAM 42795" ; Times: 1
+	Query: "Canis lupus familiaris" ; Times: 1
+	Query: "41411" ; Times: 1
+	Query: "UAM 23717" ; Times: 2
+	Query: "meles" ; Times: 1
+	Query: "dasypus novemcinctus" ; Times: 1
+	Query: "UAM 42800" ; Times: 3
+	Query: "UAM 42801" ; Times: 1
+	Query: "Guilday" ; Times: 3
+	Query: "UAM 52690" ; Times: 1
+	Query: "sorex alpinus" ; Times: 3
+	Query: "specificepithet:trowbridgii genus:sorex stateprovince:&#34;washington&#34; hastissue:1" ; Times: 2
+	Query: "92542" ; Times: 1
+	Query: "UAM 52512" ; Times: 2
+	Query: "UAM 30391" ; Times: 1
+	Query: "Red Fox skeleton" ; Times: 1
+	Query: "UAM 70152" ; Times: 1
+	Query: "UAM 70151" ; Times: 1
+	Query: "UAM 70150" ; Times: 1
+	Query: "UAM 20665" ; Times: 1
+	Query: "UAM 70204" ; Times: 1
+	Query: "catalognumber:51160" ; Times: 1
+	Query: "Equus quagga mappable:1" ; Times: 41
+	Query: "B-3403" ; Times: 1
+	Query: "UAM 52701" ; Times: 1
+	Query: "UAM 70144" ; Times: 1
+	Query: "UAM 30818" ; Times: 1
+	Query: "UAM 30819" ; Times: 1
+	Query: "UAM 42578" ; Times: 2
+	Query: "UAM 42579" ; Times: 1
+	Query: "UAM 76822" ; Times: 2
+	Query: "23 Nov 20134" ; Times: 1
+	Query: "UAM 41652" ; Times: 1
+	Query: "*Urocitellus columbianus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 25 (out of 1416 download events in this period)
+Total number of records downloaded: 5919
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 7
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 9
+	Country: Denmark ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Chile ; Times: 1
+	Country: New Zealand ; Times: 2
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-27 ; Times: 1
+	Date: 2018-08-06 ; Times: 2
+	Date: 2018-08-11 ; Times: 1
+	Date: 2018-08-30 ; Times: 1
+	Date: 2018-08-05 ; Times: 1
+	Date: 2018-08-24 ; Times: 3
+	Date: 2018-08-09 ; Times: 3
+	Date: 2018-08-22 ; Times: 1
+	Date: 2018-08-16 ; Times: 1
+	Date: 2018-08-23 ; Times: 7
+	Date: 2018-08-28 ; Times: 2
+	Date: 2018-08-01 ; Times: 1
+	Date: 2018-08-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "puma concolor" ; Times: 4
+	Query: "order:Chiroptera country:&#34;Mexico&#34;" ; Times: 1
+	Query: "cancer" ; Times: 1
+	Query: "Raw" ; Times: 1
+	Query: "panthera" ; Times: 1
+	Query: "lasiurus cinereus" ; Times: 1
+	Query: "ursus arctos" ; Times: 1
+	Query: "&#34;myotis lucifugus&#34; hassex:1 hasmass:1" ; Times: 2
+	Query: "dipodomys agilis" ; Times: 1
+	Query: "*Urocitellus columbianus" ; Times: 1
+	Query: "tumor hastissue:1" ; Times: 1
+	Query: "Capreolus capreolus" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 2
+	Query: "lynx rufus" ; Times: 1
+	Query: "order:Chiroptera stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "myotis auriculus" ; Times: 1
+	Query: "order:Cetacea institutioncode:UAM" ; Times: 1
+	Query: "abnormal growth" ; Times: 1
+	Query: "vntype:specimen specificepithet:hoyi genus:Sorex lengthtype:total length hassex:1 hasmass:1 haslength:1" ; Times: 1
+
+
+End of report.
