@@ -1,0 +1,292 @@
+Report for Institution Code UAM, Resource uam_mamm
+Usage stats for December 2018, generated on 2019/01/12
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 219
+Number of records retrieved in searches: 3179
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: Canada ; Times: 1
+	Country: Italy ; Times: 2
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: Finland ; Times: 1
+	Country: India ; Times: 1
+	Country: France ; Times: 3
+	Country: United States ; Times: 171
+	Country: Sweden ; Times: 1
+	Country: China ; Times: 1
+	Country: Peru ; Times: 4
+	Country: Belgium ; Times: 1
+	Country: French Guiana ; Times: 1
+	Country: Argentina ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Ecuador ; Times: 19
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-26 ; Times: 1
+	Date: 2018-12-27 ; Times: 2
+	Date: 2018-12-06 ; Times: 9
+	Date: 2018-12-19 ; Times: 11
+	Date: 2018-12-18 ; Times: 5
+	Date: 2018-12-30 ; Times: 2
+	Date: 2018-12-15 ; Times: 2
+	Date: 2018-12-14 ; Times: 15
+	Date: 2018-12-17 ; Times: 24
+	Date: 2018-12-16 ; Times: 1
+	Date: 2018-12-11 ; Times: 6
+	Date: 2018-12-10 ; Times: 3
+	Date: 2018-12-13 ; Times: 5
+	Date: 2018-12-12 ; Times: 13
+	Date: 2018-12-20 ; Times: 7
+	Date: 2018-12-21 ; Times: 6
+	Date: 2018-12-22 ; Times: 4
+	Date: 2018-12-23 ; Times: 4
+	Date: 2018-12-25 ; Times: 2
+	Date: 2018-12-08 ; Times: 19
+	Date: 2018-12-09 ; Times: 4
+	Date: 2018-12-28 ; Times: 3
+	Date: 2018-12-29 ; Times: 2
+	Date: 2018-12-04 ; Times: 19
+	Date: 2018-12-05 ; Times: 23
+	Date: 2018-12-02 ; Times: 2
+	Date: 2018-12-03 ; Times: 13
+	Date: 2018-12-01 ; Times: 1
+	Date: 2018-12-07 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:lupus genus:Canis family:Canidae stateprovince:&#34;British Columbia&#34;" ; Times: 1
+	Query: "Antilocapra americana hastissue:1" ; Times: 1
+	Query: "chariot" ; Times: 3
+	Query: "27950" ; Times: 2
+	Query: "specificepithet:americanus genus:ursus family:ursidae stateprovince:&#34;Alaska&#34; (fairbanks) basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:vulpes genus:Vulpes family:Canidae stateprovince:&#34;alaska&#34; (fairbanks)" ; Times: 2
+	Query: "Didelphis marsupialis mappable:1" ; Times: 1
+	Query: "1364862" ; Times: 1
+	Query: "sinus" ; Times: 1
+	Query: "genus:puma hasmass:1" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "(Antilocapra americana) hastissue:1" ; Times: 1
+	Query: "specificepithet:maritimus genus:ursus family:ursidae stateprovince:&#34;alaska&#34; (Kotzebue) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "165363" ; Times: 1
+	Query: "Tursiops" ; Times: 2
+	Query: "102476" ; Times: 1
+	Query: "falkland island" ; Times: 2
+	Query: "97312" ; Times: 1
+	Query: "catalognumber:11660" ; Times: 1
+	Query: "34884" ; Times: 1
+	Query: "34885" ; Times: 2
+	Query: "vntype:specimen genus:Prionodon" ; Times: 2
+	Query: "specificepithet:arctos genus:ursus family:ursidae country:&#34;Canada&#34; (british columbia) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "hastissue:1 Procyon lotor" ; Times: 4
+	Query: "Chrotopterus auritus" ; Times: 18
+	Query: "136038" ; Times: 1
+	Query: "specificepithet:americanus genus:ursus family:ursidae stateprovince:&#34;Alaska&#34; (Valdez) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "35439" ; Times: 1
+	Query: "felis sylvestris" ; Times: 1
+	Query: "north midden" ; Times: 4
+	Query: "Syncerus caffer vntype:specimen" ; Times: 2
+	Query: "vntype:specimen specificepithet:vulpes genus:vulpes family:Canidae stateprovince:&#34;Colorado&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:scrofa genus:sus month &gt;= 2 month &lt;= 5" ; Times: 1
+	Query: "sea turtle" ; Times: 3
+	Query: "46137" ; Times: 2
+	Query: "(mustela nivalis OR mustela erminea)" ; Times: 1
+	Query: "gbnp" ; Times: 1
+	Query: "specificepithet:arctos genus:ursus family:ursidae stateprovince:&#34;alaska&#34; (kodiak) basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "vulpes vulpes canada" ; Times: 1
+	Query: "35923" ; Times: 1
+	Query: "&#34;1954-08-09&#34;" ; Times: 4
+	Query: "specificepithet:lutra genus:Lutra mappable:1" ; Times: 2
+	Query: "19477" ; Times: 1
+	Query: "15623" ; Times: 1
+	Query: "Reindeer" ; Times: 1
+	Query: "tayassu tajacu mappable:1" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus institutioncode:UAM hastissue:1" ; Times: 1
+	Query: "specificepithet:erminea genus:mustela hastypestatus:1" ; Times: 6
+	Query: "locality:Pinnacles National county:&#34;San Benito&#34; stateprovince:&#34;California&#34; year &gt;= 1985 month &lt;= 1987 startdayofyear &gt;= 1 enddayofyear &lt;= 365" ; Times: 1
+	Query: "mummy" ; Times: 1
+	Query: "tick island" ; Times: 1
+	Query: "Puma concolor mappable:1" ; Times: 1
+	Query: "specificepithet:maritimus genus:ursus family:ursidae stateprovince:&#34;alaska&#34; (Point Hope) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "sorex 35387" ; Times: 2
+	Query: "vntype:specimen specificepithet:maritimus genus:Ursus institutioncode:UAM" ; Times: 1
+	Query: "specificepithet:arctos genus:ursus family:ursidae stateprovince:&#34;alaska&#34; (Alaska Peninsula) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "(vulpes vulpes OR red fox) hastissue:1" ; Times: 1
+	Query: "specificepithet:fodiens genus:Neomys hastissue:1" ; Times: 1
+	Query: "specificepithet:TOWNSENDII genus:lepus year &gt;= 1976" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus stateprovince:&#34;alaska&#34; hastissue:1" ; Times: 1
+	Query: "122197" ; Times: 1
+	Query: "specificepithet:maritimus genus:ursus stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "Gray seal" ; Times: 1
+	Query: "specificepithet:arctos genus:ursus family:ursidae stateprovince:&#34;alaska&#34; (Ugashik) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "331905" ; Times: 1
+	Query: "specificepithet:griseus genus:Sciurus hastissue:1" ; Times: 1
+	Query: "278416" ; Times: 1
+	Query: "278412" ; Times: 1
+	Query: "specificepithet:pardicolor genus:Prionodon hastissue:1" ; Times: 1
+	Query: "33307" ; Times: 2
+	Query: "13139" ; Times: 1
+	Query: "109753" ; Times: 1
+	Query: "catalognumber:12139" ; Times: 1
+	Query: "19858" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:urocyon family:Canidae stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Tursiops truncatus mappable:1" ; Times: 1
+	Query: "37809" ; Times: 1
+	Query: "red fox tissue" ; Times: 1
+	Query: "16431" ; Times: 3
+	Query: "vntype:specimen specificepithet:vulpes genus:vulpes family:Canidae stateprovince:&#34;Massachusetts&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "bats" ; Times: 1
+	Query: "45926" ; Times: 3
+	Query: "specificepithet:lupus genus:Canis family:Canidae stateprovince:&#34;Alaska&#34; (Anchorage)" ; Times: 1
+	Query: "98592" ; Times: 1
+	Query: "Lepus europaeus" ; Times: 6
+	Query: "mesoplodon" ; Times: 1
+	Query: "105868" ; Times: 1
+	Query: "specificepithet:arctos genus:ursus family:ursidae stateprovince:&#34;Alaska&#34; (CINDER RIVER) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:hoyi genus:Sorex hasmass:1 haslength:1" ; Times: 2
+	Query: "Halichoerus" ; Times: 2
+	Query: "177189" ; Times: 1
+	Query: "specificepithet:arctos genus:ursus family:ursidae stateprovince:&#34;alaska&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:arctos genus:ursus family:ursidae stateprovince:&#34;alaska&#34; (fairbanks) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Vulpes vulpes colorado" ; Times: 1
+	Query: "137081" ; Times: 2
+	Query: "meningitis" ; Times: 1
+	Query: "genus:Cabassous" ; Times: 1
+	Query: "46722" ; Times: 1
+	Query: "specificepithet:arctos genus:ursus family:ursidae stateprovince:&#34;Alaska&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:arctos genus:ursus family:ursidae stateprovince:&#34;alaska&#34; (Wrangell) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:arctos genus:ursus family:ursidae stateprovince:&#34;alaska&#34; (Anchorage) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "stateprovince:&#34;California&#34; hastissue:1 Procyon lotor" ; Times: 1
+	Query: "39747" ; Times: 1
+	Query: "specificepithet:arctos genus:ursus family:ursidae stateprovince:&#34;alaska&#34; (Kenai Peninsula) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "32115" ; Times: 1
+	Query: "Halichoerus grypus mappable:1" ; Times: 1
+	Query: "90486" ; Times: 1
+	Query: "specificepithet:arctos genus:ursus family:ursidae stateprovince:&#34;Alaska&#34; (PRINCE WILLIAM SOUND) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Ursus arctos horribilis" ; Times: 1
+	Query: "Koç" ; Times: 1
+	Query: "Procyon lotor hastissue:1" ; Times: 4
+	Query: "northwest territories specificepithet:vulpes genus:Vulpes country:&#34;Canada&#34;" ; Times: 1
+	Query: "35646" ; Times: 1
+	Query: "specificepithet:evotis genus:myotis basisofrecord:PreservedSpecimen hastissue:1" ; Times: 2
+	Query: "specificepithet:lupus genus:Canis continent:north america year &gt;= 1800 year &lt;= 1920" ; Times: 1
+	Query: "95015" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes family:Canidae stateprovince:&#34;colorado&#34;" ; Times: 1
+	Query: "UAM 27419" ; Times: 1
+	Query: "specificepithet:arctos genus:ursus family:ursidae country:&#34;Canada&#34; (yukon) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:americanus genus:ursus family:ursidae stateprovince:&#34;alaska&#34; (Tanana) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "278912" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Torpedo torpedo mappable:1" ; Times: 1
+	Query: "specificepithet:isodon genus:Sorex hastissue:1" ; Times: 1
+	Query: "specificepithet:americana genus:Antilocapra haslength:1" ; Times: 1
+	Query: "19926" ; Times: 1
+	Query: "133039" ; Times: 2
+	Query: "specificepithet:vulpes genus:vulpes stateprovince:&#34;alaska&#34; (fairbanks)" ; Times: 2
+	Query: "79993" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes family:Canidae stateprovince:&#34;alaska&#34; (Nenana)" ; Times: 1
+	Query: "genus:puma haslength:1" ; Times: 1
+	Query: "12281" ; Times: 1
+	Query: "vntype:specimen genus:Trichechus" ; Times: 4
+	Query: "10379" ; Times: 1
+	Query: "117576" ; Times: 1
+	Query: "genus:Cryptotis hastissue:1" ; Times: 3
+	Query: "vulpes vulpes colorado" ; Times: 1
+	Query: "45407" ; Times: 1
+	Query: "116272" ; Times: 1
+	Query: "catalognumber:44983" ; Times: 1
+	Query: "catalognumber:34901" ; Times: 1
+	Query: "specificepithet:aegyptiacus genus:Rousettus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "chrotopterus auritus" ; Times: 1
+	Query: "americanus stafford" ; Times: 1
+	Query: "callithrix" ; Times: 1
+	Query: "vntype:specimen specificepithet:maritimus genus:Ursus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 56 (out of 809 download events in this period)
+Total number of records downloaded: 25600
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 25
+	Country: South Africa ; Times: 1
+	Country: India ; Times: 6
+	Country: France ; Times: 1
+	Country: United States ; Times: 18
+	Country: Russia ; Times: 1
+	Country: Ecuador ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-06 ; Times: 1
+	Date: 2018-12-11 ; Times: 4
+	Date: 2018-12-09 ; Times: 13
+	Date: 2018-12-10 ; Times: 7
+	Date: 2018-12-20 ; Times: 1
+	Date: 2018-12-21 ; Times: 1
+	Date: 2018-12-22 ; Times: 3
+	Date: 2018-12-18 ; Times: 7
+	Date: 2018-12-08 ; Times: 2
+	Date: 2018-12-30 ; Times: 1
+	Date: 2018-12-15 ; Times: 1
+	Date: 2018-12-14 ; Times: 1
+	Date: 2018-12-17 ; Times: 1
+	Date: 2018-12-05 ; Times: 3
+	Date: 2018-12-04 ; Times: 4
+	Date: 2018-12-03 ; Times: 3
+	Date: 2018-12-07 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: "pteronotus davyi" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "Chrotopterus auritus" ; Times: 1
+	Query: "Dipodomys ordii" ; Times: 2
+	Query: "felis sylvestris" ; Times: 1
+	Query: "urocyon cinereoargenteus" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "Glossophaga soricina" ; Times: 4
+	Query: "sinus" ; Times: 1
+	Query: "peromyscus leucopus" ; Times: 1
+	Query: "specificepithet:pardus genus:Panthera" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 2
+	Query: "genus:puma hasmass:1" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "pteronotus parnellii" ; Times: 1
+	Query: "Loxodonta africana vntype:specimen" ; Times: 1
+	Query: "hastissue:1 Procyon lotor" ; Times: 1
+	Query: "Mustela frenata" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "Panthera pardus vntype:specimen" ; Times: 1
+	Query: "Vulpes vulpes colorado" ; Times: 1
+	Query: "Chaetodipus formosus" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "specificepithet:aquaticus genus:Scalopus hastissue:1" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "Panthera leo vntype:specimen" ; Times: 1
+	Query: "genus:puma haslength:1" ; Times: 1
+	Query: "carollia perspicillata" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "specificepithet:townsendii genus:lepus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "desmodus rotundus" ; Times: 1
+	Query: "Syncerus caffer vntype:specimen" ; Times: 1
+	Query: "stateprovince:&#34;California&#34; hastissue:1 Procyon lotor" ; Times: 1
+	Query: "sturnira lilium" ; Times: 1
+	Query: "genus:Sciurus hastissue:1" ; Times: 1
+	Query: "lynx lynx" ; Times: 1
+	Query: "sylvilagus floridanus" ; Times: 1
+	Query: "country:&#34;Mexico&#34; continent:America" ; Times: 3
+	Query: "sigmodon hispidus" ; Times: 1
+	Query: "vntype:specimen specificepithet:maritimus genus:Ursus institutioncode:UAM" ; Times: 1
+	Query: "vntype:specimen specificepithet:maritimus genus:Ursus" ; Times: 1
+	Query: "canis latrans" ; Times: 3
+
+
+End of report.
