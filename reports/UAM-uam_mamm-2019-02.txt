@@ -1,0 +1,296 @@
+Report for Institution Code UAM, Resource uam_mamm
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 405
+Number of records retrieved in searches: 11571
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Brazil ; Times: 7
+	Country: Israel ; Times: 1
+	Country: Australia ; Times: 3
+	Country: Mexico ; Times: 12
+	Country: Unknown ; Times: 5
+	Country: France ; Times: 54
+	Country: United States ; Times: 304
+	Country: Sweden ; Times: 1
+	Country: Netherlands ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Belgium ; Times: 6
+	Country: Thailand ; Times: 1
+	Country: Argentina ; Times: 3
+	Country: Russia ; Times: 1
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-22 ; Times: 8
+	Date: 2019-02-11 ; Times: 6
+	Date: 2019-02-10 ; Times: 3
+	Date: 2019-02-13 ; Times: 61
+	Date: 2019-02-12 ; Times: 9
+	Date: 2019-02-15 ; Times: 8
+	Date: 2019-02-14 ; Times: 14
+	Date: 2019-02-17 ; Times: 2
+	Date: 2019-02-16 ; Times: 12
+	Date: 2019-02-19 ; Times: 6
+	Date: 2019-02-18 ; Times: 4
+	Date: 2019-02-02 ; Times: 10
+	Date: 2019-02-03 ; Times: 4
+	Date: 2019-02-26 ; Times: 58
+	Date: 2019-02-01 ; Times: 2
+	Date: 2019-02-20 ; Times: 16
+	Date: 2019-02-07 ; Times: 11
+	Date: 2019-02-04 ; Times: 6
+	Date: 2019-02-05 ; Times: 12
+	Date: 2019-02-08 ; Times: 6
+	Date: 2019-02-09 ; Times: 1
+	Date: 2019-02-28 ; Times: 17
+	Date: 2019-02-24 ; Times: 1
+	Date: 2019-02-25 ; Times: 45
+	Date: 2019-02-27 ; Times: 48
+	Date: 2019-02-06 ; Times: 5
+	Date: 2019-02-21 ; Times: 30
+
+List of queries that retrieved data from the resource: 
+	Query: "79677" ; Times: 1
+	Query: "30596" ; Times: 1
+	Query: "Alexander Wilson" ; Times: 1
+	Query: "278934" ; Times: 1
+	Query: "Ochotona collaris" ; Times: 16
+	Query: "american Pika" ; Times: 3
+	Query: "specificepithet:sapiens genus:Homo" ; Times: 1
+	Query: "catalognumber:80603 institutioncode:UAM" ; Times: 1
+	Query: "14262" ; Times: 1
+	Query: "85469" ; Times: 1
+	Query: "Ziphius cavirostris mappable:1" ; Times: 2
+	Query: "San Miguel Island locality:San Miguel Island stateprovince:&#34;California&#34; institutioncode:UAM" ; Times: 1
+	Query: "catalognumber:87308 institutioncode:UAM" ; Times: 1
+	Query: "10817" ; Times: 1
+	Query: "specificepithet:flaviventris genus:marmota institutioncode:UAM" ; Times: 1
+	Query: "skull vntype:specimen genus:Ursus institutioncode:UAM" ; Times: 1
+	Query: "Stenella coeruleoalba mappable:1" ; Times: 3
+	Query: "90935" ; Times: 1
+	Query: "25217" ; Times: 1
+	Query: "specificepithet:montanus genus:Reithrodontomys stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "cynomys ludovicianus" ; Times: 1
+	Query: "A 34615" ; Times: 1
+	Query: "marmota caligata" ; Times: 1
+	Query: "A 191749" ; Times: 2
+	Query: "94324" ; Times: 1
+	Query: "countries" ; Times: 1
+	Query: "22840" ; Times: 1
+	Query: "(Dermoptera)" ; Times: 1
+	Query: "mitkof order:carnivora class:mammalia stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "kadin island class:mammalia stateprovince:&#34;alaska&#34;" ; Times: 2
+	Query: "american pika" ; Times: 26
+	Query: "(body size)" ; Times: 4
+	Query: "specificepithet:frenata genus:Mustela institutioncode:UAM" ; Times: 1
+	Query: "monodon" ; Times: 1
+	Query: "32115" ; Times: 1
+	Query: "(Sciurus carolinensis) hastissue:1" ; Times: 1
+	Query: "stateprovince:&#34;alaska&#34; recordedby:eley" ; Times: 1
+	Query: "Globicephala macrorhynchus mappable:1" ; Times: 5
+	Query: "CM 7581" ; Times: 4
+	Query: "genus:Peromyscus stateprovince:&#34;Michigan&#34; year &gt;= 1900 year &lt;= 1950" ; Times: 1
+	Query: "58978" ; Times: 1
+	Query: "stateprovince:&#34;alaska&#34; recordedby:bos" ; Times: 1
+	Query: "35018" ; Times: 1
+	Query: "CM-4601" ; Times: 1
+	Query: "foxes" ; Times: 1
+	Query: "44998" ; Times: 1
+	Query: "vntype:specimen specificepithet:arctos genus:Ursus locality:Montana" ; Times: 1
+	Query: "Puma concolor in California" ; Times: 1
+	Query: "Blarina" ; Times: 2
+	Query: "&#34;Ursus americanus&#34; hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "12010" ; Times: 1
+	Query: "Ochotona princeps" ; Times: 39
+	Query: "17499" ; Times: 1
+	Query: "admiralty island order:carnivora stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "19576" ; Times: 2
+	Query: "18081" ; Times: 1
+	Query: "specificepithet:uncia genus:Panthera" ; Times: 3
+	Query: "vntype:specimen specificepithet:maritimus genus:Ursus institutioncode:UAM" ; Times: 3
+	Query: "monster" ; Times: 1
+	Query: "131554" ; Times: 1
+	Query: "Myotis californicus hastissue:1" ; Times: 3
+	Query: "32777" ; Times: 2
+	Query: "specificepithet:Alces alces" ; Times: 3
+	Query: "catalognumber:103328" ; Times: 1
+	Query: "American pika" ; Times: 1
+	Query: "otis hastissue:1" ; Times: 1
+	Query: "Urocitellus columbianus" ; Times: 1
+	Query: "catalognumber:73448" ; Times: 1
+	Query: "rcm year &gt;= 1894" ; Times: 1
+	Query: "Pteropus lylei" ; Times: 1
+	Query: "34463 sorex hastissue:1" ; Times: 2
+	Query: "pika" ; Times: 2
+	Query: "Steno bredanensis mappable:1" ; Times: 6
+	Query: "seahorse" ; Times: 2
+	Query: "Martes foina" ; Times: 3
+	Query: "Megaptera novaeangliae mappable:1" ; Times: 2
+	Query: "27799" ; Times: 1
+	Query: "body size" ; Times: 7
+	Query: "&#34;Oreamnos americanus&#34;" ; Times: 1
+	Query: "AF119274.1" ; Times: 1
+	Query: "cm 7715" ; Times: 1
+	Query: "Blarina brevicauda" ; Times: 1
+	Query: "&#34;orcinus orca&#34;" ; Times: 1
+	Query: "31887" ; Times: 2
+	Query: "35387 sorex hastissue:1" ; Times: 2
+	Query: "CM 19079" ; Times: 2
+	Query: "stateprovince:&#34;alaska&#34; recordedby:faro" ; Times: 2
+	Query: "Platyrrhinus lineatus" ; Times: 1
+	Query: "bears" ; Times: 1
+	Query: "vntype:specimen year &gt;= 2012 year &lt;= 2019 hassex:1 hasmedia:1 hastissue:1" ; Times: 1
+	Query: "specificepithet:maritimus genus:ursus hasmedia:1" ; Times: 1
+	Query: "specificepithet:hoyi genus:Sorex hasmass:1 haslength:1" ; Times: 3
+	Query: "Elephantidae hastissue:1" ; Times: 1
+	Query: "American Pika" ; Times: 3
+	Query: "Otis hastissue:1" ; Times: 1
+	Query: "32402" ; Times: 1
+	Query: "catalognumber:116885" ; Times: 2
+	Query: "41343 sorex hastissue:1" ; Times: 1
+	Query: "specificepithet:americana genus:Martes stateprovince:&#34;Alaska&#34; country:&#34;United States&#34; (Minchumina) AND (UAM)" ; Times: 1
+	Query: "orcinus orca" ; Times: 4
+	Query: "monoceros" ; Times: 1
+	Query: "mountain beaver" ; Times: 1
+	Query: "107820" ; Times: 1
+	Query: "killer whale" ; Times: 1
+	Query: "specificepithet:americana genus:Martes stateprovince:&#34;Alaska&#34; country:&#34;United States&#34; (Minchumina)" ; Times: 4
+	Query: "specificepithet:gossypinus genus:Peromyscus stateprovince:&#34;louisiana&#34;" ; Times: 1
+	Query: "poliocitellus" ; Times: 2
+	Query: "stateprovince:&#34;alaska&#34; recordedby:phillips" ; Times: 1
+	Query: "Physeter macrocephalus" ; Times: 3
+	Query: "Physeter macrocephalus mappable:1" ; Times: 6
+	Query: "73020" ; Times: 1
+	Query: "skull genus:Vulpes family:Canidae (zoo OR captive) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "A 159132" ; Times: 1
+	Query: "stateprovince:&#34;Alaska&#34; catalognumber:33457 institutioncode:UAM" ; Times: 1
+	Query: "marmota vancouverensis" ; Times: 49
+	Query: "Meles meles" ; Times: 1
+	Query: "Callithrix jacchus mappable:1" ; Times: 1
+	Query: "specificepithet:auriculus genus:Myotis stateprovince:&#34;new mexico&#34;" ; Times: 2
+	Query: "snowshoe hare" ; Times: 1
+	Query: "vntype:specimen specificepithet:uncia genus:Panthera preparations:skeleton" ; Times: 1
+	Query: "catalognumber:1688" ; Times: 2
+	Query: "catalognumber:116891" ; Times: 1
+	Query: "Oreamnos americanus" ; Times: 1
+	Query: "catalognumber:30040" ; Times: 2
+	Query: "13701" ; Times: 1
+	Query: "hastissue:1 marmota vancouverensis" ; Times: 1
+	Query: "myotis ciliolabrum stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "Sorex longirostris" ; Times: 1
+	Query: "EAR 6165 sorex hastissue:1" ; Times: 1
+	Query: "Orcinus orca" ; Times: 1
+	Query: "Trichechus" ; Times: 2
+	Query: "Platyrrhinus lineatus hastissue:1" ; Times: 1
+	Query: "dermoptera" ; Times: 3
+	Query: "cavia porcellus" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "Pika" ; Times: 1
+	Query: "Kogia breviceps mappable:1" ; Times: 2
+	Query: "94076" ; Times: 1
+	Query: "13463" ; Times: 1
+	Query: "sorex pribilofensis" ; Times: 1
+	Query: "female skeletons" ; Times: 1
+	Query: "skull vntype:specimen genus:Ursus year &gt;= 1990 year &lt;= 2019 institutioncode:UAM" ; Times: 2
+	Query: "Balaenoptera acutorostrata mappable:1" ; Times: 10
+	Query: "myotis evotis hastissue:1" ; Times: 2
+	Query: "30254" ; Times: 1
+	Query: "&#34;dasypus novemcinctus&#34;" ; Times: 1
+	Query: "Butterfly" ; Times: 1
+	Query: "platyrrhinus lineatus" ; Times: 3
+	Query: "mitkof island order:carnivora class:mammalia stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 2
+	Query: "specificepithet:californicus genus:Myotis hasmass:1" ; Times: 1
+	Query: "Orcinus orca mappable:1" ; Times: 9
+	Query: "genus:Trichechus class:Mammalia" ; Times: 2
+	Query: "specificepithet:broweri genus:marmota institutioncode:UAM" ; Times: 1
+	Query: "Trichechus manatus mappable:1" ; Times: 1
+	Query: "246998" ; Times: 1
+	Query: "Grampus griseus mappable:1" ; Times: 6
+	Query: "Dermoptera" ; Times: 4
+	Query: "specificepithet:vulpes genus:vulpes continent:North America basisofrecord:PreservedSpecimen hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "catalognumber:15144" ; Times: 1
+	Query: "278943" ; Times: 1
+	Query: "Pinnacles locality:Pinnacles stateprovince:&#34;California&#34; institutioncode:UAM" ; Times: 1
+	Query: "admiralty order:carnivora stateprovince:&#34;alaska&#34;" ; Times: 2
+	Query: "physeter macrocephalus" ; Times: 1
+	Query: "AMERICAN PIKA" ; Times: 3
+	Query: "Sorex dispar" ; Times: 1
+	Query: "Callithrix jacchus" ; Times: 1
+	Query: "92705" ; Times: 1
+	Query: "103886" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 43 (out of 1227 download events in this period)
+Total number of records downloaded: 5148
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Mexico ; Times: 9
+	Country: Unknown ; Times: 1
+	Country: Costa Rica ; Times: 1
+	Country: United States ; Times: 26
+	Country: Germany ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-02 ; Times: 1
+	Date: 2019-02-04 ; Times: 2
+	Date: 2019-02-21 ; Times: 3
+	Date: 2019-02-14 ; Times: 8
+	Date: 2019-02-15 ; Times: 1
+	Date: 2019-02-24 ; Times: 1
+	Date: 2019-02-25 ; Times: 3
+	Date: 2019-02-26 ; Times: 1
+	Date: 2019-02-27 ; Times: 1
+	Date: 2019-02-20 ; Times: 1
+	Date: 2019-02-12 ; Times: 2
+	Date: 2019-02-22 ; Times: 3
+	Date: 2019-02-23 ; Times: 2
+	Date: 2019-02-19 ; Times: 4
+	Date: 2019-02-06 ; Times: 1
+	Date: 2019-02-08 ; Times: 4
+	Date: 2019-02-01 ; Times: 2
+	Date: 2019-02-07 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Mammalia county:&#34;Taylor&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Sylvilagus bachmani" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "genus:Chaetodipus county:&#34;Presidio&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "Phyllostomidae" ; Times: 1
+	Query: "physeter macrocephalus" ; Times: 1
+	Query: "skull vntype:specimen genus:Ursus year &gt;= 1990 year &lt;= 2019 institutioncode:UAM" ; Times: 1
+	Query: "orcinus orca" ; Times: 2
+	Query: "skull vntype:specimen genus:Ursus institutioncode:UAM" ; Times: 1
+	Query: "Apodemus" ; Times: 1
+	Query: "porcupine" ; Times: 1
+	Query: "Panthera pardus" ; Times: 1
+	Query: "genus:Pteropus hastissue:1" ; Times: 1
+	Query: "Dasypus" ; Times: 1
+	Query: "neotoma stephensi" ; Times: 4
+	Query: "specificepithet:gossypinus genus:Peromyscus stateprovince:&#34;louisiana&#34;" ; Times: 1
+	Query: "poliocitellus" ; Times: 1
+	Query: "specificepithet:flavicollis genus:Apodemus" ; Times: 1
+	Query: "Vulpes macrotis" ; Times: 1
+	Query: "Dermoptera" ; Times: 3
+	Query: "Urocitellus columbianus" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela institutioncode:UAM" ; Times: 1
+	Query: "marmota vancouverensis" ; Times: 1
+	Query: "dermoptera" ; Times: 3
+	Query: "specificepithet:californicus genus:Lepus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Martes foina" ; Times: 1
+	Query: "Vulpes velox" ; Times: 1
+	Query: "Physeter macrocephalus" ; Times: 4
+	Query: "vntype:specimen specificepithet:maritimus genus:Ursus institutioncode:UAM" ; Times: 1
+	Query: "genus:Trichechus class:Mammalia" ; Times: 1
+	Query: "specificepithet:sylvaticus genus:Apodemus" ; Times: 1
+
+
+End of report.
