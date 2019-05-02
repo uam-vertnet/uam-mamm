@@ -1,0 +1,333 @@
+Report for Institution Code UAM, Resource uam_mamm
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 281
+Number of records retrieved in searches: 2716
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 72
+	Country: Canada ; Times: 2
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 20
+	Country: Unknown ; Times: 2
+	Country: United Kingdom ; Times: 5
+	Country: Switzerland ; Times: 7
+	Country: Sweden ; Times: 4
+	Country: Germany ; Times: 1
+	Country: Belgium ; Times: 3
+	Country: Argentina ; Times: 1
+	Country: United States ; Times: 161
+	Country: Russia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-04 ; Times: 15
+	Date: 2019-04-19 ; Times: 12
+	Date: 2019-04-18 ; Times: 20
+	Date: 2019-04-23 ; Times: 14
+	Date: 2019-04-12 ; Times: 8
+	Date: 2019-04-11 ; Times: 10
+	Date: 2019-04-10 ; Times: 13
+	Date: 2019-04-17 ; Times: 8
+	Date: 2019-04-16 ; Times: 5
+	Date: 2019-04-15 ; Times: 4
+	Date: 2019-04-14 ; Times: 1
+	Date: 2019-04-30 ; Times: 18
+	Date: 2019-04-01 ; Times: 8
+	Date: 2019-04-02 ; Times: 14
+	Date: 2019-04-25 ; Times: 9
+	Date: 2019-04-06 ; Times: 2
+	Date: 2019-04-22 ; Times: 10
+	Date: 2019-04-05 ; Times: 7
+	Date: 2019-04-20 ; Times: 6
+	Date: 2019-04-26 ; Times: 29
+	Date: 2019-04-27 ; Times: 1
+	Date: 2019-04-24 ; Times: 33
+	Date: 2019-04-03 ; Times: 4
+	Date: 2019-04-28 ; Times: 1
+	Date: 2019-04-29 ; Times: 7
+	Date: 2019-04-08 ; Times: 15
+	Date: 2019-04-09 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "47737" ; Times: 1
+	Query: "UAM Mammal specimens 35341" ; Times: 1
+	Query: "vntype:specimen specificepithet:pardicolor genus:Prionodon hastissue:1" ; Times: 1
+	Query: "catalognumber:493 institutioncode:UAM" ; Times: 1
+	Query: "84999" ; Times: 1
+	Query: "75419" ; Times: 1
+	Query: "ringed seal" ; Times: 1
+	Query: "50360" ; Times: 1
+	Query: "Dicrostonyx nelsoni" ; Times: 1
+	Query: "Ursus maritimus" ; Times: 2
+	Query: "specificepithet:maniculatus genus:peromyscus stateprovince:&#34;montana&#34; country:&#34;united states&#34; hastissue:1" ; Times: 1
+	Query: "catalognumber:33072" ; Times: 1
+	Query: "100969" ; Times: 1
+	Query: "115761" ; Times: 1
+	Query: "Myotis septentrionalis year &lt;= 1970" ; Times: 2
+	Query: "catalognumber:1327" ; Times: 1
+	Query: "12171" ; Times: 1
+	Query: "genus:Mephitis institutioncode:UAM" ; Times: 1
+	Query: "genus:Neomys hastissue:1" ; Times: 1
+	Query: "245385" ; Times: 1
+	Query: "Leptonycteris nivalis" ; Times: 1
+	Query: "Sciurus carolinensis New York" ; Times: 1
+	Query: "80729" ; Times: 3
+	Query: "Pygoderma bilabiatum mappable:1" ; Times: 3
+	Query: "J W Harris" ; Times: 1
+	Query: "genus:Sciurus stateprovince:&#34;ohio&#34; hastissue:1" ; Times: 1
+	Query: "catalognumber:33045" ; Times: 1
+	Query: "48825" ; Times: 1
+	Query: "52661" ; Times: 2
+	Query: "catalognumber:33041" ; Times: 1
+	Query: "specificepithet:collaris genus:Ochotona country:&#34;Canada&#34;" ; Times: 1
+	Query: "107950" ; Times: 1
+	Query: "Orcinus" ; Times: 1
+	Query: "specificepithet:scrofa genus:sus month &gt;= 2 month &lt;= 5" ; Times: 1
+	Query: "specificepithet:zibethicus genus:Ondatra stateprovince:&#34;Alaska&#34;" ; Times: 2
+	Query: "catalognumber:131327" ; Times: 1
+	Query: "catalognumber:131321" ; Times: 1
+	Query: "genus:Spermophilus OR Callospermophilus stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "specificepithet:Maniculatus genus:Peromyscus institutioncode:UAM hastissue:1" ; Times: 3
+	Query: "135136" ; Times: 1
+	Query: "103378" ; Times: 1
+	Query: "specificepithet:bendirii genus:Sorex hasmass:1" ; Times: 1
+	Query: "catalognumber:31709" ; Times: 1
+	Query: "109475" ; Times: 1
+	Query: "snowshoe hare" ; Times: 6
+	Query: "Trichechus manatus" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes preparations:ethanol" ; Times: 1
+	Query: "UAM 13413" ; Times: 2
+	Query: "pika body length" ; Times: 2
+	Query: "Platyrrhinus lineatus mappable:1" ; Times: 3
+	Query: "scientificname:Equus caballus " ; Times: 1
+	Query: "Calomys callosus mappable:1" ; Times: 1
+	Query: "137536" ; Times: 1
+	Query: "catalognumber:32293" ; Times: 1
+	Query: "globicephala macrorhynchus" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:Dasypus" ; Times: 1
+	Query: "51361" ; Times: 1
+	Query: "family:ursidae hasmedia:1" ; Times: 8
+	Query: "mummy" ; Times: 2
+	Query: "49917" ; Times: 2
+	Query: "specificepithet:maritimus genus:Ursus" ; Times: 1
+	Query: "35131" ; Times: 1
+	Query: "58395" ; Times: 2
+	Query: "137236" ; Times: 1
+	Query: "35132" ; Times: 1
+	Query: "116789" ; Times: 1
+	Query: "arborimus longicaudus" ; Times: 2
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "genus:Peromyscus stateprovince:&#34;Minnesota&#34; year &gt;= 2000 year &lt;= 2018" ; Times: 5
+	Query: "Hydrodamalis" ; Times: 1
+	Query: "monster" ; Times: 2
+	Query: "M-5742" ; Times: 1
+	Query: "64422" ; Times: 1
+	Query: "33461" ; Times: 1
+	Query: "135690" ; Times: 1
+	Query: "specificepithet:tatouay genus:Cabassous hastissue:1" ; Times: 1
+	Query: "UAM 122877" ; Times: 1
+	Query: "Oxymycterus delator mappable:1" ; Times: 3
+	Query: "catalognumber:90043" ; Times: 1
+	Query: "137546" ; Times: 2
+	Query: "grey wolf" ; Times: 1
+	Query: "vntype:specimen specificepithet:lupus genus:Canis hasmedia:1" ; Times: 1
+	Query: "Sciurus carolinensis hastissue:1" ; Times: 7
+	Query: "115758" ; Times: 1
+	Query: "pika" ; Times: 3
+	Query: "46954" ; Times: 1
+	Query: "american mink" ; Times: 1
+	Query: "25385 class:Mammalia" ; Times: 1
+	Query: "115755" ; Times: 1
+	Query: "catalognumber:132320" ; Times: 1
+	Query: "12171 class:mammalia" ; Times: 2
+	Query: "Kogia breviceps" ; Times: 1
+	Query: "Myocastor coypus mappable:1" ; Times: 3
+	Query: "18900" ; Times: 1
+	Query: "75298" ; Times: 1
+	Query: "137246" ; Times: 1
+	Query: "81285" ; Times: 1
+	Query: "55269" ; Times: 3
+	Query: "55268" ; Times: 1
+	Query: "UAM Mammal specimens 111861" ; Times: 1
+	Query: "115767" ; Times: 1
+	Query: "10653" ; Times: 1
+	Query: "specificepithet:maritimus family:ursidae hasmedia:1" ; Times: 1
+	Query: "86174" ; Times: 2
+	Query: "Sus scrofa mappable:1" ; Times: 2
+	Query: "specificepithet:mephitis genus:mephitis county:&#34;Humboldt&#34;" ; Times: 1
+	Query: "30150 class:Mammalia" ; Times: 1
+	Query: "specificepithet:griseus genus:Sciurus hastissue:1" ; Times: 1
+	Query: "specificepithet:maritimus genus:ursus hasmedia:1" ; Times: 1
+	Query: "30033 class:Mammalia" ; Times: 1
+	Query: "catalognumber:132317" ; Times: 2
+	Query: "57104" ; Times: 1
+	Query: "57105" ; Times: 1
+	Query: "specificepithet:hoyi genus:Sorex hasmass:1 haslength:1" ; Times: 1
+	Query: "145378" ; Times: 3
+	Query: "30274" ; Times: 1
+	Query: "yak" ; Times: 1
+	Query: "57103" ; Times: 1
+	Query: "catalognumber:20864" ; Times: 2
+	Query: "Cabassous tatouay" ; Times: 1
+	Query: "30274 mammalia" ; Times: 1
+	Query: "12171 order:rodentia" ; Times: 1
+	Query: "ursus maritimus" ; Times: 2
+	Query: "UAM 13411" ; Times: 2
+	Query: "10313" ; Times: 2
+	Query: "mamm 28459" ; Times: 1
+	Query: "Physeter macrocephalus" ; Times: 2
+	Query: "Chrotopterus auritus mappable:1" ; Times: 3
+	Query: "11235" ; Times: 1
+	Query: "marmota vancouverensis" ; Times: 3
+	Query: "specificepithet:americana genus:Antilocapra" ; Times: 1
+	Query: "neovison vison" ; Times: 3
+	Query: "Callithrix jacchus mappable:1" ; Times: 4
+	Query: "31709" ; Times: 1
+	Query: "115753" ; Times: 1
+	Query: "Lepus europaeus mappable:1" ; Times: 3
+	Query: "36394" ; Times: 1
+	Query: "uf" ; Times: 1
+	Query: "30033" ; Times: 2
+	Query: "135099" ; Times: 1
+	Query: "panthera uncia" ; Times: 2
+	Query: "marmot" ; Times: 1
+	Query: "141864" ; Times: 1
+	Query: "catalognumber:33096" ; Times: 1
+	Query: "12171 class:Mammalia" ; Times: 3
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Montana&#34; hastissue:1" ; Times: 1
+	Query: "35899" ; Times: 1
+	Query: "16987" ; Times: 1
+	Query: "Alces alces hasmass:1" ; Times: 4
+	Query: "Cabassous tatouay mappable:1" ; Times: 4
+	Query: "137989" ; Times: 2
+	Query: "Xerospermophilus mohavensis" ; Times: 1
+	Query: "preparations:skeleton massing &gt;= 400000 massing &lt;= 1000000 hasmass:1" ; Times: 1
+	Query: "UAM 11769" ; Times: 2
+	Query: "93566" ; Times: 1
+	Query: "119949" ; Times: 1
+	Query: "21264" ; Times: 2
+	Query: "Mustela frenata" ; Times: 8
+	Query: "golden-mantled ground squirrel" ; Times: 3
+	Query: "preparations:skeleton massing &gt;= 350000 massing &lt;= 100000000 hasmass:1" ; Times: 1
+	Query: "23672" ; Times: 2
+	Query: "53583" ; Times: 1
+	Query: "(mustela frenata)" ; Times: 1
+	Query: "25148" ; Times: 1
+	Query: "catalognumber:14663" ; Times: 1
+	Query: "massing &gt;= 400000 massing &lt;= 1000000 hasmass:1" ; Times: 1
+	Query: "specificepithet:tatouay genus:Cabassous" ; Times: 1
+	Query: "bearded seal" ; Times: 1
+	Query: "catalognumber:43527" ; Times: 1
+	Query: "specificepithet:americana genus:Martes stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "246998" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "genus:Cryptotis hastissue:1" ; Times: 1
+	Query: "49924" ; Times: 3
+	Query: "genus:Canis hasmedia:1" ; Times: 1
+	Query: "59237" ; Times: 1
+	Query: "30030 class:Mammalia" ; Times: 1
+	Query: "UAM 122877 genus:didelphis" ; Times: 1
+	Query: "catalognumber:32540" ; Times: 1
+	Query: "145540" ; Times: 2
+	Query: "33026" ; Times: 1
+	Query: "119950" ; Times: 1
+	Query: "119953" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 63 (out of 1263 download events in this period)
+Total number of records downloaded: 3582
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 54
+	Country: Brazil ; Times: 1
+	Country: Sweden ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-04 ; Times: 1
+	Date: 2019-04-19 ; Times: 2
+	Date: 2019-04-18 ; Times: 14
+	Date: 2019-04-02 ; Times: 19
+	Date: 2019-04-05 ; Times: 2
+	Date: 2019-04-10 ; Times: 3
+	Date: 2019-04-17 ; Times: 5
+	Date: 2019-04-06 ; Times: 1
+	Date: 2019-04-14 ; Times: 4
+	Date: 2019-04-22 ; Times: 2
+	Date: 2019-04-30 ; Times: 4
+	Date: 2019-04-20 ; Times: 1
+	Date: 2019-04-26 ; Times: 1
+	Date: 2019-04-01 ; Times: 1
+	Date: 2019-04-24 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Ovis canadensis" ; Times: 1
+	Query: "Puma" ; Times: 1
+	Query: "Myotis evotis" ; Times: 1
+	Query: "vntype:specimen specificepithet:musculus genus:Mus hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Trichechus manatus" ; Times: 2
+	Query: "Myotis volans" ; Times: 1
+	Query: "specificepithet:ordii genus:Dipodomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Myotis velifer" ; Times: 1
+	Query: "Myotis yumanensis" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon" ; Times: 1
+	Query: "&#34;Microtus californicus&#34;" ; Times: 1
+	Query: "Myotis thysanodes" ; Times: 1
+	Query: "Myotis auriculus" ; Times: 1
+	Query: "Didelphis virginiana year &gt;= 1970" ; Times: 1
+	Query: "Phenacomys intermedius" ; Times: 1
+	Query: "specificepithet:hispidus genus:Sigmodon stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Myotis ciliolabrum" ; Times: 1
+	Query: "specificepithet:concolor genus:Puma" ; Times: 1
+	Query: "specificepithet:micropus genus:Neotoma stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Myotis californicus" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 2
+	Query: "Panthera leo" ; Times: 1
+	Query: "specificepithet:rufus genus:lynx" ; Times: 1
+	Query: "loxodonta" ; Times: 1
+	Query: "Macrotus californicus" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 1
+	Query: "Cabassous tatouay" ; Times: 1
+	Query: "Pipistrellus subflavus" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:musculus genus:Mus" ; Times: 1
+	Query: "Otospermophilus beecheyi" ; Times: 1
+	Query: "Leptonycteris nivalis" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "specificepithet:canadensis genus:Ovis" ; Times: 1
+	Query: "Mus musculus" ; Times: 1
+	Query: "Myotis lucifugus" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "80729" ; Times: 1
+	Query: "specificepithet:musculus genus:mus" ; Times: 1
+	Query: "Myotis occultus" ; Times: 1
+	Query: "Idionycteris phyllotis" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "specificepithet:collaris genus:Ochotona country:&#34;Canada&#34;" ; Times: 1
+	Query: "specificepithet:zibethicus genus:Ondatra stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "specificepithet:americana genus:Antilocapra" ; Times: 1
+	Query: "specificepithet:concolor genus:puma" ; Times: 1
+	Query: "specificepithet:tatouay genus:Cabassous hastissue:1" ; Times: 1
+	Query: "american mink" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "snowshoe hare" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "Dicrostonyx nelsoni" ; Times: 1
+	Query: "Urocyon cinereoargenteus" ; Times: 1
+	Query: "preparations:skeleton massing &gt;= 350000 massing &lt;= 100000000 hasmass:1" ; Times: 1
+	Query: "Myotis keenii" ; Times: 1
+	Query: "Myodes californicus" ; Times: 1
+	Query: "specificepithet:bendirii genus:Sorex hasmass:1" ; Times: 1
+
+
+End of report.
