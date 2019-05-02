@@ -1,0 +1,866 @@
+Report for Institution Code UAM, Resource uam_mamm
+Usage stats for March 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 952
+Number of records retrieved in searches: 17793
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: United States ; Times: 866
+	Country: Netherlands ; Times: 29
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Panama ; Times: 1
+	Country: United Kingdom ; Times: 8
+	Country: Sweden ; Times: 6
+	Country: Peru ; Times: 3
+	Country: Denmark ; Times: 19
+	Country: Belgium ; Times: 2
+	Country: Thailand ; Times: 1
+	Country: Argentina ; Times: 6
+	Country: Russia ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-28 ; Times: 17
+	Date: 2019-03-27 ; Times: 1
+	Date: 2019-03-26 ; Times: 8
+	Date: 2019-03-25 ; Times: 5
+	Date: 2019-03-24 ; Times: 3
+	Date: 2019-03-23 ; Times: 3
+	Date: 2019-03-08 ; Times: 22
+	Date: 2019-03-21 ; Times: 5
+	Date: 2019-03-20 ; Times: 6
+	Date: 2019-03-05 ; Times: 7
+	Date: 2019-03-09 ; Times: 1
+	Date: 2019-03-07 ; Times: 8
+	Date: 2019-03-06 ; Times: 16
+	Date: 2019-03-01 ; Times: 18
+	Date: 2019-03-29 ; Times: 19
+	Date: 2019-03-22 ; Times: 9
+	Date: 2019-03-04 ; Times: 8
+	Date: 2019-03-15 ; Times: 46
+	Date: 2019-03-30 ; Times: 5
+	Date: 2019-03-31 ; Times: 25
+	Date: 2019-03-03 ; Times: 2
+	Date: 2019-03-18 ; Times: 15
+	Date: 2019-03-19 ; Times: 16
+	Date: 2019-03-16 ; Times: 1
+	Date: 2019-03-17 ; Times: 318
+	Date: 2019-03-14 ; Times: 225
+	Date: 2019-03-02 ; Times: 2
+	Date: 2019-03-12 ; Times: 94
+	Date: 2019-03-13 ; Times: 35
+	Date: 2019-03-10 ; Times: 6
+	Date: 2019-03-11 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "AF187186 institutioncode:UAM" ; Times: 1
+	Query: "KF948559 institutioncode:UAM" ; Times: 1
+	Query: "AY121268 institutioncode:UAM" ; Times: 1
+	Query: "AY305235 institutioncode:UAM" ; Times: 1
+	Query: "AY305133 institutioncode:UAM" ; Times: 1
+	Query: "AY305073 institutioncode:UAM" ; Times: 1
+	Query: "AY121333 institutioncode:UAM" ; Times: 1
+	Query: "KF964342 institutioncode:UAM" ; Times: 2
+	Query: "AF268273 institutioncode:UAM" ; Times: 1
+	Query: "catalognumber:65844" ; Times: 1
+	Query: "AY305252 institutioncode:UAM" ; Times: 1
+	Query: "AY121291 institutioncode:UAM" ; Times: 1
+	Query: "AF205297 institutioncode:UAM" ; Times: 1
+	Query: "Microtus montanus hasmass:1" ; Times: 7
+	Query: "country:&#34;canada&#34; recordedby:norman" ; Times: 7
+	Query: "AY305178 institutioncode:UAM" ; Times: 2
+	Query: "90727" ; Times: 1
+	Query: "AY121200 institutioncode:UAM" ; Times: 1
+	Query: "AF205289 institutioncode:UAM" ; Times: 1
+	Query: "AY305148 institutioncode:UAM" ; Times: 1
+	Query: "AF205295 institutioncode:UAM" ; Times: 1
+	Query: "AY305242 institutioncode:UAM" ; Times: 1
+	Query: "catalognumber:55726" ; Times: 1
+	Query: "american bison" ; Times: 1
+	Query: "specificepithet:bottae genus:Thomomys stateprovince:&#34;California&#34; year &gt;= 2005 year &lt;= 2019 hastissue:1" ; Times: 1
+	Query: "AY305083 institutioncode:UAM" ; Times: 1
+	Query: "80729" ; Times: 1
+	Query: "20284" ; Times: 1
+	Query: "AY305169 institutioncode:UAM" ; Times: 2
+	Query: "Meles meles" ; Times: 3
+	Query: "AY121314 institutioncode:UAM" ; Times: 2
+	Query: "AF205290 institutioncode:UAM" ; Times: 1
+	Query: "AY305203 institutioncode:UAM" ; Times: 1
+	Query: "AY305075 institutioncode:UAM" ; Times: 1
+	Query: "AY121294 institutioncode:UAM" ; Times: 1
+	Query: "AY305058 institutioncode:UAM" ; Times: 1
+	Query: "AY121328 institutioncode:UAM" ; Times: 1
+	Query: "vntype:specimen family:Canidae (zoo OR captive) AND (NOT familiaris NOT MSB NOT lupus NOT rom NOT NHMUK NOT PSM)" ; Times: 1
+	Query: "AY121286 institutioncode:UAM" ; Times: 1
+	Query: "KF948536 institutioncode:UAM" ; Times: 1
+	Query: "Pteropus lylei" ; Times: 1
+	Query: "AY121187 institutioncode:UAM" ; Times: 1
+	Query: "14112 institutioncode:UAM" ; Times: 1
+	Query: "KF948570 institutioncode:UAM" ; Times: 1
+	Query: "AY121204 institutioncode:UAM" ; Times: 1
+	Query: "AY121215 institutioncode:UAM" ; Times: 1
+	Query: "vntype:specimen specificepithet:novemcinctus genus:Dasypus" ; Times: 4
+	Query: "AY121319 institutioncode:UAM" ; Times: 1
+	Query: "Blarina" ; Times: 1
+	Query: "AY121218 institutioncode:UAM" ; Times: 1
+	Query: "AF 1093 institutioncode:UAM" ; Times: 1
+	Query: "preparations:baleen" ; Times: 3
+	Query: "Puma concolor mappable:1" ; Times: 19
+	Query: "KF948561 institutioncode:UAM" ; Times: 1
+	Query: "order:Artiodactyla country:&#34;Canada&#34;" ; Times: 1
+	Query: "AY305082 institutioncode:UAM" ; Times: 1
+	Query: "AY121263 institutioncode:UAM" ; Times: 1
+	Query: "AY305260 institutioncode:UAM" ; Times: 1
+	Query: "AF448237 institutioncode:UAM" ; Times: 1
+	Query: "AY305052 institutioncode:UAM" ; Times: 1
+	Query: "AY121232 institutioncode:UAM" ; Times: 1
+	Query: "Andamanensis" ; Times: 1
+	Query: "AY305175 institutioncode:UAM" ; Times: 2
+	Query: "specificepithet:virginiana genus:Didelphis hasmass:1" ; Times: 1
+	Query: "MSB 247079" ; Times: 1
+	Query: "AY121320 institutioncode:UAM" ; Times: 1
+	Query: "AY121260 institutioncode:UAM" ; Times: 1
+	Query: "AY305071 institutioncode:UAM" ; Times: 1
+	Query: "125668" ; Times: 2
+	Query: "AY305213 institutioncode:UAM" ; Times: 1
+	Query: "vntype:specimen specificepithet:americanus genus:Ursus stateprovince:&#34;Alaska&#34; preparations:skull institutioncode:UAM" ; Times: 1
+	Query: "AY121197 institutioncode:UAM" ; Times: 1
+	Query: "AY121226 institutioncode:UAM" ; Times: 1
+	Query: "AF205288 institutioncode:UAM" ; Times: 1
+	Query: "AY121299" ; Times: 1
+	Query: "AF187224 institutioncode:UAM" ; Times: 1
+	Query: "94387" ; Times: 1
+	Query: "Panthera uncia" ; Times: 2
+	Query: "AY305116 institutioncode:UAM" ; Times: 1
+	Query: "AF187185 institutioncode:UAM" ; Times: 1
+	Query: "AY121257 institutioncode:UAM" ; Times: 1
+	Query: "AF205296 institutioncode:UAM" ; Times: 1
+	Query: "AY305124 institutioncode:UAM" ; Times: 3
+	Query: "Rangifer tarandus hasmass:1" ; Times: 1
+	Query: "Ursus Maritimus" ; Times: 1
+	Query: "AY121350" ; Times: 1
+	Query: "AY121351" ; Times: 1
+	Query: "AY121352" ; Times: 1
+	Query: "AY121270 institutioncode:UAM" ; Times: 1
+	Query: "order:Primates haslength:1" ; Times: 1
+	Query: "AF205307 institutioncode:UAM" ; Times: 1
+	Query: "vntype:specimen specificepithet:novemcinctus genus:Dasypus hastissue:1" ; Times: 1
+	Query: "54494" ; Times: 1
+	Query: "AY121214 institutioncode:UAM" ; Times: 1
+	Query: "AF 28221 institutioncode:UAM" ; Times: 1
+	Query: "AF187189 institutioncode:UAM" ; Times: 1
+	Query: "AY121276 institutioncode:UAM" ; Times: 1
+	Query: "AY121198 institutioncode:UAM" ; Times: 1
+	Query: "70247" ; Times: 1
+	Query: "AY305121 institutioncode:UAM" ; Times: 1
+	Query: "AF187196 institutioncode:UAM" ; Times: 1
+	Query: "AY121252 institutioncode:UAM" ; Times: 1
+	Query: "AF187203 institutioncode:UAM" ; Times: 1
+	Query: "AY121235 institutioncode:UAM" ; Times: 1
+	Query: "AY121272 institutioncode:UAM" ; Times: 1
+	Query: "AF187211 institutioncode:UAM" ; Times: 1
+	Query: "AY305057 institutioncode:UAM" ; Times: 1
+	Query: "AY121217 institutioncode:UAM" ; Times: 1
+	Query: "51438" ; Times: 1
+	Query: "AF205317 institutioncode:UAM" ; Times: 1
+	Query: "(Antilocapra americana)" ; Times: 2
+	Query: "AY121269 institutioncode:UAM" ; Times: 1
+	Query: "AF268272 institutioncode:UAM" ; Times: 1
+	Query: "AY305239 institutioncode:UAM" ; Times: 1
+	Query: "KF948558 institutioncode:UAM" ; Times: 1
+	Query: "AY305182 institutioncode:UAM" ; Times: 2
+	Query: "AY305081 institutioncode:UAM" ; Times: 1
+	Query: "AF205311 institutioncode:UAM" ; Times: 1
+	Query: "AY121227 institutioncode:UAM" ; Times: 1
+	Query: "AY305168 institutioncode:UAM" ; Times: 2
+	Query: "AY121245 institutioncode:UAM" ; Times: 1
+	Query: "AY305118 institutioncode:UAM" ; Times: 1
+	Query: "AY305076 institutioncode:UAM" ; Times: 1
+	Query: "AY305070 institutioncode:UAM" ; Times: 1
+	Query: "AY121334 institutioncode:UAM" ; Times: 1
+	Query: "AY121339 institutioncode:UAM" ; Times: 1
+	Query: "AY121243 institutioncode:UAM" ; Times: 1
+	Query: "AY305198 institutioncode:UAM" ; Times: 4
+	Query: "AY121223 institutioncode:UAM" ; Times: 1
+	Query: "AY305181 institutioncode:UAM" ; Times: 2
+	Query: "AY121209 institutioncode:UAM" ; Times: 1
+	Query: "class:Mammalia catalognumber:15926" ; Times: 1
+	Query: "AF187220 institutioncode:UAM" ; Times: 1
+	Query: "AY121233 institutioncode:UAM" ; Times: 1
+	Query: "KF948613 institutioncode:UAM" ; Times: 1
+	Query: "246225" ; Times: 1
+	Query: "AY305077 institutioncode:UAM" ; Times: 1
+	Query: "AF 18705 institutioncode:UAM" ; Times: 1
+	Query: "Callosciurus erythraeus" ; Times: 2
+	Query: "AF187195 institutioncode:UAM" ; Times: 1
+	Query: "AY121206 institutioncode:UAM" ; Times: 1
+	Query: "AF154966 institutioncode:UAM" ; Times: 1
+	Query: "AY305084 institutioncode:UAM" ; Times: 1
+	Query: "AY305079 institutioncode:UAM" ; Times: 2
+	Query: "specificepithet:brevicauda genus:Blarina" ; Times: 1
+	Query: "catalognumber:27781" ; Times: 3
+	Query: "AY305120 institutioncode:UAM" ; Times: 1
+	Query: "mus musculus 322 alaska" ; Times: 1
+	Query: "AY305220 institutioncode:UAM" ; Times: 1
+	Query: "KF948615 institutioncode:UAM" ; Times: 1
+	Query: "AY305238 institutioncode:UAM" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sciurus hasmass:1" ; Times: 1
+	Query: "AY121230 institutioncode:UAM" ; Times: 1
+	Query: "AF187227 institutioncode:UAM" ; Times: 1
+	Query: "AY121327 institutioncode:UAM" ; Times: 1
+	Query: "genus:Enhydra institutioncode:UAM" ; Times: 1
+	Query: "KF964344 institutioncode:UAM" ; Times: 2
+	Query: "AF154964 institutioncode:UAM" ; Times: 1
+	Query: "AY305188 institutioncode:UAM" ; Times: 1
+	Query: "14111 institutioncode:UAM" ; Times: 1
+	Query: "AY121332 institutioncode:UAM" ; Times: 1
+	Query: "91415" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:Dasypus hastissue:1" ; Times: 3
+	Query: "AY121338 institutioncode:UAM" ; Times: 1
+	Query: "AY305230 institutioncode:UAM" ; Times: 1
+	Query: "order:Artiodactyla distance(location,geopoint(58.425932110863705,-133.125))&lt;614862" ; Times: 1
+	Query: "AF205315 institutioncode:UAM" ; Times: 1
+	Query: "AY305219 institutioncode:UAM" ; Times: 1
+	Query: "KF948577 institutioncode:UAM" ; Times: 1
+	Query: "AY305254 institutioncode:UAM" ; Times: 1
+	Query: "AY305236 institutioncode:UAM" ; Times: 1
+	Query: "catalognumber:93838" ; Times: 1
+	Query: "KF948542 institutioncode:UAM" ; Times: 1
+	Query: "AY305233 institutioncode:UAM" ; Times: 1
+	Query: "KF948571 institutioncode:UAM" ; Times: 1
+	Query: "AY121329 institutioncode:UAM" ; Times: 1
+	Query: "AY121288 institutioncode:UAM" ; Times: 1
+	Query: "AY305174 institutioncode:UAM" ; Times: 2
+	Query: "AF205300 institutioncode:UAM" ; Times: 1
+	Query: "AY121248 institutioncode:UAM" ; Times: 1
+	Query: "278942" ; Times: 1
+	Query: "marmot institutioncode:UAM" ; Times: 1
+	Query: "AY121295 institutioncode:UAM" ; Times: 1
+	Query: "KF948556 institutioncode:UAM" ; Times: 1
+	Query: "AY305186 institutioncode:UAM" ; Times: 1
+	Query: "AY121310" ; Times: 1
+	Query: "AY121311" ; Times: 1
+	Query: "AY121312" ; Times: 1
+	Query: "AY121298 institutioncode:UAM" ; Times: 1
+	Query: "AF187182 institutioncode:UAM" ; Times: 1
+	Query: "AY305066 institutioncode:UAM" ; Times: 1
+	Query: "AY305262 institutioncode:UAM" ; Times: 1
+	Query: "AY121335 institutioncode:UAM" ; Times: 1
+	Query: "AY305221 institutioncode:UAM" ; Times: 1
+	Query: "AY305161 institutioncode:UAM" ; Times: 1
+	Query: "AY121196 institutioncode:UAM" ; Times: 1
+	Query: "AY305202 institutioncode:UAM" ; Times: 1
+	Query: "AY121191 institutioncode:UAM" ; Times: 1
+	Query: "AF187223 institutioncode:UAM" ; Times: 1
+	Query: "AY305067 institutioncode:UAM" ; Times: 1
+	Query: "278934" ; Times: 3
+	Query: "278933" ; Times: 1
+	Query: "AF187218 institutioncode:UAM" ; Times: 1
+	Query: "15285" ; Times: 1
+	Query: "307138" ; Times: 1
+	Query: "catalognumber:77952 institutioncode:UAM" ; Times: 1
+	Query: "AY305240 institutioncode:UAM" ; Times: 1
+	Query: "AY305251 institutioncode:UAM" ; Times: 1
+	Query: "KF948625 institutioncode:UAM" ; Times: 1
+	Query: "AY121256 institutioncode:UAM" ; Times: 1
+	Query: "genus:Didelphis hasmass:1" ; Times: 1
+	Query: "AF187217 institutioncode:UAM" ; Times: 1
+	Query: "AF187188 institutioncode:UAM" ; Times: 1
+	Query: "245326" ; Times: 1
+	Query: "KF948543 institutioncode:UAM" ; Times: 1
+	Query: "AY305176 institutioncode:UAM" ; Times: 2
+	Query: "AY121222 institutioncode:UAM" ; Times: 1
+	Query: "AY121322 institutioncode:UAM" ; Times: 1
+	Query: "AY305257 institutioncode:UAM" ; Times: 1
+	Query: "AF187216 institutioncode:UAM" ; Times: 1
+	Query: "AY305140 institutioncode:UAM" ; Times: 1
+	Query: "AY305214 institutioncode:UAM" ; Times: 1
+	Query: "469937" ; Times: 2
+	Query: "KF948580 institutioncode:UAM" ; Times: 1
+	Query: "AY305128 institutioncode:UAM" ; Times: 2
+	Query: "AY305224 institutioncode:UAM" ; Times: 1
+	Query: "AF187179 institutioncode:UAM" ; Times: 1
+	Query: "KF948634 institutioncode:UAM" ; Times: 1
+	Query: "AY305208 institutioncode:UAM" ; Times: 1
+	Query: "AY121212 institutioncode:UAM" ; Times: 1
+	Query: "217429" ; Times: 1
+	Query: "specificepithet:zibethicus genus:Ondatra stateprovince:&#34;Alaska&#34;" ; Times: 4
+	Query: "AY305087 institutioncode:UAM" ; Times: 1
+	Query: "AY121267 institutioncode:UAM" ; Times: 1
+	Query: "AF205312 institutioncode:UAM" ; Times: 1
+	Query: "AY305259 institutioncode:UAM" ; Times: 1
+	Query: "AF154965 institutioncode:UAM" ; Times: 1
+	Query: "103378" ; Times: 1
+	Query: "AY121282 institutioncode:UAM" ; Times: 1
+	Query: "AY121317 institutioncode:UAM" ; Times: 1
+	Query: "AF 24826 institutioncode:UAM" ; Times: 1
+	Query: "AY305191 institutioncode:UAM" ; Times: 2
+	Query: "AF205308 institutioncode:UAM" ; Times: 1
+	Query: "AF205318 institutioncode:UAM" ; Times: 1
+	Query: "AY305055 institutioncode:UAM" ; Times: 1
+	Query: "AY121249 institutioncode:UAM" ; Times: 2
+	Query: "AF154969" ; Times: 1
+	Query: "AY305209 institutioncode:UAM" ; Times: 1
+	Query: "AY121195 institutioncode:UAM" ; Times: 1
+	Query: "AY305245 institutioncode:UAM" ; Times: 1
+	Query: "AF187200 institutioncode:UAM" ; Times: 1
+	Query: "AY121274 institutioncode:UAM" ; Times: 1
+	Query: "KF964340 institutioncode:UAM" ; Times: 2
+	Query: "AY305172 institutioncode:UAM" ; Times: 2
+	Query: "AY121336 institutioncode:UAM" ; Times: 1
+	Query: "AY305126 institutioncode:UAM" ; Times: 2
+	Query: "AY305199 institutioncode:UAM" ; Times: 7
+	Query: "AY121258 institutioncode:UAM" ; Times: 1
+	Query: "AF187193 institutioncode:UAM" ; Times: 1
+	Query: "AY305206 institutioncode:UAM" ; Times: 1
+	Query: "KF948540 institutioncode:UAM" ; Times: 1
+	Query: "KF964341 institutioncode:UAM" ; Times: 2
+	Query: "AY305193 institutioncode:UAM" ; Times: 2
+	Query: "21113" ; Times: 1
+	Query: "monster" ; Times: 1
+	Query: "KF948555 institutioncode:UAM" ; Times: 1
+	Query: "AY305103 institutioncode:UAM" ; Times: 1
+	Query: "AY305180 institutioncode:UAM" ; Times: 2
+	Query: "AY121247 institutioncode:UAM" ; Times: 1
+	Query: "KF964338 institutioncode:UAM" ; Times: 1
+	Query: "25127" ; Times: 1
+	Query: "Alces alces hasmass:1" ; Times: 1
+	Query: "AY121193 institutioncode:UAM" ; Times: 1
+	Query: "AY121216 institutioncode:UAM" ; Times: 1
+	Query: "AF 18690 institutioncode:UAM" ; Times: 1
+	Query: "Eumetopias jubatus; institutioncode:UAM" ; Times: 1
+	Query: "genus:Dasypus hastissue:1" ; Times: 1
+	Query: "AF187210 institutioncode:UAM" ; Times: 1
+	Query: "AF187222 institutioncode:UAM" ; Times: 1
+	Query: "KF948554 institutioncode:UAM" ; Times: 1
+	Query: "AY305078 institutioncode:UAM" ; Times: 1
+	Query: "AY305080 institutioncode:UAM" ; Times: 1
+	Query: "AF119267 institutioncode:UAM" ; Times: 1
+	Query: "KF948545 institutioncode:UAM" ; Times: 1
+	Query: "baleen" ; Times: 2
+	Query: "13871" ; Times: 1
+	Query: "AY121205 institutioncode:UAM" ; Times: 1
+	Query: "AY121250 institutioncode:UAM" ; Times: 2
+	Query: "AY121244 institutioncode:UAM" ; Times: 1
+	Query: "AY305065 institutioncode:UAM" ; Times: 1
+	Query: "cabassous tatouay" ; Times: 2
+	Query: "KF948627 institutioncode:UAM" ; Times: 1
+	Query: "AY121236 institutioncode:UAM" ; Times: 1
+	Query: "AY305218 institutioncode:UAM" ; Times: 1
+	Query: "AF205287 institutioncode:UAM" ; Times: 1
+	Query: "AF205299 institutioncode:UAM" ; Times: 1
+	Query: "AY121225 institutioncode:UAM" ; Times: 1
+	Query: "AY121349" ; Times: 1
+	Query: "AY121348" ; Times: 1
+	Query: "AY121210 institutioncode:UAM" ; Times: 1
+	Query: "AY121343" ; Times: 1
+	Query: "AY121342" ; Times: 1
+	Query: "AY121341" ; Times: 1
+	Query: "AY121340" ; Times: 1
+	Query: "AY121347" ; Times: 1
+	Query: "AY121346" ; Times: 1
+	Query: "AY121345" ; Times: 1
+	Query: "AY121344" ; Times: 1
+	Query: "AY121315 institutioncode:UAM" ; Times: 1
+	Query: "KF948629 institutioncode:UAM" ; Times: 1
+	Query: "island specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "specificepithet:erminea genus:Mustela stateprovince:&#34;Alaska&#34; hastissue:1" ; Times: 1
+	Query: "AF 2384 specificepithet:caligata genus:marmota institutioncode:UAM" ; Times: 1
+	Query: "AY305154 institutioncode:UAM" ; Times: 2
+	Query: "AF187177 institutioncode:UAM" ; Times: 1
+	Query: "AF205292 institutioncode:UAM" ; Times: 1
+	Query: "AY305248 institutioncode:UAM" ; Times: 1
+	Query: "AY305227 institutioncode:UAM" ; Times: 1
+	Query: "AY305105 institutioncode:UAM" ; Times: 1
+	Query: "neovison vison" ; Times: 20
+	Query: "AY305197 institutioncode:UAM" ; Times: 3
+	Query: "AF187178 institutioncode:UAM" ; Times: 1
+	Query: "AY305185 institutioncode:UAM" ; Times: 1
+	Query: "48319" ; Times: 1
+	Query: "92210" ; Times: 2
+	Query: "KF948623 institutioncode:UAM" ; Times: 1
+	Query: "AY121331 institutioncode:UAM" ; Times: 1
+	Query: "AY305112 institutioncode:UAM" ; Times: 1
+	Query: "AY305215 institutioncode:UAM" ; Times: 1
+	Query: "AY305253 institutioncode:UAM" ; Times: 1
+	Query: "56147" ; Times: 1
+	Query: "KF948566 institutioncode:UAM" ; Times: 1
+	Query: "catalognumber:1393" ; Times: 1
+	Query: "AY305195 institutioncode:UAM" ; Times: 2
+	Query: "AY121254 institutioncode:UAM" ; Times: 1
+	Query: "catalognumber:78125" ; Times: 1
+	Query: "121677" ; Times: 1
+	Query: "AF 2253 institutioncode:UAM" ; Times: 1
+	Query: "121679" ; Times: 1
+	Query: "AY305177 institutioncode:UAM" ; Times: 2
+	Query: "39771" ; Times: 1
+	Query: "KF948626 institutioncode:UAM" ; Times: 1
+	Query: "AY305099 institutioncode:UAM" ; Times: 1
+	Query: "AY305229 institutioncode:UAM" ; Times: 1
+	Query: "AY121237 institutioncode:UAM" ; Times: 1
+	Query: "AF205309 institutioncode:UAM" ; Times: 1
+	Query: "AY121296 institutioncode:UAM" ; Times: 1
+	Query: "AF187201 institutioncode:UAM" ; Times: 1
+	Query: "KF964335 institutioncode:UAM" ; Times: 1
+	Query: "AY121275 institutioncode:UAM" ; Times: 1
+	Query: "AY121283 institutioncode:UAM" ; Times: 1
+	Query: "AY121246 institutioncode:UAM" ; Times: 1
+	Query: "cabassous" ; Times: 2
+	Query: "AY121316 institutioncode:UAM" ; Times: 1
+	Query: "AY121313" ; Times: 1
+	Query: "AY305183 institutioncode:UAM" ; Times: 1
+	Query: "AY305064 institutioncode:UAM" ; Times: 1
+	Query: "AY305069 institutioncode:UAM" ; Times: 2
+	Query: "AY305156 institutioncode:UAM" ; Times: 2
+	Query: "Guilday" ; Times: 2
+	Query: "AY121228 institutioncode:UAM" ; Times: 1
+	Query: "mm 424" ; Times: 1
+	Query: "AY305147 institutioncode:UAM" ; Times: 1
+	Query: "AY121277 institutioncode:UAM" ; Times: 1
+	Query: "KF948632 institutioncode:UAM" ; Times: 1
+	Query: "KF948622 institutioncode:UAM" ; Times: 1
+	Query: "catalognumber:5586" ; Times: 2
+	Query: "AY121224 institutioncode:UAM" ; Times: 1
+	Query: "eastern grey squirrel" ; Times: 1
+	Query: "AMERICAN PIKA" ; Times: 2
+	Query: "AF187194 institutioncode:UAM" ; Times: 1
+	Query: "specificepithet:timidus genus:Lepus hastissue:1" ; Times: 1
+	Query: "catalognumber:509 institutioncode:UAM" ; Times: 1
+	Query: "*Urocitellus columbianus" ; Times: 2
+	Query: "AY121259 institutioncode:UAM" ; Times: 1
+	Query: "KF964343 institutioncode:UAM" ; Times: 2
+	Query: "KF948620 institutioncode:UAM" ; Times: 1
+	Query: "AY121213 institutioncode:UAM" ; Times: 1
+	Query: "AY305088 institutioncode:UAM" ; Times: 1
+	Query: "KF948537 institutioncode:UAM" ; Times: 1
+	Query: "KF948562 institutioncode:UAM" ; Times: 1
+	Query: "AY305111 institutioncode:UAM" ; Times: 1
+	Query: "AY305196 institutioncode:UAM" ; Times: 2
+	Query: "AF187225 institutioncode:UAM" ; Times: 1
+	Query: "AF205285 institutioncode:UAM" ; Times: 1
+	Query: "AY305243 institutioncode:UAM" ; Times: 1
+	Query: "AY305122 institutioncode:UAM" ; Times: 1
+	Query: "catalognumber:90893" ; Times: 1
+	Query: "AY121271 institutioncode:UAM" ; Times: 1
+	Query: "AF187170 institutioncode:UAM" ; Times: 1
+	Query: "AF187192 institutioncode:UAM" ; Times: 1
+	Query: "AY305062 institutioncode:UAM" ; Times: 1
+	Query: "AY305200 institutioncode:UAM" ; Times: 7
+	Query: "AY121321 institutioncode:UAM" ; Times: 1
+	Query: "AY121289 institutioncode:UAM" ; Times: 1
+	Query: "AY305068 institutioncode:UAM" ; Times: 1
+	Query: "AY305050 institutioncode:UAM" ; Times: 2
+	Query: "AY305123 institutioncode:UAM" ; Times: 2
+	Query: "AY121309" ; Times: 1
+	Query: "AY121308" ; Times: 1
+	Query: "AF205314 institutioncode:UAM" ; Times: 1
+	Query: "AF187219 institutioncode:UAM" ; Times: 1
+	Query: "AY121241 institutioncode:UAM" ; Times: 1
+	Query: "90085" ; Times: 1
+	Query: "AY305207 institutioncode:UAM" ; Times: 1
+	Query: "AY305056 institutioncode:UAM" ; Times: 1
+	Query: "AF187198 institutioncode:UAM" ; Times: 1
+	Query: "AY305053 institutioncode:UAM" ; Times: 1
+	Query: "278943" ; Times: 6
+	Query: "AF187171 institutioncode:UAM" ; Times: 1
+	Query: "AY121219 institutioncode:UAM" ; Times: 1
+	Query: "137524" ; Times: 1
+	Query: "278944" ; Times: 1
+	Query: "KF964337 institutioncode:UAM" ; Times: 2
+	Query: "AF 545 institutioncode:UAM" ; Times: 1
+	Query: "AF205301 institutioncode:UAM" ; Times: 1
+	Query: "AY305117 institutioncode:UAM" ; Times: 1
+	Query: "AY305173 institutioncode:UAM" ; Times: 2
+	Query: "specificepithet:scrofa genus:sus month &gt;= 2 month &lt;= 5" ; Times: 2
+	Query: "sea turtle" ; Times: 1
+	Query: "AY305109 institutioncode:UAM" ; Times: 1
+	Query: "AF187199 institutioncode:UAM" ; Times: 1
+	Query: "AY305106 institutioncode:UAM" ; Times: 1
+	Query: "70265" ; Times: 2
+	Query: "Sorex araneus hasmass:1" ; Times: 1
+	Query: "MSB 246775" ; Times: 1
+	Query: "AY305100 institutioncode:UAM" ; Times: 2
+	Query: "AY305247 institutioncode:UAM" ; Times: 1
+	Query: "Sciurus carolinensis vntype:specimen hastissue:1" ; Times: 1
+	Query: "572009" ; Times: 1
+	Query: "waldron" ; Times: 1
+	Query: "AF187229 institutioncode:UAM" ; Times: 1
+	Query: "AY305234 institutioncode:UAM" ; Times: 1
+	Query: "AY121293 institutioncode:UAM" ; Times: 1
+	Query: "AY305138 institutioncode:UAM" ; Times: 2
+	Query: "AY305108 institutioncode:UAM" ; Times: 1
+	Query: "KF948617 institutioncode:UAM" ; Times: 1
+	Query: "AF187228 institutioncode:UAM" ; Times: 1
+	Query: "KF948624 institutioncode:UAM" ; Times: 1
+	Query: "AY305228 institutioncode:UAM" ; Times: 1
+	Query: "AY121330 institutioncode:UAM" ; Times: 1
+	Query: "AY121279 institutioncode:UAM" ; Times: 1
+	Query: "AY121265 institutioncode:UAM" ; Times: 1
+	Query: "AY305072 institutioncode:UAM" ; Times: 1
+	Query: "AY121318 institutioncode:UAM" ; Times: 1
+	Query: "AY121253 institutioncode:UAM" ; Times: 1
+	Query: "AY305074 institutioncode:UAM" ; Times: 1
+	Query: "AF448238" ; Times: 1
+	Query: "AY305143 institutioncode:UAM" ; Times: 1
+	Query: "AF268274 institutioncode:UAM" ; Times: 1
+	Query: "AF154973" ; Times: 2
+	Query: "AF154972" ; Times: 3
+	Query: "AF154971" ; Times: 1
+	Query: "AF154970" ; Times: 1
+	Query: "Urocitellus columbianus" ; Times: 1
+	Query: "AF154974" ; Times: 1
+	Query: "AY305170 institutioncode:UAM" ; Times: 2
+	Query: "AF205294 institutioncode:UAM" ; Times: 1
+	Query: "AY305152 institutioncode:UAM" ; Times: 3
+	Query: "Lontra canadensis hasmass:1" ; Times: 1
+	Query: "AY121220 institutioncode:UAM" ; Times: 1
+	Query: "15088" ; Times: 1
+	Query: "KF948576 institutioncode:UAM" ; Times: 1
+	Query: "AY121273 institutioncode:UAM" ; Times: 1
+	Query: "Blarina brevicauda" ; Times: 1
+	Query: "33977" ; Times: 1
+	Query: "genus:Dasypus basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "62264" ; Times: 1
+	Query: "AY305261 institutioncode:UAM" ; Times: 1
+	Query: "AY305201 institutioncode:UAM" ; Times: 1
+	Query: "AY121255 institutioncode:UAM" ; Times: 1
+	Query: "vntype:specimen family:Canidae (zoo OR captive) AND (NOT familiaris NOT MSB NOT lupus NOT rom NOT NHMUK NOT PSM NOT AMNH)" ; Times: 1
+	Query: "AY305136 institutioncode:UAM" ; Times: 1
+	Query: "AY305190 institutioncode:UAM" ; Times: 2
+	Query: "order:Artiodactyla distance(location,geopoint(58.425932110863705,-133.125))&lt;100000" ; Times: 1
+	Query: "AY305256 institutioncode:UAM" ; Times: 1
+	Query: "AY305246 institutioncode:UAM" ; Times: 1
+	Query: "catalognumber:90894" ; Times: 1
+	Query: "37157" ; Times: 1
+	Query: "AY305085 institutioncode:UAM" ; Times: 1
+	Query: "AY121290 institutioncode:UAM" ; Times: 1
+	Query: "KF964336 institutioncode:UAM" ; Times: 2
+	Query: "AY305171 institutioncode:UAM" ; Times: 2
+	Query: "AY305250 institutioncode:UAM" ; Times: 1
+	Query: "KF948565 institutioncode:UAM" ; Times: 1
+	Query: "AY121337 institutioncode:UAM" ; Times: 1
+	Query: "AY305255 institutioncode:UAM" ; Times: 1
+	Query: "AY121251 institutioncode:UAM" ; Times: 1
+	Query: "KF948616 institutioncode:UAM" ; Times: 1
+	Query: "108252" ; Times: 3
+	Query: "Wolves" ; Times: 1
+	Query: "AY121285 institutioncode:UAM" ; Times: 1
+	Query: "AY305059 institutioncode:UAM" ; Times: 2
+	Query: "AY305258 institutioncode:UAM" ; Times: 1
+	Query: "AF187167 institutioncode:UAM" ; Times: 1
+	Query: "AY305144 institutioncode:UAM" ; Times: 1
+	Query: "84104" ; Times: 1
+	Query: "specificepithet:canadensis genus:Castor stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "AY305205 institutioncode:UAM" ; Times: 1
+	Query: "AF 1092 institutioncode:UAM" ; Times: 1
+	Query: "AY305137 institutioncode:UAM" ; Times: 1
+	Query: "AF187184 institutioncode:UAM" ; Times: 1
+	Query: "KF948638 institutioncode:UAM" ; Times: 1
+	Query: "KF948578 institutioncode:UAM" ; Times: 1
+	Query: "AF187197 institutioncode:UAM" ; Times: 1
+	Query: "AY305223 institutioncode:UAM" ; Times: 2
+	Query: "specificepithet:vison" ; Times: 2
+	Query: "specificepithet:volans genus:Myotis county:&#34;Grant&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "73139" ; Times: 1
+	Query: "AY305142 institutioncode:UAM" ; Times: 1
+	Query: "AY305162 institutioncode:UAM" ; Times: 1
+	Query: "AY305107 institutioncode:UAM" ; Times: 1
+	Query: "AY121242 institutioncode:UAM" ; Times: 1
+	Query: "genus:Alces" ; Times: 4
+	Query: "54471" ; Times: 1
+	Query: "AY305132 institutioncode:UAM" ; Times: 2
+	Query: "AY121323 institutioncode:UAM" ; Times: 1
+	Query: "AF187226 institutioncode:UAM" ; Times: 1
+	Query: "AF187221 institutioncode:UAM" ; Times: 1
+	Query: "AY305212 institutioncode:UAM" ; Times: 1
+	Query: "AF 1110 institutioncode:UAM" ; Times: 1
+	Query: "AY121199 institutioncode:UAM" ; Times: 1
+	Query: "AF187174 institutioncode:UAM" ; Times: 1
+	Query: "AY121264 institutioncode:UAM" ; Times: 1
+	Query: "KF948563 institutioncode:UAM" ; Times: 1
+	Query: "AF187176 institutioncode:UAM" ; Times: 1
+	Query: "AF205286 institutioncode:UAM" ; Times: 1
+	Query: "AF154967 institutioncode:UAM" ; Times: 1
+	Query: "12219" ; Times: 1
+	Query: "12218" ; Times: 1
+	Query: "AY121239 institutioncode:UAM" ; Times: 1
+	Query: "KF948630 institutioncode:UAM" ; Times: 1
+	Query: "genus:Canis institutioncode:UAM" ; Times: 1
+	Query: "AY121262 institutioncode:UAM" ; Times: 1
+	Query: "AY305151 institutioncode:UAM" ; Times: 2
+	Query: "Otospermophilus beecheyi hasmass:1" ; Times: 2
+	Query: "AF187230 institutioncode:UAM" ; Times: 1
+	Query: "AY305157 institutioncode:UAM" ; Times: 2
+	Query: "AY305163 institutioncode:UAM" ; Times: 1
+	Query: "vntype:specimen family:Canidae (zoo OR captive) AND (NOT familiaris NOT MSB NOT lupus NOT rom NOT NHMUK NOT PSM NOT AMNH NOT FMNH)" ; Times: 1
+	Query: "Neovison" ; Times: 4
+	Query: "AF205303 institutioncode:UAM" ; Times: 1
+	Query: "AY121240 institutioncode:UAM" ; Times: 1
+	Query: "AY305115 institutioncode:UAM" ; Times: 1
+	Query: "t rex" ; Times: 1
+	Query: "AY305135 institutioncode:UAM" ; Times: 2
+	Query: "AY121238 institutioncode:UAM" ; Times: 1
+	Query: "vntype:specimen family:Canidae (zoo OR captive) AND (NOT familiaris NOT MSB NOT lupus NOT rom)" ; Times: 1
+	Query: "AY305160 institutioncode:UAM" ; Times: 2
+	Query: "KF948635 institutioncode:UAM" ; Times: 1
+	Query: "AY121324 institutioncode:UAM" ; Times: 1
+	Query: "AY305130 institutioncode:UAM" ; Times: 2
+	Query: "AY121325 institutioncode:UAM" ; Times: 1
+	Query: "AY305150 institutioncode:UAM" ; Times: 3
+	Query: "AF187190 institutioncode:UAM" ; Times: 1
+	Query: "vntype:specimen family:Canidae (zoo OR captive) AND (NOT familiaris NOT MSB NOT lupus NOT rom NOT NHMUK)" ; Times: 1
+	Query: "MSB 246736" ; Times: 1
+	Query: "KF948579 institutioncode:UAM" ; Times: 1
+	Query: "catalognumber:120291" ; Times: 1
+	Query: "AY305149 institutioncode:UAM" ; Times: 2
+	Query: "KF948564 institutioncode:UAM" ; Times: 1
+	Query: "AY305189 institutioncode:UAM" ; Times: 2
+	Query: "AY305061 institutioncode:UAM" ; Times: 1
+	Query: "KF948582 institutioncode:UAM" ; Times: 1
+	Query: "54495" ; Times: 1
+	Query: "AF205313 institutioncode:UAM" ; Times: 1
+	Query: "AY305263 institutioncode:UAM" ; Times: 1
+	Query: "KF948618 institutioncode:UAM" ; Times: 1
+	Query: "KF948640 institutioncode:UAM" ; Times: 1
+	Query: "AY305104 institutioncode:UAM" ; Times: 1
+	Query: "KF948581 institutioncode:UAM" ; Times: 1
+	Query: "AF187187 institutioncode:UAM" ; Times: 1
+	Query: "AY305113 institutioncode:UAM" ; Times: 2
+	Query: "AF205306 institutioncode:UAM" ; Times: 1
+	Query: "KF948557 institutioncode:UAM" ; Times: 1
+	Query: "AY305166 institutioncode:UAM" ; Times: 2
+	Query: "AY305141 institutioncode:UAM" ; Times: 2
+	Query: "AF187168 institutioncode:UAM" ; Times: 1
+	Query: "AY305232 institutioncode:UAM" ; Times: 1
+	Query: "KF948573 institutioncode:UAM" ; Times: 1
+	Query: "AY121326 institutioncode:UAM" ; Times: 1
+	Query: "AY305129 institutioncode:UAM" ; Times: 2
+	Query: "AF187206 institutioncode:UAM" ; Times: 1
+	Query: "KF948575 institutioncode:UAM" ; Times: 1
+	Query: "Chrotopterus auritus" ; Times: 1
+	Query: "AY305226 institutioncode:UAM" ; Times: 1
+	Query: "AY305179 institutioncode:UAM" ; Times: 2
+	Query: "hydrodamalis gigas" ; Times: 1
+	Query: "AF187205 institutioncode:UAM" ; Times: 1
+	Query: "vntype:specimen specificepithet:arctos genus:Ursus stateprovince:&#34;Alaska&#34; preparations:skull institutioncode:UAM" ; Times: 1
+	Query: "genus:Chrotopterus haslength:1" ; Times: 1
+	Query: "specificepithet:erminea genus:Mustela stateprovince:&#34;alaska&#34; hastissue:1" ; Times: 1
+	Query: "gray wolf" ; Times: 1
+	Query: "KF948572 institutioncode:UAM" ; Times: 1
+	Query: "specificepithet:ochrogaster genus:microtus hastissue:1" ; Times: 2
+	Query: "KF948574 institutioncode:UAM" ; Times: 1
+	Query: "catalognumber:137993" ; Times: 1
+	Query: "catalognumber:25992" ; Times: 1
+	Query: "AY305244 institutioncode:UAM" ; Times: 1
+	Query: "AF205304 institutioncode:UAM" ; Times: 1
+	Query: "AY305222 institutioncode:UAM" ; Times: 1
+	Query: "AF187209 institutioncode:UAM" ; Times: 1
+	Query: "AF205310 institutioncode:UAM" ; Times: 1
+	Query: "AF187204 institutioncode:UAM" ; Times: 1
+	Query: "Puma concolor in California" ; Times: 2
+	Query: "Butterfly" ; Times: 1
+	Query: "AY305237 institutioncode:UAM" ; Times: 1
+	Query: "125594" ; Times: 1
+	Query: "mummy" ; Times: 1
+	Query: "AY121281 institutioncode:UAM" ; Times: 1
+	Query: "AF187172 institutioncode:UAM" ; Times: 1
+	Query: "vntype:specimen family:Canidae (zoo OR captive) AND (NOT familiaris NOT MSB)" ; Times: 1
+	Query: "AY305125 institutioncode:UAM" ; Times: 3
+	Query: "AY121229 institutioncode:UAM" ; Times: 1
+	Query: "KF948567 institutioncode:UAM" ; Times: 1
+	Query: "specificepithet:merriami genus:tamias institutioncode:UAM" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:Tadarida county:&#34;Grant&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "AY305184 institutioncode:UAM" ; Times: 1
+	Query: "AY305187 institutioncode:UAM" ; Times: 1
+	Query: "AY121297 institutioncode:UAM" ; Times: 1
+	Query: "AY305114 institutioncode:UAM" ; Times: 2
+	Query: "AF154968 institutioncode:UAM" ; Times: 1
+	Query: "AY305231 institutioncode:UAM" ; Times: 1
+	Query: "AY305216 institutioncode:UAM" ; Times: 1
+	Query: "AF187173 institutioncode:UAM" ; Times: 1
+	Query: "AY305210 institutioncode:UAM" ; Times: 1
+	Query: "AY121231 institutioncode:UAM" ; Times: 1
+	Query: "AF187181 institutioncode:UAM" ; Times: 1
+	Query: "AY305086 institutioncode:UAM" ; Times: 1
+	Query: "AY121234 institutioncode:UAM" ; Times: 1
+	Query: "AY121287 institutioncode:UAM" ; Times: 1
+	Query: "AF187212 institutioncode:UAM" ; Times: 1
+	Query: "23317" ; Times: 1
+	Query: "AY305164 institutioncode:UAM" ; Times: 2
+	Query: "Puma concolor hasmass:1" ; Times: 1
+	Query: "AF205293 institutioncode:UAM" ; Times: 1
+	Query: "325133" ; Times: 1
+	Query: "specificepithet:chrotorrhinus genus:Microtus" ; Times: 1
+	Query: "60925" ; Times: 1
+	Query: "325134" ; Times: 1
+	Query: "12308" ; Times: 1
+	Query: "KF948637 institutioncode:UAM" ; Times: 1
+	Query: "AY305217 institutioncode:UAM" ; Times: 1
+	Query: "AY305241 institutioncode:UAM" ; Times: 1
+	Query: "AF205305 institutioncode:UAM" ; Times: 1
+	Query: "278493" ; Times: 2
+	Query: "AY305211 institutioncode:UAM" ; Times: 1
+	Query: "AF 39707 institutioncode:UAM" ; Times: 1
+	Query: "AY305158 institutioncode:UAM" ; Times: 2
+	Query: "Reithrodontomys fulvescens" ; Times: 4
+	Query: "KF948569 institutioncode:UAM" ; Times: 1
+	Query: "AY121280 institutioncode:UAM" ; Times: 1
+	Query: "AY305146 institutioncode:UAM" ; Times: 1
+	Query: "AY305134 institutioncode:UAM" ; Times: 1
+	Query: "AY305145 institutioncode:UAM" ; Times: 1
+	Query: "AY121266 institutioncode:UAM" ; Times: 1
+	Query: "AF187213 institutioncode:UAM" ; Times: 1
+	Query: "AY121189 institutioncode:UAM" ; Times: 1
+	Query: "AY305089 institutioncode:UAM" ; Times: 1
+	Query: "catalognumber:50694" ; Times: 1
+	Query: "61610 order:rodentia" ; Times: 3
+	Query: "specificepithet:hoyi genus:Sorex hasmass:1 haslength:1" ; Times: 2
+	Query: "AF187202 institutioncode:UAM" ; Times: 1
+	Query: "AY305054 institutioncode:UAM" ; Times: 1
+	Query: "genus:Alces year &gt;= 1919 year &lt;= 2018" ; Times: 1
+	Query: "KF948631 institutioncode:UAM" ; Times: 1
+	Query: "AY305060 institutioncode:UAM" ; Times: 1
+	Query: "KF948619 institutioncode:UAM" ; Times: 1
+	Query: "38014" ; Times: 1
+	Query: "11583" ; Times: 1
+	Query: "AF187191 institutioncode:UAM" ; Times: 1
+	Query: "KF948633 institutioncode:UAM" ; Times: 1
+	Query: "KF964339 institutioncode:UAM" ; Times: 1
+	Query: "AY121221 institutioncode:UAM" ; Times: 1
+	Query: "AY305127 institutioncode:UAM" ; Times: 2
+	Query: "AY305165 institutioncode:UAM" ; Times: 2
+	Query: "catalognumber:648 institutioncode:UAM" ; Times: 2
+	Query: "AY121292 institutioncode:UAM" ; Times: 1
+	Query: "KF948539 institutioncode:UAM" ; Times: 1
+	Query: "Panthera uncia vntype:specimen" ; Times: 1
+	Query: "KF948541 institutioncode:UAM" ; Times: 1
+	Query: "AF187207 institutioncode:UAM" ; Times: 1
+	Query: "AF205302 institutioncode:UAM" ; Times: 1
+	Query: "AY305167 institutioncode:UAM" ; Times: 2
+	Query: "AY305159 institutioncode:UAM" ; Times: 2
+	Query: "KF948628 institutioncode:UAM" ; Times: 1
+	Query: "vntype:specimen family:Canidae (zoo OR captive) AND (NOT familiaris NOT MSB NOT lupus)" ; Times: 1
+	Query: "catalognumber:75387" ; Times: 1
+	Query: "AY121211 institutioncode:UAM" ; Times: 1
+	Query: "KF948636 institutioncode:UAM" ; Times: 1
+	Query: "AY305063 institutioncode:UAM" ; Times: 1
+	Query: "AF187175 institutioncode:UAM" ; Times: 1
+	Query: "AF187208 institutioncode:UAM" ; Times: 1
+	Query: "AY305249 institutioncode:UAM" ; Times: 1
+	Query: "KF948538 institutioncode:UAM" ; Times: 1
+	Query: "Oreamnos americanus" ; Times: 1
+	Query: "specificepithet:Alces alces stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "15384" ; Times: 1
+	Query: "Lynx canadensis hasmass:1" ; Times: 1
+	Query: "AY121188 institutioncode:UAM" ; Times: 1
+	Query: "KF948560 institutioncode:UAM" ; Times: 1
+	Query: "marmot" ; Times: 2
+	Query: "AY121190 institutioncode:UAM" ; Times: 1
+	Query: "25563" ; Times: 1
+	Query: "AY305155 institutioncode:UAM" ; Times: 2
+	Query: "AY121201 institutioncode:UAM" ; Times: 1
+	Query: "AF187169 institutioncode:UAM" ; Times: 1
+	Query: "AY121261 institutioncode:UAM" ; Times: 1
+	Query: "AY305051 institutioncode:UAM" ; Times: 1
+	Query: "AF187215 institutioncode:UAM" ; Times: 1
+	Query: "KF948621 institutioncode:UAM" ; Times: 1
+	Query: "genus:mustela hastypestatus:1" ; Times: 4
+	Query: "KF948544 institutioncode:UAM" ; Times: 1
+	Query: "AF205316 institutioncode:UAM" ; Times: 1
+	Query: "AF187183 institutioncode:UAM" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:Dasypus" ; Times: 7
+	Query: "113188" ; Times: 1
+	Query: "AY305139 institutioncode:UAM" ; Times: 2
+	Query: "AY305119 institutioncode:UAM" ; Times: 1
+	Query: "AF187214 institutioncode:UAM" ; Times: 1
+	Query: "AY121278 institutioncode:UAM" ; Times: 1
+	Query: "AY305192 institutioncode:UAM" ; Times: 2
+	Query: "AY305204 institutioncode:UAM" ; Times: 1
+	Query: "KF948568 institutioncode:UAM" ; Times: 1
+	Query: "AY305194 institutioncode:UAM" ; Times: 2
+	Query: "AY305225 institutioncode:UAM" ; Times: 1
+	Query: "AY305131 institutioncode:UAM" ; Times: 2
+	Query: "KF948639 institutioncode:UAM" ; Times: 1
+	Query: "KF948614 institutioncode:UAM" ; Times: 1
+	Query: "AY305153 institutioncode:UAM" ; Times: 2
+	Query: "278924" ; Times: 1
+	Query: "AF205298 institutioncode:UAM" ; Times: 1
+	Query: "AF205291 institutioncode:UAM" ; Times: 1
+	Query: "specificepithet:sungorus genus:phodopus hasmass:1" ; Times: 2
+	Query: "Artibeus hirsutus" ; Times: 4
+	Query: "AY305110 institutioncode:UAM" ; Times: 1
+	Query: "AY121284 institutioncode:UAM" ; Times: 1
+	Query: "AY121192 institutioncode:UAM" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 42 (out of 1281 download events in this period)
+Total number of records downloaded: 31851
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 37
+	Country: Brazil ; Times: 3
+	Country: United Kingdom ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-18 ; Times: 1
+	Date: 2019-03-31 ; Times: 1
+	Date: 2019-03-03 ; Times: 1
+	Date: 2019-03-11 ; Times: 1
+	Date: 2019-03-19 ; Times: 2
+	Date: 2019-03-08 ; Times: 12
+	Date: 2019-03-13 ; Times: 2
+	Date: 2019-03-26 ; Times: 1
+	Date: 2019-03-23 ; Times: 2
+	Date: 2019-03-22 ; Times: 2
+	Date: 2019-03-21 ; Times: 1
+	Date: 2019-03-20 ; Times: 4
+	Date: 2019-03-16 ; Times: 1
+	Date: 2019-03-04 ; Times: 1
+	Date: 2019-03-14 ; Times: 1
+	Date: 2019-03-06 ; Times: 4
+	Date: 2019-03-12 ; Times: 1
+	Date: 2019-03-07 ; Times: 1
+	Date: 2019-03-29 ; Times: 2
+	Date: 2019-03-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:americana genus:martes" ; Times: 3
+	Query: "order:Primates haslength:1" ; Times: 1
+	Query: "specificepithet:brevicauda genus:Blarina" ; Times: 1
+	Query: "specificepithet:gulo" ; Times: 3
+	Query: "vntype:specimen specificepithet:novemcinctus genus:Dasypus hastissue:1" ; Times: 1
+	Query: "specificepithet:erminea genus:mustela" ; Times: 5
+	Query: "specificepithet:novemcinctus genus:Dasypus" ; Times: 1
+	Query: "specificepithet:canadensis genus:lontra" ; Times: 3
+	Query: "specificepithet:taxus genus:taxidea" ; Times: 1
+	Query: "specificepithet:hudsonicus genus:Tamiasciurus hasmass:1" ; Times: 2
+	Query: "genus:neovison" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "specificepithet:vison genus:neovison" ; Times: 1
+	Query: "Chrotopterus auritus" ; Times: 1
+	Query: "Panthera uncia vntype:specimen" ; Times: 1
+	Query: "specificepithet:fulvescens genus:Reithrodontomys" ; Times: 1
+	Query: "*Urocitellus columbianus" ; Times: 2
+	Query: "Guilday" ; Times: 1
+	Query: "cabassous tatouay" ; Times: 1
+	Query: "hydrodamalis gigas" ; Times: 1
+	Query: "genus:Chrotopterus haslength:1" ; Times: 1
+	Query: "Eumetopias jubatus; institutioncode:UAM" ; Times: 1
+	Query: "Mus haslifestage:1 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:erminea arctica genus:mustela" ; Times: 1
+	Query: "Artibeus hirsutus" ; Times: 1
+	Query: "genus:Meles" ; Times: 1
+	Query: "Callosciurus erythraeus" ; Times: 1
+	Query: "specificepithet:micropus genus:Neotoma" ; Times: 1
+	Query: "specificepithet:vison" ; Times: 1
+	Query: "specificepithet:Alces alces stateprovince:&#34;Alaska&#34;" ; Times: 1
+
+
+End of report.
