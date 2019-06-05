@@ -1,0 +1,286 @@
+Report for Institution Code UAM, Resource uam_mamm
+Usage stats for May 2019, generated on 2019/06/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 282
+Number of records retrieved in searches: 3889
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 46
+	Country: United States ; Times: 191
+	Country: Russia ; Times: 1
+	Country: Netherlands ; Times: 2
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: Denmark ; Times: 3
+	Country: France ; Times: 12
+	Country: United Kingdom ; Times: 1
+	Country: Australia ; Times: 2
+	Country: Chile ; Times: 3
+	Country: Unknown ; Times: 4
+	Country: Belgium ; Times: 7
+	Country: Argentina ; Times: 2
+	Country: New Zealand ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-30 ; Times: 7
+	Date: 2019-05-31 ; Times: 9
+	Date: 2019-05-09 ; Times: 14
+	Date: 2019-05-08 ; Times: 15
+	Date: 2019-05-07 ; Times: 6
+	Date: 2019-05-06 ; Times: 9
+	Date: 2019-05-05 ; Times: 9
+	Date: 2019-05-03 ; Times: 20
+	Date: 2019-05-02 ; Times: 31
+	Date: 2019-05-01 ; Times: 20
+	Date: 2019-05-25 ; Times: 18
+	Date: 2019-05-24 ; Times: 21
+	Date: 2019-05-27 ; Times: 4
+	Date: 2019-05-26 ; Times: 3
+	Date: 2019-05-21 ; Times: 8
+	Date: 2019-05-20 ; Times: 15
+	Date: 2019-05-23 ; Times: 6
+	Date: 2019-05-22 ; Times: 5
+	Date: 2019-05-29 ; Times: 6
+	Date: 2019-05-28 ; Times: 13
+	Date: 2019-05-18 ; Times: 3
+	Date: 2019-05-10 ; Times: 10
+	Date: 2019-05-11 ; Times: 1
+	Date: 2019-05-13 ; Times: 4
+	Date: 2019-05-14 ; Times: 17
+	Date: 2019-05-15 ; Times: 4
+	Date: 2019-05-16 ; Times: 2
+	Date: 2019-05-17 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Ursus maritimus hasmedia:1" ; Times: 3
+	Query: "EAR 5173" ; Times: 2
+	Query: "84999" ; Times: 1
+	Query: "EAR 5170" ; Times: 1
+	Query: "Microtus chrotorrhinus" ; Times: 1
+	Query: "UAM 35337" ; Times: 2
+	Query: "glaucomys volans" ; Times: 1
+	Query: "af 388." ; Times: 1
+	Query: "sorex hoyi" ; Times: 6
+	Query: "47124" ; Times: 26
+	Query: "54721" ; Times: 1
+	Query: "103068" ; Times: 2
+	Query: "specificepithet:columbianus genus:Urocitellus" ; Times: 1
+	Query: "admiralty island order:carnivora stateprovince:&#34;alaska&#34;" ; Times: 2
+	Query: "Ziphius cavirostris mappable:1" ; Times: 1
+	Query: "EAR 5171" ; Times: 1
+	Query: "Syncerus caffer mappable:1" ; Times: 1
+	Query: "catalognumber:53893" ; Times: 1
+	Query: "stenella attenuata" ; Times: 1
+	Query: "genus:Canis institutioncode:UAM hasmedia:1" ; Times: 2
+	Query: "trichechus" ; Times: 3
+	Query: "american marten" ; Times: 1
+	Query: "34885" ; Times: 1
+	Query: "33485" ; Times: 1
+	Query: "33255" ; Times: 1
+	Query: "&#34;cyphers ranch&#34;" ; Times: 2
+	Query: "34130" ; Times: 1
+	Query: "434097" ; Times: 2
+	Query: "genus:canis mandible" ; Times: 1
+	Query: "278943" ; Times: 3
+	Query: "Pygoderma bilabiatum mappable:1" ; Times: 1
+	Query: "Lepus europaeus mappable:1" ; Times: 1
+	Query: "14580" ; Times: 1
+	Query: "Mitkof island family:mustelidae stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "17485" ; Times: 1
+	Query: "88258" ; Times: 1
+	Query: "stateprovince:&#34;alaska&#34; catalognumber:2717 institutioncode:UAM" ; Times: 1
+	Query: "vntype:specimen specificepithet:arctos genus:ursus stateprovince:&#34;Alaska&#34; preparations:skull year &gt;= 1930 year &lt;= 1990 institutioncode:UAM" ; Times: 1
+	Query: "278439" ; Times: 1
+	Query: "peromyscus vntype:specimen (skin whole) basisofrecord:PreservedSpecimen hastissue:1" ; Times: 3
+	Query: "31985" ; Times: 1
+	Query: "Ursus maritimus" ; Times: 3
+	Query: "genus:canis hasmedia:1" ; Times: 9
+	Query: "Mitkof island class:mammalia stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "stateprovince:&#34;alaska&#34; catalognumber:2679 institutioncode:UAM" ; Times: 1
+	Query: "EAR 5166" ; Times: 1
+	Query: "specificepithet:caligata genus:Marmota hastissue:1" ; Times: 1
+	Query: "catalognumber:108402" ; Times: 1
+	Query: "Platyrrhinus lineatus mappable:1" ; Times: 6
+	Query: "UAM 36773" ; Times: 2
+	Query: "Vaccinium mappable:1" ; Times: 1
+	Query: "279987" ; Times: 1
+	Query: "&#34;Peromyscus&#34; &#34;leucopus&#34; &#34;Iowa&#34; year &gt;= 2000" ; Times: 1
+	Query: "Tetragonurus" ; Times: 1
+	Query: "order:carnivora locality:wrangell stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "vntype:specimen catalognumber:114266 institutioncode:UAM" ; Times: 1
+	Query: "Mitkof island family:ursidae stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "Equus quagga" ; Times: 2
+	Query: "UAM 23421" ; Times: 2
+	Query: "EAR 5147" ; Times: 3
+	Query: "genus:antilocapra stateprovince:&#34;wyoming&#34;" ; Times: 1
+	Query: "monster" ; Times: 2
+	Query: "EAR 5169" ; Times: 1
+	Query: "24880" ; Times: 1
+	Query: "vntype:specimen specificepithet:americanus genus:ursus stateprovince:&#34;Alaska&#34; preparations:skull year &gt;= 1930 year &lt;= 1990 institutioncode:UAM" ; Times: 1
+	Query: "391530" ; Times: 1
+	Query: "AF 5275" ; Times: 2
+	Query: "Urocitellus columbianus" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela haslength:1" ; Times: 1
+	Query: "Steno bredanensis mappable:1" ; Times: 1
+	Query: "39150" ; Times: 1
+	Query: "196696" ; Times: 1
+	Query: "AF 26160" ; Times: 3
+	Query: "genus: canis mandible" ; Times: 2
+	Query: "Dendrogale" ; Times: 1
+	Query: "278394" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis hasmedia:1" ; Times: 1
+	Query: "278493" ; Times: 1
+	Query: "18900" ; Times: 1
+	Query: "Sylvilagus Pendleton County" ; Times: 1
+	Query: "IF 396" ; Times: 2
+	Query: "MSB 122918" ; Times: 1
+	Query: "Globicephala macrorhynchus mappable:1" ; Times: 1
+	Query: "Sorex sonomae" ; Times: 4
+	Query: "long island order:Carnivora stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:arctos genus:Ursus stateprovince:&#34;Alaska&#34; preparations:skull institutioncode:UAM" ; Times: 1
+	Query: "musuem records" ; Times: 1
+	Query: "11225" ; Times: 1
+	Query: "sorex 41343" ; Times: 2
+	Query: "&#34;*Urocitellus columbianus&#34;" ; Times: 1
+	Query: "Vaccinium uliginosum mappable:1" ; Times: 3
+	Query: "specificepithet:pallidus genus:Antrozous county:&#34;Santa Clara&#34;" ; Times: 2
+	Query: "172610" ; Times: 1
+	Query: "Torpedo torpedo" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 1
+	Query: "vank island class:mammalia stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "265139" ; Times: 1
+	Query: "catalognumber:29513 institutioncode:UAM" ; Times: 1
+	Query: "admiralty island family:mustelidae stateprovince:&#34;alaska&#34;" ; Times: 3
+	Query: "Octodon degus mappable:1 year&gt;=1950 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 2
+	Query: "genus:myocastor" ; Times: 1
+	Query: "vntype:specimen genus:Canis hasmedia:1" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Alaska&#34; country:&#34;United States&#34; hastissue:1" ; Times: 1
+	Query: "10408" ; Times: 1
+	Query: "34176" ; Times: 1
+	Query: "specificepithet:cinerea genus:Neotoma hasmass:1" ; Times: 1
+	Query: "af 388" ; Times: 1
+	Query: "UAM 35335" ; Times: 3
+	Query: "UAM 35336" ; Times: 3
+	Query: "Physeter macrocephalus mappable:1" ; Times: 1
+	Query: "admiralty island family:ursidae stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "antilocapra americana" ; Times: 1
+	Query: "Taphozous theobaldi" ; Times: 3
+	Query: "127198" ; Times: 1
+	Query: "Callithrix jacchus mappable:1" ; Times: 1
+	Query: "admiralty island family:soricidae stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "46899" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;kittitas&#34; hastissue:1" ; Times: 1
+	Query: "stateprovince:&#34;alaska&#34; catalognumber:2680 institutioncode:UAM" ; Times: 1
+	Query: "298783" ; Times: 1
+	Query: "43627" ; Times: 1
+	Query: "Megaptera novaeangliae mappable:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:maritimus genus:ursus stateprovince:&#34;Alaska&#34; preparations:skull year &gt;= 1930 year &lt;= 1990 institutioncode:UAM" ; Times: 1
+	Query: "gray wolf" ; Times: 1
+	Query: "canyon island class:mammalia stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "17610" ; Times: 1
+	Query: "catalognumber:88258" ; Times: 1
+	Query: "M-115239" ; Times: 1
+	Query: "22839 hastissue:1" ; Times: 1
+	Query: "Kadin island class:mammalia stateprovince:&#34;alaska&#34;" ; Times: 2
+	Query: "sorex 21607" ; Times: 2
+	Query: "Stenella coeruleoalba mappable:1" ; Times: 1
+	Query: "specificepithet:caligata genus:Marmota stateprovince:&#34;Washington&#34; hastissue:1" ; Times: 1
+	Query: "278984" ; Times: 1
+	Query: "Kogia breviceps mappable:1" ; Times: 1
+	Query: "Mitkof island order:carnivora stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "&#34;Minnesota&#34; &#34;leucopus&#34; year &gt;= 2000" ; Times: 2
+	Query: "39672" ; Times: 1
+	Query: "UAM 77795" ; Times: 2
+	Query: "right whale" ; Times: 3
+	Query: "Vaccinium oxycoccos mappable:1" ; Times: 3
+	Query: "91493" ; Times: 1
+	Query: "EAR 5182" ; Times: 1
+	Query: "Balaenoptera acutorostrata mappable:1" ; Times: 2
+	Query: "Kenyon AND ISland" ; Times: 1
+	Query: "sciurus carolinensis hastissue:1" ; Times: 2
+	Query: "EAR 5167" ; Times: 1
+	Query: "Mitkof island family:canidae stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "Canis lupus familiaris" ; Times: 3
+	Query: "ptarmigan" ; Times: 2
+	Query: "Orcinus orca mappable:1" ; Times: 1
+	Query: "Cabassous tatouay mappable:1" ; Times: 1
+	Query: "Oxymycterus delator mappable:1" ; Times: 1
+	Query: "Idaho Frozen Tissue Collection 400" ; Times: 1
+	Query: "Trichechus manatus mappable:1" ; Times: 1
+	Query: "genital" ; Times: 1
+	Query: "Grampus griseus mappable:1" ; Times: 1
+	Query: "59408" ; Times: 1
+	Query: "equus" ; Times: 1
+	Query: "31934" ; Times: 1
+	Query: "EAR 5185" ; Times: 2
+	Query: "oryctolagus" ; Times: 1
+	Query: "genus:Canis hasmedia:1" ; Times: 1
+	Query: "76486" ; Times: 1
+	Query: "UAM 52701" ; Times: 1
+	Query: "Idaho Frozen Tissue Collection 396" ; Times: 1
+	Query: "Idaho Frozen Tissue Collection 398" ; Times: 1
+	Query: "specificepithet:fuscipes genus:Neotoma stateprovince:&#34;California&#34; hasmass:1" ; Times: 1
+	Query: "Right Whale" ; Times: 2
+	Query: "83059" ; Times: 1
+	Query: "Chrotopterus auritus mappable:1" ; Times: 10
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 24 (out of 940 download events in this period)
+Total number of records downloaded: 29089
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 18
+	Country: Australia ; Times: 2
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-25 ; Times: 1
+	Date: 2019-05-24 ; Times: 1
+	Date: 2019-05-27 ; Times: 1
+	Date: 2019-05-26 ; Times: 1
+	Date: 2019-05-21 ; Times: 1
+	Date: 2019-05-06 ; Times: 3
+	Date: 2019-05-28 ; Times: 1
+	Date: 2019-05-02 ; Times: 1
+	Date: 2019-05-09 ; Times: 1
+	Date: 2019-05-08 ; Times: 1
+	Date: 2019-05-07 ; Times: 3
+	Date: 2019-05-11 ; Times: 1
+	Date: 2019-05-05 ; Times: 3
+	Date: 2019-05-13 ; Times: 1
+	Date: 2019-05-14 ; Times: 2
+	Date: 2019-05-15 ; Times: 1
+	Date: 2019-05-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "IF 396" ; Times: 1
+	Query: "Sorex sonomae" ; Times: 1
+	Query: "vntype:specimen specificepithet:arctos genus:Ursus stateprovince:&#34;Alaska&#34; preparations:skull institutioncode:UAM" ; Times: 1
+	Query: "class:Mammalia county:&#34;Harney&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Puma concolor" ; Times: 2
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "class:Mammalia stateprovince:Oregon" ; Times: 1
+	Query: "&#34;*Urocitellus columbianus&#34;" ; Times: 1
+	Query: "sorex palustris" ; Times: 1
+	Query: "order:Soricomorpha hastissue:1" ; Times: 1
+	Query: "sciurus carolinensis hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:americanus genus:ursus stateprovince:&#34;Alaska&#34; preparations:skull year &gt;= 1930 year &lt;= 1990 institutioncode:UAM" ; Times: 1
+	Query: "specificepithet:merriami genus:Tamias" ; Times: 1
+	Query: "ursus americanus" ; Times: 1
+	Query: "Urocitellus columbianus" ; Times: 1
+	Query: "equus" ; Times: 1
+	Query: "specificepithet:latrans genus:canis" ; Times: 1
+	Query: "martes americana" ; Times: 1
+	Query: "vntype:specimen specificepithet:arctos genus:ursus stateprovince:&#34;Alaska&#34; preparations:skull year &gt;= 1930 year &lt;= 1990 institutioncode:UAM" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "bassariscus astutus" ; Times: 1
+	Query: "Chaetodipus penicillatus" ; Times: 1
+	Query: "vntype:specimen specificepithet:maritimus genus:ursus stateprovince:&#34;Alaska&#34; preparations:skull year &gt;= 1930 year &lt;= 1990 institutioncode:UAM" ; Times: 1
+
+
+End of report.
