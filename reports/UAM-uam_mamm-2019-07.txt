@@ -1,0 +1,248 @@
+Report for Institution Code UAM, Resource uam_mamm
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 201
+Number of records retrieved in searches: 21958
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Canada ; Times: 30
+	Country: Netherlands ; Times: 6
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: Unknown ; Times: 22
+	Country: Nepal ; Times: 28
+	Country: Luxembourg ; Times: 1
+	Country: United Kingdom ; Times: 3
+	Country: Germany ; Times: 2
+	Country: Peru ; Times: 2
+	Country: Belgium ; Times: 1
+	Country: Argentina ; Times: 3
+	Country: United States ; Times: 88
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-18 ; Times: 8
+	Date: 2019-07-19 ; Times: 3
+	Date: 2019-07-08 ; Times: 13
+	Date: 2019-07-12 ; Times: 15
+	Date: 2019-07-13 ; Times: 1
+	Date: 2019-07-10 ; Times: 9
+	Date: 2019-07-11 ; Times: 7
+	Date: 2019-07-16 ; Times: 26
+	Date: 2019-07-17 ; Times: 7
+	Date: 2019-07-14 ; Times: 3
+	Date: 2019-07-15 ; Times: 5
+	Date: 2019-07-29 ; Times: 4
+	Date: 2019-07-22 ; Times: 11
+	Date: 2019-07-21 ; Times: 22
+	Date: 2019-07-02 ; Times: 12
+	Date: 2019-07-26 ; Times: 4
+	Date: 2019-07-24 ; Times: 3
+	Date: 2019-07-30 ; Times: 19
+	Date: 2019-07-03 ; Times: 4
+	Date: 2019-07-28 ; Times: 2
+	Date: 2019-07-05 ; Times: 3
+	Date: 2019-07-04 ; Times: 4
+	Date: 2019-07-07 ; Times: 8
+	Date: 2019-07-06 ; Times: 5
+	Date: 2019-07-31 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "strix nebulosa stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "genus:Homo specificepithet:sapiens" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;oregon&#34; hastissue:1" ; Times: 1
+	Query: "vntype:specimen (enhydra) institutioncode:UAM" ; Times: 1
+	Query: "(murie) institutioncode:UAM" ; Times: 2
+	Query: "107251" ; Times: 1
+	Query: "ochotona hyperborea" ; Times: 1
+	Query: "(phoca) institutioncode:UAM" ; Times: 2
+	Query: "Island AND Blunt NOT Ichthyology NOT Fisheries NOT Canada" ; Times: 1
+	Query: "catalognumber:11983" ; Times: 1
+	Query: "115894" ; Times: 1
+	Query: "catalognumber:13244" ; Times: 1
+	Query: "catalognumber:15635 institutioncode:UAM" ; Times: 1
+	Query: "catalognumber:63611" ; Times: 1
+	Query: "catalognumber:63610" ; Times: 3
+	Query: "hastissue:1 distance(location,geopoint(68.13238764624656,170.17158986059377))&lt;324252" ; Times: 1
+	Query: "catalognumber:64954" ; Times: 1
+	Query: "genus:Orcinus" ; Times: 2
+	Query: "Sus scrofa mappable:1" ; Times: 1
+	Query: "Island AND Blunt" ; Times: 1
+	Query: "genus:Poliocitellus specificepithet:franklinii" ; Times: 1
+	Query: "dall vntype:specimen institutioncode:UAM" ; Times: 1
+	Query: "catalognumber:54036" ; Times: 1
+	Query: "Bos taurus mappable:1" ; Times: 1
+	Query: "Berardius" ; Times: 2
+	Query: "genus:reithrodontomys order:rodentia class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "249821" ; Times: 2
+	Query: "W 65-52" ; Times: 1
+	Query: "monodon monoceros" ; Times: 1
+	Query: "Myotis septentrionalis mappable:1" ; Times: 2
+	Query: "107388" ; Times: 1
+	Query: "Cavia porcellus" ; Times: 2
+	Query: "mirounga angustirostris" ; Times: 1
+	Query: "mammalia vntype:specimen year &gt;= 1700 year &lt;= 1800 institutioncode:UAM" ; Times: 1
+	Query: "Collins AND Island" ; Times: 1
+	Query: "17380" ; Times: 1
+	Query: "&#34;tamiasciurus hudsonicus&#34; vntype:specimen stateprovince:&#34;Massachusetts&#34;" ; Times: 1
+	Query: "genus:Sciurus specificepithet:aberti" ; Times: 1
+	Query: "Alaska Mine" ; Times: 1
+	Query: "20059" ; Times: 1
+	Query: "77592" ; Times: 1
+	Query: "tick island" ; Times: 1
+	Query: "cjc" ; Times: 1
+	Query: "country:&#34;Canada&#34; institutioncode:UAM" ; Times: 3
+	Query: "62264" ; Times: 2
+	Query: "Poliocitellus franklinii mappable:1" ; Times: 1
+	Query: "(frozen mammuthus)" ; Times: 2
+	Query: "genus:Glaucomys specificepithet:sabrinus" ; Times: 1
+	Query: "&#34;mus musculus&#34; vntype:specimen stateprovince:&#34;Massachusetts&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "391530" ; Times: 1
+	Query: "class:mammalia county:&#34;riverside&#34; stateprovince:&#34;california&#34; institutioncode:UAM" ; Times: 2
+	Query: "(walrus) institutioncode:UAM" ; Times: 1
+	Query: "vntype:specimen (erignathus) institutioncode:UAM" ; Times: 1
+	Query: "merriam vntype:specimen institutioncode:UAM" ; Times: 1
+	Query: "Myotis leibii mappable:1" ; Times: 1
+	Query: "Island AND Blunt NOT Ichthyology NOT Fisheries NOT Canada NOT Fish" ; Times: 1
+	Query: "Berardius bairdii" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Pennsylvania&#34; country:&#34;United States&#34; hastissue:1" ; Times: 1
+	Query: "mammuthus hastissue:1" ; Times: 6
+	Query: "genus:zapus class:MAMMALIA locality:salmon" ; Times: 1
+	Query: "0453" ; Times: 1
+	Query: "class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:UAM" ; Times: 2
+	Query: "76722" ; Times: 1
+	Query: "137095" ; Times: 1
+	Query: "86476" ; Times: 1
+	Query: "scammon vntype:specimen institutioncode:UAM" ; Times: 1
+	Query: "90369" ; Times: 1
+	Query: "99109" ; Times: 1
+	Query: "bats" ; Times: 1
+	Query: "29221" ; Times: 1
+	Query: "vntype:specimen genus:Orcinus hastissue:1" ; Times: 1
+	Query: "132114" ; Times: 1
+	Query: "monodon monoceros &#34;united states&#34;" ; Times: 1
+	Query: "59041" ; Times: 1
+	Query: "Gillet" ; Times: 1
+	Query: "genus:Marmota specificepithet:monax" ; Times: 1
+	Query: "specificepithet:hoyi genus:Sorex hasmass:1 haslength:1" ; Times: 1
+	Query: "genus:Stenella specificepithet:attenuata" ; Times: 1
+	Query: "specificepithet:stejnegeri genus:Mesoplodon" ; Times: 1
+	Query: "28317" ; Times: 1
+	Query: "catalognumber:75901" ; Times: 1
+	Query: "Tamiasciurus hudsonicus vntype:specimen stateprovince:&#34;Massachusetts&#34;" ; Times: 1
+	Query: "killer whale" ; Times: 1
+	Query: "class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:UAM" ; Times: 2
+	Query: "tamiasciurus hudsonicus massachusetts" ; Times: 3
+	Query: "Island AND Blunt NOT Ichthyology" ; Times: 1
+	Query: "KU 55440" ; Times: 1
+	Query: "mammalia vntype:specimen year &gt;= 1800 year &lt;= 1835 institutioncode:UAM" ; Times: 1
+	Query: "KU 55462" ; Times: 1
+	Query: "specificepithet:monax genus:Marmota hasmedia:1" ; Times: 1
+	Query: "29240" ; Times: 3
+	Query: "12108" ; Times: 1
+	Query: "(phocidae) institutioncode:UAM" ; Times: 1
+	Query: "specificepithet:oregoni genus:Microtus hastissue:1" ; Times: 1
+	Query: "hastissue:1 distance(location,geopoint(68.13238764624656,170.17158986059377))&lt;100000" ; Times: 2
+	Query: "A.31512" ; Times: 1
+	Query: "panthera uncia" ; Times: 2
+	Query: "&#34;Lacey&#34;" ; Times: 1
+	Query: "23937" ; Times: 1
+	Query: "mammuthus primigenius" ; Times: 9
+	Query: "catalognumber:78979" ; Times: 1
+	Query: "class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:UAM" ; Times: 2
+	Query: "country:&#34;United States&#34; panthera tigris" ; Times: 1
+	Query: "28317 FISH" ; Times: 1
+	Query: "genus:Petaurista specificepithet:petaurista" ; Times: 1
+	Query: "specificepithet:stejnegeri genus:Mesoplodon hastissue:1" ; Times: 1
+	Query: "117916" ; Times: 1
+	Query: "butterfly" ; Times: 1
+	Query: "class:MAMMALIA locality:smithers country:&#34;canada&#34;" ; Times: 1
+	Query: "23148" ; Times: 1
+	Query: "genus:Vulpes hasmedia:1" ; Times: 3
+	Query: "vntype:specimen genus:vulpes hasmedia:1" ; Times: 1
+	Query: "Scheffer AND Island" ; Times: 1
+	Query: "class:Mammalia locality:Knight stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "catalognumber:15911" ; Times: 2
+	Query: "megaptera" ; Times: 1
+	Query: "geist odobenus vntype:specimen institutioncode:UAM" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Alaska&#34; country:&#34;United States&#34; hastissue:1" ; Times: 1
+	Query: "(mammuthus hair)" ; Times: 10
+	Query: "69829" ; Times: 1
+	Query: "Skulls" ; Times: 1
+	Query: "vntype:specimen (phocidae) institutioncode:UAM" ; Times: 1
+	Query: "Island AND Blunt NOT Ichthyology NOT Fisheries" ; Times: 1
+	Query: "gbifdatasetid:377be098-626f-4cc2-b4b5-35700050669a" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 28
+	Query: "mammalia vntype:specimen year &gt;= 1850 year &lt;= 1900 institutioncode:UAM" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 40 (out of 985 download events in this period)
+Total number of records downloaded: 18398
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 3
+	Country: United States ; Times: 22
+	Country: Peru ; Times: 5
+	Country: Russia ; Times: 1
+	Country: Ecuador ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-23 ; Times: 3
+	Date: 2019-07-08 ; Times: 1
+	Date: 2019-07-18 ; Times: 1
+	Date: 2019-07-20 ; Times: 5
+	Date: 2019-07-26 ; Times: 1
+	Date: 2019-07-25 ; Times: 12
+	Date: 2019-07-24 ; Times: 1
+	Date: 2019-07-12 ; Times: 1
+	Date: 2019-07-05 ; Times: 2
+	Date: 2019-07-29 ; Times: 2
+	Date: 2019-07-11 ; Times: 1
+	Date: 2019-07-30 ; Times: 2
+	Date: 2019-07-04 ; Times: 1
+	Date: 2019-07-10 ; Times: 2
+	Date: 2019-07-06 ; Times: 1
+	Date: 2019-07-31 ; Times: 1
+	Date: 2019-07-15 ; Times: 2
+	Date: 2019-07-03 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "mirounga angustirostris" ; Times: 1
+	Query: "specificepithet:mephitis genus:mephitis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "order:Rodentia hasmass:1" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 3
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "ochotona hyperborea" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1996 year &lt;= 2000" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1951 year &lt;= 1960" ; Times: 2
+	Query: "Glossophaga soricina" ; Times: 5
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1991 year &lt;= 1995" ; Times: 1
+	Query: "Desmodus rotundus" ; Times: 2
+	Query: "specificepithet:lotor genus:procyon stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "class:mammalia stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:hudsonius genus:Zapus" ; Times: 1
+	Query: "Bassariscus" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1990 year &lt;= 1995" ; Times: 1
+	Query: "specificepithet:concolor genus:puma stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "country:&#34;Russia&#34;" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1981 year &lt;= 1985" ; Times: 1
+	Query: "class:Mammalia locality:Knight stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "(walrus) institutioncode:UAM" ; Times: 2
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1961 year &lt;= 1965" ; Times: 3
+	Query: "dipodomys merriami" ; Times: 1
+	Query: "Berardius bairdii" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1800 year &lt;= 1900" ; Times: 1
+	Query: "specificepithet:oregoni genus:Microtus hastissue:1" ; Times: 1
+	Query: "Cavia porcellus" ; Times: 1
+
+
+End of report.
