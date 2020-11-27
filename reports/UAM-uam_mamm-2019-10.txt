@@ -1,0 +1,610 @@
+Report for Institution Code UAM, Resource uam_mamm
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 824
+Number of records retrieved in searches: 29645
+Number of different countries where searches have been originated: 20
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 35
+	Country: Turkey ; Times: 6
+	Country: Israel ; Times: 1
+	Country: Australia ; Times: 2
+	Country: Italy ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: Unknown ; Times: 5
+	Country: Mexico ; Times: 87
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 6
+	Country: Belgium ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Thailand ; Times: 13
+	Country: Sri Lanka ; Times: 6
+	Country: Hungary ; Times: 2
+	Country: New Zealand ; Times: 2
+	Country: United States ; Times: 647
+	Country: Russia ; Times: 1
+	Country: Brazil ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 15
+	Date: 2019-10-08 ; Times: 8
+	Date: 2019-10-21 ; Times: 12
+	Date: 2019-10-20 ; Times: 11
+	Date: 2019-10-27 ; Times: 14
+	Date: 2019-10-26 ; Times: 6
+	Date: 2019-10-25 ; Times: 11
+	Date: 2019-10-22 ; Times: 129
+	Date: 2019-10-01 ; Times: 1
+	Date: 2019-10-03 ; Times: 18
+	Date: 2019-10-02 ; Times: 9
+	Date: 2019-10-05 ; Times: 54
+	Date: 2019-10-04 ; Times: 196
+	Date: 2019-10-07 ; Times: 13
+	Date: 2019-10-06 ; Times: 1
+	Date: 2019-10-23 ; Times: 10
+	Date: 2019-10-24 ; Times: 26
+	Date: 2019-10-29 ; Times: 48
+	Date: 2019-10-18 ; Times: 23
+	Date: 2019-10-19 ; Times: 39
+	Date: 2019-10-12 ; Times: 26
+	Date: 2019-10-13 ; Times: 1
+	Date: 2019-10-10 ; Times: 15
+	Date: 2019-10-11 ; Times: 17
+	Date: 2019-10-16 ; Times: 6
+	Date: 2019-10-31 ; Times: 14
+	Date: 2019-10-14 ; Times: 11
+	Date: 2019-10-17 ; Times: 12
+	Date: 2019-10-15 ; Times: 27
+	Date: 2019-10-28 ; Times: 21
+	Date: 2019-10-30 ; Times: 30
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen genus:eumetopias (skull) haslifestage:1 hassex:1" ; Times: 2
+	Query: "1349 canis lupus" ; Times: 1
+	Query: "Microtus ochrogaster 2002" ; Times: 1
+	Query: "Microtus ochrogaster 2003" ; Times: 1
+	Query: "Microtus ochrogaster 2000" ; Times: 1
+	Query: "specificepithet:lotor genus:procyon stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "tursiops truncatus" ; Times: 8
+	Query: "54212" ; Times: 1
+	Query: "10109" ; Times: 2
+	Query: "albino specificepithet:hudsonicus genus:Tamiasciurus" ; Times: 5
+	Query: "Geomys bursarius 1998" ; Times: 1
+	Query: "specificepithet:vulpes genus:vulpes continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 2
+	Query: "T-1484" ; Times: 1
+	Query: "Geomys bursarius 1991" ; Times: 1
+	Query: "Geomys bursarius 1992" ; Times: 1
+	Query: "71340" ; Times: 1
+	Query: "uam 30602" ; Times: 2
+	Query: "spleen muscle kidney liver heart lungs" ; Times: 1
+	Query: "43878" ; Times: 1
+	Query: "Dasypus novemcinctus stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "11188" ; Times: 1
+	Query: "Reithrodontomys megalotis 2019" ; Times: 2
+	Query: "vntype:specimen specificepithet:monax genus:marmota year &gt;= 1950 year &lt;= 1975" ; Times: 1
+	Query: "Agouti paca haslength:1" ; Times: 1
+	Query: "19786" ; Times: 1
+	Query: "Lynx canadensis 2008" ; Times: 1
+	Query: "Lynx canadensis 2009" ; Times: 1
+	Query: "96152" ; Times: 2
+	Query: "specificepithet:vulpes family:Canidae (zoo) AND (NOT NHMUK)" ; Times: 1
+	Query: "Lynx canadensis 2000" ; Times: 6
+	Query: "gender" ; Times: 3
+	Query: "Lynx canadensis 2002" ; Times: 1
+	Query: "Lynx canadensis 2003" ; Times: 1
+	Query: "Lynx canadensis 2004" ; Times: 1
+	Query: "Lynx canadensis 2005" ; Times: 1
+	Query: "Lynx canadensis 2006" ; Times: 1
+	Query: "Lynx canadensis 2007" ; Times: 1
+	Query: "32783" ; Times: 1
+	Query: "catalognumber:132431" ; Times: 1
+	Query: "71718" ; Times: 1
+	Query: "Neotoma macrotis" ; Times: 5
+	Query: "71480" ; Times: 1
+	Query: "Loxodonta" ; Times: 1
+	Query: "specificepithet:vison genus:Neovison continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "68252" ; Times: 1
+	Query: "vntype:specimen specificepithet:monax genus:marmota stateprovince:&#34;alaska&#34; year &gt;= 1800 year &lt;= 2019" ; Times: 1
+	Query: "Hydrodamalis" ; Times: 2
+	Query: "rabies vulpes" ; Times: 3
+	Query: "specificepithet:dispar genus:sorex stateprovince:&#34;pennsylvania&#34;" ; Times: 1
+	Query: "Thomomys talpoides 2010" ; Times: 1
+	Query: "64055" ; Times: 1
+	Query: "Grey Wolf" ; Times: 1
+	Query: "cavia vntype:specimen preparations:skeleton" ; Times: 1
+	Query: "specificepithet:phyllotis genus:Idionycteris sex:male hassex:1" ; Times: 1
+	Query: "&#34;tamiasciurus hudsonicus&#34; vntype:specimen stateprovince:&#34;massachusetts&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "63118" ; Times: 1
+	Query: "Myotis septentrionalis 2000" ; Times: 1
+	Query: "Capra aegagrus hasmass:1" ; Times: 2
+	Query: "Zapus princeps 1979" ; Times: 1
+	Query: "Zapus princeps 1978" ; Times: 1
+	Query: "Rattus norvegicus 2008" ; Times: 1
+	Query: "Neotoma cinerea 1984" ; Times: 1
+	Query: "44016" ; Times: 1
+	Query: "M 1607" ; Times: 1
+	Query: "32998" ; Times: 1
+	Query: "platyrrhinus lineatus basisofrecord:PreservedSpecimen" ; Times: 5
+	Query: "class:Mammalia catalognumber:98520" ; Times: 1
+	Query: "33502" ; Times: 1
+	Query: "Microtus longicaudus 1994" ; Times: 1
+	Query: "Microtus longicaudus 1995" ; Times: 1
+	Query: "Microtus longicaudus 1996" ; Times: 1
+	Query: "Microtus longicaudus 1997" ; Times: 1
+	Query: "Microtus longicaudus 1990" ; Times: 1
+	Query: "Microtus longicaudus 1991" ; Times: 1
+	Query: "Microtus longicaudus 1992" ; Times: 1
+	Query: "Microtus longicaudus 1993" ; Times: 1
+	Query: "catalognumber:82531" ; Times: 1
+	Query: "catalognumber:31806" ; Times: 1
+	Query: "vntype:specimen specificepithet:mysticetus genus:Balaena preparations:skeleton basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Microtus longicaudus 1998" ; Times: 1
+	Query: "Puma concolor" ; Times: 8
+	Query: "Dipodomys ordii 2003" ; Times: 2
+	Query: "Dipodomys ordii 2002" ; Times: 2
+	Query: "erethizon dorsatum vntype:specimen preparations:skeleton" ; Times: 1
+	Query: "genus:Procyon lotor continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 9
+	Query: "Dipodomys ordii 2000" ; Times: 1
+	Query: "67534" ; Times: 1
+	Query: "Neotoma fuscipes" ; Times: 4
+	Query: "Neotoma cinerea 2019" ; Times: 3
+	Query: "Neotoma cinerea 2017" ; Times: 1
+	Query: "vntype:specimen genus:Ovibos hastissue:1" ; Times: 1
+	Query: "Neotoma cinerea 2013" ; Times: 1
+	Query: "Neotoma cinerea 2012" ; Times: 1
+	Query: "Lynx canadensis 1993" ; Times: 1
+	Query: "Lynx canadensis 1992" ; Times: 1
+	Query: "Lynx canadensis 1991" ; Times: 1
+	Query: "Lynx canadensis 1990" ; Times: 1
+	Query: "Lynx canadensis 1997" ; Times: 1
+	Query: "Sapajus apella hasmass:1" ; Times: 2
+	Query: "Lynx canadensis 1995" ; Times: 1
+	Query: "Lynx canadensis 1994" ; Times: 1
+	Query: "catalognumber:10951 institutioncode:UAM" ; Times: 2
+	Query: "Lynx canadensis 1999" ; Times: 2
+	Query: "Lynx canadensis 1998" ; Times: 1
+	Query: "63902" ; Times: 1
+	Query: "snowshoe hair" ; Times: 1
+	Query: "Canis lupus familiaris haslength:1" ; Times: 1
+	Query: "199088" ; Times: 1
+	Query: "Agouti paca hasmass:1" ; Times: 2
+	Query: "93814" ; Times: 2
+	Query: "vntype:specimen specificepithet:monax genus:marmota stateprovince:&#34;alaska&#34; year &gt;= 1800 year &lt;= 1975" ; Times: 1
+	Query: "specificepithet:phyllotis genus:Idionycteris" ; Times: 1
+	Query: "Microtus montanus 2000" ; Times: 1
+	Query: "Microtus longicaudus 1978" ; Times: 1
+	Query: "Microtus longicaudus 1979" ; Times: 1
+	Query: "Microtus montanus 2007" ; Times: 1
+	Query: "128314" ; Times: 1
+	Query: "Microtus longicaudus 1972" ; Times: 1
+	Query: "Microtus longicaudus 1973" ; Times: 1
+	Query: "Sapajus apella haslength:1" ; Times: 1
+	Query: "Thomomys talpoides 2019" ; Times: 2
+	Query: "Gulo gulo" ; Times: 8
+	Query: "52702" ; Times: 1
+	Query: "specificepithet:striatus genus:Tamias continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 8
+	Query: "50678" ; Times: 1
+	Query: "Microtus longicaudus 2016" ; Times: 8
+	Query: "Lynx canadensis 2001" ; Times: 1
+	Query: "Microtus ochrogaster 1991" ; Times: 1
+	Query: "Microtus ochrogaster 1993" ; Times: 1
+	Query: "Microtus ochrogaster 1992" ; Times: 1
+	Query: "Microtus ochrogaster 1995" ; Times: 1
+	Query: "Reithrodontomys megalotis 2000" ; Times: 2
+	Query: "Reithrodontomys megalotis 2003" ; Times: 1
+	Query: "Reithrodontomys megalotis 2002" ; Times: 2
+	Query: "specificepithet:monax genus:marmota stateprovince:&#34;alaska&#34; year &gt;= 1900 year &lt;= 1955" ; Times: 2
+	Query: "CJC 2922" ; Times: 1
+	Query: "specificepithet:lotor genus:procyon continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 4
+	Query: "Lynx canadensis 2019" ; Times: 7
+	Query: "Lynx canadensis 2018" ; Times: 1
+	Query: "specificepithet:cooperi genus:Synaptomys stateprovince:&#34;Kansas&#34;" ; Times: 4
+	Query: "Lynx canadensis 2013" ; Times: 1
+	Query: "Lynx canadensis 2012" ; Times: 1
+	Query: "Lynx canadensis 2011" ; Times: 1
+	Query: "Lynx canadensis 2010" ; Times: 1
+	Query: "Lynx canadensis 2017" ; Times: 1
+	Query: "Lynx canadensis 2016" ; Times: 1
+	Query: "genus:Neovison continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 18
+	Query: "Hydrodamalis gigas" ; Times: 19
+	Query: "Lontra canadensis" ; Times: 1
+	Query: "monster" ; Times: 1
+	Query: "Thomomys talpoides 1992" ; Times: 1
+	Query: "Thomomys talpoides 1995" ; Times: 1
+	Query: "genus:Lynx rufus continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 4
+	Query: "specificepithet:pennanti genus:martes country:&#34;Canada&#34;" ; Times: 1
+	Query: "Myotis septentrionalis 2003" ; Times: 1
+	Query: "R-21808" ; Times: 2
+	Query: "rabia" ; Times: 2
+	Query: "63905" ; Times: 1
+	Query: "37120" ; Times: 1
+	Query: "preparations:skeleton (Pusa hispida)" ; Times: 1
+	Query: "Lynx canadensis 1996" ; Times: 1
+	Query: "Geomys bursarius 2003" ; Times: 1
+	Query: "Geomys bursarius 2002" ; Times: 1
+	Query: "Geomys bursarius 2000" ; Times: 1
+	Query: "gray fox" ; Times: 13
+	Query: "specificepithet:virginiana genus:Didelphis continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 4
+	Query: "romana Talpa" ; Times: 1
+	Query: "specificepithet:hoyi genus:Sorex hasmass:1 haslength:1" ; Times: 1
+	Query: "ursus maritimus" ; Times: 2
+	Query: "UAM 17807" ; Times: 2
+	Query: "grizzly bear" ; Times: 2
+	Query: "Marmota vancouverensis mappable:1" ; Times: 6
+	Query: "bison priscus" ; Times: 1
+	Query: "52627" ; Times: 1
+	Query: "preparations:skeleton (Phoca vitulina)" ; Times: 1
+	Query: "*Urocitellus columbianus" ; Times: 2
+	Query: "Microtus longicaudus 2007" ; Times: 1
+	Query: "Microtus longicaudus 2006" ; Times: 1
+	Query: "Microtus longicaudus 2005" ; Times: 3
+	Query: "Microtus longicaudus 2004" ; Times: 1
+	Query: "Microtus longicaudus 2003" ; Times: 3
+	Query: "Microtus longicaudus 2002" ; Times: 2
+	Query: "Microtus longicaudus 2001" ; Times: 1
+	Query: "Microtus longicaudus 2000" ; Times: 2
+	Query: "Microtus longicaudus 2009" ; Times: 1
+	Query: "Microtus longicaudus 2008" ; Times: 1
+	Query: "Lynx canadensis 1979" ; Times: 1
+	Query: "Lynx canadensis 1978" ; Times: 1
+	Query: "chamaemorus Rubus" ; Times: 1
+	Query: "Onychomys leucogaster 2003" ; Times: 1
+	Query: "Lynx canadensis 1974" ; Times: 1
+	Query: "28676" ; Times: 1
+	Query: "Onychomys leucogaster 2000" ; Times: 1
+	Query: "10492" ; Times: 2
+	Query: "Lynx canadensis 1973" ; Times: 1
+	Query: "Lynx canadensis 1972" ; Times: 1
+	Query: "Neotoma cinerea 1996" ; Times: 1
+	Query: "donkey" ; Times: 2
+	Query: "Neotoma cinerea 1994" ; Times: 1
+	Query: "Neotoma cinerea 1993" ; Times: 1
+	Query: "Myotis septentrionalis 2019" ; Times: 1
+	Query: "specificepithet:monax genus:marmota year &gt;= 1850 year &lt;= 1950" ; Times: 2
+	Query: "specificepithet:monax genus:Marmota year &gt;= 1850 year &lt;= 1900" ; Times: 1
+	Query: "Neotoma cinerea 1999" ; Times: 1
+	Query: "12619" ; Times: 2
+	Query: "128383" ; Times: 1
+	Query: "catalognumber:98520" ; Times: 1
+	Query: "uam 24464" ; Times: 2
+	Query: "51716" ; Times: 1
+	Query: "UAM 19419" ; Times: 2
+	Query: "Rattus norvegicus 1984" ; Times: 1
+	Query: "Rattus norvegicus 1986" ; Times: 1
+	Query: "Neotoma mexicana 2000" ; Times: 1
+	Query: "Neotoma mexicana 2003" ; Times: 1
+	Query: "13267" ; Times: 3
+	Query: "67214" ; Times: 3
+	Query: "UAM 20162" ; Times: 2
+	Query: "Microtus montanus 1996" ; Times: 1
+	Query: "Microtus montanus 1995" ; Times: 1
+	Query: "Microtus montanus 1992" ; Times: 1
+	Query: "12953" ; Times: 1
+	Query: "mctaggart cowan" ; Times: 2
+	Query: "specificepithet:monax genus:marmota year &gt;= 1900 year &lt;= 1950" ; Times: 1
+	Query: "Dipodomys ordii 2013" ; Times: 1
+	Query: "Tick Island" ; Times: 2
+	Query: "UAM 25196" ; Times: 2
+	Query: "(5000) institutioncode:UAM" ; Times: 2
+	Query: "Microtus longicaudus 1984" ; Times: 3
+	Query: "specificepithet:trowbridgii genus:sorex year &gt;= 1800 year &lt;= 1895" ; Times: 1
+	Query: "uam 21930" ; Times: 2
+	Query: "institutioncode:UAM catalognumber:32824" ; Times: 1
+	Query: "Ursus maritimus" ; Times: 1
+	Query: "stateprovince:&#34;alaska&#34; catalognumber:82531" ; Times: 1
+	Query: "39463" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 12
+	Query: "specificepithet:fumeus genus:Sorex stateprovince:&#34;pennsylvania&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Rattus norvegicus 2009" ; Times: 1
+	Query: "Rattus norvegicus 2004" ; Times: 1
+	Query: "Rattus norvegicus 2005" ; Times: 1
+	Query: "Rattus norvegicus 2006" ; Times: 1
+	Query: "Rattus norvegicus 2007" ; Times: 1
+	Query: "Rattus norvegicus 2000" ; Times: 1
+	Query: "Rattus norvegicus 2002" ; Times: 1
+	Query: "Rattus norvegicus 2003" ; Times: 1
+	Query: "128373" ; Times: 1
+	Query: "Myotis septentrionalis 1999" ; Times: 1
+	Query: "23763" ; Times: 1
+	Query: "62920" ; Times: 1
+	Query: "specificepithet:monax genus:Marmota stateprovince:&#34;Alaska&#34;" ; Times: 8
+	Query: "Mirounga angustirostris" ; Times: 26
+	Query: "curly tail" ; Times: 1
+	Query: "601025" ; Times: 1
+	Query: "catalognumber:2482" ; Times: 2
+	Query: "50567" ; Times: 1
+	Query: "Tursiops truncatus" ; Times: 18
+	Query: "104766" ; Times: 1
+	Query: "specificepithet:phyllotis genus:Idionycteris year &gt;= 1990 year &lt;= 1999" ; Times: 1
+	Query: "Torpedo torpedo" ; Times: 2
+	Query: "32887" ; Times: 1
+	Query: "Marmota vancouverensis" ; Times: 1
+	Query: "69978" ; Times: 1
+	Query: "Mus musculus 1982" ; Times: 2
+	Query: "vntype:specimen specificepithet:monax genus:marmota continent:North America year &gt;= 1900 year &lt;= 1950" ; Times: 1
+	Query: "preparations:skeleton (Neophoca cinerea)" ; Times: 1
+	Query: "Mus musculus 1984" ; Times: 4
+	Query: "Zapus princeps 1977" ; Times: 1
+	Query: "valley river canis lupus" ; Times: 1
+	Query: "preparations:skeleton (Phoca largha)" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 4
+	Query: "276516" ; Times: 2
+	Query: "balaena mysticetus" ; Times: 6
+	Query: "UAM 27352" ; Times: 2
+	Query: "Mus musculus 2007" ; Times: 2
+	Query: "Mus musculus 2006" ; Times: 2
+	Query: "Mus musculus 2005" ; Times: 2
+	Query: "Mus musculus 2004" ; Times: 2
+	Query: "Mus musculus 2003" ; Times: 6
+	Query: "Mus musculus 2002" ; Times: 4
+	Query: "Mus musculus 2001" ; Times: 2
+	Query: "Mus musculus 2000" ; Times: 8
+	Query: "40047" ; Times: 1
+	Query: "Mus musculus 2008" ; Times: 2
+	Query: "Lynx canadensis 1975" ; Times: 1
+	Query: "order:Rodentia (Espinhaço OR Mountain top)" ; Times: 1
+	Query: "Lynx canadensis 1977" ; Times: 1
+	Query: "11893" ; Times: 3
+	Query: "Lynx canadensis 1976" ; Times: 1
+	Query: "catalognumber:1459" ; Times: 1
+	Query: "Reithrodontomys megalotis 1998" ; Times: 1
+	Query: "Reithrodontomys megalotis 1994" ; Times: 1
+	Query: "CM peromyscus" ; Times: 1
+	Query: "uliginosum Vaccinium" ; Times: 1
+	Query: "52702 mammal" ; Times: 1
+	Query: "Thomomys talpoides 1984" ; Times: 1
+	Query: "Neotoma cinerea 1995" ; Times: 1
+	Query: "Zapus princeps 2013" ; Times: 1
+	Query: "Synaptomys borealis" ; Times: 1
+	Query: "Canis lupus familiaris hasmass:1" ; Times: 2
+	Query: "Zapus princeps 2019" ; Times: 4
+	Query: "Microtus montanus 2003" ; Times: 2
+	Query: "reindeer" ; Times: 1
+	Query: "Castor canadensis alaska" ; Times: 1
+	Query: "marmot" ; Times: 3
+	Query: "66686" ; Times: 1
+	Query: "ovibos" ; Times: 1
+	Query: "catalognumber:91476" ; Times: 1
+	Query: "17684" ; Times: 1
+	Query: "rabies positive" ; Times: 2
+	Query: "Neotoma cinerea 2003" ; Times: 1
+	Query: "Geomys bursarius 2019" ; Times: 3
+	Query: "homo sapiens" ; Times: 1
+	Query: "cats" ; Times: 1
+	Query: "gray wolf" ; Times: 1
+	Query: "Orcinus orca" ; Times: 1
+	Query: "recordedby:Brewer" ; Times: 1
+	Query: "Dipodomys ordii 1998" ; Times: 1
+	Query: "Balaena mysticetus" ; Times: 1
+	Query: "Zapus princeps 1996" ; Times: 1
+	Query: "Zapus princeps 1995" ; Times: 1
+	Query: "Zapus princeps 1994" ; Times: 1
+	Query: "Zapus princeps 1993" ; Times: 1
+	Query: "Zapus princeps 1992" ; Times: 1
+	Query: "Zapus princeps 1991" ; Times: 1
+	Query: "Zapus princeps 1990" ; Times: 1
+	Query: "aphis" ; Times: 1
+	Query: "Microtus longicaudus 2011" ; Times: 1
+	Query: "Microtus longicaudus 2013" ; Times: 1
+	Query: "Microtus longicaudus 2014" ; Times: 1
+	Query: "Thomomys talpoides 2012" ; Times: 1
+	Query: "Zapus princeps 1999" ; Times: 1
+	Query: "Zapus princeps 1998" ; Times: 1
+	Query: "Myotis septentrionalis 2004" ; Times: 1
+	Query: "Microtus longicaudus 2017" ; Times: 3
+	Query: "Microtus ochrogaster 2019" ; Times: 2
+	Query: "Myotis septentrionalis 2002" ; Times: 1
+	Query: "dasypus novemcinctus" ; Times: 2
+	Query: "UAM 7794" ; Times: 1
+	Query: "UAM 7792" ; Times: 2
+	Query: "UAM 7793" ; Times: 2
+	Query: "preparations:skeleton (Histriophoca fasciata)" ; Times: 1
+	Query: "Rattus norvegicus 1999" ; Times: 1
+	Query: "Rattus norvegicus 1997" ; Times: 1
+	Query: "Rattus norvegicus 1996" ; Times: 1
+	Query: "Rattus norvegicus 1995" ; Times: 1
+	Query: "Rattus norvegicus 1994" ; Times: 1
+	Query: "Rattus norvegicus 1993" ; Times: 1
+	Query: "Rattus norvegicus 1991" ; Times: 1
+	Query: "skin specificepithet:latrans genus:Canis hastissue:1" ; Times: 2
+	Query: "arcticus minnesota" ; Times: 1
+	Query: "UAM 7422" ; Times: 3
+	Query: "catalognumber:12077" ; Times: 1
+	Query: "Thomomys talpoides 2000" ; Times: 1
+	Query: "UAM 15399" ; Times: 2
+	Query: "specificepithet:vulpes vulpes genus:vulpes hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "preparations:skeleton (Mirounga angustirostris)" ; Times: 1
+	Query: "specificepithet:americana genus:martes stateprovince:&#34;oregon&#34; preparations:skull" ; Times: 1
+	Query: "ziphius" ; Times: 1
+	Query: "Castor canadensis alaska dalton" ; Times: 1
+	Query: "Gray Wolf" ; Times: 2
+	Query: "Capra aegagrus haslength:1" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 2
+	Query: "genus:sciurus carolinensis family:sciuridae continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 2
+	Query: "preparations:skeleton (Lynx canadensis)" ; Times: 1
+	Query: "Idionycteris phyllotis" ; Times: 1
+	Query: "UAM 7871" ; Times: 2
+	Query: "Rattus norvegicus 2019" ; Times: 2
+	Query: "Rattus norvegicus 2013" ; Times: 1
+	Query: "Rattus norvegicus 2011" ; Times: 1
+	Query: "Rattus norvegicus 2010" ; Times: 1
+	Query: "15983" ; Times: 1
+	Query: "marmota monax vntype:specimen preparations:skeleton" ; Times: 1
+	Query: "Erethizon preparations:skeleton" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:Dasypus" ; Times: 3
+	Query: "mummy" ; Times: 2
+	Query: "tick island" ; Times: 2
+	Query: "UAM 17862" ; Times: 2
+	Query: "UAM 17863" ; Times: 1
+	Query: "103914" ; Times: 1
+	Query: "Mus musculus 1994" ; Times: 2
+	Query: "Mus musculus 1995" ; Times: 2
+	Query: "Mus musculus 1996" ; Times: 2
+	Query: "Zapus princeps 1976" ; Times: 1
+	Query: "Mus musculus 1991" ; Times: 2
+	Query: "Mus musculus 1992" ; Times: 2
+	Query: "Mus musculus 1998" ; Times: 2
+	Query: "Mus musculus 1999" ; Times: 4
+	Query: "grey wolf" ; Times: 2
+	Query: "vntype:specimen specificepithet:priscus genus:bison hastissue:1" ; Times: 2
+	Query: "stateprovince:&#34;alaska&#34; catalognumber:75935" ; Times: 1
+	Query: "Stenella coeruleoalba" ; Times: 1
+	Query: "vntype:specimen specificepithet:monax genus:marmota stateprovince:&#34;alaska&#34; year &gt;= 1800 year &lt;= 2000" ; Times: 1
+	Query: "Mus musculus 2019" ; Times: 3
+	Query: "120011" ; Times: 1
+	Query: "Mus musculus 2012" ; Times: 2
+	Query: "Mus musculus 2014" ; Times: 1
+	Query: "chrotopterus auritus" ; Times: 1
+	Query: "bats" ; Times: 2
+	Query: "kogia breviceps" ; Times: 21
+	Query: "Lasionycteris noctivagans" ; Times: 2
+	Query: "11817" ; Times: 1
+	Query: "18509" ; Times: 1
+	Query: "Martes zibellina" ; Times: 1
+	Query: "marten" ; Times: 1
+	Query: "Microtus longicaudus 1983" ; Times: 1
+	Query: "Microtus longicaudus 1982" ; Times: 1
+	Query: "Microtus longicaudus 1981" ; Times: 1
+	Query: "Microtus longicaudus 1980" ; Times: 1
+	Query: "kerivoula" ; Times: 1
+	Query: "Microtus longicaudus 1989" ; Times: 1
+	Query: "110218" ; Times: 1
+	Query: "Zapus princeps 2000" ; Times: 1
+	Query: "Zapus princeps 2002" ; Times: 2
+	Query: "specificepithet:monax genus:marmota stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "Zapus princeps 2004" ; Times: 1
+	Query: "Zapus princeps 2005" ; Times: 1
+	Query: "Zapus princeps 2007" ; Times: 1
+	Query: "specificepithet:vulpes family:Canidae (zoo)" ; Times: 1
+	Query: "Neotoma cinerea 2008" ; Times: 1
+	Query: "131983" ; Times: 1
+	Query: "Neotoma cinerea 2004" ; Times: 1
+	Query: "skin specificepithet:latrans genus:Canis" ; Times: 1
+	Query: "Neotoma cinerea 2006" ; Times: 1
+	Query: "Neotoma cinerea 2000" ; Times: 1
+	Query: "Neotoma cinerea 2002" ; Times: 1
+	Query: "52049" ; Times: 1
+	Query: "Lynx canadensis 1980" ; Times: 1
+	Query: "Lynx canadensis 1981" ; Times: 1
+	Query: "Lynx canadensis 1982" ; Times: 1
+	Query: "Lynx canadensis 1983" ; Times: 1
+	Query: "Lynx canadensis 1984" ; Times: 1
+	Query: "Lynx canadensis 1985" ; Times: 1
+	Query: "Lynx canadensis 1987" ; Times: 1
+	Query: "Lynx canadensis 1988" ; Times: 1
+	Query: "Lynx canadensis 1989" ; Times: 1
+	Query: "Zapus princeps 2003" ; Times: 1
+	Query: "family:Vespertilionidae order:Chiroptera stateprovince:&#34;Wisconsin&#34; country:&#34;United States&#34; year &gt;= 1950 year &lt;= 2011" ; Times: 1
+	Query: "Neotoma mexicana 1999" ; Times: 1
+	Query: "186599" ; Times: 1
+	Query: "109732" ; Times: 1
+	Query: "70531" ; Times: 1
+	Query: "19803" ; Times: 1
+	Query: "genus:Cervus hastissue:1" ; Times: 1
+	Query: "135675" ; Times: 1
+	Query: "Zapus princeps 1980" ; Times: 1
+	Query: "specificepithet:americana genus:martes country:&#34;Canada&#34; continent:North America preparations:skull AND (NOT MSB)" ; Times: 1
+	Query: "rabies" ; Times: 5
+	Query: "Kogia" ; Times: 1
+	Query: "catalognumber:16172" ; Times: 1
+	Query: "equus" ; Times: 1
+	Query: "specificepithet:montanus genus:Reithrodontomys year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "M 278693" ; Times: 1
+	Query: "H 6378-16" ; Times: 1
+	Query: "70530" ; Times: 1
+	Query: "Zapus princeps 1987" ; Times: 1
+	Query: "vntype:specimen (DRD) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Zapus princeps 1981" ; Times: 1
+	Query: "Zapus princeps 1982" ; Times: 1
+	Query: "Zapus princeps 1983" ; Times: 1
+	Query: "Microtus montanus 2019" ; Times: 4
+	Query: "Zapus princeps 1988" ; Times: 1
+	Query: "Zapus princeps 1989" ; Times: 1
+	Query: "Thomomys talpoides 2002" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 64 (out of 1308 download events in this period)
+Total number of records downloaded: 6821
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 38
+	Country: Canada ; Times: 4
+	Country: Mexico ; Times: 22
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 1
+	Date: 2019-10-08 ; Times: 3
+	Date: 2019-10-21 ; Times: 2
+	Date: 2019-10-02 ; Times: 1
+	Date: 2019-10-25 ; Times: 1
+	Date: 2019-10-24 ; Times: 1
+	Date: 2019-10-01 ; Times: 1
+	Date: 2019-10-03 ; Times: 2
+	Date: 2019-10-11 ; Times: 4
+	Date: 2019-10-30 ; Times: 5
+	Date: 2019-10-17 ; Times: 1
+	Date: 2019-10-07 ; Times: 3
+	Date: 2019-10-04 ; Times: 5
+	Date: 2019-10-22 ; Times: 1
+	Date: 2019-10-23 ; Times: 16
+	Date: 2019-10-14 ; Times: 3
+	Date: 2019-10-18 ; Times: 2
+	Date: 2019-10-29 ; Times: 2
+	Date: 2019-10-15 ; Times: 1
+	Date: 2019-10-10 ; Times: 1
+	Date: 2019-10-31 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "Sus scrofa preparations:skeleton" ; Times: 1
+	Query: "Leptonycteris" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "specificepithet:lotor genus:procyon stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "continent:australia" ; Times: 1
+	Query: "marmota monax vntype:specimen preparations:skeleton" ; Times: 1
+	Query: "macrotus" ; Times: 1
+	Query: "Erethizon preparations:skeleton" ; Times: 1
+	Query: "Canis lupus Linnaeus" ; Times: 1
+	Query: "Puma concolor" ; Times: 3
+	Query: "family:soricidae" ; Times: 1
+	Query: "genus:ochotona year&gt;=1976 year&lt;=1986" ; Times: 1
+	Query: "specificepithet:cooperi genus:Synaptomys stateprovince:&#34;Kansas&#34;" ; Times: 3
+	Query: "sorex ornatus" ; Times: 1
+	Query: "specificepithet:pallidus genus:Antrozous stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "genus:Myotis country:&#34;Mexico&#34;" ; Times: 1
+	Query: "chrotopterus auritus" ; Times: 1
+	Query: "specificepithet:californicus genus:Macrotus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Macrotus californicus" ; Times: 1
+	Query: "family:Heteromyidae hasmass:1" ; Times: 1
+	Query: "specificepithet:phyllotis genus:Idionycteris" ; Times: 3
+	Query: "puma concolor" ; Times: 10
+	Query: "Hydrodamalis gigas" ; Times: 1
+	Query: "specificepithet:merriami genus:dipodomys stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:longicaudus genus:Microtus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Hydrodamalis" ; Times: 3
+	Query: "erethizon dorsatum vntype:specimen preparations:skeleton" ; Times: 1
+	Query: "Dasypus novemcinctus stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "specificepithet:longimembris genus:Perognathus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "cavia vntype:specimen preparations:skeleton" ; Times: 1
+	Query: "family:Geomyidae hasmass:1" ; Times: 1
+	Query: "specificepithet:lateralis genus:Callospermophilus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "*Urocitellus columbianus" ; Times: 1
+	Query: "Idionycteris phyllotis" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "Bassariscus astutus" ; Times: 1
+	Query: "specificepithet:agilis genus:dipodomys stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Myotis family:Vespertilionidae order:Chiroptera country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Lasiurus hastissue:1" ; Times: 1
+	Query: "family:Vespertilionidae stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Synaptomys cooperi" ; Times: 1
+	Query: "order:Rodentia county:&#34;Buncombe&#34; OR &#34;Ashe&#34; OR &#34;Watauga&#34; OR &#34;Caldwell&#34; OR &#34;Burke&#34; OR &#34;Avery&#34; OR &#34;Madison&#34; OR &#34;Polk&#34; OR &#34;Henderson&#34; OR &#34;Transylvania&#34; OR &#34;Jackson&#34; OR &#34;Macon&#34; OR &#34;Clay&#34; OR &#34;Cherokee&#34; OR &#34;Graham&#34; OR &#34;Swain&#34; OR &#34;Haywood&#34; OR &#34;Mitchell&#34; OR &#34;Yancey&#34; stateprovince:&#34;North Carolina&#34;" ; Times: 2
+	Query: "genus:Cryptotis country:&#34;United States&#34;" ; Times: 1
+	Query: "Puma Concolor" ; Times: 1
+
+
+End of report.
