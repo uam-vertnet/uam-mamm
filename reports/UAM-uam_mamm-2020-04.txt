@@ -1,0 +1,436 @@
+Report for Institution Code UAM, Resource uam_mamm
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 499
+Number of records retrieved in searches: 13760
+Number of different countries where searches have been originated: 21
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 18
+	Country: United States ; Times: 236
+	Country: Australia ; Times: 1
+	Country: Iran ; Times: 1
+	Country: Ireland ; Times: 4
+	Country: Singapore ; Times: 3
+	Country: Denmark ; Times: 3
+	Country: Philippines ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: India ; Times: 4
+	Country: Peru ; Times: 2
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 190
+	Country: Austria ; Times: 15
+	Country: Germany ; Times: 3
+	Country: Colombia ; Times: 2
+	Country: Unknown ; Times: 4
+	Country: Paraguay ; Times: 5
+	Country: Brazil ; Times: 1
+	Country: Brunei ; Times: 1
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-21 ; Times: 86
+	Date: 2020-04-04 ; Times: 1
+	Date: 2020-04-05 ; Times: 6
+	Date: 2020-04-06 ; Times: 21
+	Date: 2020-04-22 ; Times: 7
+	Date: 2020-04-23 ; Times: 24
+	Date: 2020-04-20 ; Times: 5
+	Date: 2020-04-07 ; Times: 76
+	Date: 2020-04-26 ; Times: 1
+	Date: 2020-04-01 ; Times: 33
+	Date: 2020-04-24 ; Times: 4
+	Date: 2020-04-25 ; Times: 1
+	Date: 2020-04-28 ; Times: 11
+	Date: 2020-04-29 ; Times: 15
+	Date: 2020-04-08 ; Times: 57
+	Date: 2020-04-09 ; Times: 9
+	Date: 2020-04-27 ; Times: 11
+	Date: 2020-04-02 ; Times: 2
+	Date: 2020-04-03 ; Times: 28
+	Date: 2020-04-19 ; Times: 10
+	Date: 2020-04-18 ; Times: 4
+	Date: 2020-04-13 ; Times: 15
+	Date: 2020-04-12 ; Times: 2
+	Date: 2020-04-11 ; Times: 1
+	Date: 2020-04-17 ; Times: 15
+	Date: 2020-04-16 ; Times: 19
+	Date: 2020-04-15 ; Times: 22
+	Date: 2020-04-14 ; Times: 4
+	Date: 2020-04-30 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "Ovis aries" ; Times: 10
+	Query: "23208" ; Times: 1
+	Query: "Tursiops aduncus" ; Times: 3
+	Query: "27883" ; Times: 1
+	Query: "(71462) institutioncode:UAM" ; Times: 1
+	Query: "sorex minutissimus" ; Times: 1
+	Query: "rodent" ; Times: 1
+	Query: "(23930) institutioncode:UAM" ; Times: 2
+	Query: "38543" ; Times: 1
+	Query: "vntype:specimen specificepithet:norvegicus genus:Rattus country:&#34;United States&#34; haslength:1" ; Times: 1
+	Query: "26823" ; Times: 3
+	Query: "26821" ; Times: 2
+	Query: "specificepithet:meles genus:meles haslength:1" ; Times: 1
+	Query: "North Midden" ; Times: 1
+	Query: "wolverine" ; Times: 2
+	Query: "Microtus longicaudus stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "100852" ; Times: 2
+	Query: "280600" ; Times: 1
+	Query: "specificepithet:columbianus genus:Urocitellus hasmass:1" ; Times: 1
+	Query: "Dermoptera" ; Times: 1
+	Query: "specificepithet:macrotis genus:Vulpes stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "(50303) institutioncode:UAM" ; Times: 1
+	Query: "Thymallus thymallus" ; Times: 7
+	Query: "23472" ; Times: 1
+	Query: "280599" ; Times: 1
+	Query: "(26682) institutioncode:UAM" ; Times: 1
+	Query: "Mustela erminea" ; Times: 4
+	Query: "genus:Peromyscus stateprovince:&#34;Pennsylvania&#34;" ; Times: 2
+	Query: "Rousettus aegyptiacus" ; Times: 6
+	Query: "Mirounga NOT Australia NOT California NOT Oregon NOT Zealand" ; Times: 2
+	Query: "(50297) institutioncode:UAM" ; Times: 1
+	Query: "(23928) institutioncode:UAM" ; Times: 1
+	Query: "Mirounga angustirostris" ; Times: 1
+	Query: "genus:Erethizon hasmass:1" ; Times: 1
+	Query: "Meles meles" ; Times: 4
+	Query: "Tursiops truncatus" ; Times: 1
+	Query: "(68414) institutioncode:UAM" ; Times: 2
+	Query: "specificepithet:caecutiens genus:Sorex preparations:skin" ; Times: 1
+	Query: "Rodent" ; Times: 1
+	Query: "EAR-10318" ; Times: 1
+	Query: "dade county georgia" ; Times: 2
+	Query: "Sapajus apella" ; Times: 11
+	Query: "specificepithet:armatus genus:Urocitellus hasmass:1 haslength:1" ; Times: 1
+	Query: "urocitellus columbianus" ; Times: 1
+	Query: "specificepithet:norvegicus genus:Rattus haslifestage:1 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Cabassous" ; Times: 1
+	Query: "(50295) institutioncode:UAM" ; Times: 1
+	Query: "Myodes glareolus" ; Times: 2
+	Query: "(51024) institutioncode:UAM" ; Times: 1
+	Query: "(18647)" ; Times: 2
+	Query: "specificepithet:undulatus genus:Urocitellus haslength:1" ; Times: 3
+	Query: "Rattus norvegicus" ; Times: 1
+	Query: "genus:tamias stateprovince:&#34;ohio&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:variegatus genus:Cynocephalus" ; Times: 1
+	Query: "(23551) institutioncode:UAM" ; Times: 1
+	Query: "genus:Artibeus specificepithet:lituratus country:(Peru OR ecuador OR paraguay)" ; Times: 1
+	Query: "22916" ; Times: 1
+	Query: "Microtus agrestis" ; Times: 2
+	Query: "skulls" ; Times: 1
+	Query: "(10009)" ; Times: 1
+	Query: "specificepithet:franklinii genus:poliocitellus haslength:1" ; Times: 3
+	Query: "Sciurus carolinensis" ; Times: 3
+	Query: "specificepithet:franklinii genus:Poliocitellus haslength:1" ; Times: 1
+	Query: "mummy" ; Times: 2
+	Query: "specificepithet:lituratus genus:Artibeus country:(paraguay OR peru OR ecuador)" ; Times: 1
+	Query: "102423" ; Times: 1
+	Query: "Rangifer tarandus" ; Times: 3
+	Query: "(71046) institutioncode:UAM" ; Times: 1
+	Query: "specificepithet:canadensis genus:lontra haslength:1" ; Times: 2
+	Query: "Axis axis" ; Times: 2
+	Query: "(18677)" ; Times: 1
+	Query: "vntype:specimen specificepithet:norvegicus genus:Rattus stateprovince:&#34;Alaska&#34; country:&#34;United States&#34; lifestage:Adult hassex:1 haslength:1" ; Times: 1
+	Query: "locality:unknown stateprovince:&#34;alaska&#34;" ; Times: 14
+	Query: "specificepithet:variegatus genus:Cynocephalus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "(23926) institutioncode:UAM" ; Times: 1
+	Query: "catalognumber:7347" ; Times: 1
+	Query: "monster" ; Times: 2
+	Query: "specificepithet:beldingi genus:Urocitellus haslength:1" ; Times: 3
+	Query: "Ovis dalli" ; Times: 4
+	Query: "genus:Sturnira specificepithet:lilium" ; Times: 2
+	Query: "specificepithet:armatus genus:Urocitellus hasmass:1" ; Times: 1
+	Query: "specificepithet:parryii genus:Urocitellus haslength:1" ; Times: 6
+	Query: "vntype:specimen family:Cynocephalidae" ; Times: 1
+	Query: "EAR 10910" ; Times: 2
+	Query: "217429" ; Times: 1
+	Query: "class:mammalia recordedby:stephenson" ; Times: 1
+	Query: "18103" ; Times: 2
+	Query: "13890" ; Times: 2
+	Query: "EAR 10409" ; Times: 2
+	Query: "vntype:specimen specificepithet:norvegicus genus:Rattus hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Homo sapiens" ; Times: 12
+	Query: "(71045) institutioncode:UAM" ; Times: 1
+	Query: "mammal skulls" ; Times: 1
+	Query: "specificepithet:columbianus genus:Urocitellus hasmass:1 haslength:1" ; Times: 1
+	Query: "(71464) institutioncode:UAM" ; Times: 1
+	Query: "(922552)" ; Times: 1
+	Query: "Cynomys ludovicianus" ; Times: 4
+	Query: "111653" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 3
+	Query: "SVOBODA order:CHIROPTERA" ; Times: 2
+	Query: "stateprovince:&#34;alaska&#34; catalognumber:14737" ; Times: 1
+	Query: "specificepithet:leucurus genus:ammospermophilus county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:UAM" ; Times: 1
+	Query: "catalognumber:85549" ; Times: 1
+	Query: "12876" ; Times: 1
+	Query: "40612" ; Times: 1
+	Query: "Mirounga NOT Australia NOT California" ; Times: 1
+	Query: "EAR 10914" ; Times: 1
+	Query: "Cervus elaphus" ; Times: 4
+	Query: "Sorex palustris vntype:specimen hasmedia:1" ; Times: 1
+	Query: "(50296) institutioncode:UAM" ; Times: 1
+	Query: "(51020) institutioncode:UAM" ; Times: 1
+	Query: "90115" ; Times: 1
+	Query: "Sorex palustris basisofrecord:PreservedSpecimen haslifestage:1 hassex:1 hasmass:1 haslength:1" ; Times: 2
+	Query: "(23531) institutioncode:UAM" ; Times: 2
+	Query: "26816" ; Times: 3
+	Query: "specificepithet:armatus genus:Urocitellus haslength:1" ; Times: 3
+	Query: "bats" ; Times: 1
+	Query: "vole toolik" ; Times: 2
+	Query: "36220" ; Times: 2
+	Query: "genus:Carollia specificepithet:perspicillata country:(paraguay OR argentina OR ecuador OR columbia OR peru)" ; Times: 1
+	Query: "lutra lutra" ; Times: 2
+	Query: "Neotoma lepida" ; Times: 3
+	Query: "EAR-10194" ; Times: 1
+	Query: "(23591) institutioncode:UAM" ; Times: 1
+	Query: "Sus scrofa" ; Times: 6
+	Query: "Sorex palustris basisofrecord:PreservedSpecimen haslength:1" ; Times: 2
+	Query: "EAR-10193" ; Times: 2
+	Query: "EAR-10192" ; Times: 2
+	Query: "122876" ; Times: 1
+	Query: "84344" ; Times: 1
+	Query: "genus:Erethizon haslength:1" ; Times: 1
+	Query: "(50294) institutioncode:UAM" ; Times: 1
+	Query: "Mirounga NOT Australia" ; Times: 1
+	Query: "catalognumber:26300" ; Times: 1
+	Query: "(23927) institutioncode:UAM" ; Times: 1
+	Query: "baranof amk stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "41044" ; Times: 2
+	Query: "specificepithet:beldingi genus:Urocitellus hasmass:1" ; Times: 1
+	Query: "Equus caballus" ; Times: 2
+	Query: "vntype:specimen family:Camelidae" ; Times: 2
+	Query: "Odocoileus hemionus" ; Times: 3
+	Query: "Bos taurus" ; Times: 3
+	Query: "(71463) institutioncode:UAM" ; Times: 1
+	Query: "36314" ; Times: 1
+	Query: "genus:Platyrrhinus specificepithet:lineatus" ; Times: 2
+	Query: "vntype:specimen (frog) hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Capra aegagrus mappable:1" ; Times: 1
+	Query: "Alces alces" ; Times: 3
+	Query: "Apodemus agrarius" ; Times: 4
+	Query: "genus:Carollia specificepithet:perspicillata country:(paraguay OR argentina OR ecuador OR columbia)" ; Times: 1
+	Query: "specificepithet:richardsonii genus:Urocitellus haslength:1" ; Times: 3
+	Query: "mastodon" ; Times: 5
+	Query: "Cercopithecus mitis" ; Times: 4
+	Query: "catalognumber:104128 institutioncode:UAM" ; Times: 1
+	Query: "Balaenoptera physalus" ; Times: 1
+	Query: "EAR 11212" ; Times: 1
+	Query: "genus:Carollia specificepithet:perspicillata country:(paraguay OR argentina OR ecuador OR peru)" ; Times: 1
+	Query: "Thymallus arcticus" ; Times: 7
+	Query: "specificepithet:monax genus:Marmota hastissue:1" ; Times: 1
+	Query: "(50298) institutioncode:UAM" ; Times: 2
+	Query: "101040" ; Times: 1
+	Query: "specificepithet:nivalis genus:mustela haslength:1" ; Times: 2
+	Query: "alces alces" ; Times: 2
+	Query: "catalognumber:45782" ; Times: 1
+	Query: "173957" ; Times: 1
+	Query: "Chaerephon plicatus" ; Times: 4
+	Query: "61477" ; Times: 1
+	Query: "mule deer" ; Times: 1
+	Query: "Sciurus aberti" ; Times: 3
+	Query: "genus:Erethizon stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "rattus andamanensis" ; Times: 1
+	Query: "34276" ; Times: 1
+	Query: "ziphius cavirostris" ; Times: 1
+	Query: "specificepithet:californicus genus:microtus preparations:heart" ; Times: 1
+	Query: "specificepithet:broweri genus:Marmota haslength:1" ; Times: 1
+	Query: "40579" ; Times: 2
+	Query: "40578" ; Times: 2
+	Query: "specificepithet:franklinii genus:poliocitellus" ; Times: 1
+	Query: "Mirounga NOT Australia NOT California NOT Oregon NOT Zealand NOT Washington NOT Africa" ; Times: 1
+	Query: "specificepithet:lituratus genus:Artibeus country:Paraguay" ; Times: 1
+	Query: "15034" ; Times: 1
+	Query: "Orcinus orca" ; Times: 6
+	Query: "Capreolus capreolus" ; Times: 2
+	Query: "shrews" ; Times: 2
+	Query: "specificepithet:suslicus genus:Spermophilus haslength:1" ; Times: 1
+	Query: "specificepithet:tridecemlineatus genus:Ictidomys haslength:1" ; Times: 1
+	Query: "specificepithet:columbianus genus:Urocitellus haslength:1" ; Times: 3
+	Query: "EAR 10193" ; Times: 3
+	Query: "26886" ; Times: 2
+	Query: "toolik" ; Times: 9
+	Query: "EAR 10194" ; Times: 2
+	Query: "vntype:specimen specificepithet:norvegicus genus:Rattus year &gt;= 2000 year &lt;= 2019 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "lengthtype:snout-vent length range" ; Times: 1
+	Query: "Tor tor" ; Times: 9
+	Query: "specificepithet:beecheyi genus:Otospermophilus haslength:1" ; Times: 1
+	Query: "(49095)" ; Times: 1
+	Query: "Neomys fodiens" ; Times: 2
+	Query: "(71094) institutioncode:UAM" ; Times: 1
+	Query: "Xerospermophilus spilosoma" ; Times: 4
+	Query: "ursus thibetanus" ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 7
+	Query: "90476" ; Times: 1
+	Query: "specificepithet:frenata genus:mustela haslength:1" ; Times: 2
+	Query: "(71427) institutioncode:UAM" ; Times: 1
+	Query: "vntype:specimen family:Equidae" ; Times: 1
+	Query: "Vulpes lagopus" ; Times: 5
+	Query: "25093" ; Times: 1
+	Query: "Rousettus leschenaulti" ; Times: 4
+	Query: "vntype:specimen specificepithet:norvegicus genus:Rattus stateprovince:&#34;Texas&#34; country:&#34;United States&#34; hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "cabassous" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "V. vulpes" ; Times: 5
+	Query: "specificepithet:beldingi genus:Urocitellus hasmass:1 haslength:1" ; Times: 1
+	Query: "Lagenorhynchus obliquidens" ; Times: 3
+	Query: "Panthera tigris" ; Times: 6
+	Query: "EAR-10006" ; Times: 1
+	Query: "vntype:specimen specificepithet:norvegicus genus:Rattus family:Muridae country:&#34;United States&#34; haslength:1" ; Times: 4
+	Query: "Sorex palustris hasmass:1 haslength:1" ; Times: 1
+	Query: "(49096)" ; Times: 1
+	Query: "29346" ; Times: 1
+	Query: "sorex alpinus" ; Times: 1
+	Query: "turtle length" ; Times: 1
+	Query: "Mirounga AND 18 NOT Australia NOT California NOT Oregon NOT Zealand" ; Times: 1
+	Query: "equus" ; Times: 1
+	Query: "&#34;Dasypus novemcinctus&#34;" ; Times: 1
+	Query: "(23606) institutioncode:UAM" ; Times: 2
+	Query: "Callithrix jacchus" ; Times: 2
+	Query: "order:Primates country:&#34;Paraguay&#34;" ; Times: 5
+	Query: "Sorex palustris basisofrecord:PreservedSpecimen hasmass:1 haslength:1" ; Times: 1
+	Query: "121600" ; Times: 2
+	Query: "specificepithet:lituratus genus:Artibeus country:paraguay month&gt;=1" ; Times: 1
+	Query: "Tick Island" ; Times: 1
+	Query: "56798" ; Times: 1
+	Query: "stateprovince:&#34;alaska&#34; recordedby:phillips" ; Times: 2
+	Query: "Mirounga" ; Times: 2
+	Query: "Pygoderma bilabiatum" ; Times: 4
+	Query: "(23925) institutioncode:UAM" ; Times: 1
+	Query: "Sorex palustris basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "vntype:specimen family:Gliridae" ; Times: 1
+	Query: "(18642)" ; Times: 2
+	Query: "catalognumber:6129" ; Times: 1
+	Query: "(50293) institutioncode:UAM" ; Times: 1
+	Query: "Ursus maritimus" ; Times: 2
+	Query: "Lutra lutra" ; Times: 9
+	Query: "genus:Pygoderma specificepithet:bilabiatum" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 90 (out of 1171 download events in this period)
+Total number of records downloaded: 31160
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 2
+	Country: Philippines ; Times: 1
+	Country: India ; Times: 5
+	Country: Costa Rica ; Times: 1
+	Country: United States ; Times: 70
+	Country: Austria ; Times: 3
+	Country: Argentina ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-21 ; Times: 6
+	Date: 2020-04-05 ; Times: 2
+	Date: 2020-04-22 ; Times: 9
+	Date: 2020-04-23 ; Times: 7
+	Date: 2020-04-20 ; Times: 1
+	Date: 2020-04-07 ; Times: 2
+	Date: 2020-04-26 ; Times: 1
+	Date: 2020-04-01 ; Times: 3
+	Date: 2020-04-02 ; Times: 1
+	Date: 2020-04-03 ; Times: 3
+	Date: 2020-04-28 ; Times: 14
+	Date: 2020-04-29 ; Times: 1
+	Date: 2020-04-08 ; Times: 1
+	Date: 2020-04-27 ; Times: 1
+	Date: 2020-04-24 ; Times: 2
+	Date: 2020-04-25 ; Times: 4
+	Date: 2020-04-18 ; Times: 2
+	Date: 2020-04-13 ; Times: 1
+	Date: 2020-04-12 ; Times: 1
+	Date: 2020-04-11 ; Times: 1
+	Date: 2020-04-17 ; Times: 4
+	Date: 2020-04-16 ; Times: 11
+	Date: 2020-04-15 ; Times: 6
+	Date: 2020-04-14 ; Times: 4
+	Date: 2020-04-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen family:Dipodidae" ; Times: 1
+	Query: "vntype:specimen family:Phocidae" ; Times: 1
+	Query: "genus:sciurus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:princeps genus:Zapus stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Lasionycteris family:Vespertilionidae continent:North America" ; Times: 1
+	Query: "specificepithet:armatus genus:Urocitellus haslength:1" ; Times: 1
+	Query: "genus:Cryptotis hastissue:1" ; Times: 1
+	Query: "vntype:specimen genus:Scalopus" ; Times: 1
+	Query: "vntype:specimen family:Caviidae" ; Times: 1
+	Query: "vntype:specimen order:Lagomorpha stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:townsendii genus:lepus" ; Times: 1
+	Query: "family:sciuridae hassex:1 hasmedia:1" ; Times: 2
+	Query: "specificepithet:lateralis genus:Callospermophilus haslength:1" ; Times: 1
+	Query: "Puma concolor" ; Times: 7
+	Query: "specificepithet:franklinii genus:poliocitellus haslength:1" ; Times: 3
+	Query: "geomyidae hassex:1 hasmass:1" ; Times: 1
+	Query: "lutra lutra" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "genus:Lasiurus" ; Times: 1
+	Query: "vntype:specimen genus:Petaurista" ; Times: 1
+	Query: "Odocoileus Hemionus" ; Times: 1
+	Query: "vntype:specimen order:Carnivora stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "specificepithet:beecheyi genus:Otospermophilus haslength:1" ; Times: 1
+	Query: "vntype:specimen genus:Parascalops" ; Times: 1
+	Query: "vntype:specimen specificepithet:fulvescens genus:Reithrodontomys" ; Times: 1
+	Query: "vntype:specimen order:Carnivora stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:canadensis genus:lontra haslength:1" ; Times: 1
+	Query: "genus:Erethizon haslength:1" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "genus:Carollia specificepithet:perspicillata" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "specificepithet:frenata genus:mustela haslength:1" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "vntype:specimen family:Equidae" ; Times: 1
+	Query: "golden eagle" ; Times: 1
+	Query: "baranof amk stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "specificepithet:columbianus genus:Urocitellus haslength:1" ; Times: 1
+	Query: "specificepithet:undulatus genus:Urocitellus haslength:1" ; Times: 1
+	Query: "vntype:specimen family:Soricidae stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:tridecemlineatus genus:Ictidomys haslength:1" ; Times: 1
+	Query: "vntype:specimen family:Otariidae" ; Times: 1
+	Query: "vntype:specimen family:Camelidae" ; Times: 1
+	Query: "order:Chiroptera country:&#34;Bangladesh&#34; OR &#34;Bhutan&#34; OR &#34;Burma&#34; OR &#34;Cambodia&#34; OR &#34;China&#34; OR &#34;India&#34; OR &#34;Laos&#34; OR &#34;Malaysia&#34; OR &#34;Myanmar&#34; OR &#34;Nepal&#34; OR &#34;Thailand&#34; OR &#34;Vietnam&#34; continent:Asia" ; Times: 1
+	Query: "Microtus longicaudus stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "specificepithet:parryii genus:Urocitellus haslength:1" ; Times: 1
+	Query: "specificepithet:brevicauda genus:blarina hasmass:1" ; Times: 1
+	Query: "vntype:specimen family:Cynocephalidae" ; Times: 1
+	Query: "genus:Peromyscus stateprovince:&#34;Pennsylvania&#34;" ; Times: 3
+	Query: "vntype:specimen family:Tayassuidae" ; Times: 1
+	Query: "Glaucomys sabrinus" ; Times: 1
+	Query: "specificepithet:lateralis genus:callospermophilus haslength:1" ; Times: 1
+	Query: "Alces alces" ; Times: 1
+	Query: "genus:Gulo order:Carnivora" ; Times: 1
+	Query: "vntype:specimen order:Carnivora stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "turtle length" ; Times: 1
+	Query: "vntype:specimen family:Soricidae stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "specificepithet:richardsonii genus:Urocitellus haslength:1" ; Times: 1
+	Query: "specificepithet:beldingi genus:Urocitellus haslength:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:erminea genus:Mustela" ; Times: 1
+	Query: "vntype:specimen genus:Glaucomys" ; Times: 1
+	Query: "genus:Erethizon hasmass:1" ; Times: 1
+	Query: "Desmodus rotundus" ; Times: 1
+	Query: "specificepithet:macrotis genus:Vulpes stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:coypus genus:Myocastor" ; Times: 1
+	Query: "specificepithet:californicus genus:Microtus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "locality:unknown stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "specificepithet:erminea genus:mustela haslength:1" ; Times: 1
+	Query: "specificepithet:lutris genus:enhydra haslength:1" ; Times: 1
+	Query: "sciurus" ; Times: 1
+	Query: "genus:Blarina hastissue:1" ; Times: 1
+	Query: "Dermoptera" ; Times: 1
+	Query: "vntype:specimen family:Gliridae" ; Times: 1
+	Query: "specificepithet:nivalis genus:mustela haslength:1" ; Times: 1
+	Query: "genus:artibeus specificepithet:lituratus" ; Times: 1
+	Query: "vntype:specimen genus:Lontra" ; Times: 1
+	Query: "genus:Artibeus specificepithet:lituratus country:(peru OR ecuador OR paraguay)" ; Times: 1
+	Query: "urocitellus columbianus" ; Times: 1
+	Query: "heteromyidae hassex:1 hasmass:1" ; Times: 1
+
+
+End of report.
