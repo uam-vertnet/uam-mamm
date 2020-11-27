@@ -1,0 +1,479 @@
+Report for Institution Code UAM, Resource uam_mamm
+Usage stats for March 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 454
+Number of records retrieved in searches: 3882
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 14
+	Country: United States ; Times: 356
+	Country: Australia ; Times: 6
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 31
+	Country: Unknown ; Times: 1
+	Country: Finland ; Times: 1
+	Country: United Kingdom ; Times: 12
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 7
+	Country: Spain ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: Switzerland ; Times: 10
+	Country: Slovakia ; Times: 2
+	Country: Argentina ; Times: 2
+	Country: Ecuador ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-03 ; Times: 48
+	Date: 2020-03-30 ; Times: 2
+	Date: 2020-03-31 ; Times: 34
+	Date: 2020-03-02 ; Times: 10
+	Date: 2020-03-18 ; Times: 34
+	Date: 2020-03-19 ; Times: 11
+	Date: 2020-03-09 ; Times: 14
+	Date: 2020-03-14 ; Times: 6
+	Date: 2020-03-15 ; Times: 1
+	Date: 2020-03-12 ; Times: 3
+	Date: 2020-03-13 ; Times: 10
+	Date: 2020-03-10 ; Times: 12
+	Date: 2020-03-08 ; Times: 1
+	Date: 2020-03-17 ; Times: 3
+	Date: 2020-03-06 ; Times: 6
+	Date: 2020-03-27 ; Times: 6
+	Date: 2020-03-26 ; Times: 5
+	Date: 2020-03-25 ; Times: 8
+	Date: 2020-03-24 ; Times: 29
+	Date: 2020-03-23 ; Times: 27
+	Date: 2020-03-22 ; Times: 14
+	Date: 2020-03-21 ; Times: 9
+	Date: 2020-03-20 ; Times: 30
+	Date: 2020-03-05 ; Times: 37
+	Date: 2020-03-04 ; Times: 26
+	Date: 2020-03-07 ; Times: 2
+	Date: 2020-03-11 ; Times: 17
+	Date: 2020-03-01 ; Times: 1
+	Date: 2020-03-29 ; Times: 6
+	Date: 2020-03-28 ; Times: 42
+
+List of queries that retrieved data from the resource: 
+	Query: "129120" ; Times: 1
+	Query: "35626" ; Times: 1
+	Query: "UAM 40959" ; Times: 1
+	Query: "AF 89034" ; Times: 1
+	Query: "14984" ; Times: 1
+	Query: "(56781)" ; Times: 1
+	Query: "82768" ; Times: 1
+	Query: "110524" ; Times: 1
+	Query: "75546" ; Times: 1
+	Query: "98369" ; Times: 2
+	Query: "98368" ; Times: 2
+	Query: "Leptonycteris nivalis" ; Times: 2
+	Query: "241453" ; Times: 1
+	Query: "11188" ; Times: 1
+	Query: "120125" ; Times: 1
+	Query: "specificepithet:cuniculus genus:Oryctolagus haslength:1" ; Times: 1
+	Query: "(AF359232)" ; Times: 1
+	Query: "UAM 35600" ; Times: 2
+	Query: "Tylonycteris robustula" ; Times: 1
+	Query: "Pteropus lylei" ; Times: 1
+	Query: "UAM 17748" ; Times: 2
+	Query: "R.57365" ; Times: 1
+	Query: "(AF359235)" ; Times: 1
+	Query: "specificepithet:nivalis genus:Mustela haslength:1" ; Times: 1
+	Query: "116305" ; Times: 1
+	Query: "callithrix jacchus" ; Times: 4
+	Query: "River otter skull" ; Times: 1
+	Query: "22481" ; Times: 1
+	Query: "hastissue:1 marmota monax" ; Times: 3
+	Query: "Myotis leibii" ; Times: 1
+	Query: "country:&#34;United States&#34; (frog) AND (NOT &#34;Australia&#34;) haslength:1" ; Times: 2
+	Query: "128296" ; Times: 1
+	Query: "(AF359210)" ; Times: 2
+	Query: "128354" ; Times: 1
+	Query: "128298" ; Times: 1
+	Query: "52484" ; Times: 1
+	Query: "Murina cyclotis" ; Times: 2
+	Query: "(77094)" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela haslength:1" ; Times: 1
+	Query: "(AF271668)" ; Times: 2
+	Query: "Panthera uncia" ; Times: 1
+	Query: "(frog) AND (NOT &#34;Australia&#34; &#34;Mammalia&#34;) haslength:1" ; Times: 1
+	Query: "97922" ; Times: 1
+	Query: "411204" ; Times: 1
+	Query: "411205" ; Times: 1
+	Query: "Tylonycteris pachypus" ; Times: 1
+	Query: "21297" ; Times: 2
+	Query: "411208" ; Times: 1
+	Query: "(AF271670)" ; Times: 1
+	Query: "R 27452" ; Times: 1
+	Query: "22544" ; Times: 1
+	Query: "Chrotopterus auritus" ; Times: 1
+	Query: "hastissue:1 marmota broweri" ; Times: 1
+	Query: "76842" ; Times: 1
+	Query: "24123" ; Times: 1
+	Query: "76847" ; Times: 1
+	Query: "vntype:specimen specificepithet:sabrinus genus:Glaucomys hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "21449" ; Times: 1
+	Query: "catalognumber:31716 institutioncode:UAM" ; Times: 1
+	Query: "(35175)" ; Times: 1
+	Query: "Platyrrhinus lineatus" ; Times: 1
+	Query: "specificepithet:merriami genus:tamias" ; Times: 1
+	Query: "specificepithet:volans genus:glaucomys country:&#34;united states&#34; hastissue:1" ; Times: 1
+	Query: "118930" ; Times: 1
+	Query: "(208330)" ; Times: 1
+	Query: "family:Viverridae" ; Times: 1
+	Query: "Pygoderma bilabiatum" ; Times: 1
+	Query: "31896" ; Times: 1
+	Query: "129118" ; Times: 1
+	Query: "genus:Peromyscus stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "DOT 213" ; Times: 2
+	Query: "UAM 112585" ; Times: 2
+	Query: "specificepithet:vison genus:Neovison hastissue:1" ; Times: 7
+	Query: "37094" ; Times: 1
+	Query: "catalognumber:2514" ; Times: 1
+	Query: "(AF359231)" ; Times: 1
+	Query: "(AF359225)" ; Times: 1
+	Query: "43878" ; Times: 1
+	Query: "UAM 16545" ; Times: 2
+	Query: "38031" ; Times: 1
+	Query: "128439" ; Times: 1
+	Query: "catalognumber:3635 institutioncode:UAM" ; Times: 1
+	Query: "Megaderma spasma" ; Times: 2
+	Query: "130611" ; Times: 1
+	Query: "349286" ; Times: 1
+	Query: "specificepithet:bachmani genus:Sylvilagus haslength:1" ; Times: 2
+	Query: "(53280)" ; Times: 1
+	Query: "30740" ; Times: 1
+	Query: "(AF359222)" ; Times: 1
+	Query: "Eonycteris spelaea" ; Times: 1
+	Query: "canis familiaris vntype:specimen genus:canis institutioncode:UAM" ; Times: 1
+	Query: "128792" ; Times: 1
+	Query: "TRING" ; Times: 1
+	Query: "89688" ; Times: 1
+	Query: "UAM 35598" ; Times: 2
+	Query: "643775" ; Times: 1
+	Query: "332301" ; Times: 1
+	Query: "catalognumber:3517 institutioncode:UAM" ; Times: 1
+	Query: "332302" ; Times: 1
+	Query: "67214" ; Times: 1
+	Query: "SAPAJUS APELLA" ; Times: 1
+	Query: "57155" ; Times: 1
+	Query: "(219226)" ; Times: 1
+	Query: "(AF359238)" ; Times: 1
+	Query: "386776" ; Times: 1
+	Query: "141496" ; Times: 1
+	Query: "36879" ; Times: 2
+	Query: "47045" ; Times: 1
+	Query: "Hipposideros larvatus" ; Times: 1
+	Query: "47738" ; Times: 1
+	Query: "UAM 16541" ; Times: 4
+	Query: "100570" ; Times: 1
+	Query: "40413" ; Times: 3
+	Query: "109193" ; Times: 1
+	Query: "S. coeruleoalba" ; Times: 1
+	Query: "128314" ; Times: 1
+	Query: "catalognumber:112551" ; Times: 1
+	Query: "45055" ; Times: 1
+	Query: "catalognumber:112554" ; Times: 2
+	Query: "96091" ; Times: 2
+	Query: "349287" ; Times: 1
+	Query: "50678" ; Times: 1
+	Query: "Sapajus apella" ; Times: 1
+	Query: "UAM 27288" ; Times: 2
+	Query: "110080" ; Times: 1
+	Query: "specificepithet:pennanti" ; Times: 2
+	Query: "CM 7580" ; Times: 1
+	Query: "16664" ; Times: 1
+	Query: "(46173)" ; Times: 1
+	Query: "oryctolagus cuniculus" ; Times: 1
+	Query: "(216299)" ; Times: 1
+	Query: "(frog) AND (NOT Australia) haslength:1" ; Times: 2
+	Query: "16544" ; Times: 1
+	Query: "uam 87306" ; Times: 2
+	Query: "13619" ; Times: 2
+	Query: "family:viverridae hastissue:1" ; Times: 2
+	Query: "catalognumber:64047 institutioncode:UAM" ; Times: 4
+	Query: "catalognumber:63127" ; Times: 1
+	Query: "catalognumber:63126" ; Times: 1
+	Query: "catalognumber:63124" ; Times: 1
+	Query: "(AF359234)" ; Times: 4
+	Query: "Grampus griseus" ; Times: 2
+	Query: "56769" ; Times: 1
+	Query: "vntype:specimen family:Herpestidae hastissue:1" ; Times: 1
+	Query: "UAM 7351" ; Times: 2
+	Query: "(AF359226)" ; Times: 2
+	Query: "58767" ; Times: 1
+	Query: "83646" ; Times: 2
+	Query: "128468" ; Times: 1
+	Query: "37120" ; Times: 1
+	Query: "Myotis evotis" ; Times: 1
+	Query: "23124" ; Times: 1
+	Query: "30384" ; Times: 1
+	Query: "(216307)" ; Times: 2
+	Query: "&#34;*Urocitellus columbianus&#34;" ; Times: 1
+	Query: "Cebus" ; Times: 1
+	Query: "UAM 38321" ; Times: 1
+	Query: "specificepithet:hoyi genus:Sorex hasmass:1 haslength:1" ; Times: 2
+	Query: "115522" ; Times: 1
+	Query: "(15209)" ; Times: 1
+	Query: "(AF271671)" ; Times: 1
+	Query: "UAM 28707" ; Times: 2
+	Query: "52627" ; Times: 1
+	Query: "57087" ; Times: 1
+	Query: "catalognumber:112545" ; Times: 1
+	Query: "332303" ; Times: 1
+	Query: "112121" ; Times: 1
+	Query: "catalognumber:46721" ; Times: 1
+	Query: "MSB 55147" ; Times: 2
+	Query: "Taphozous melanopogon" ; Times: 1
+	Query: "family:Pteropodidae institutioncode:UAM hastissue:1" ; Times: 1
+	Query: "51716" ; Times: 1
+	Query: "(19565)" ; Times: 1
+	Query: "13715" ; Times: 4
+	Query: "70888" ; Times: 1
+	Query: "butterfly" ; Times: 1
+	Query: "276428" ; Times: 1
+	Query: "119357" ; Times: 2
+	Query: "(AF359230)" ; Times: 3
+	Query: "(49096)" ; Times: 6
+	Query: "catalognumber:3171 institutioncode:UAM" ; Times: 1
+	Query: "(62898)" ; Times: 2
+	Query: "128542" ; Times: 1
+	Query: "238923" ; Times: 1
+	Query: "135155" ; Times: 1
+	Query: "106816" ; Times: 1
+	Query: "Sapajus" ; Times: 1
+	Query: "(AF359223)" ; Times: 1
+	Query: "153573" ; Times: 1
+	Query: "catalognumber:51392 institutioncode:UAM" ; Times: 2
+	Query: "377053" ; Times: 2
+	Query: "109988" ; Times: 1
+	Query: "Myotis auriculus" ; Times: 2
+	Query: "(scandentia)" ; Times: 1
+	Query: "genus:blarina stateprovince:&#34;ohio&#34;" ; Times: 1
+	Query: "(11044)" ; Times: 1
+	Query: "110804" ; Times: 1
+	Query: "24967" ; Times: 1
+	Query: "trichechus" ; Times: 1
+	Query: "128373" ; Times: 1
+	Query: "mandible hasmedia:1" ; Times: 5
+	Query: "60756" ; Times: 1
+	Query: "60753" ; Times: 1
+	Query: "AH 312" ; Times: 2
+	Query: "60759" ; Times: 1
+	Query: "30908" ; Times: 2
+	Query: "rodent" ; Times: 1
+	Query: "118964" ; Times: 1
+	Query: "(AF359228)" ; Times: 1
+	Query: "29600" ; Times: 1
+	Query: "UAM 18040" ; Times: 4
+	Query: "genus:Blarina stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "101701" ; Times: 2
+	Query: "UAM 13094" ; Times: 2
+	Query: "catalognumber:112542" ; Times: 1
+	Query: "113681" ; Times: 1
+	Query: "(AF238034)" ; Times: 1
+	Query: "(FJ200743)" ; Times: 3
+	Query: "515292" ; Times: 1
+	Query: "55258" ; Times: 1
+	Query: "H.87005" ; Times: 1
+	Query: "catalognumber:35173 institutioncode:UAM" ; Times: 1
+	Query: "Myotis keenii" ; Times: 2
+	Query: "neovison vison vntype:specimen continent:America basisofrecord:PreservedSpecimen haslifestage:1 hassex:1" ; Times: 2
+	Query: "Martes foina" ; Times: 1
+	Query: "Hipposideros pomona" ; Times: 1
+	Query: "UAM 6948" ; Times: 2
+	Query: "UAM 6949" ; Times: 2
+	Query: "279526" ; Times: 1
+	Query: "UAM 6943" ; Times: 2
+	Query: "(55759)" ; Times: 1
+	Query: "(AF359237)" ; Times: 2
+	Query: "52253 institutioncode:UAM" ; Times: 2
+	Query: "(AF359227)" ; Times: 1
+	Query: "catalognumber:48455" ; Times: 1
+	Query: "123889" ; Times: 1
+	Query: "catalognumber:24548" ; Times: 1
+	Query: "128920" ; Times: 1
+	Query: "128925" ; Times: 1
+	Query: "UAM 16566" ; Times: 2
+	Query: "UAM 16646" ; Times: 1
+	Query: "90583" ; Times: 1
+	Query: "Cynopterus sphinx" ; Times: 1
+	Query: "Taphozous theobaldi" ; Times: 1
+	Query: "R.39075" ; Times: 1
+	Query: "113012" ; Times: 1
+	Query: "catalognumber:98646" ; Times: 1
+	Query: "52022" ; Times: 1
+	Query: "495027" ; Times: 1
+	Query: "Chaerephon plicatus" ; Times: 1
+	Query: "66066" ; Times: 1
+	Query: "family:Herpestidae hastissue:1" ; Times: 1
+	Query: "Trichechus" ; Times: 1
+	Query: "PAM 212" ; Times: 1
+	Query: "52618" ; Times: 1
+	Query: "catalognumber:35170 institutioncode:UAM" ; Times: 2
+	Query: "411207" ; Times: 1
+	Query: "112331" ; Times: 1
+	Query: "112332" ; Times: 1
+	Query: "12212" ; Times: 1
+	Query: "128705" ; Times: 1
+	Query: "349249" ; Times: 1
+	Query: "127162" ; Times: 1
+	Query: "130291" ; Times: 1
+	Query: "Lagenorhynchus obliquidens" ; Times: 1
+	Query: "52250 institutioncode:UAM" ; Times: 2
+	Query: "77071" ; Times: 1
+	Query: "UAM 38320" ; Times: 1
+	Query: "Gulo gulo 3844" ; Times: 1
+	Query: "Rousettus aegyptiacus" ; Times: 1
+	Query: "24177" ; Times: 1
+	Query: "Panthera uncia basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "(221281)" ; Times: 1
+	Query: "catalognumber:13619" ; Times: 2
+	Query: "Tursiops aduncus" ; Times: 1
+	Query: "(84514)" ; Times: 1
+	Query: "(AF359233)" ; Times: 1
+	Query: "UAM 9436" ; Times: 2
+	Query: "(18641)" ; Times: 1
+	Query: "30505" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;florida&#34; hassex:1 hasmass:1 haslength:1 hastissue:1" ; Times: 1
+	Query: "87085" ; Times: 1
+	Query: "specificepithet:scrofa genus:sus year &lt;= 1930" ; Times: 1
+	Query: "Idionycteris phyllotis" ; Times: 2
+	Query: "24548" ; Times: 1
+	Query: "(AF271669)" ; Times: 1
+	Query: "107116" ; Times: 1
+	Query: "107114" ; Times: 1
+	Query: "(H 59-40)" ; Times: 1
+	Query: "110689" ; Times: 2
+	Query: "UAM 16546" ; Times: 2
+	Query: "134928" ; Times: 1
+	Query: "MAMM (6657)" ; Times: 2
+	Query: "120849" ; Times: 1
+	Query: "76294" ; Times: 1
+	Query: "(AF359229)" ; Times: 1
+	Query: "113516" ; Times: 1
+	Query: "50807" ; Times: 1
+	Query: "127286" ; Times: 1
+	Query: "93597" ; Times: 1
+	Query: "Rhinolophus acuminatus" ; Times: 1
+	Query: "70672" ; Times: 1
+	Query: "113603" ; Times: 1
+	Query: "genus:Ursus institutioncode:UAM hasmass:1" ; Times: 1
+	Query: "22251" ; Times: 1
+	Query: "(16380)" ; Times: 1
+	Query: "41248" ; Times: 1
+	Query: "(FJ200742)" ; Times: 1
+	Query: "(49083)" ; Times: 1
+	Query: "MSB 55163" ; Times: 2
+	Query: "(81591)" ; Times: 1
+	Query: "canis familiaris" ; Times: 2
+	Query: "catalognumber:5085" ; Times: 1
+	Query: "103852" ; Times: 1
+	Query: "H 87085" ; Times: 1
+	Query: "71221" ; Times: 1
+	Query: "JAC 22583" ; Times: 1
+	Query: "71223" ; Times: 1
+	Query: "catalognumber:57365" ; Times: 1
+	Query: "Bos taurus" ; Times: 1
+	Query: "(AF359236)" ; Times: 1
+	Query: "(AF359224)" ; Times: 1
+	Query: "277954" ; Times: 1
+	Query: "(49094)" ; Times: 2
+	Query: "(49093)" ; Times: 2
+	Query: "UAM 16556" ; Times: 1
+	Query: "120152" ; Times: 1
+	Query: "67524" ; Times: 1
+	Query: "38874" ; Times: 2
+	Query: "(76777)" ; Times: 2
+	Query: "marmot" ; Times: 1
+	Query: "UAM ursus maritimus" ; Times: 1
+	Query: "111297" ; Times: 1
+	Query: "79922" ; Times: 1
+	Query: "79924" ; Times: 1
+	Query: "120275" ; Times: 1
+	Query: "119493" ; Times: 1
+	Query: "66359" ; Times: 1
+	Query: "120271" ; Times: 1
+	Query: "38130" ; Times: 1
+	Query: "Homo sapiens" ; Times: 1
+	Query: "(14976)" ; Times: 1
+	Query: "(AF271673)" ; Times: 1
+	Query: "(77807) institutioncode:UAM" ; Times: 2
+	Query: "Artibeus hirsutus" ; Times: 1
+	Query: "88872" ; Times: 1
+	Query: "DOT 187" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 31 (out of 853 download events in this period)
+Total number of records downloaded: 5806
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 19
+	Country: Australia ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Indonesia ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Germany ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-27 ; Times: 1
+	Date: 2020-03-18 ; Times: 3
+	Date: 2020-03-03 ; Times: 1
+	Date: 2020-03-20 ; Times: 1
+	Date: 2020-03-13 ; Times: 1
+	Date: 2020-03-30 ; Times: 1
+	Date: 2020-03-31 ; Times: 7
+	Date: 2020-03-25 ; Times: 1
+	Date: 2020-03-02 ; Times: 2
+	Date: 2020-03-09 ; Times: 2
+	Date: 2020-03-08 ; Times: 1
+	Date: 2020-03-21 ; Times: 2
+	Date: 2020-03-19 ; Times: 1
+	Date: 2020-03-17 ; Times: 2
+	Date: 2020-03-04 ; Times: 1
+	Date: 2020-03-06 ; Times: 1
+	Date: 2020-03-07 ; Times: 1
+	Date: 2020-03-29 ; Times: 1
+	Date: 2020-03-11 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Panthera uncia basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Sapajus" ; Times: 1
+	Query: "panthera" ; Times: 1
+	Query: "family:Rhinolophidae hastissue:1" ; Times: 1
+	Query: "101701" ; Times: 1
+	Query: "genus:ursus" ; Times: 2
+	Query: "sorex hoyi" ; Times: 1
+	Query: "genus:Callospermophilus hasmass:1 haslength:1" ; Times: 1
+	Query: "&#34;*Urocitellus columbianus&#34;" ; Times: 1
+	Query: "family:Pteropodidae institutioncode:UAM hastissue:1" ; Times: 1
+	Query: "country:&#34;Singapore&#34;" ; Times: 1
+	Query: "genus:blarina stateprovince:&#34;ohio&#34;" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis" ; Times: 1
+	Query: "Spermophilus parryii" ; Times: 1
+	Query: "(scandentia)" ; Times: 2
+	Query: "genus:Blarina stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "specificepithet:vagrans genus:Sorex stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "desmodus rotundus" ; Times: 1
+	Query: "Sapajus apella" ; Times: 1
+	Query: "specificepithet:hispidus genus:Sigmodon hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:townsendii genus:lepus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Peromyscus stateprovince:&#34;Pennsylvania&#34;" ; Times: 2
+	Query: "neovison vison vntype:specimen continent:America basisofrecord:PreservedSpecimen haslifestage:1 hassex:1" ; Times: 1
+	Query: "Martes foina" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "SAPAJUS APELLA" ; Times: 1
+	Query: "genus:peromyscus stateprovince:&#34;ohio&#34;" ; Times: 1
+	Query: "specificepithet:americanus genus:lepus basisofrecord:PreservedSpecimen" ; Times: 1
+
+
+End of report.
