@@ -1,0 +1,341 @@
+Report for Institution Code UAM, Resource uam_mamm
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 252
+Number of records retrieved in searches: 1581
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 12
+	Country: Canada ; Times: 2
+	Country: Australia ; Times: 1
+	Country: Ireland ; Times: 14
+	Country: Mexico ; Times: 3
+	Country: Singapore ; Times: 3
+	Country: Austria ; Times: 1
+	Country: France ; Times: 3
+	Country: United States ; Times: 207
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Hong Kong ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 7
+	Date: 2020-05-24 ; Times: 1
+	Date: 2020-05-27 ; Times: 8
+	Date: 2020-05-26 ; Times: 6
+	Date: 2020-05-21 ; Times: 2
+	Date: 2020-05-20 ; Times: 2
+	Date: 2020-05-23 ; Times: 2
+	Date: 2020-05-22 ; Times: 3
+	Date: 2020-05-29 ; Times: 3
+	Date: 2020-05-28 ; Times: 11
+	Date: 2020-05-18 ; Times: 4
+	Date: 2020-05-19 ; Times: 7
+	Date: 2020-05-10 ; Times: 14
+	Date: 2020-05-11 ; Times: 5
+	Date: 2020-05-13 ; Times: 1
+	Date: 2020-05-15 ; Times: 31
+	Date: 2020-05-16 ; Times: 1
+	Date: 2020-05-17 ; Times: 30
+	Date: 2020-05-30 ; Times: 7
+	Date: 2020-05-31 ; Times: 3
+	Date: 2020-05-09 ; Times: 2
+	Date: 2020-05-08 ; Times: 15
+	Date: 2020-05-07 ; Times: 32
+	Date: 2020-05-06 ; Times: 28
+	Date: 2020-05-05 ; Times: 1
+	Date: 2020-05-04 ; Times: 11
+	Date: 2020-05-03 ; Times: 2
+	Date: 2020-05-02 ; Times: 6
+	Date: 2020-05-01 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "344906" ; Times: 1
+	Query: "vntype:specimen family:Bovidae hasmedia:1" ; Times: 2
+	Query: "64668" ; Times: 1
+	Query: "36580" ; Times: 1
+	Query: "65493" ; Times: 1
+	Query: "66672" ; Times: 1
+	Query: "64666" ; Times: 1
+	Query: "134721" ; Times: 1
+	Query: "373190" ; Times: 1
+	Query: "554453" ; Times: 1
+	Query: "34415" ; Times: 1
+	Query: "catalognumber:125618" ; Times: 1
+	Query: "109455" ; Times: 1
+	Query: "47128" ; Times: 1
+	Query: "280566" ; Times: 1
+	Query: "283387" ; Times: 1
+	Query: "268213" ; Times: 1
+	Query: "149300" ; Times: 1
+	Query: "19585 peromyscus" ; Times: 2
+	Query: "334509" ; Times: 1
+	Query: "46562" ; Times: 1
+	Query: "268214" ; Times: 1
+	Query: "569686" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 3
+	Query: "specificepithet:lucifugus genus:Myotis stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "Tursiops" ; Times: 1
+	Query: "28960" ; Times: 1
+	Query: "36803" ; Times: 1
+	Query: "272553" ; Times: 1
+	Query: "262135" ; Times: 1
+	Query: "18482" ; Times: 1
+	Query: "513262" ; Times: 1
+	Query: "778621" ; Times: 1
+	Query: "73835 peromyscus" ; Times: 1
+	Query: "124265" ; Times: 1
+	Query: "34410" ; Times: 1
+	Query: "65127" ; Times: 1
+	Query: "97386" ; Times: 1
+	Query: "109465" ; Times: 1
+	Query: "catalognumber:31824" ; Times: 1
+	Query: "Mirounga angustirostris" ; Times: 1
+	Query: "catalognumber:16611" ; Times: 2
+	Query: "(tai o)" ; Times: 1
+	Query: "64968" ; Times: 1
+	Query: "2003–062" ; Times: 2
+	Query: "257330" ; Times: 1
+	Query: "60453" ; Times: 1
+	Query: "725990" ; Times: 1
+	Query: "51940" ; Times: 1
+	Query: "specificepithet:californicus genus:peromyscus institutioncode:UAM" ; Times: 1
+	Query: "277457" ; Times: 1
+	Query: "129098" ; Times: 1
+	Query: "specificepithet:breviceps genus:kogia country:&#34;United States&#34;" ; Times: 1
+	Query: "64705" ; Times: 1
+	Query: "44752" ; Times: 2
+	Query: "24183" ; Times: 1
+	Query: "45761" ; Times: 1
+	Query: "46888" ; Times: 1
+	Query: "48626" ; Times: 1
+	Query: "Lepus americanus Alaska" ; Times: 1
+	Query: "16881" ; Times: 1
+	Query: "55084" ; Times: 1
+	Query: "Trichechus manatus" ; Times: 3
+	Query: "387058" ; Times: 1
+	Query: "33042" ; Times: 1
+	Query: "728117" ; Times: 1
+	Query: "33797" ; Times: 1
+	Query: "725968" ; Times: 1
+	Query: "50345" ; Times: 1
+	Query: "728115" ; Times: 1
+	Query: "276965" ; Times: 1
+	Query: "769836" ; Times: 1
+	Query: "63237" ; Times: 1
+	Query: "179064" ; Times: 1
+	Query: "genus:Bison specificepithet:Bison" ; Times: 1
+	Query: "79125" ; Times: 1
+	Query: "mummy" ; Times: 1
+	Query: "Puma concolor stanleyana stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "264653" ; Times: 1
+	Query: "190698" ; Times: 1
+	Query: "catalognumber:26392 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "387207" ; Times: 1
+	Query: "toolik sorex" ; Times: 2
+	Query: "73832 peromyscus" ; Times: 2
+	Query: "80301 sorex" ; Times: 2
+	Query: "79663" ; Times: 2
+	Query: "115914" ; Times: 1
+	Query: "sorex portenkoi" ; Times: 1
+	Query: "103059" ; Times: 1
+	Query: "catalognumber:125551" ; Times: 1
+	Query: "43990" ; Times: 1
+	Query: "20009 sorex" ; Times: 4
+	Query: "190224" ; Times: 1
+	Query: "catalognumber:19612" ; Times: 1
+	Query: "116137" ; Times: 1
+	Query: "47956" ; Times: 1
+	Query: "37232" ; Times: 2
+	Query: "120938" ; Times: 1
+	Query: "Martes foina" ; Times: 2
+	Query: "catalognumber:97386 year &gt;= 2002" ; Times: 1
+	Query: "family:Felidae hastypestatus:1" ; Times: 1
+	Query: "104174" ; Times: 1
+	Query: "772947" ; Times: 1
+	Query: "179400" ; Times: 1
+	Query: "catalognumber:28784" ; Times: 2
+	Query: "16883" ; Times: 1
+	Query: "611849" ; Times: 1
+	Query: "catalognumber:123999" ; Times: 1
+	Query: "158103" ; Times: 1
+	Query: "2074 peromyscus" ; Times: 1
+	Query: "129486" ; Times: 1
+	Query: "(platt)" ; Times: 3
+	Query: "(AY014943)" ; Times: 1
+	Query: "421666" ; Times: 1
+	Query: "(128044)" ; Times: 1
+	Query: "728114" ; Times: 1
+	Query: "93857" ; Times: 1
+	Query: "dasypus novemcinctus" ; Times: 1
+	Query: "119648" ; Times: 1
+	Query: "39437" ; Times: 1
+	Query: "baer" ; Times: 1
+	Query: "686271" ; Times: 1
+	Query: "554498" ; Times: 1
+	Query: "106979" ; Times: 1
+	Query: "vntype:specimen specificepithet:lucifugus genus:myotis stateprovince:&#34;Alaska&#34; hastissue:1" ; Times: 3
+	Query: "102701" ; Times: 1
+	Query: "644335" ; Times: 3
+	Query: "667359" ; Times: 1
+	Query: "specificepithet:lotor genus:procyon stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "Martes zibellina" ; Times: 1
+	Query: "catalognumber:45779" ; Times: 1
+	Query: "79405" ; Times: 1
+	Query: "524603" ; Times: 1
+	Query: "524604" ; Times: 1
+	Query: "38592" ; Times: 1
+	Query: "274040" ; Times: 1
+	Query: "58664" ; Times: 1
+	Query: "96194" ; Times: 1
+	Query: "Neotoma lepida" ; Times: 4
+	Query: "specificepithet:vagrans genus:sorex stateprovince:&#34;california&#34; hastissue:1" ; Times: 3
+	Query: "9738 peromyscus" ; Times: 1
+	Query: "234156" ; Times: 2
+	Query: "20009" ; Times: 1
+	Query: "genus:Orcinus specificepithet:orca" ; Times: 10
+	Query: "75267" ; Times: 2
+	Query: "specificepithet:lucifugus genus:Myotis country:&#34;Canada&#34;" ; Times: 1
+	Query: "525571" ; Times: 1
+	Query: "monster" ; Times: 1
+	Query: "specificepithet:scrofa genus:sus month &gt;= 2 month &lt;= 5" ; Times: 1
+	Query: "64748" ; Times: 1
+	Query: "132136" ; Times: 1
+	Query: "729074" ; Times: 1
+	Query: "tai o" ; Times: 1
+	Query: "125792" ; Times: 1
+	Query: "specificepithet:macrotis genus:vulpes stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "725223" ; Times: 1
+	Query: "anaconda" ; Times: 1
+	Query: "554489" ; Times: 1
+	Query: "38633" ; Times: 1
+	Query: "57822" ; Times: 1
+	Query: "M-63839" ; Times: 1
+	Query: "623753" ; Times: 1
+	Query: "family:Ursidae lifestage:adult" ; Times: 1
+	Query: "12549" ; Times: 1
+	Query: "73832" ; Times: 1
+	Query: "38568" ; Times: 1
+	Query: "553124" ; Times: 1
+	Query: "120772" ; Times: 1
+	Query: "120462" ; Times: 1
+	Query: "79403" ; Times: 1
+	Query: "447567" ; Times: 1
+	Query: "puffin" ; Times: 1
+	Query: "64733" ; Times: 1
+	Query: "33761" ; Times: 1
+	Query: "79489" ; Times: 2
+	Query: "471606" ; Times: 1
+	Query: "113485" ; Times: 1
+	Query: "67565" ; Times: 1
+	Query: "48344" ; Times: 1
+	Query: "&#34;Ochotona princeps&#34; stateprovince: washington" ; Times: 1
+	Query: "96451" ; Times: 1
+	Query: "611852" ; Times: 1
+	Query: "KU 6676" ; Times: 1
+	Query: "49138" ; Times: 1
+	Query: "235808" ; Times: 1
+	Query: "51803" ; Times: 1
+	Query: "toolik" ; Times: 2
+	Query: "Grampus griseus" ; Times: 1
+	Query: "802458" ; Times: 1
+	Query: "12552" ; Times: 1
+	Query: "51361" ; Times: 1
+	Query: "NUM" ; Times: 1
+	Query: "38185" ; Times: 1
+	Query: "267071" ; Times: 1
+	Query: "catalognumber:26392" ; Times: 1
+	Query: "121605" ; Times: 1
+	Query: "(19565)" ; Times: 1
+	Query: "&#34;ochotona princeps&#34; vntype:specimen stateprovince:&#34;Washington&#34; lengthtype:total length haslength:1" ; Times: 4
+	Query: "catalognumber:16369" ; Times: 1
+	Query: "Sheepheaven" ; Times: 1
+	Query: "79557" ; Times: 1
+	Query: "37765" ; Times: 1
+	Query: "specificepithet:lotor genus:procyon stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "80301" ; Times: 1
+	Query: "30246" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 50 (out of 1106 download events in this period)
+Total number of records downloaded: 34362
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 38
+	Country: Argentina ; Times: 2
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 1
+	Date: 2020-05-26 ; Times: 1
+	Date: 2020-05-30 ; Times: 10
+	Date: 2020-05-23 ; Times: 2
+	Date: 2020-05-22 ; Times: 12
+	Date: 2020-05-28 ; Times: 3
+	Date: 2020-05-18 ; Times: 2
+	Date: 2020-05-19 ; Times: 1
+	Date: 2020-05-08 ; Times: 6
+	Date: 2020-05-07 ; Times: 2
+	Date: 2020-05-06 ; Times: 3
+	Date: 2020-05-04 ; Times: 2
+	Date: 2020-05-03 ; Times: 2
+	Date: 2020-05-02 ; Times: 1
+	Date: 2020-05-16 ; Times: 1
+	Date: 2020-05-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen genus:Mus" ; Times: 2
+	Query: "specificepithet:lotor genus:procyon stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "order:Rodentia stateprovince:Utah" ; Times: 2
+	Query: "order:Rodentia stateprovince:Colorado" ; Times: 2
+	Query: "specificepithet:lotor genus:procyon stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Perognathus flavus" ; Times: 1
+	Query: "vntype:specimen genus:Mus haslength:1" ; Times: 1
+	Query: "Puma concolor" ; Times: 2
+	Query: "Phoca vitulina" ; Times: 1
+	Query: "continent:Europe" ; Times: 1
+	Query: "Enhydra lutris" ; Times: 1
+	Query: "Zalophus californianus" ; Times: 1
+	Query: "order:Rodentia stateprovince:New Mexico" ; Times: 2
+	Query: "Peromyscus maniculatus" ; Times: 1
+	Query: "Peromyscus polionotus" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;North Carolina&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Martes zibellina" ; Times: 1
+	Query: "&#34;Peromyscus keeni&#34;" ; Times: 1
+	Query: "genus:Gulo" ; Times: 1
+	Query: "Lontra canadensis" ; Times: 1
+	Query: "specificepithet:lucifugus genus:Myotis stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "Martes americana" ; Times: 1
+	Query: "country:&#34;Russia&#34;" ; Times: 1
+	Query: "order:Rodentia stateprovince:Nevada" ; Times: 2
+	Query: "procyon lotor" ; Times: 1
+	Query: "specificepithet:trowbridgii genus:sorex" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "lynx rufus" ; Times: 2
+	Query: "Martes martes" ; Times: 1
+	Query: "Mirounga angustirostris" ; Times: 1
+	Query: "cervus canadensis" ; Times: 1
+	Query: "odocoileus hemionus" ; Times: 1
+	Query: "Martes pennanti" ; Times: 1
+	Query: "bassariscus astutus" ; Times: 1
+	Query: "vntype:specimen genus:Mus hasmass:1" ; Times: 2
+	Query: "order:Rodentia stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Jackson Oregon" ; Times: 1
+	Query: "genus:Martes" ; Times: 2
+	Query: "Martes foina" ; Times: 2
+	Query: "Lasiurus cinereus" ; Times: 1
+
+
+End of report.
