@@ -1,0 +1,420 @@
+Report for Institution Code UAM, Resource uam_mamm
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 668
+Number of records retrieved in searches: 5441
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 23
+	Country: United States ; Times: 610
+	Country: Netherlands ; Times: 2
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: Denmark ; Times: 1
+	Country: France ; Times: 5
+	Country: United Kingdom ; Times: 4
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: Belgium ; Times: 2
+	Country: Brazil ; Times: 4
+	Country: Argentina ; Times: 1
+	Country: Spain ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-04 ; Times: 56
+	Date: 2020-02-23 ; Times: 2
+	Date: 2020-02-02 ; Times: 55
+	Date: 2020-02-03 ; Times: 119
+	Date: 2020-02-26 ; Times: 4
+	Date: 2020-02-01 ; Times: 70
+	Date: 2020-02-20 ; Times: 13
+	Date: 2020-02-21 ; Times: 15
+	Date: 2020-02-22 ; Times: 3
+	Date: 2020-02-05 ; Times: 52
+	Date: 2020-02-08 ; Times: 3
+	Date: 2020-02-09 ; Times: 14
+	Date: 2020-02-28 ; Times: 19
+	Date: 2020-02-29 ; Times: 3
+	Date: 2020-02-11 ; Times: 23
+	Date: 2020-02-10 ; Times: 25
+	Date: 2020-02-13 ; Times: 5
+	Date: 2020-02-12 ; Times: 12
+	Date: 2020-02-15 ; Times: 5
+	Date: 2020-02-14 ; Times: 6
+	Date: 2020-02-17 ; Times: 7
+	Date: 2020-02-16 ; Times: 5
+	Date: 2020-02-19 ; Times: 4
+	Date: 2020-02-18 ; Times: 16
+	Date: 2020-02-24 ; Times: 10
+	Date: 2020-02-25 ; Times: 20
+	Date: 2020-02-27 ; Times: 33
+	Date: 2020-02-06 ; Times: 55
+	Date: 2020-02-07 ; Times: 14
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:spasma genus:Megaderma hastissue:1" ; Times: 1
+	Query: "&#34;Panthera tigris altaica&#34;" ; Times: 2
+	Query: "Panthera uncia basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:43253" ; Times: 1
+	Query: "cystophora" ; Times: 2
+	Query: "Dasypus &#34;novemcinctus&#34;" ; Times: 3
+	Query: "36877" ; Times: 1
+	Query: "&#34; rosmarus divergens&#34;" ; Times: 1
+	Query: "catalognumber:19343" ; Times: 1
+	Query: "39343" ; Times: 1
+	Query: "catalognumber:54329" ; Times: 1
+	Query: "&#34;Puma concolor&#34;" ; Times: 1
+	Query: "87329" ; Times: 1
+	Query: "Ursus maritimus" ; Times: 5
+	Query: "17161" ; Times: 1
+	Query: "36879" ; Times: 2
+	Query: "&#34; Odobenus rosmarus&#34;" ; Times: 1
+	Query: "22179" ; Times: 1
+	Query: "(dermoptera Cynocephalidae)" ; Times: 2
+	Query: "15683" ; Times: 1
+	Query: "Sapajus apella mappable:1" ; Times: 2
+	Query: "Elephas maximus" ; Times: 1
+	Query: "genus:balaena" ; Times: 6
+	Query: "recordedby:Bleich" ; Times: 1
+	Query: "sorex leucogaster" ; Times: 2
+	Query: "122925" ; Times: 1
+	Query: "&#34;Bos taurus&#34;" ; Times: 1
+	Query: "145084" ; Times: 1
+	Query: "Dermoptera" ; Times: 63
+	Query: "80282" ; Times: 1
+	Query: "catalognumber:43246" ; Times: 1
+	Query: "catalognumber:1625" ; Times: 1
+	Query: "41652" ; Times: 1
+	Query: "110015" ; Times: 1
+	Query: "Sea turtle" ; Times: 1
+	Query: "dermoptera (java)" ; Times: 2
+	Query: "14846" ; Times: 1
+	Query: "(Dermoptera) distance(location,geopoint(-7.102702205154772,108.12560885624748))&lt;100000" ; Times: 1
+	Query: "91643" ; Times: 1
+	Query: "(Dermoptera variegatus)" ; Times: 1
+	Query: "54329" ; Times: 2
+	Query: "124774" ; Times: 1
+	Query: "sorex jacksoni" ; Times: 1
+	Query: "82104" ; Times: 2
+	Query: "specificepithet:vivesi genus:myotis" ; Times: 1
+	Query: "87330" ; Times: 1
+	Query: "128087" ; Times: 1
+	Query: "sorex camtschatica" ; Times: 2
+	Query: "19835" ; Times: 1
+	Query: "catalognumber:25450" ; Times: 1
+	Query: "Tursiops truncatus" ; Times: 2
+	Query: "(Dermoptera)" ; Times: 20
+	Query: "118964" ; Times: 1
+	Query: "51609" ; Times: 1
+	Query: "137110" ; Times: 1
+	Query: "&#34;rosmarus divergens&#34;" ; Times: 1
+	Query: "l3" ; Times: 1
+	Query: "dermoptera distance(location,geopoint(-6.836857548623402,108.28404689903414))&lt;100000" ; Times: 1
+	Query: "order:Dermoptera" ; Times: 6
+	Query: "odobenus rosmarus" ; Times: 1
+	Query: "recordedby:hammond" ; Times: 1
+	Query: "20991" ; Times: 2
+	Query: "(&#34;dasypus novemcinctus&#34;)" ; Times: 2
+	Query: "meles meles" ; Times: 2
+	Query: "&#34;Tursiops truncatus&#34;" ; Times: 1
+	Query: "CJC 2922" ; Times: 1
+	Query: "72167" ; Times: 1
+	Query: "angustifolium Epilobium" ; Times: 1
+	Query: "72164" ; Times: 2
+	Query: "&#34;orcinus orca&#34;" ; Times: 1
+	Query: "Canis familiaris hasmass:1" ; Times: 1
+	Query: "video" ; Times: 1
+	Query: "specificepithet:lucifugus genus:Myotis hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:hemionus genus:Odocoileus stateprovince:&#34;Alaska&#34;" ; Times: 3
+	Query: "34885" ; Times: 1
+	Query: "dermoptera distance(location,geopoint(-7.142294377702638,107.93248439903402))&lt;100000" ; Times: 2
+	Query: "&#34;oryctolagus cuniculus&#34;" ; Times: 1
+	Query: "728114" ; Times: 1
+	Query: "mummy" ; Times: 2
+	Query: "81138" ; Times: 1
+	Query: "24101" ; Times: 2
+	Query: "&#34;dermoptera&#34;" ; Times: 1
+	Query: "45612" ; Times: 1
+	Query: "north american porcupine" ; Times: 2
+	Query: "Antilocapra americana" ; Times: 2
+	Query: "ovibos moschatus" ; Times: 1
+	Query: "51716" ; Times: 1
+	Query: "98211" ; Times: 1
+	Query: "monster" ; Times: 1
+	Query: "genus:Odobenus preparations:skull catalognumber:87330 institutioncode:UAM" ; Times: 1
+	Query: "Monodon monoceros" ; Times: 3
+	Query: "sorex portenkoi" ; Times: 2
+	Query: "mustela putorius" ; Times: 1
+	Query: "class:Mammalia catalognumber:124091" ; Times: 5
+	Query: "class:Mammalia catalognumber:124092" ; Times: 1
+	Query: "order:dermoptera" ; Times: 6
+	Query: "specificepithet:hispidus genus:Sigmodon" ; Times: 1
+	Query: "17132" ; Times: 2
+	Query: "Urocitellus columbianus" ; Times: 2
+	Query: "genus:Aplodontia hastissue:1" ; Times: 1
+	Query: "grey wolf" ; Times: 1
+	Query: "DERMOPTERA" ; Times: 5
+	Query: "Panthera uncia" ; Times: 1
+	Query: "physeter" ; Times: 1
+	Query: "seahorse" ; Times: 1
+	Query: "93535" ; Times: 1
+	Query: "&#34;Erinaceus europaeus&#34;" ; Times: 1
+	Query: "189994" ; Times: 1
+	Query: "&#34;Erethizon dorsatum&#34;" ; Times: 3
+	Query: "26386" ; Times: 1
+	Query: "genus:Ochotona distance(location,geopoint(62.97888821098681,-145.77301025390625))&lt;100000" ; Times: 1
+	Query: "Java order:dermoptera" ; Times: 1
+	Query: "105222" ; Times: 1
+	Query: "(dasypus novemcinctus)" ; Times: 1
+	Query: "85104" ; Times: 1
+	Query: "catalognumber:43732" ; Times: 1
+	Query: "genus:Megaderma order:Chiroptera hastissue:1" ; Times: 1
+	Query: "family:tupaiidae" ; Times: 1
+	Query: "&#34;Odobenus rosmarus&#34;" ; Times: 2
+	Query: "genus:ovis recordedby:Bleich" ; Times: 4
+	Query: "jubata" ; Times: 1
+	Query: "distance(location,geopoint(63.30088229053968,-146.9293212890625))&lt;23560" ; Times: 1
+	Query: "41501" ; Times: 2
+	Query: "Antilocapra americana basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "AL family:tupaiidae" ; Times: 1
+	Query: "gray wolf" ; Times: 3
+	Query: "128589" ; Times: 1
+	Query: "catalognumber:22201 institutioncode:UAM" ; Times: 4
+	Query: "Neotoma cinerea" ; Times: 5
+	Query: "184512" ; Times: 1
+	Query: "728117" ; Times: 1
+	Query: "27725" ; Times: 2
+	Query: "catalognumber:124091" ; Times: 1
+	Query: "Neotoma lepida" ; Times: 1
+	Query: "AL 1 family:tupaiidae" ; Times: 1
+	Query: "alpinus Arctostaphylos" ; Times: 3
+	Query: "259264" ; Times: 2
+	Query: "Balaena" ; Times: 1
+	Query: "vntype:specimen family:Cynocephalidae order:dermoptera" ; Times: 1
+	Query: "(dermoptera java)" ; Times: 5
+	Query: "bears" ; Times: 1
+	Query: "UAM 113849" ; Times: 2
+	Query: "chrotopterus auritus" ; Times: 1
+	Query: "39229" ; Times: 1
+	Query: "specificepithet:hoyi genus:Sorex hasmass:1 haslength:1" ; Times: 2
+	Query: "Java vntype:specimen order:dermoptera" ; Times: 1
+	Query: "ursus maritimus" ; Times: 5
+	Query: "&#34;Marmota monax&#34;" ; Times: 1
+	Query: "sorex ugyunak" ; Times: 2
+	Query: "7239" ; Times: 1
+	Query: "catalognumber:832" ; Times: 1
+	Query: "specificepithet:Vulpes genus:Vulpes continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "dasypus &#34;novemcinctus&#34;" ; Times: 6
+	Query: "&#34;Dermoptera&#34;" ; Times: 3
+	Query: "&#34;Lasionycteris noctivagans&#34; continent:North America hasmass:1 haslength:1" ; Times: 1
+	Query: "class:mammalia catalognumber:1392" ; Times: 2
+	Query: "70808" ; Times: 1
+	Query: "12020" ; Times: 1
+	Query: "mirounga" ; Times: 2
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "dog years" ; Times: 1
+	Query: "country:&#34;finland&#34; sex:male" ; Times: 3
+	Query: "antilocapra americana" ; Times: 1
+	Query: "chrotorrhinus" ; Times: 1
+	Query: "catalognumber:12020" ; Times: 1
+	Query: "pika" ; Times: 1
+	Query: "homo sapiens" ; Times: 6
+	Query: "specificepithet:foina genus:Martes" ; Times: 1
+	Query: "ovis nivicola" ; Times: 1
+	Query: "catalognumber:17595" ; Times: 1
+	Query: "Skulls" ; Times: 1
+	Query: "primate" ; Times: 1
+	Query: "Glaucomys volans (skull) hasmass:1 haslength:1" ; Times: 1
+	Query: "14267" ; Times: 1
+	Query: "snowshoe hare" ; Times: 1
+	Query: "dryas" ; Times: 2
+	Query: "221428" ; Times: 1
+	Query: "catalognumber:43064" ; Times: 1
+	Query: "Delphinapterus leucas" ; Times: 1
+	Query: "14245" ; Times: 1
+	Query: "Bats" ; Times: 1
+	Query: "Martes foina" ; Times: 4
+	Query: "278665" ; Times: 1
+	Query: "&#34;Dasypus Novemcinctus&#34;" ; Times: 3
+	Query: "country:&#34;finland&#34; sex:male OR female" ; Times: 2
+	Query: "(&#34;Dasypus Novemcinctus&#34;)" ; Times: 1
+	Query: "Mesoplodon" ; Times: 1
+	Query: "phoca" ; Times: 3
+	Query: "15700" ; Times: 1
+	Query: "martes foina" ; Times: 1
+	Query: "277123" ; Times: 1
+	Query: "ORDER DERMOPTERA" ; Times: 2
+	Query: "catalognumber:1392" ; Times: 1
+	Query: "specificepithet:americana genus:martes stateprovince:&#34;British columbia&#34;" ; Times: 3
+	Query: "14244" ; Times: 1
+	Query: "Glaucomys sabrinus (skull) hasmass:1 haslength:1" ; Times: 1
+	Query: "catalognumber:52400" ; Times: 1
+	Query: "(Dasypus novemcinctus)" ; Times: 3
+	Query: "98369" ; Times: 3
+	Query: "dermoptera" ; Times: 95
+	Query: "255198" ; Times: 1
+	Query: "vntype:specimen specificepithet:vivesi genus:myotis" ; Times: 1
+	Query: "98368" ; Times: 1
+	Query: "genus:Odobenus preparations:skull catalognumber:97895 institutioncode:UAM" ; Times: 1
+	Query: "55671" ; Times: 1
+	Query: "113004" ; Times: 1
+	Query: "catalognumber:60986" ; Times: 1
+	Query: "(Dermoptera) distance(location,geopoint(-6.613984109858239,110.26718275666883))&lt;236063" ; Times: 1
+	Query: "Primate" ; Times: 1
+	Query: "Pika" ; Times: 2
+	Query: "sorex pribilofensis" ; Times: 1
+	Query: "87107" ; Times: 1
+	Query: "specificepithet:americana genus:martes stateprovince:&#34;British Columbia&#34;" ; Times: 1
+	Query: "North American porcupine" ; Times: 1
+	Query: "dermoptera java" ; Times: 2
+	Query: "25928" ; Times: 1
+	Query: "(Dermoptera) distance(location,geopoint(-7.218910198988056,109.97598345454969))&lt;187167" ; Times: 1
+	Query: "&#34;dasypus novemcinctus&#34;" ; Times: 13
+	Query: "41653" ; Times: 1
+	Query: "277686" ; Times: 1
+	Query: "71925" ; Times: 1
+	Query: "Geographical distribution" ; Times: 3
+	Query: "73559" ; Times: 1
+	Query: "genus:Odobenus preparations:skull" ; Times: 14
+	Query: "dasypus novemcinctus" ; Times: 8
+	Query: "specificepithet:lotor genus:procyon stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "(dermoptera)" ; Times: 20
+	Query: "15969" ; Times: 1
+	Query: "89688" ; Times: 1
+	Query: "126112" ; Times: 1
+	Query: "26348" ; Times: 1
+	Query: "specificepithet:audubonii genus:sylvilagus stateprovince:&#34;california&#34; preparations:skeleton" ; Times: 1
+	Query: "17179" ; Times: 1
+	Query: "(dermoptera) distance(location,geopoint(-7.360100409293891,109.16775436520334))&lt;366856" ; Times: 1
+	Query: "&#34;Dasypus novemcinctus&#34;" ; Times: 40
+	Query: "278489" ; Times: 1
+	Query: "(&#34;Dasypus novemcinctus&#34;)" ; Times: 1
+	Query: "genus:Odobenus preparations:skull institutioncode:UAM" ; Times: 2
+	Query: "16240" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 21
+	Query: "catalognumber:60987" ; Times: 1
+	Query: "genus:Ochotona stateprovince:&#34;Alaska&#34;" ; Times: 9
+	Query: "11796" ; Times: 1
+	Query: "genus:Odobenus preparations:skull catalognumber:87003 institutioncode:UAM" ; Times: 1
+	Query: "catalognumber:4916" ; Times: 1
+	Query: "physeter macrocephalus" ; Times: 1
+	Query: "specificepithet:hemionus genus:Odocoileus stateprovince:&#34;Alaska&#34; hastissue:1" ; Times: 2
+	Query: "Crocidura suaveolens" ; Times: 2
+	Query: "catalognumber:60985" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 139 (out of 1023 download events in this period)
+Total number of records downloaded: 130039
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 127
+	Country: Canada ; Times: 2
+	Country: Argentina ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-05 ; Times: 15
+	Date: 2020-02-24 ; Times: 1
+	Date: 2020-02-03 ; Times: 17
+	Date: 2020-02-26 ; Times: 2
+	Date: 2020-02-01 ; Times: 9
+	Date: 2020-02-20 ; Times: 1
+	Date: 2020-02-21 ; Times: 2
+	Date: 2020-02-04 ; Times: 15
+	Date: 2020-02-23 ; Times: 1
+	Date: 2020-02-08 ; Times: 1
+	Date: 2020-02-09 ; Times: 3
+	Date: 2020-02-11 ; Times: 4
+	Date: 2020-02-10 ; Times: 7
+	Date: 2020-02-13 ; Times: 1
+	Date: 2020-02-12 ; Times: 2
+	Date: 2020-02-15 ; Times: 1
+	Date: 2020-02-14 ; Times: 2
+	Date: 2020-02-17 ; Times: 2
+	Date: 2020-02-16 ; Times: 2
+	Date: 2020-02-19 ; Times: 3
+	Date: 2020-02-18 ; Times: 5
+	Date: 2020-02-02 ; Times: 11
+	Date: 2020-02-25 ; Times: 7
+	Date: 2020-02-27 ; Times: 3
+	Date: 2020-02-06 ; Times: 21
+	Date: 2020-02-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:longicaudus genus:microtus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:cavia" ; Times: 1
+	Query: "Idionycteris phyllotis" ; Times: 1
+	Query: "genus:Geomys family:Geomyidae basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "&#34;Myotis lucifugus&#34; continent:North America hasmass:1 haslength:1" ; Times: 1
+	Query: "dipodomys merriami" ; Times: 3
+	Query: "chrotopterus auritus" ; Times: 1
+	Query: "mammal hasmass:1" ; Times: 1
+	Query: "class:Mammalia county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "specificepithet:americana genus:martes stateprovince:&#34;British columbia&#34;" ; Times: 1
+	Query: "class:mammalia stateprovince:&#34;arkansas&#34;" ; Times: 1
+	Query: "specificepithet:hemionus genus:Odocoileus stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "zapus princeps" ; Times: 1
+	Query: "&#34;Lasiurus cinereus&#34; continent:North America hasmass:1 haslength:1" ; Times: 1
+	Query: "county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "order:Chiroptera" ; Times: 1
+	Query: "Dermoptera" ; Times: 26
+	Query: "Enhydra lutris" ; Times: 1
+	Query: "(Dermoptera) distance(location,geopoint(-6.613984109858239,110.26718275666883))&lt;236063" ; Times: 1
+	Query: "sorex cinereus" ; Times: 1
+	Query: "sorex pribilofensis" ; Times: 1
+	Query: "genus:lemmiscus hastissue:1" ; Times: 1
+	Query: "(dermoptera java)" ; Times: 3
+	Query: "physeter macrocephalus" ; Times: 1
+	Query: "genus:Tamiasciurus" ; Times: 1
+	Query: "(dermoptera) distance(location,geopoint(-7.360100409293891,109.16775436520334))&lt;366856" ; Times: 1
+	Query: "country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "vntype:specimen genus:Myotis continent:North America hasmass:1" ; Times: 1
+	Query: "sorex ugyunak" ; Times: 1
+	Query: "vntype:specimen order:Primates" ; Times: 1
+	Query: "louisiana" ; Times: 1
+	Query: "genus:Peromyscus stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;michigan&#34;" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 2
+	Query: "genus:peromyscus stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "sciurus niger" ; Times: 1
+	Query: "lynx canadensis" ; Times: 1
+	Query: "sorex portenkoi" ; Times: 1
+	Query: "(dermoptera)" ; Times: 5
+	Query: "&#34;Panthera tigris altaica&#34;" ; Times: 1
+	Query: "distance(location,geopoint(33.00721728873146,-116.82047633587615))&lt;47696" ; Times: 1
+	Query: "&#34;Lasionycteris noctivagans&#34; continent:North America hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;wisconsin&#34;" ; Times: 1
+	Query: "order:dermoptera" ; Times: 3
+	Query: "DERMOPTERA" ; Times: 2
+	Query: "genus:Odobenus preparations:skull" ; Times: 3
+	Query: "Urocitellus columbianus" ; Times: 1
+	Query: "genus:Aplodontia hastissue:1" ; Times: 1
+	Query: "sorex leucogaster" ; Times: 1
+	Query: "sorex camtschatica" ; Times: 1
+	Query: "sorex jacksoni" ; Times: 1
+	Query: "order:Chiroptera hassex:1 hasmass:1" ; Times: 1
+	Query: "didelphis virginiana" ; Times: 1
+	Query: "order:Dermoptera" ; Times: 2
+	Query: "genus:Macrotus stateprovince:&#34;California&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Glaucomys volans (skull) hasmass:1 haslength:1" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "(Dermoptera)" ; Times: 1
+	Query: "sigmodon hispidus" ; Times: 1
+	Query: "&#34;Eptesicus fuscus&#34; continent:North America hasmass:1 haslength:1" ; Times: 1
+	Query: "Glaucomys sabrinus (skull) hasmass:1 haslength:1" ; Times: 1
+	Query: "Myotis ciliolabrum basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "&#34;dermoptera&#34;" ; Times: 2
+	Query: "genus:Geomys stateprovince:&#34;Texas&#34; year &gt;= 1996 year &lt;= 1999" ; Times: 1
+	Query: "Peromyscus leucopus" ; Times: 1
+	Query: "dermoptera" ; Times: 29
+	Query: "order:rodentia hassex:1 hasmass:1" ; Times: 1
+
+
+End of report.
