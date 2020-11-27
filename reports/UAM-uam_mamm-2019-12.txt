@@ -1,0 +1,214 @@
+Report for Institution Code UAM, Resource uam_mamm
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 174
+Number of records retrieved in searches: 1655
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 9
+	Country: Israel ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 2
+	Country: France ; Times: 23
+	Country: United States ; Times: 124
+	Country: Germany ; Times: 2
+	Country: New Zealand ; Times: 1
+	Country: Ecuador ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-25 ; Times: 10
+	Date: 2019-12-24 ; Times: 8
+	Date: 2019-12-27 ; Times: 5
+	Date: 2019-12-26 ; Times: 4
+	Date: 2019-12-21 ; Times: 1
+	Date: 2019-12-20 ; Times: 7
+	Date: 2019-12-22 ; Times: 12
+	Date: 2019-12-28 ; Times: 1
+	Date: 2019-12-18 ; Times: 1
+	Date: 2019-12-19 ; Times: 1
+	Date: 2019-12-10 ; Times: 4
+	Date: 2019-12-11 ; Times: 7
+	Date: 2019-12-12 ; Times: 5
+	Date: 2019-12-13 ; Times: 13
+	Date: 2019-12-16 ; Times: 4
+	Date: 2019-12-17 ; Times: 11
+	Date: 2019-12-30 ; Times: 5
+	Date: 2019-12-31 ; Times: 17
+	Date: 2019-12-09 ; Times: 14
+	Date: 2019-12-08 ; Times: 3
+	Date: 2019-12-07 ; Times: 3
+	Date: 2019-12-06 ; Times: 11
+	Date: 2019-12-05 ; Times: 10
+	Date: 2019-12-04 ; Times: 7
+	Date: 2019-12-03 ; Times: 4
+	Date: 2019-12-02 ; Times: 4
+	Date: 2019-12-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "53319" ; Times: 1
+	Query: "Microtus chrotorrhinus" ; Times: 8
+	Query: "mallard" ; Times: 1
+	Query: "lemmus nigripes" ; Times: 3
+	Query: "UAM 43440" ; Times: 1
+	Query: "stateprovince:&#34;Koh Kong&#34; country:&#34;Cambodia&#34;" ; Times: 3
+	Query: "Ziphius cavirostris mappable:1" ; Times: 2
+	Query: "78651" ; Times: 2
+	Query: "genus:Odobenus" ; Times: 1
+	Query: "110738" ; Times: 1
+	Query: "78659" ; Times: 1
+	Query: "Stenella coeruleoalba mappable:1" ; Times: 2
+	Query: "241454" ; Times: 1
+	Query: "91317" ; Times: 1
+	Query: "18569" ; Times: 1
+	Query: "124577" ; Times: 1
+	Query: "24368" ; Times: 1
+	Query: "58319" ; Times: 1
+	Query: "specificepithet:parryii genus:Urocitellus institutioncode:UAM" ; Times: 1
+	Query: "UAM 25341" ; Times: 1
+	Query: "frederick island" ; Times: 2
+	Query: "specificepithet:lutra genus:Lutra mappable:1" ; Times: 1
+	Query: "stefania" ; Times: 3
+	Query: "55084" ; Times: 1
+	Query: "32093" ; Times: 1
+	Query: "UAM 30990" ; Times: 2
+	Query: "124580" ; Times: 1
+	Query: "242855" ; Times: 1
+	Query: "52713" ; Times: 1
+	Query: "specificepithet:parryii genus:Urocitellus preparations:frozen institutioncode:UAM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "116149" ; Times: 1
+	Query: "2013-1064" ; Times: 1
+	Query: "20195" ; Times: 1
+	Query: "genus:vulpes haslifestage:1 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "109195" ; Times: 1
+	Query: "224529" ; Times: 1
+	Query: "specificepithet:parryii genus:Urocitellus institutioncode:UAM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "242201" ; Times: 1
+	Query: "catalognumber:71812" ; Times: 1
+	Query: "catalognumber:71814" ; Times: 1
+	Query: "continent:north america recordedby:anderson year &gt;= 1850 year &lt;= 1900" ; Times: 3
+	Query: "monster" ; Times: 1
+	Query: "23496" ; Times: 1
+	Query: "242516" ; Times: 1
+	Query: "specificepithet:parryii genus:Urocitellus preparations:whole organism institutioncode:UAM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:parva genus:Cryptotis hastissue:1" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "CJV" ; Times: 2
+	Query: "right whale" ; Times: 1
+	Query: "pika" ; Times: 2
+	Query: "Steno bredanensis mappable:1" ; Times: 2
+	Query: "Megaptera novaeangliae mappable:1" ; Times: 2
+	Query: "37484" ; Times: 2
+	Query: "catalognumber:36799" ; Times: 1
+	Query: "(Bald eagle) hasmedia:1" ; Times: 1
+	Query: "17045" ; Times: 1
+	Query: "54011" ; Times: 1
+	Query: "genus:vulpes haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "gray fox" ; Times: 2
+	Query: "11270." ; Times: 1
+	Query: "207539" ; Times: 1
+	Query: "microtus chrotorrhinus" ; Times: 16
+	Query: "59361" ; Times: 1
+	Query: "pero" ; Times: 1
+	Query: "50129" ; Times: 2
+	Query: "13208" ; Times: 1
+	Query: "reindeer" ; Times: 1
+	Query: "68443" ; Times: 1
+	Query: "specificepithet:dispar genus:Sorex" ; Times: 1
+	Query: "56609" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis year &gt;= 1400 year &lt;= 1910" ; Times: 3
+	Query: "ovary carnivora" ; Times: 2
+	Query: "Physeter macrocephalus mappable:1" ; Times: 2
+	Query: "55764" ; Times: 1
+	Query: "rock vole" ; Times: 2
+	Query: "NMW" ; Times: 1
+	Query: "91315" ; Times: 1
+	Query: "91314" ; Times: 1
+	Query: "23783" ; Times: 1
+	Query: "88850" ; Times: 1
+	Query: "13110" ; Times: 1
+	Query: "(Antarctica) hastissue:1" ; Times: 1
+	Query: "76706" ; Times: 1
+	Query: "58113" ; Times: 1
+	Query: "panthera uncia" ; Times: 3
+	Query: "Rungwecebus" ; Times: 1
+	Query: "49481" ; Times: 2
+	Query: "catalognumber:1129" ; Times: 1
+	Query: "14153" ; Times: 1
+	Query: "axis" ; Times: 1
+	Query: "Kogia breviceps mappable:1" ; Times: 2
+	Query: "hyoid" ; Times: 1
+	Query: "Right Whale" ; Times: 2
+	Query: "242089" ; Times: 1
+	Query: "(Bald eagle) hasmedia:1 hastissue:1" ; Times: 1
+	Query: "241651" ; Times: 1
+	Query: "Balaenoptera acutorostrata mappable:1" ; Times: 4
+	Query: "14865" ; Times: 1
+	Query: "125787" ; Times: 1
+	Query: "33534" ; Times: 1
+	Query: "Orcinus orca mappable:1" ; Times: 2
+	Query: "year&gt;=2018 year&lt;=2019 month&gt;=12 month&lt;=12 day&gt;=1 day&lt;=1" ; Times: 1
+	Query: "241260" ; Times: 1
+	Query: "Trichechus manatus mappable:1" ; Times: 2
+	Query: "Grampus griseus mappable:1" ; Times: 2
+	Query: "160714" ; Times: 1
+	Query: "specificepithet:parryii genus:Urocitellus catalognumber:53833 institutioncode:UAM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "99728" ; Times: 1
+	Query: "homo sapiens" ; Times: 4
+	Query: "ovary mammalia" ; Times: 1
+	Query: "UAM 52705" ; Times: 1
+	Query: "11719" ; Times: 1
+	Query: "Bacteria" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 21 (out of 596 download events in this period)
+Total number of records downloaded: 13415
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 17
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-27 ; Times: 2
+	Date: 2019-12-13 ; Times: 3
+	Date: 2019-12-31 ; Times: 1
+	Date: 2019-12-15 ; Times: 1
+	Date: 2019-12-18 ; Times: 1
+	Date: 2019-12-08 ; Times: 2
+	Date: 2019-12-10 ; Times: 2
+	Date: 2019-12-05 ; Times: 1
+	Date: 2019-12-04 ; Times: 3
+	Date: 2019-12-03 ; Times: 1
+	Date: 2019-12-02 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "class:mammalia stateprovince:&#34;New York&#34; basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "Head Tail hasmass:1 haslength:1" ; Times: 1
+	Query: "aplodontia rufa" ; Times: 1
+	Query: "myotis yumanensis" ; Times: 1
+	Query: "genus:Condylura" ; Times: 2
+	Query: "marmota monax" ; Times: 1
+	Query: "myotis volans" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New York&#34; country:&#34;United States&#34; hastissue:1" ; Times: 1
+	Query: "genus:vulpes haslifestage:1 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:striatus genus:Tamias hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "myotis thysanodes" ; Times: 1
+	Query: "specificepithet:dispar genus:Sorex" ; Times: 1
+	Query: "genus:vulpes haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "genus:Odobenus" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "Panthera leo" ; Times: 2
+	Query: "Timm" ; Times: 1
+
+
+End of report.
