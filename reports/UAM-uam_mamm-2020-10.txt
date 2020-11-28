@@ -1,0 +1,414 @@
+Report for Institution Code UAM, Resource uam_mamm
+Usage stats for October 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 455
+Number of records retrieved in searches: 7395
+Number of different countries where searches have been originated: 20
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 6
+	Country: Brazil ; Times: 3
+	Country: Italy ; Times: 1
+	Country: Bangladesh ; Times: 1
+	Country: Mexico ; Times: 87
+	Country: Hong Kong ; Times: 2
+	Country: Denmark ; Times: 2
+	Country: France ; Times: 30
+	Country: United Kingdom ; Times: 48
+	Country: Austria ; Times: 1
+	Country: Germany ; Times: 3
+	Country: Ecuador ; Times: 11
+	Country: Peru ; Times: 2
+	Country: Unknown ; Times: 9
+	Country: Switzerland ; Times: 1
+	Country: Japan ; Times: 4
+	Country: Argentina ; Times: 4
+	Country: United States ; Times: 238
+	Country: Russia ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-09 ; Times: 13
+	Date: 2020-10-18 ; Times: 10
+	Date: 2020-10-19 ; Times: 3
+	Date: 2020-10-08 ; Times: 19
+	Date: 2020-10-12 ; Times: 12
+	Date: 2020-10-13 ; Times: 64
+	Date: 2020-10-10 ; Times: 2
+	Date: 2020-10-11 ; Times: 3
+	Date: 2020-10-16 ; Times: 14
+	Date: 2020-10-31 ; Times: 4
+	Date: 2020-10-14 ; Times: 17
+	Date: 2020-10-15 ; Times: 14
+	Date: 2020-10-03 ; Times: 7
+	Date: 2020-10-23 ; Times: 6
+	Date: 2020-10-22 ; Times: 11
+	Date: 2020-10-21 ; Times: 12
+	Date: 2020-10-20 ; Times: 23
+	Date: 2020-10-27 ; Times: 11
+	Date: 2020-10-26 ; Times: 10
+	Date: 2020-10-25 ; Times: 9
+	Date: 2020-10-24 ; Times: 4
+	Date: 2020-10-01 ; Times: 4
+	Date: 2020-10-30 ; Times: 51
+	Date: 2020-10-29 ; Times: 50
+	Date: 2020-10-28 ; Times: 4
+	Date: 2020-10-05 ; Times: 22
+	Date: 2020-10-04 ; Times: 3
+	Date: 2020-10-07 ; Times: 4
+	Date: 2020-10-17 ; Times: 22
+	Date: 2020-10-06 ; Times: 15
+	Date: 2020-10-02 ; Times: 12
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:carolinensis genus:Sciurus continent:North America year &lt;= 1960 hasmass:1 haslength:1" ; Times: 1
+	Query: "44455" ; Times: 1
+	Query: "class:mammalia county:&#34;san diego&#34; stateprovince:&#34;california&#34; institutioncode:UAM" ; Times: 1
+	Query: "specificepithet:volans genus:Glaucomys continent:North America year &lt;= 1960 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "RS-142" ; Times: 1
+	Query: "Tursiops aduncus" ; Times: 1
+	Query: "Alces alces" ; Times: 1
+	Query: "Mammal-17053" ; Times: 1
+	Query: "44356" ; Times: 2
+	Query: "Erethizontidae hasmass:1 haslength:1" ; Times: 2
+	Query: "41813" ; Times: 2
+	Query: "Stenella attenuata" ; Times: 1
+	Query: "north American porcupine" ; Times: 4
+	Query: "Bison bison sex:female hasmass:1" ; Times: 1
+	Query: "human" ; Times: 1
+	Query: "specificepithet:maritimus genus:Ursus haslifestage:1 hassex:1" ; Times: 5
+	Query: "erethizon dorsatum" ; Times: 1
+	Query: "specificepithet:concolor family:felidae stateprovince:&#34;california&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "catalognumber:19887" ; Times: 1
+	Query: "mappable:1 scientificname:Trichechus manatus" ; Times: 2
+	Query: "mappable:1 scientificname:Didelphis marsupialis" ; Times: 1
+	Query: "Turquoise vntype:specimen genus:Sorex class:Mammalia" ; Times: 2
+	Query: "specificepithet:lupus genus:Canis hassex:1 hasmass:1" ; Times: 4
+	Query: "Sus scrofa sex:female hasmass:1" ; Times: 1
+	Query: "sockeye" ; Times: 1
+	Query: "Ovis aries" ; Times: 3
+	Query: "Eschrichtius robustus" ; Times: 26
+	Query: "mappable:1 scientificname:Ziphius cavirostris" ; Times: 2
+	Query: "54851" ; Times: 1
+	Query: "Odocoileus hemionus country:&#34;United States&#34; hasmass:1" ; Times: 1
+	Query: "ellobius" ; Times: 2
+	Query: "47132" ; Times: 1
+	Query: "Erethizon dorsatum hasmass:1" ; Times: 1
+	Query: "North American porcupine" ; Times: 3
+	Query: "specificepithet:maritimus genus:Ursus hassex:1 haslength:1" ; Times: 1
+	Query: "catalognumber:101550 institutioncode:UAM" ; Times: 1
+	Query: "specificepithet:angustirostris genus:mirounga" ; Times: 2
+	Query: "127701" ; Times: 1
+	Query: "specificepithet:latrans genus:canis year &lt;= 1900" ; Times: 1
+	Query: "Procyon lotor year &gt;= 2010 year &lt;= 2020 hastissue:1" ; Times: 2
+	Query: "66015" ; Times: 1
+	Query: "gray whale" ; Times: 1
+	Query: "specificepithet:leo genus:Panthera continent:Africa" ; Times: 1
+	Query: "mappable:1 scientificname:Megaptera novaeangliae" ; Times: 2
+	Query: "sorex Sorex cinereus hollisteri" ; Times: 1
+	Query: "genus:taxidea year &gt;= 1850 year &lt;= 1900" ; Times: 1
+	Query: "North American Porcupine hasmass:1 haslength:1" ; Times: 1
+	Query: "Dasypus novemcinctus country:&#34;United States&#34; hasmass:1" ; Times: 1
+	Query: "Meles meles" ; Times: 1
+	Query: "93638" ; Times: 1
+	Query: "specificepithet:rufus genus:lynx hasmass:1 haslength:1" ; Times: 1
+	Query: "(12009)" ; Times: 1
+	Query: "Tursiops truncatus" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sciurus continent:North America year &lt;= 1960 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "genus:Oryzomys hassex:1 hasmass:1" ; Times: 1
+	Query: "balaena mysticetus" ; Times: 3
+	Query: "scientificname:Tamias sibiricus" ; Times: 1
+	Query: "specificepithet:europaea genus:Talpa hasmass:1" ; Times: 1
+	Query: "Syncerus caffer" ; Times: 3
+	Query: "Sorex cinereus hollisteri" ; Times: 1
+	Query: "mappable:1 scientificname:Stenella attenuata" ; Times: 1
+	Query: "specificepithet:volans genus:Glaucomys continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "scientificname:Marmota caligata" ; Times: 4
+	Query: "Lepus americanus struthopus" ; Times: 1
+	Query: "lotta lotta" ; Times: 1
+	Query: "Mule Deer" ; Times: 1
+	Query: "MAMMAL MISSOURI" ; Times: 1
+	Query: "grey squirrel" ; Times: 1
+	Query: "Vulpes vulpes country:&#34;United States&#34; hasmass:1" ; Times: 6
+	Query: "16252" ; Times: 1
+	Query: "Sciurus carolinensis country:&#34;United States&#34; hasmass:1" ; Times: 1
+	Query: "Panthera pardus" ; Times: 1
+	Query: "pikas" ; Times: 3
+	Query: "10431" ; Times: 1
+	Query: "100552" ; Times: 1
+	Query: "specificepithet:moschatus genus:ovibos" ; Times: 1
+	Query: "Neophoca cinerea" ; Times: 1
+	Query: "mappable:1 scientificname:Balaenoptera physalus" ; Times: 1
+	Query: "class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:UAM" ; Times: 1
+	Query: "order:Rodentia basisofrecord:PreservedSpecimen distance(location,geopoint(40.58097897758416,-105.64761799728875))&lt;25231" ; Times: 1
+	Query: "specificepithet:hemionus genus:odocoileus hasmass:1 haslength:1" ; Times: 2
+	Query: "scientificname:Lynx lynx" ; Times: 1
+	Query: "specificepithet:maritimus genus:Ursus" ; Times: 3
+	Query: "catalognumber:124639" ; Times: 1
+	Query: "specificepithet:maritimus genus:Ursus hasmass:1" ; Times: 1
+	Query: "Erethizon dorsatum sex:female hasmass:1" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sciurus continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 2
+	Query: "mappable:1 scientificname:Orcinus orca" ; Times: 2
+	Query: "specificepithet:caffer genus:Syncerus" ; Times: 2
+	Query: "Antilocapra americana" ; Times: 2
+	Query: "Equus" ; Times: 1
+	Query: "Erethizon dorsatum hasmass:1 haslength:1" ; Times: 3
+	Query: "scientificname:Homo sapiens" ; Times: 1
+	Query: "macfarlane" ; Times: 1
+	Query: "monster" ; Times: 2
+	Query: "137702" ; Times: 1
+	Query: "Ovis dalli" ; Times: 1
+	Query: "Monodon monoceros" ; Times: 8
+	Query: "catalognumber:117912 institutioncode:UAM" ; Times: 1
+	Query: "catalognumber:38138 institutioncode:UAM" ; Times: 2
+	Query: "scientificname:Gulo gulo" ; Times: 5
+	Query: "62511" ; Times: 1
+	Query: "vntype:specimen specificepithet:americana genus:Martes stateprovince:&#34;British columbia&#34;" ; Times: 5
+	Query: "specificepithet:carolinensis genus:Sciurus continent:North America year &gt;= 1961 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "20347" ; Times: 1
+	Query: "Marmota flaviventris country:&#34;United States&#34; hasmass:1" ; Times: 1
+	Query: "Sorex dispar" ; Times: 2
+	Query: "Otaria byronia" ; Times: 1
+	Query: "Homo sapiens" ; Times: 6
+	Query: "order:carnivora continent:australia" ; Times: 1
+	Query: "pika" ; Times: 3
+	Query: "23783" ; Times: 2
+	Query: "Procyon lotor country:&#34;United States&#34; hasmass:1" ; Times: 1
+	Query: "Stenella coeruleoalba" ; Times: 1
+	Query: "Trichechidae" ; Times: 1
+	Query: "20582" ; Times: 1
+	Query: "103517" ; Times: 1
+	Query: "Elephantidae" ; Times: 2
+	Query: "Canis latrans country:&#34;United States&#34; hasmass:1" ; Times: 7
+	Query: "specificepithet:maritimus genus:Ursus hassex:1" ; Times: 2
+	Query: "catalognumber:118820 institutioncode:UAM" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 3
+	Query: "balaena" ; Times: 1
+	Query: "Castor canadensis" ; Times: 1
+	Query: "mummy" ; Times: 1
+	Query: "12803" ; Times: 3
+	Query: "specificepithet:frenata genus:mustela haslength:1" ; Times: 1
+	Query: "81916" ; Times: 1
+	Query: "class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:UAM" ; Times: 1
+	Query: "Cervus elaphus" ; Times: 4
+	Query: "tursiops" ; Times: 2
+	Query: "specificepithet:maritimus genus:Ursus hassex:1 hasmass:1" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sciurus continent:North America haslifestage:1 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "50854" ; Times: 1
+	Query: "specificepithet:maritimus genus:Ursus distance(location,geopoint(72.61220813185213,-157.998046875))&lt;418530" ; Times: 2
+	Query: "36220" ; Times: 2
+	Query: "specificepithet:caffer genus:syncerus" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sciurus continent:North America hasmass:1 haslength:1" ; Times: 2
+	Query: "Ovibos moschatus" ; Times: 1
+	Query: "53447" ; Times: 1
+	Query: "norway rat" ; Times: 1
+	Query: "specificepithet:amoenus genus:tamias class:mammalia institutioncode:UAM" ; Times: 1
+	Query: "Sus scrofa" ; Times: 3
+	Query: "specificepithet:ruficaudus genus:tamias class:mammalia" ; Times: 1
+	Query: "mappable:1 scientificname:Grampus griseus" ; Times: 2
+	Query: "specificepithet:hudsonicus genus:Tamiasciurus continent:North America year &lt;= 1960 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "mappable:1 scientificname:Tursiops truncatus" ; Times: 1
+	Query: "specificepithet:dorsatum genus:Erethizon family:Erethizontidae order:Rodentia class:Mammalia hasmass:1 haslength:1" ; Times: 1
+	Query: "0773" ; Times: 1
+	Query: "129208" ; Times: 2
+	Query: "specificepithet:hoyi genus:Sorex hasmass:1 haslength:1" ; Times: 4
+	Query: "Tails" ; Times: 1
+	Query: "specificepithet:lotor genus:procyon lengthtype:total length hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "mammal 10766" ; Times: 1
+	Query: "quagga" ; Times: 1
+	Query: "99233" ; Times: 2
+	Query: "Equus caballus" ; Times: 1
+	Query: "Axis axis" ; Times: 2
+	Query: "33841" ; Times: 2
+	Query: "Bos taurus" ; Times: 4
+	Query: "122944" ; Times: 1
+	Query: "mammal 13363" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 2
+	Query: "CM 59914" ; Times: 2
+	Query: "specificepithet:hudsonicus genus:Tamiasciurus continent:North America year &lt;= 1960 hasmass:1 haslength:1" ; Times: 1
+	Query: "107717" ; Times: 1
+	Query: "107711" ; Times: 1
+	Query: "CM 1498" ; Times: 1
+	Query: "krauss" ; Times: 1
+	Query: "catalognumber:46602 institutioncode:UAM" ; Times: 1
+	Query: "specificepithet:volans genus:Glaucomys continent:North America year &gt;= 1961 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "genus:phocoena lifestage:fetus" ; Times: 1
+	Query: "43733" ; Times: 1
+	Query: "Microtus chrotorrhinus" ; Times: 2
+	Query: "catalognumber:97797 institutioncode:UAM" ; Times: 1
+	Query: "mappable:1 scientificname:Stenella coeruleoalba" ; Times: 2
+	Query: "specificepithet:carolinensis genus:Sciurus continent:North America year &gt;= 1961 hasmass:1 haslength:1" ; Times: 1
+	Query: "snowshoe hare" ; Times: 1
+	Query: "specificepithet:americana genus:Antilocapra hasmass:1 haslength:1" ; Times: 1
+	Query: "genus:Stenella hastissue:1" ; Times: 2
+	Query: "Sus scrofa hasmass:1" ; Times: 2
+	Query: "alces alces" ; Times: 1
+	Query: "Callosciurus erythraeus" ; Times: 2
+	Query: "Delphinus delphis" ; Times: 1
+	Query: "Erethizon dorsatum sex:Male hasmass:1" ; Times: 1
+	Query: "42514" ; Times: 1
+	Query: "Ovis canadensis" ; Times: 1
+	Query: "specificepithet:maritimus genus:Ursus haslength:1" ; Times: 1
+	Query: "mule deer" ; Times: 2
+	Query: "panthera uncia" ; Times: 4
+	Query: "specificepithet:Carolinensis genus:Sciurus haslifestage:1 haslength:1" ; Times: 1
+	Query: "mappable:1 scientificname:Steno bredanensis" ; Times: 2
+	Query: "catalognumber:16891" ; Times: 1
+	Query: "catalognumber:111859 institutioncode:UAM" ; Times: 1
+	Query: "65634" ; Times: 1
+	Query: "Rupicapra rupicapra" ; Times: 1
+	Query: "Equus quagga sex:female" ; Times: 2
+	Query: "Orcinus orca" ; Times: 26
+	Query: "43096" ; Times: 1
+	Query: "specificepithet:dorsalis genus:tamias class:mammalia institutioncode:UAM" ; Times: 1
+	Query: "shrews" ; Times: 1
+	Query: "Mammal-27445" ; Times: 1
+	Query: "33842" ; Times: 1
+	Query: "catalognumber:21837 institutioncode:UAM" ; Times: 2
+	Query: "95097" ; Times: 2
+	Query: "scientificname:Procyon lotor" ; Times: 5
+	Query: "Odocoileus hemionus sex:male hasmass:1" ; Times: 3
+	Query: "specificepithet:ruficaudus genus:tamias class:mammalia institutioncode:UAM" ; Times: 1
+	Query: "class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:UAM" ; Times: 1
+	Query: "10766" ; Times: 1
+	Query: "Callorhinus ursinus" ; Times: 3
+	Query: "Lagenorhynchus obliquidens" ; Times: 2
+	Query: "100590" ; Times: 2
+	Query: "butterfly" ; Times: 1
+	Query: "Synaptomys cooperi Kansas" ; Times: 3
+	Query: "Ovis nivicola" ; Times: 2
+	Query: "specificepithet:carolinensis genus:sciurus haslifestage:1 hassex:1 haslength:1" ; Times: 1
+	Query: "hoary marmot" ; Times: 1
+	Query: "catalognumber:20347" ; Times: 1
+	Query: "Panthera tigris" ; Times: 1
+	Query: "Mammal-27248" ; Times: 1
+	Query: "22692" ; Times: 1
+	Query: "37567" ; Times: 1
+	Query: "specificepithet:polionotus genus:Peromyscus hassex:1 hasmass:1" ; Times: 1
+	Query: "panthera tigris altaica" ; Times: 1
+	Query: "rostrum" ; Times: 3
+	Query: "mappable:1 scientificname:Balaenoptera acutorostrata" ; Times: 3
+	Query: "ursus arctos alaska" ; Times: 3
+	Query: "sore" ; Times: 1
+	Query: "amnh A-165193" ; Times: 2
+	Query: "kogia" ; Times: 3
+	Query: "183320" ; Times: 1
+	Query: "mappable:1 scientificname:Kogia breviceps" ; Times: 2
+	Query: "Sus scrofa haslifestage:1 hasmass:1" ; Times: 2
+	Query: "42953" ; Times: 1
+	Query: "Physeter macrocephalus" ; Times: 20
+	Query: "specificepithet:carolinensis genus:Sciurus haslifestage:1 hassex:1 hasmass:1 haslength:1 hastissue:1" ; Times: 1
+	Query: "mappable:1 scientificname:Physeter macrocephalus" ; Times: 2
+	Query: "Lutra lutra" ; Times: 1
+	Query: "specificepithet:maritimus genus:Ursus AND (USA) haslifestage:1 hassex:1" ; Times: 1
+	Query: "specificepithet:quadrivittatus genus:tamias class:mammalia institutioncode:UAM" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 88 (out of 1521 download events in this period)
+Total number of records downloaded: 345112
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 79
+	Country: United Kingdom ; Times: 1
+	Country: India ; Times: 1
+	Country: Bangladesh ; Times: 1
+	Country: Mexico ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-09 ; Times: 1
+	Date: 2020-10-22 ; Times: 4
+	Date: 2020-10-18 ; Times: 2
+	Date: 2020-10-02 ; Times: 4
+	Date: 2020-10-27 ; Times: 3
+	Date: 2020-10-25 ; Times: 1
+	Date: 2020-10-12 ; Times: 5
+	Date: 2020-10-13 ; Times: 2
+	Date: 2020-10-10 ; Times: 3
+	Date: 2020-10-28 ; Times: 11
+	Date: 2020-10-05 ; Times: 2
+	Date: 2020-10-31 ; Times: 9
+	Date: 2020-10-07 ; Times: 1
+	Date: 2020-10-15 ; Times: 1
+	Date: 2020-10-21 ; Times: 2
+	Date: 2020-10-14 ; Times: 22
+	Date: 2020-10-23 ; Times: 1
+	Date: 2020-10-30 ; Times: 1
+	Date: 2020-10-29 ; Times: 2
+	Date: 2020-10-16 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen genus:Mus" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sciurus continent:North America year &lt;= 1960 hasmass:1 haslength:1" ; Times: 1
+	Query: "class:Mammalia country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:Carolinensis genus:Sciurus haslength:1" ; Times: 1
+	Query: "specificepithet:Carolinensis genus:Sciurus haslifestage:1 haslength:1" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1800 year &lt;= 1925" ; Times: 1
+	Query: "class:Mammalia continent:North America year &gt;= 1800 year &lt;= 2015 institutioncode:UAM" ; Times: 2
+	Query: "specificepithet:vulpes genus:vulpes" ; Times: 2
+	Query: "specificepithet:Lagopus genus:vulpes" ; Times: 1
+	Query: "Sorex longirostris" ; Times: 2
+	Query: "Erethizontidae hasmass:1 haslength:1" ; Times: 1
+	Query: "Sciurus griseus" ; Times: 1
+	Query: "specificepithet:Carolinensis genus:Sciurus" ; Times: 2
+	Query: "specificepithet:maritimus genus:Ursus haslifestage:1 hassex:1" ; Times: 1
+	Query: "Sorex palustris" ; Times: 2
+	Query: "specificepithet:moschatus genus:ovibos" ; Times: 1
+	Query: "specificepithet:lagopus genus:vulpes" ; Times: 1
+	Query: "specificepithet:concolor family:felidae stateprovince:&#34;california&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "catalognumber:21837 institutioncode:UAM" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis hassex:1 hasmass:1" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sciurus continent:North America hasmass:1 haslength:1" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "vntype:specimen (birds) hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Geomys bursarius" ; Times: 1
+	Query: "genus:Lepus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "ellobius" ; Times: 1
+	Query: "erethizon dorsatum" ; Times: 1
+	Query: "class:Mammalia country:&#34;United States&#34; continent:America year &gt;= 1800 year &lt;= 2015 hastypestatus:1" ; Times: 1
+	Query: "Taxidea taxus" ; Times: 1
+	Query: "spermophilus beecheyi" ; Times: 1
+	Query: "specificepithet:carolinensis genus:sciurus haslength:1" ; Times: 2
+	Query: "specificepithet:maritimus genus:Ursus hassex:1 haslength:1" ; Times: 1
+	Query: "specificepithet:lotor genus:procyon lengthtype:total length hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Sorex fumeus" ; Times: 4
+	Query: "Blarina carolinensis" ; Times: 2
+	Query: "specificepithet:carolinensis genus:sciurus haslifestage:1 hassex:1 haslength:1" ; Times: 2
+	Query: "Otospermophilus beecheyi" ; Times: 1
+	Query: "Martes americana" ; Times: 1
+	Query: "Martes pennanti" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "Procyon lotor year &gt;= 2010 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "Myotis" ; Times: 1
+	Query: "Panthera tigris" ; Times: 1
+	Query: "Bassariscus astutus" ; Times: 1
+	Query: "specificepithet:hudsonicus genus:Tamiasciurus continent:North America year &lt;= 1960 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:hudsonicus genus:Tamiasciurus continent:North America year &gt;= 1961 hasmass:1 haslength:1" ; Times: 1
+	Query: "Gulo gulo" ; Times: 1
+	Query: "vntype:specimen specificepithet:Volans genus:Glaucomys" ; Times: 1
+	Query: "panthera tigris tigris" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "family:elephantidae" ; Times: 1
+	Query: "bald eagle" ; Times: 2
+	Query: "specificepithet:hudsonicus genus:Tamiasciurus continent:North America hasmass:1 haslength:1" ; Times: 1
+	Query: "pika" ; Times: 2
+	Query: "didelphis virginiana" ; Times: 1
+	Query: "Blarina brevicauda" ; Times: 2
+	Query: "Cryptotis parva" ; Times: 2
+	Query: "specificepithet:carolinensis genus:Sciurus continent:North America year &gt;= 1961 hasmass:1 haslength:1" ; Times: 1
+	Query: "Canis lupus" ; Times: 1
+	Query: "Glaucomys volans" ; Times: 1
+	Query: "Sorex cinereus" ; Times: 2
+	Query: "Sorex hoyi" ; Times: 2
+	Query: "Lynx canadensis" ; Times: 1
+	Query: "Sorex dispar" ; Times: 2
+	Query: "specificepithet:lupus genus:canis" ; Times: 3
+
+
+End of report.
