@@ -1,0 +1,298 @@
+Report for Institution Code UAM, Resource uam_mamm
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 239
+Number of records retrieved in searches: 3427
+Number of different countries where searches have been originated: 20
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: United States ; Times: 99
+	Country: Australia ; Times: 1
+	Country: Peru ; Times: 6
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 15
+	Country: Denmark ; Times: 1
+	Country: India ; Times: 8
+	Country: France ; Times: 11
+	Country: United Kingdom ; Times: 7
+	Country: Malaysia ; Times: 32
+	Country: Brazil ; Times: 6
+	Country: Spain ; Times: 2
+	Country: Ireland ; Times: 5
+	Country: Unknown ; Times: 4
+	Country: Japan ; Times: 1
+	Country: Colombia ; Times: 14
+	Country: Argentina ; Times: 2
+	Country: Ecuador ; Times: 19
+	Country: Bangladesh ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 4
+	Date: 2020-07-08 ; Times: 6
+	Date: 2020-07-21 ; Times: 40
+	Date: 2020-07-20 ; Times: 6
+	Date: 2020-07-25 ; Times: 4
+	Date: 2020-07-24 ; Times: 6
+	Date: 2020-07-01 ; Times: 13
+	Date: 2020-07-03 ; Times: 5
+	Date: 2020-07-02 ; Times: 2
+	Date: 2020-07-05 ; Times: 3
+	Date: 2020-07-04 ; Times: 6
+	Date: 2020-07-07 ; Times: 20
+	Date: 2020-07-06 ; Times: 13
+	Date: 2020-07-23 ; Times: 13
+	Date: 2020-07-29 ; Times: 9
+	Date: 2020-07-18 ; Times: 15
+	Date: 2020-07-19 ; Times: 1
+	Date: 2020-07-12 ; Times: 3
+	Date: 2020-07-13 ; Times: 2
+	Date: 2020-07-10 ; Times: 1
+	Date: 2020-07-11 ; Times: 11
+	Date: 2020-07-16 ; Times: 9
+	Date: 2020-07-17 ; Times: 8
+	Date: 2020-07-14 ; Times: 10
+	Date: 2020-07-31 ; Times: 4
+	Date: 2020-07-22 ; Times: 13
+	Date: 2020-07-28 ; Times: 8
+	Date: 2020-07-30 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "lake whitefish" ; Times: 1
+	Query: "102105" ; Times: 1
+	Query: "78725" ; Times: 1
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans NOT MSB NOT OMNH NOT ROM NOT AMNH NOT CAS NOT HSU NOT DMNS NOT FMNH NOT LACM)" ; Times: 1
+	Query: "11825" ; Times: 1
+	Query: "40497" ; Times: 1
+	Query: "tursiops truncatus" ; Times: 1
+	Query: "rodent" ; Times: 1
+	Query: "39186" ; Times: 1
+	Query: "Stenella attenuata" ; Times: 2
+	Query: "human" ; Times: 1
+	Query: "Ziphius" ; Times: 1
+	Query: "catalognumber:37676" ; Times: 1
+	Query: "101647" ; Times: 2
+	Query: "10347" ; Times: 1
+	Query: "19863" ; Times: 1
+	Query: "Ziphius cavirostris mappable:1" ; Times: 1
+	Query: "catalognumber:42833" ; Times: 2
+	Query: "catalognumber:42836" ; Times: 1
+	Query: "52151" ; Times: 1
+	Query: "Cooper AND Island" ; Times: 1
+	Query: "RIBS" ; Times: 2
+	Query: "felidae spleen" ; Times: 1
+	Query: "32839" ; Times: 1
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans NOT MSB NOT OMNH NOT ROM)" ; Times: 1
+	Query: "27204" ; Times: 1
+	Query: "niviventer fulvescens" ; Times: 1
+	Query: "101569" ; Times: 1
+	Query: "101273" ; Times: 1
+	Query: "Stenella coeruleoalba mappable:1" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Grant&#34; stateprovince:&#34;New Mexico&#34; hastissue:1" ; Times: 1
+	Query: "20508 institutioncode:UAM" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "45055" ; Times: 1
+	Query: "boxer" ; Times: 1
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans NOT MSB NOT OMNH NOT ROM NOT AMNH NOT CAS NOT HSU NOT DMNS NOT FMNH NOT LACM NOT NHMUK NOT MSU NOT KU NOT PSM)" ; Times: 1
+	Query: "15110" ; Times: 1
+	Query: "specificepithet:barbatus genus:Erignathus" ; Times: 3
+	Query: "Audubon type" ; Times: 2
+	Query: "Bos grunniens" ; Times: 1
+	Query: "genus:Oryzomys" ; Times: 3
+	Query: "naja naja" ; Times: 1
+	Query: "23686" ; Times: 2
+	Query: "78725 mammal" ; Times: 1
+	Query: "Tursiops truncatus" ; Times: 4
+	Query: "81530" ; Times: 1
+	Query: "catalognumber:2201 year &gt;= 1932" ; Times: 1
+	Query: "catalognumber:16553" ; Times: 1
+	Query: "35921" ; Times: 1
+	Query: "genus:Neovison hastissue:1" ; Times: 4
+	Query: "40514" ; Times: 2
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans)" ; Times: 1
+	Query: "didelphis virginiana california" ; Times: 1
+	Query: "20502" ; Times: 1
+	Query: "58955" ; Times: 1
+	Query: "A-101483" ; Times: 1
+	Query: "puma" ; Times: 1
+	Query: "order:Cetacea institutioncode:UAM" ; Times: 1
+	Query: "13364" ; Times: 1
+	Query: "preparations:baleen" ; Times: 1
+	Query: "Stenella attenuata mappable:1" ; Times: 1
+	Query: "28482" ; Times: 1
+	Query: "78438" ; Times: 1
+	Query: "91859" ; Times: 1
+	Query: "13222" ; Times: 1
+	Query: "102990" ; Times: 1
+	Query: "70414" ; Times: 1
+	Query: "Lontra canadensis" ; Times: 1
+	Query: "monster" ; Times: 3
+	Query: "101571" ; Times: 1
+	Query: "56042" ; Times: 1
+	Query: "101352" ; Times: 2
+	Query: "19966" ; Times: 1
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans NOT MSB NOT OMNH NOT ROM NOT AMNH NOT CAS NOT HSU NOT DMNS NOT FMNH NOT LACM NOT NHMUK NOT MSU NOT KU NOT PSM NOT UMMZ)" ; Times: 1
+	Query: "104302" ; Times: 1
+	Query: "101430" ; Times: 1
+	Query: "pika" ; Times: 2
+	Query: "Steno bredanensis mappable:1" ; Times: 1
+	Query: "Megaptera novaeangliae mappable:1" ; Times: 1
+	Query: "specificepithet:chrotorrhinus genus:Microtus" ; Times: 1
+	Query: "18690 institutioncode:UAM" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon (zoo OR captive)" ; Times: 1
+	Query: "sus scrofa" ; Times: 2
+	Query: "44107" ; Times: 1
+	Query: "93698" ; Times: 1
+	Query: "A 117563" ; Times: 1
+	Query: "10650" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 3
+	Query: "genus:Antilocapra" ; Times: 3
+	Query: "specificepithet:Lutra lutra" ; Times: 1
+	Query: "specificepithet:carolinensis genus:sciurus hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "mammalia ovary" ; Times: 1
+	Query: "20089 institutioncode:UAM" ; Times: 1
+	Query: "85227" ; Times: 1
+	Query: "specificepithet:dorsatum genus:Erethizon hastissue:1" ; Times: 2
+	Query: "ursus maritimus" ; Times: 8
+	Query: "county:&#34;Washington&#34; stateprovince:&#34;Minnesota&#34;" ; Times: 3
+	Query: "Megaptera novaeangliae" ; Times: 1
+	Query: "Loxodonta basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans NOT MSB NOT OMNH NOT ROM NOT AMNH NOT CAS NOT HSU)" ; Times: 1
+	Query: "Pika" ; Times: 1
+	Query: "genus:Puma" ; Times: 2
+	Query: "19825" ; Times: 1
+	Query: "county:&#34;Fulton&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "callosciurus" ; Times: 1
+	Query: "Tupaia belangeri" ; Times: 3
+	Query: "Physeter macrocephalus mappable:1" ; Times: 1
+	Query: "alces" ; Times: 2
+	Query: "antilocapra americana" ; Times: 1
+	Query: "genus:Sus" ; Times: 1
+	Query: "catalognumber:55271" ; Times: 1
+	Query: "117348" ; Times: 1
+	Query: "13459" ; Times: 1
+	Query: "88053" ; Times: 1
+	Query: "Chiropodomys gliroides\\\\\\\\\\\\" ; Times: 1
+	Query: "12348" ; Times: 1
+	Query: "catalognumber:42842" ; Times: 1
+	Query: "134064?" ; Times: 1
+	Query: "Callosciurus erythraeus" ; Times: 3
+	Query: "specificepithet:dorsatum genus:Erethizon" ; Times: 1
+	Query: "101357" ; Times: 1
+	Query: "genus:sus" ; Times: 1
+	Query: "112728" ; Times: 1
+	Query: "ziphius cavirostris" ; Times: 1
+	Query: "hastypestatus:1 Mustela" ; Times: 2
+	Query: "catalognumber:116941" ; Times: 1
+	Query: "47000" ; Times: 2
+	Query: "21252" ; Times: 1
+	Query: "callosciurus erythraeus" ; Times: 5
+	Query: "genus:Ochotona locality:Triangle" ; Times: 1
+	Query: "94277" ; Times: 1
+	Query: "23630" ; Times: 1
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans NOT MSB NOT OMNH NOT ROM NOT AMNH NOT CAS NOT HSU NOT DMNS NOT FMNH NOT LACM NOT NHMUK NOT MSU NOT KU)" ; Times: 1
+	Query: "Kogia breviceps mappable:1" ; Times: 1
+	Query: "catalognumber:7478" ; Times: 1
+	Query: "7394 institutioncode:UAM" ; Times: 1
+	Query: "42543" ; Times: 1
+	Query: "64731" ; Times: 2
+	Query: "stenella attenuata" ; Times: 2
+	Query: "28078" ; Times: 2
+	Query: "101467" ; Times: 1
+	Query: "Balaenoptera acutorostrata mappable:1" ; Times: 1
+	Query: "37676" ; Times: 1
+	Query: "31031" ; Times: 1
+	Query: "316174" ; Times: 1
+	Query: "46505" ; Times: 1
+	Query: "Bos mutus" ; Times: 1
+	Query: "Orcinus orca mappable:1" ; Times: 1
+	Query: "OR.5252" ; Times: 2
+	Query: "117361" ; Times: 1
+	Query: "Chiropodomys gliroides" ; Times: 21
+	Query: "Trichechus manatus mappable:1" ; Times: 1
+	Query: "Grampus griseus mappable:1" ; Times: 1
+	Query: "27947" ; Times: 3
+	Query: "21099" ; Times: 1
+	Query: "genus:blarina county:&#34;Fulton&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "13627" ; Times: 1
+	Query: "catalognumber:63746" ; Times: 1
+	Query: "11163" ; Times: 1
+	Query: "tupaia belangeri" ; Times: 2
+	Query: "A-117563" ; Times: 1
+	Query: "specificepithet:volans genus:Glaucomys" ; Times: 1
+	Query: "41449" ; Times: 1
+	Query: "87481" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 31 (out of 940 download events in this period)
+Total number of records downloaded: 29538
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Brazil ; Times: 2
+	Country: Colombia ; Times: 5
+	Country: India ; Times: 1
+	Country: Costa Rica ; Times: 1
+	Country: United States ; Times: 18
+	Country: Peru ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 1
+	Date: 2020-07-08 ; Times: 1
+	Date: 2020-07-18 ; Times: 1
+	Date: 2020-07-27 ; Times: 1
+	Date: 2020-07-25 ; Times: 1
+	Date: 2020-07-22 ; Times: 2
+	Date: 2020-07-12 ; Times: 1
+	Date: 2020-07-13 ; Times: 1
+	Date: 2020-07-03 ; Times: 2
+	Date: 2020-07-28 ; Times: 3
+	Date: 2020-07-16 ; Times: 3
+	Date: 2020-07-17 ; Times: 1
+	Date: 2020-07-07 ; Times: 1
+	Date: 2020-07-15 ; Times: 1
+	Date: 2020-07-23 ; Times: 1
+	Date: 2020-07-31 ; Times: 1
+	Date: 2020-07-21 ; Times: 4
+	Date: 2020-07-06 ; Times: 2
+	Date: 2020-07-10 ; Times: 1
+	Date: 2020-07-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Lynx distance(location,geopoint(38.15709787129506,-112.20703125))&lt;2365818.802354772" ; Times: 1
+	Query: "specificepithet:niger genus:Sciurus" ; Times: 1
+	Query: "bat year &gt;= 1899 year &lt;= 2020 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "genus:Lasionycteris continent:North America year &gt;= 1899 year &lt;= 2020 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "Stenella attenuata" ; Times: 1
+	Query: "vntype:specimen specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "Perognathus longimembris" ; Times: 1
+	Query: "lutra lutra" ; Times: 1
+	Query: "genus:Peromyscus" ; Times: 1
+	Query: "vntype:specimen genus:Peromyscus" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 1
+	Query: "stenella attenuata" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus hastissue:1" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "genus:ochotona" ; Times: 2
+	Query: "specificepithet:pinetorum genus:Microtus" ; Times: 1
+	Query: "Megaptera novaeangliae" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "genus:Puma" ; Times: 1
+	Query: "callosciurus" ; Times: 1
+	Query: "Tupaia belangeri" ; Times: 1
+	Query: "cetacea" ; Times: 1
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans NOT MSB NOT OMNH NOT ROM NOT AMNH NOT CAS NOT HSU NOT DMNS NOT FMNH NOT LACM NOT NHMUK NOT MSU NOT KU NOT PSM NOT UMMZ)" ; Times: 1
+	Query: "Phyllostomidae vntype:specimen year &gt;= 1950 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "family:felidae" ; Times: 1
+	Query: "Tursiops truncatus" ; Times: 1
+	Query: "specificepithet:trowbridgii genus:sorex hastissue:1" ; Times: 1
+	Query: "specificepithet:volans genus:Glaucomys" ; Times: 1
+	Query: "Peromyscus gossypinus vntype:specimen" ; Times: 1
+
+
+End of report.
