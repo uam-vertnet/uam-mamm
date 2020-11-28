@@ -1,0 +1,358 @@
+Report for Institution Code UAM, Resource uam_mamm
+Usage stats for August 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 346
+Number of records retrieved in searches: 3174
+Number of different countries where searches have been originated: 22
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 9
+	Country: Canada ; Times: 6
+	Country: Ireland ; Times: 7
+	Country: Unknown ; Times: 2
+	Country: Peru ; Times: 29
+	Country: Bolivia ; Times: 2
+	Country: Burkina Faso ; Times: 1
+	Country: Ecuador ; Times: 8
+	Country: Israel ; Times: 1
+	Country: Australia ; Times: 132
+	Country: Germany ; Times: 1
+	Country: Belgium ; Times: 2
+	Country: Spain ; Times: 2
+	Country: United States ; Times: 104
+	Country: Sweden ; Times: 5
+	Country: Russia ; Times: 2
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 6
+	Country: India ; Times: 2
+	Country: United Kingdom ; Times: 14
+	Country: Colombia ; Times: 4
+	Country: Japan ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-28 ; Times: 3
+	Date: 2020-08-29 ; Times: 2
+	Date: 2020-08-17 ; Times: 5
+	Date: 2020-08-16 ; Times: 11
+	Date: 2020-08-15 ; Times: 6
+	Date: 2020-08-14 ; Times: 136
+	Date: 2020-08-13 ; Times: 2
+	Date: 2020-08-12 ; Times: 1
+	Date: 2020-08-11 ; Times: 7
+	Date: 2020-08-10 ; Times: 6
+	Date: 2020-08-31 ; Times: 5
+	Date: 2020-08-30 ; Times: 4
+	Date: 2020-08-19 ; Times: 6
+	Date: 2020-08-18 ; Times: 1
+	Date: 2020-08-20 ; Times: 4
+	Date: 2020-08-08 ; Times: 5
+	Date: 2020-08-02 ; Times: 1
+	Date: 2020-08-03 ; Times: 1
+	Date: 2020-08-04 ; Times: 7
+	Date: 2020-08-05 ; Times: 7
+	Date: 2020-08-06 ; Times: 7
+	Date: 2020-08-07 ; Times: 11
+	Date: 2020-08-26 ; Times: 8
+	Date: 2020-08-27 ; Times: 9
+	Date: 2020-08-24 ; Times: 14
+	Date: 2020-08-25 ; Times: 9
+	Date: 2020-08-22 ; Times: 7
+	Date: 2020-08-23 ; Times: 3
+	Date: 2020-08-09 ; Times: 8
+	Date: 2020-08-21 ; Times: 50
+
+List of queries that retrieved data from the resource: 
+	Query: "134043" ; Times: 1
+	Query: "Ovis aries" ; Times: 1
+	Query: "107585" ; Times: 1
+	Query: "133795" ; Times: 6
+	Query: "catalognumber:13163 institutioncode:UAM" ; Times: 2
+	Query: "134125" ; Times: 1
+	Query: "115232" ; Times: 1
+	Query: "10276 vntype:specimen" ; Times: 1
+	Query: "12830" ; Times: 1
+	Query: "17163" ; Times: 2
+	Query: "Ursus maritimus" ; Times: 3
+	Query: "20284" ; Times: 1
+	Query: "global distribution" ; Times: 1
+	Query: "catalognumber:97893" ; Times: 1
+	Query: "R 52046" ; Times: 1
+	Query: "specificepithet:dispar genus:sorex" ; Times: 1
+	Query: "70298" ; Times: 1
+	Query: "117272" ; Times: 1
+	Query: "134336" ; Times: 3
+	Query: "mappable:1 scientificname:Myocastor coypus" ; Times: 1
+	Query: "387896" ; Times: 1
+	Query: "101565" ; Times: 1
+	Query: "stateprovince:&#34;Oregon&#34; year &gt;= 1990 year &lt;= 2020 martes" ; Times: 1
+	Query: "scientificname:Lepus timidus" ; Times: 1
+	Query: "6502 order:rodentia" ; Times: 1
+	Query: "catalognumber:91481" ; Times: 1
+	Query: "135125" ; Times: 6
+	Query: "133705" ; Times: 1
+	Query: "133906" ; Times: 2
+	Query: "133590" ; Times: 2
+	Query: "133523" ; Times: 2
+	Query: "133593" ; Times: 2
+	Query: "Panthera uncia hastissue:1" ; Times: 1
+	Query: "80729" ; Times: 5
+	Query: "specificepithet:rufa genus:Aplodontia hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Callithrix" ; Times: 1
+	Query: "genus:Onychomys stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "specificepithet:arctos genus:Ursus hasmass:1" ; Times: 1
+	Query: "133825" ; Times: 4
+	Query: "133824" ; Times: 1
+	Query: "133909" ; Times: 3
+	Query: "133498" ; Times: 2
+	Query: "13097" ; Times: 1
+	Query: "133497" ; Times: 2
+	Query: "134326" ; Times: 2
+	Query: "Rodent" ; Times: 2
+	Query: "133599" ; Times: 2
+	Query: "genus:Tamias specificepithet:merriami stateprovince:california" ; Times: 2
+	Query: "133495" ; Times: 2
+	Query: "133657" ; Times: 7
+	Query: "71370" ; Times: 2
+	Query: "133652" ; Times: 3
+	Query: "133653" ; Times: 2
+	Query: "genus:Tamias specificepithet:merriami mappable:1 stateprovince:california" ; Times: 1
+	Query: "Homo sapiens" ; Times: 1
+	Query: "mustela nivalis 500" ; Times: 1
+	Query: "human" ; Times: 1
+	Query: "catalognumber:30627" ; Times: 1
+	Query: "grey squirrel" ; Times: 1
+	Query: "35359" ; Times: 1
+	Query: "35358" ; Times: 1
+	Query: "107626" ; Times: 1
+	Query: "107622" ; Times: 1
+	Query: "t. j. mccarthy" ; Times: 1
+	Query: "Rosa acicularis" ; Times: 1
+	Query: "catalognumber:6205" ; Times: 1
+	Query: "133810" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "Lepus othus" ; Times: 1
+	Query: "genus:cavia haslength:1" ; Times: 1
+	Query: "133540" ; Times: 2
+	Query: "mummy" ; Times: 1
+	Query: "133487" ; Times: 2
+	Query: "CM 36628" ; Times: 2
+	Query: "specificepithet:americana genus:martes stateprovince:&#34;British columbia&#34; country:&#34;Canada&#34; institutioncode:UAM" ; Times: 1
+	Query: "133788" ; Times: 4
+	Query: "71376" ; Times: 1
+	Query: "MSB 94745" ; Times: 1
+	Query: "astragalus" ; Times: 1
+	Query: "44744" ; Times: 1
+	Query: "20858" ; Times: 1
+	Query: "specificepithet:soricina genus:glossophaga haslength:1" ; Times: 2
+	Query: "133907" ; Times: 1
+	Query: "133789" ; Times: 1
+	Query: "monster" ; Times: 3
+	Query: "66815" ; Times: 1
+	Query: "64753" ; Times: 1
+	Query: "133377" ; Times: 2
+	Query: "107388" ; Times: 1
+	Query: "catalognumber:68551" ; Times: 1
+	Query: "Ursus arctos" ; Times: 1
+	Query: "mappable:1 scientificname:Genetta genetta" ; Times: 1
+	Query: "29224" ; Times: 2
+	Query: "grey wolf" ; Times: 2
+	Query: "Gray wolf" ; Times: 1
+	Query: "Lepus capensis" ; Times: 1
+	Query: "19285" ; Times: 1
+	Query: "Panthera uncia" ; Times: 1
+	Query: "70387" ; Times: 1
+	Query: "133805" ; Times: 1
+	Query: "genetta" ; Times: 1
+	Query: "M-46785" ; Times: 1
+	Query: "Monodontidae" ; Times: 1
+	Query: "92740" ; Times: 1
+	Query: "catalognumber:1588 institutioncode:UAM" ; Times: 1
+	Query: "69660" ; Times: 1
+	Query: "11295" ; Times: 1
+	Query: "catalognumber:91704" ; Times: 1
+	Query: "specificepithet:coeruleoalba genus:stenella country:&#34;United States&#34;" ; Times: 1
+	Query: "catalognumber:58879" ; Times: 1
+	Query: "56164" ; Times: 2
+	Query: "133690" ; Times: 1
+	Query: "133691" ; Times: 1
+	Query: "M-92725" ; Times: 1
+	Query: "V. vulpes" ; Times: 1
+	Query: "134130" ; Times: 1
+	Query: "munchen" ; Times: 1
+	Query: "bats" ; Times: 1
+	Query: "25785" ; Times: 1
+	Query: "75459" ; Times: 1
+	Query: "33873" ; Times: 1
+	Query: "133878" ; Times: 2
+	Query: "Lepus europaeus" ; Times: 1
+	Query: "134314" ; Times: 5
+	Query: "genus:Marmota stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "Urocitellus columbianus" ; Times: 1
+	Query: "133520" ; Times: 3
+	Query: "133876" ; Times: 2
+	Query: "133877" ; Times: 2
+	Query: "133874" ; Times: 2
+	Query: "ursus maritimus" ; Times: 4
+	Query: "class:Mammalia stateprovince:&#34;Wisconsin&#34; preparations:skeleton year &gt;= 2005 year &lt;= 2020" ; Times: 2
+	Query: "class:mammalia catalognumber:30627" ; Times: 2
+	Query: "Lepus timidus" ; Times: 1
+	Query: "Megaptera novaeangliae" ; Times: 4
+	Query: "grizzly bear" ; Times: 1
+	Query: "28881" ; Times: 1
+	Query: "&#34;martes americana&#34; OR &#34;castor canadensis&#34; stateprovince:&#34;Oregon&#34; year &gt;= 1990 year &lt;= 2020" ; Times: 2
+	Query: "133682" ; Times: 1
+	Query: "127745" ; Times: 3
+	Query: "107791" ; Times: 1
+	Query: "catalognumber:27778" ; Times: 1
+	Query: "65686" ; Times: 1
+	Query: "&#34;parascalops breweri&#34; vntype:specimen stateprovince:&#34;massachusetts&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "108252" ; Times: 1
+	Query: "specificepithet:gulo genus:gulo haslength:1" ; Times: 4
+	Query: "tamias merriami" ; Times: 1
+	Query: "45388" ; Times: 1
+	Query: "133925" ; Times: 1
+	Query: "Cercopithecus mitis" ; Times: 1
+	Query: "44804" ; Times: 1
+	Query: "133904" ; Times: 2
+	Query: "133595" ; Times: 1
+	Query: "63162" ; Times: 1
+	Query: "133861" ; Times: 2
+	Query: "133598" ; Times: 2
+	Query: "133618" ; Times: 2
+	Query: "133862" ; Times: 2
+	Query: "specificepithet:americana h genus:martes basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "133867" ; Times: 1
+	Query: "Russia 1901" ; Times: 1
+	Query: "170489" ; Times: 1
+	Query: "105735" ; Times: 1
+	Query: "Lepus arcticus" ; Times: 1
+	Query: "70345" ; Times: 2
+	Query: "MSB 122838" ; Times: 1
+	Query: "catalognumber:9363 institutioncode:UAM" ; Times: 2
+	Query: "107783" ; Times: 1
+	Query: "Canis sp" ; Times: 2
+	Query: "107787" ; Times: 1
+	Query: "specificepithet:caligata genus:Marmota haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "133857" ; Times: 1
+	Query: "133852" ; Times: 1
+	Query: "136360" ; Times: 1
+	Query: "133800" ; Times: 1
+	Query: "133759" ; Times: 2
+	Query: "genus:ziphius" ; Times: 1
+	Query: "133601" ; Times: 2
+	Query: "133600" ; Times: 2
+	Query: "107662" ; Times: 1
+	Query: "callithrix jacchus" ; Times: 1
+	Query: "133911" ; Times: 1
+	Query: "mustela erminea 500" ; Times: 1
+	Query: "107593" ; Times: 1
+	Query: "135140" ; Times: 1
+	Query: "Myotis evotis stateprovince:&#34;New Mexico&#34;" ; Times: 6
+	Query: "134371" ; Times: 2
+	Query: "testicle fish" ; Times: 1
+	Query: "133522" ; Times: 1
+	Query: "133680" ; Times: 1
+	Query: "specificepithet:sapiens genus:homo country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:Lemmus locality:Toolik" ; Times: 1
+	Query: "Vulpes lagopus" ; Times: 1
+	Query: "107589" ; Times: 2
+	Query: "133782" ; Times: 2
+	Query: "107797" ; Times: 2
+	Query: "133786" ; Times: 2
+	Query: "133787" ; Times: 2
+	Query: "32206" ; Times: 1
+	Query: "32207" ; Times: 1
+	Query: "catalognumber:98699" ; Times: 1
+	Query: "mammuthus primigenius" ; Times: 5
+	Query: "52769" ; Times: 1
+	Query: "Myotis auriculus stateprovince:&#34;New Mexico&#34;" ; Times: 3
+	Query: "41574" ; Times: 1
+	Query: "107663" ; Times: 1
+	Query: "SAM 600" ; Times: 1
+	Query: "133846" ; Times: 2
+	Query: "(mustela nivalis OR mustela erminea)" ; Times: 2
+	Query: "stateprovince:&#34;Oregon&#34; martes" ; Times: 3
+	Query: "specificepithet:californianus genus:Zalophus stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "133815" ; Times: 1
+	Query: "133751" ; Times: 1
+	Query: "133924" ; Times: 5
+	Query: "specificepithet:rufa genus:Aplodontia lengthtype:total length hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:lateralis genus:Callospermophilus stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "M-95968" ; Times: 1
+	Query: "14405" ; Times: 1
+	Query: "SAM 598" ; Times: 1
+	Query: "45154" ; Times: 1
+	Query: "125099" ; Times: 2
+	Query: "47505" ; Times: 1
+	Query: "101570" ; Times: 1
+	Query: "71606" ; Times: 1
+	Query: "audio" ; Times: 1
+	Query: "Lepus townsendii" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 40 (out of 756 download events in this period)
+Total number of records downloaded: 42599
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 37
+	Country: Unknown ; Times: 1
+	Country: Burkina Faso ; Times: 1
+	Country: Canada ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-07 ; Times: 2
+	Date: 2020-08-16 ; Times: 1
+	Date: 2020-08-15 ; Times: 1
+	Date: 2020-08-13 ; Times: 4
+	Date: 2020-08-11 ; Times: 1
+	Date: 2020-08-10 ; Times: 2
+	Date: 2020-08-08 ; Times: 8
+	Date: 2020-08-27 ; Times: 2
+	Date: 2020-08-24 ; Times: 5
+	Date: 2020-08-25 ; Times: 2
+	Date: 2020-08-26 ; Times: 7
+	Date: 2020-08-21 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Mustela stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "baculum" ; Times: 1
+	Query: "vntype:specimen class:Mammalia stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "genus:Zapus stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "family:Geomyidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Canis sp" ; Times: 1
+	Query: "genus:Zapus stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "order:Rodentia county:&#34;Catron&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Ursus maritimus" ; Times: 1
+	Query: "specificepithet:tigris genus:Panthera" ; Times: 2
+	Query: "mammuthus primigenius" ; Times: 1
+	Query: "Peromyscus gossypinus" ; Times: 1
+	Query: "specificepithet:californicus genus:Lepus" ; Times: 1
+	Query: "genus:Marmota stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "genus:Zapus stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes" ; Times: 1
+	Query: "specificepithet:lateralis genus:Callospermophilus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "loxodonta" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus haslifestage:1 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:cinereus genus:sorex" ; Times: 2
+	Query: "Sorex cinereus" ; Times: 1
+	Query: "myotis leibii" ; Times: 1
+	Query: "genus:ochotona" ; Times: 3
+	Query: "specificepithet:lateralis genus:Callospermophilus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Oregon&#34; year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "county:&#34;Clallam&#34;" ; Times: 1
+	Query: "Ochotona" ; Times: 1
+	Query: "class:Mammalia county:&#34;Catron&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "genus:Onychomys stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "Urocitellus columbianus" ; Times: 1
+	Query: "grey wolf" ; Times: 1
+	Query: "Gray wolf" ; Times: 1
+	Query: "specificepithet:lateralis genus:Callospermophilus stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon" ; Times: 2
+	Query: "genus:ziphius" ; Times: 1
+
+
+End of report.
