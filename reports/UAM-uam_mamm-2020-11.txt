@@ -1,0 +1,565 @@
+Report for Institution Code UAM, Resource uam_mamm
+Usage stats for November 2020, generated on 2020/12/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 908
+Number of records retrieved in searches: 75565
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 17
+	Country: United States ; Times: 780
+	Country: Italy ; Times: 4
+	Country: Ireland ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 4
+	Country: France ; Times: 13
+	Country: United Kingdom ; Times: 64
+	Country: Belgium ; Times: 8
+	Country: China ; Times: 2
+	Country: Colombia ; Times: 2
+	Country: Paraguay ; Times: 2
+	Country: Germany ; Times: 2
+	Country: Hong Kong ; Times: 1
+	Country: Ecuador ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-20 ; Times: 5
+	Date: 2020-11-21 ; Times: 1
+	Date: 2020-11-22 ; Times: 21
+	Date: 2020-11-23 ; Times: 62
+	Date: 2020-11-24 ; Times: 21
+	Date: 2020-11-25 ; Times: 3
+	Date: 2020-11-26 ; Times: 17
+	Date: 2020-11-09 ; Times: 12
+	Date: 2020-11-06 ; Times: 14
+	Date: 2020-11-07 ; Times: 13
+	Date: 2020-11-04 ; Times: 19
+	Date: 2020-11-05 ; Times: 17
+	Date: 2020-11-02 ; Times: 66
+	Date: 2020-11-03 ; Times: 15
+	Date: 2020-11-01 ; Times: 20
+	Date: 2020-11-08 ; Times: 10
+	Date: 2020-11-27 ; Times: 21
+	Date: 2020-11-28 ; Times: 8
+	Date: 2020-11-29 ; Times: 14
+	Date: 2020-11-19 ; Times: 5
+	Date: 2020-11-18 ; Times: 8
+	Date: 2020-11-30 ; Times: 19
+	Date: 2020-11-15 ; Times: 5
+	Date: 2020-11-14 ; Times: 9
+	Date: 2020-11-17 ; Times: 15
+	Date: 2020-11-16 ; Times: 22
+	Date: 2020-11-11 ; Times: 6
+	Date: 2020-11-10 ; Times: 443
+	Date: 2020-11-13 ; Times: 6
+	Date: 2020-11-12 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "30186" ; Times: 1
+	Query: "scientificname:Didelphis virginiana" ; Times: 8
+	Query: "Ovis aries" ; Times: 3
+	Query: "113593" ; Times: 1
+	Query: "Canis Ohio" ; Times: 1
+	Query: "133939" ; Times: 1
+	Query: "specificepithet:norvegicus genus:Rattus lifestage:juvenile" ; Times: 1
+	Query: "scientificname:Neovison vison" ; Times: 16
+	Query: "uncia" ; Times: 1
+	Query: "UAM 6996" ; Times: 1
+	Query: "scientificname:Cystophora cristata" ; Times: 3
+	Query: "scientificname:Glaucomys volans stateprovince:new york" ; Times: 7
+	Query: "scientificname:Orcinus orca" ; Times: 2
+	Query: "Ursus maritimus" ; Times: 2
+	Query: "Ursus arctos tail ear" ; Times: 1
+	Query: "63396" ; Times: 1
+	Query: "Sorex palustris" ; Times: 2
+	Query: "catalognumber:114641" ; Times: 1
+	Query: "catalognumber:114642" ; Times: 2
+	Query: "catalognumber:114643" ; Times: 2
+	Query: "catalognumber:114639" ; Times: 1
+	Query: "specificepithet:maritimus genus:ursus haslength:1" ; Times: 1
+	Query: "scientificname:Microtus pinetorum" ; Times: 4
+	Query: "specificepithet:hemionus genus:Odocoileus lifestage:adult haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "scientificname:Parascalops breweri" ; Times: 2
+	Query: "specificepithet:hemionus genus:Odocoileus hasmass:1" ; Times: 4
+	Query: "12415" ; Times: 2
+	Query: "scientificname:Tamias striatus stateprovince:new york" ; Times: 7
+	Query: "family:Dasypodidae hasmass:1" ; Times: 4
+	Query: "mappable:1 scientificname:Callithrix jacchus" ; Times: 1
+	Query: "catalognumber:137605" ; Times: 1
+	Query: "scientificname:Phoca vitulina" ; Times: 10
+	Query: "height specificepithet:lupus genus:Canis family:Canidae order:Carnivora class:Mammalia country:&#34;United states&#34; continent:North America" ; Times: 1
+	Query: "50647" ; Times: 1
+	Query: "vntype:specimen class:Mammalia massing &gt;= 8000 hasmass:1" ; Times: 3
+	Query: "UAM 123094" ; Times: 2
+	Query: "Callospermophilus saturatus" ; Times: 1
+	Query: "Thymallus thymallus" ; Times: 1
+	Query: "specificepithet:arctos genus:ursus haslength:1" ; Times: 3
+	Query: "vntype:specimen family:ursidae hasmass:1" ; Times: 1
+	Query: "scientificname:Synaptomys borealis" ; Times: 2
+	Query: "scientificname:Lontra canadensis" ; Times: 8
+	Query: "genus:alces preparations:skull hasmass:1" ; Times: 1
+	Query: "specificepithet:americana genus:antilocapra hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:paca country:&#34;pARAGUAY&#34;" ; Times: 1
+	Query: "gray whale" ; Times: 1
+	Query: "Sorex minutus" ; Times: 2
+	Query: "151488" ; Times: 1
+	Query: "lengthtype:head-body length haslifestage:1 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "51561" ; Times: 1
+	Query: "scientificname:Microtus pinetorum stateprovince:new york" ; Times: 7
+	Query: "scientificname:Ziphius cavirostris" ; Times: 1
+	Query: "genus:microtus recordedby:Anderson" ; Times: 1
+	Query: "scientificname:Sciurus carolinensis stateprovince:new york" ; Times: 7
+	Query: "vntype:specimen order:Artiodactyla class:Mammalia hasmass:1" ; Times: 3
+	Query: "paca hasmass:1 haslength:1" ; Times: 1
+	Query: "13603" ; Times: 1
+	Query: "specificepithet:arctos genus:Ursus hasmass:1 haslength:1" ; Times: 1
+	Query: "Meles meles" ; Times: 1
+	Query: "catalognumber:51695" ; Times: 2
+	Query: "scientificname:Synaptomys cooperi" ; Times: 2
+	Query: "scientificname:Blarina brevicauda stateprovince:new york" ; Times: 7
+	Query: "vntype:specimen family:Felidae hasmass:1 haslength:1 -uwbm" ; Times: 1
+	Query: "Sorex daphaenodon" ; Times: 2
+	Query: "catalognumber:94206" ; Times: 1
+	Query: "Sorex minutissimus" ; Times: 2
+	Query: "hydrurga" ; Times: 1
+	Query: "scientificname:Sorex hoyi" ; Times: 3
+	Query: "vntype:specimen family:bovidae hasmass:1 haslength:1" ; Times: 1
+	Query: "scientificname:Sorex fumeus" ; Times: 2
+	Query: "catalognumber:13425 institutioncode:UAM" ; Times: 1
+	Query: "american pika" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis family:Canidae (zoo OR captive) AND (NOT baileyi NOT familiaris NOT dingo)" ; Times: 1
+	Query: "Sorex gracillimus" ; Times: 2
+	Query: "scientificname:Pusa hispida" ; Times: 9
+	Query: "Cavia porcellus" ; Times: 2
+	Query: "Ursus americanus tail ear" ; Times: 2
+	Query: "recordedby:A. T. Peterson" ; Times: 1
+	Query: "scientificname:Glaucomys volans" ; Times: 4
+	Query: "scientificname:Myodes gapperi" ; Times: 8
+	Query: "scientificname:Balaenoptera physalus" ; Times: 2
+	Query: "scientificname:Lepus americanus" ; Times: 12
+	Query: "32554" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 2
+	Query: "122413" ; Times: 1
+	Query: "genus:alces hasmass:1 126578" ; Times: 1
+	Query: "scientificname:Sylvilagus floridanus" ; Times: 2
+	Query: "(tail) lengthtype:head-body length haslifestage:1 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Urocitellus undulatus" ; Times: 1
+	Query: "scientificname:Sorex palustris" ; Times: 4
+	Query: "14187" ; Times: 2
+	Query: "scientificname:Tamias striatus" ; Times: 5
+	Query: "vntype:specimen family:Felidae hasmass:1 haslength:1 -uwbm -dmns" ; Times: 1
+	Query: "35575" ; Times: 1
+	Query: "13425" ; Times: 1
+	Query: "callithrix jacchus" ; Times: 13
+	Query: "20507" ; Times: 1
+	Query: "47889" ; Times: 1
+	Query: "amnh 165193" ; Times: 1
+	Query: "scientificname:Mustela erminea" ; Times: 12
+	Query: "scientificname:Martes pennanti" ; Times: 6
+	Query: "scientificname:Sorex cinereus" ; Times: 5
+	Query: "scientificname:Lynx rufus" ; Times: 6
+	Query: "scientificname:Grampus griseus" ; Times: 2
+	Query: "mummy" ; Times: 1
+	Query: "Ovis dalli" ; Times: 1
+	Query: "scientificname:Lynx canadensis" ; Times: 16
+	Query: "scientificname:Cryptotis parva" ; Times: 4
+	Query: "wolverine" ; Times: 1
+	Query: "vntype:specimen order:Dermoptera hasmass:1 haslength:1" ; Times: 1
+	Query: "genus:Geomys stateprovince:&#34;South Dakota&#34;" ; Times: 1
+	Query: "22086" ; Times: 1
+	Query: "Ursus americanus tail length" ; Times: 2
+	Query: "Sorex alpinus" ; Times: 2
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "Neomys fodiens" ; Times: 4
+	Query: "order:Primates hasmass:1" ; Times: 3
+	Query: "Ursus maritimus tail" ; Times: 1
+	Query: "117175" ; Times: 1
+	Query: "18186" ; Times: 2
+	Query: "monster" ; Times: 8
+	Query: "scientificname:Stenella coeruleoalba" ; Times: 1
+	Query: "scientificname:Marmota monax stateprovince:new york" ; Times: 7
+	Query: "scientificname:Marmota monax" ; Times: 8
+	Query: "23496" ; Times: 2
+	Query: "order:primates hasmass:1 haslength:1" ; Times: 1
+	Query: "griseus hasmass:1 haslength:1" ; Times: 1
+	Query: "scientificname:Lasionycteris noctivagans" ; Times: 6
+	Query: "46954" ; Times: 1
+	Query: "scientificname:Megaptera novaeangliae" ; Times: 4
+	Query: "scientificname:Pusa hispida stateprovince:new york" ; Times: 7
+	Query: "specificepithet:canadensis genus:Lontra hasmass:1 haslength:1" ; Times: 1
+	Query: "128856" ; Times: 1
+	Query: "scientificname:Cynomys ludovicianus" ; Times: 5
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "scientificname:Eptesicus fuscus" ; Times: 3
+	Query: "suidae hasmass:1" ; Times: 2
+	Query: "Sorex caecutiens" ; Times: 2
+	Query: "scientificname:Vulpes vulpes" ; Times: 3
+	Query: "specificepithet:arctos genus:Ursus haslength:1" ; Times: 1
+	Query: "vntype:specimen family:Felidae hasmass:1 haslength:1" ; Times: 2
+	Query: "Ursus arctos tail length" ; Times: 1
+	Query: "Martes foina" ; Times: 3
+	Query: "class:mammalia stateprovince:new york" ; Times: 3
+	Query: "Micromys minutus" ; Times: 2
+	Query: "Fish positioning" ; Times: 1
+	Query: "scientificname:Lasiurus cinereus" ; Times: 4
+	Query: "stuttgart" ; Times: 1
+	Query: "UAM 24792" ; Times: 2
+	Query: "scientificname:Tursiops truncatus" ; Times: 1
+	Query: "scientificname:Odocoileus virginianus" ; Times: 2
+	Query: "genus:Ursus americanus hassex:1 hasmass:1" ; Times: 3
+	Query: "60802" ; Times: 1
+	Query: "scientificname:Mustela nivalis" ; Times: 6
+	Query: "scientificname:Zapus hudsonius" ; Times: 6
+	Query: "scientificname:Glaucomys sabrinus" ; Times: 10
+	Query: "scientificname:Cervus elaphus" ; Times: 4
+	Query: "scientificname:Canis lupus" ; Times: 20
+	Query: "Yellow-bellied Marmot" ; Times: 2
+	Query: "scientificname:Lepus europaeus" ; Times: 2
+	Query: "scientificname:Mephitis mephitis" ; Times: 6
+	Query: "scientificname:Puma concolor" ; Times: 6
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Alaska&#34; hastissue:1" ; Times: 1
+	Query: "46277" ; Times: 1
+	Query: "specificepithet:maritimus genus:ursus hasmass:1" ; Times: 1
+	Query: "scientificname:Rattus rattus" ; Times: 1
+	Query: "scientificname:Blarina brevicauda" ; Times: 6
+	Query: "KU 93" ; Times: 1
+	Query: "agouti hasmass:1 haslength:1" ; Times: 1
+	Query: "Myodes glareolus" ; Times: 1
+	Query: "bats" ; Times: 1
+	Query: "Ursus arctos ear tail" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Connecticut&#34; institutioncode:UAM" ; Times: 1
+	Query: "specificepithet:rattus genus:rattus country:&#34;pARAGUAY&#34;" ; Times: 1
+	Query: "scientificname:Martes americana" ; Times: 16
+	Query: "river otter" ; Times: 1
+	Query: "67329 hasmass:1 haslength:1" ; Times: 1
+	Query: "Sorex unguiculatus" ; Times: 2
+	Query: "scientificname:Condylura cristata" ; Times: 4
+	Query: "scientificname:Peromyscus leucopus stateprovince:new york" ; Times: 7
+	Query: "UAM 33349" ; Times: 3
+	Query: "Sus scrofa" ; Times: 7
+	Query: "scientificname:Balaenoptera acutorostrata" ; Times: 3
+	Query: "scientificname:Mus musculus" ; Times: 2
+	Query: "Urocitellus columbianus" ; Times: 2
+	Query: "microtus chrotorrhinus" ; Times: 1
+	Query: "vntype:specimen family:Felidae hasmass:1 -lynx OR -puma" ; Times: 2
+	Query: "scientificname:Sus scrofa" ; Times: 2
+	Query: "scientificname:Microtus chrotorrhinus" ; Times: 2
+	Query: "Spermophilus saturatus" ; Times: 1
+	Query: "specificepithet:tigris genus:Panthera hastissue:1" ; Times: 1
+	Query: "genus:megaptera year &gt;= 2005 year &lt;= 2008" ; Times: 1
+	Query: "51046" ; Times: 1
+	Query: "specificepithet:hoyi genus:Sorex hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:hemionus genus:Odocoileus haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "American Pika" ; Times: 1
+	Query: "scientificname:Delphinapterus leucas" ; Times: 4
+	Query: "specificepithet:americanus genus:ursus hasmass:1 haslength:1" ; Times: 1
+	Query: "CM 9873" ; Times: 2
+	Query: "Alces" ; Times: 1
+	Query: "Megaptera novaeangliae" ; Times: 18
+	Query: "46899" ; Times: 1
+	Query: "Martes zibellina" ; Times: 2
+	Query: "Sorex isodon" ; Times: 2
+	Query: "order:Cingulata hasmass:1" ; Times: 8
+	Query: "Rangifer tarandus Alaska" ; Times: 3
+	Query: "scientificname:Ondatra zibethicus" ; Times: 12
+	Query: "family:Felidae hasmass:1" ; Times: 2
+	Query: "arborimus longicaudus" ; Times: 2
+	Query: "Bos taurus" ; Times: 4
+	Query: "scientificname:Urocyon cinereoargenteus" ; Times: 1
+	Query: "specificepithet:maritimus genus:ursus" ; Times: 2
+	Query: "83586" ; Times: 1
+	Query: "specificepithet:americanus genus:Ursus haslength:1" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis family:Canidae (zoo OR captive) AND (NOT baileyi NOT familiaris NOT dingo) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "scientificname:Mustela frenata" ; Times: 4
+	Query: "*Urocitellus columbianus" ; Times: 2
+	Query: "Chiropodomys gliroides" ; Times: 1
+	Query: "scientificname:Castor Canadensis" ; Times: 10
+	Query: "catalognumber:5627" ; Times: 1
+	Query: "Canis latrans Kansas" ; Times: 2
+	Query: "110052" ; Times: 2
+	Query: "110051" ; Times: 1
+	Query: "Panthera uncia" ; Times: 1
+	Query: "scientificname:Chaerephon plicatus" ; Times: 4
+	Query: "scientificname:Gulo gulo" ; Times: 10
+	Query: "119504" ; Times: 1
+	Query: "scientificname:Reithrodontomys fulvescens" ; Times: 3
+	Query: "specificepithet:rosmarus genus:Odobenus hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:amoenus genus:tamias institutioncode:UAM" ; Times: 1
+	Query: "11258" ; Times: 1
+	Query: "Procyon lotor stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "vntype:specimen genus:Panthera hasmass:1 haslength:1" ; Times: 1
+	Query: "artiodactyla hasmass:1 haslength:1" ; Times: 1
+	Query: "Immigrant" ; Times: 1
+	Query: "specificepithet:americanus genus:ursus haslength:1" ; Times: 2
+	Query: "scientificname:Microtus pennsylvanicus" ; Times: 2
+	Query: "north american porcupine" ; Times: 1
+	Query: "elephas maximus skeleton" ; Times: 1
+	Query: "scientificname:Myotis leibii" ; Times: 2
+	Query: "Callosciurus erythraeus" ; Times: 1
+	Query: "scientificname:Myotis lucifugus" ; Times: 12
+	Query: "scientificname:Myotis septentrionalis" ; Times: 2
+	Query: "Oreamnos americanus" ; Times: 1
+	Query: "family:Camelidae hasmass:1" ; Times: 1
+	Query: "genus:Odocoileus haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "order:Cingulata hasmass:1 haslength:1" ; Times: 1
+	Query: "Bats" ; Times: 1
+	Query: "Ursus maritimus ear tail" ; Times: 1
+	Query: "384272" ; Times: 1
+	Query: "mule deer" ; Times: 3
+	Query: "gold fish" ; Times: 2
+	Query: "14872" ; Times: 1
+	Query: "genus:megaptera year &gt;= 2010 year &lt;= 2020" ; Times: 2
+	Query: "genus:megaptera year &gt;= 2000 year &lt;= 2010" ; Times: 1
+	Query: "Sorex tundrensis" ; Times: 2
+	Query: "vntype:specimen order:Artiodactyla class:Mammalia massing &gt;= 8000 hasmass:1" ; Times: 1
+	Query: "genus:Kogia hastissue:1" ; Times: 1
+	Query: "scientificname:Halichoerus grypus" ; Times: 2
+	Query: "Ursus arctos tail" ; Times: 1
+	Query: "37865" ; Times: 1
+	Query: "cuniculus hasmass:1 haslength:1" ; Times: 1
+	Query: "Orcinus orca" ; Times: 1
+	Query: "Capreolus capreolus" ; Times: 1
+	Query: "felidae hasmass:1 haslength:1" ; Times: 1
+	Query: "scientificname:Sorex dispar" ; Times: 1
+	Query: "28568" ; Times: 1
+	Query: "marmota vancouverensis" ; Times: 3
+	Query: "vntype:specimen order:Artiodactyla hasmass:1 haslength:1" ; Times: 1
+	Query: "scientificname:Kogia breviceps" ; Times: 2
+	Query: "scientificname:Rattus norvegicus" ; Times: 10
+	Query: "Mule Deer" ; Times: 1
+	Query: "oreamnos americanus" ; Times: 1
+	Query: "cabassous tatouay" ; Times: 5
+	Query: "53616" ; Times: 1
+	Query: "Spermophilus undulatus" ; Times: 1
+	Query: "genus:Geomys stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "scientificname:Procyon lotor" ; Times: 8
+	Query: "class:Mammalia stateprovince:&#34;Connecticut&#34;" ; Times: 6
+	Query: "Tamias sibiricus" ; Times: 1
+	Query: "vntype:specimen family:Caviidae hasmass:1 haslength:1" ; Times: 1
+	Query: "scientificname:Tamiasciurus hudsonicus" ; Times: 3
+	Query: "106376" ; Times: 1
+	Query: "specificepithet:arctos genus:ursus hasmass:1" ; Times: 13
+	Query: "specificepithet:hemionus genus:Odocoileus hasmass:1 haslength:1" ; Times: 1
+	Query: "UAM 70552" ; Times: 1
+	Query: "scientificname:Napaeozapus insignis stateprovince:new york" ; Times: 7
+	Query: "Homo sapiens" ; Times: 7
+	Query: "specificepithet:arctos genus:ursus hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:parva genus:Cryptotis stateprovince:&#34;North Carolina&#34;" ; Times: 2
+	Query: "2003–067" ; Times: 1
+	Query: "scientificname:Lepus californicus" ; Times: 6
+	Query: "camera" ; Times: 2
+	Query: "talpa europaea hasmass:1 haslength:1" ; Times: 1
+	Query: "62435" ; Times: 2
+	Query: "scientificname:Scalopus aquaticus" ; Times: 6
+	Query: "scientificname:Sciurus carolinensis" ; Times: 3
+	Query: "syncerus caffer" ; Times: 2
+	Query: "Glis glis" ; Times: 2
+	Query: "scientificname:Napaeozapus insignis" ; Times: 2
+	Query: "genus:Ursus americanus hassex:1 haslength:1" ; Times: 2
+	Query: "scientificname:Bison bison" ; Times: 8
+	Query: "118270" ; Times: 1
+	Query: "scientificname:Physeter macrocephalus" ; Times: 3
+	Query: "scientificname:Delphinus delphis" ; Times: 2
+	Query: "A-95097" ; Times: 1
+	Query: "scientificname:Ursus americanus" ; Times: 5
+	Query: "primate" ; Times: 1
+	Query: "recordedby:House" ; Times: 1
+	Query: "catalognumber:56576" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Oregon&#34; hastissue:1" ; Times: 2
+	Query: "order:Artiodactyla hasmass:1" ; Times: 12
+	Query: "Alces hasmass:1" ; Times: 1
+	Query: "cuniculus south america hasmass:1 haslength:1" ; Times: 1
+	Query: "talpa europaea hasmass:1" ; Times: 1
+	Query: "117168" ; Times: 1
+	Query: "vntype:specimen family:Ursidae hasmass:1 haslength:1" ; Times: 1
+	Query: "60-312" ; Times: 1
+	Query: "balaenoptera" ; Times: 1
+	Query: "gbifdatasetid:377be098-626f-4cc2-b4b5-35700050669a" ; Times: 2
+	Query: "genus:erethizon hastissue:1" ; Times: 2
+	Query: "20227" ; Times: 1
+	Query: "scientificname:Canis latrans" ; Times: 10
+	Query: "genus:Ursus arctos hasmass:1" ; Times: 1
+	Query: "scientificname:Phocoena phocoena" ; Times: 8
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 148 (out of 842 download events in this period)
+Total number of records downloaded: 76442
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 141
+	Country: Canada ; Times: 2
+	Country: China ; Times: 1
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-20 ; Times: 7
+	Date: 2020-11-22 ; Times: 1
+	Date: 2020-11-23 ; Times: 17
+	Date: 2020-11-08 ; Times: 5
+	Date: 2020-11-09 ; Times: 3
+	Date: 2020-11-06 ; Times: 10
+	Date: 2020-11-07 ; Times: 6
+	Date: 2020-11-04 ; Times: 32
+	Date: 2020-11-05 ; Times: 25
+	Date: 2020-11-02 ; Times: 2
+	Date: 2020-11-03 ; Times: 7
+	Date: 2020-11-01 ; Times: 1
+	Date: 2020-11-26 ; Times: 1
+	Date: 2020-11-27 ; Times: 2
+	Date: 2020-11-28 ; Times: 2
+	Date: 2020-11-29 ; Times: 6
+	Date: 2020-11-30 ; Times: 3
+	Date: 2020-11-15 ; Times: 1
+	Date: 2020-11-17 ; Times: 3
+	Date: 2020-11-16 ; Times: 1
+	Date: 2020-11-11 ; Times: 1
+	Date: 2020-11-10 ; Times: 1
+	Date: 2020-11-13 ; Times: 3
+	Date: 2020-11-12 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "Canis Ohio" ; Times: 1
+	Query: "Ammospermophilus leucurus" ; Times: 1
+	Query: "glaucomys volans" ; Times: 1
+	Query: "erethizon dorsatum" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "Peromyscus eremicus" ; Times: 1
+	Query: "vntype:specimen family:Caviidae hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:hemionus genus:Odocoileus hasmass:1" ; Times: 1
+	Query: "Reithrodontomys megalotis" ; Times: 1
+	Query: "Peromyscus maniculatus" ; Times: 1
+	Query: "Neotoma mexicana" ; Times: 1
+	Query: "specificepithet:arctos genus:ursus haslength:1" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Connecticut&#34;" ; Times: 1
+	Query: "Peromyscus crinitus" ; Times: 1
+	Query: "Tamias amoenus" ; Times: 1
+	Query: "Thomomys bottae" ; Times: 2
+	Query: "paca hasmass:1 haslength:1" ; Times: 1
+	Query: "cervus canadensis" ; Times: 1
+	Query: "dipodomys merriami" ; Times: 1
+	Query: "myotis septentrionalis" ; Times: 1
+	Query: "lasiurus cinereus" ; Times: 2
+	Query: "specificepithet:parva genus:Cryptotis stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "Zapus hudsonius" ; Times: 2
+	Query: "Ochrotomys nuttalli" ; Times: 1
+	Query: "Synaptomys cooperi" ; Times: 1
+	Query: "specificepithet:arctos genus:Ursus" ; Times: 1
+	Query: "Cavia porcellus" ; Times: 2
+	Query: "Microtus pennsylvanicus" ; Times: 1
+	Query: "genus:megaptera year &gt;= 2005 year &lt;= 2008" ; Times: 1
+	Query: "Ondatra zibethicus" ; Times: 1
+	Query: "mustela nivalis" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 1
+	Query: "Marmota monax" ; Times: 1
+	Query: "Peromyscus boylii" ; Times: 1
+	Query: "Urocitellus undulatus" ; Times: 1
+	Query: "order:Cingulata hasmass:1 haslength:1" ; Times: 1
+	Query: "Microtus oeconomus" ; Times: 1
+	Query: "Spermophilus beldingi" ; Times: 1
+	Query: "Peromyscus gossypinus" ; Times: 1
+	Query: "vntype:specimen specificepithet:cinerea genus:Neotoma" ; Times: 1
+	Query: "Rattus rattus" ; Times: 1
+	Query: "Microtus ochrogaster" ; Times: 1
+	Query: "Aplodontia rufa" ; Times: 1
+	Query: "Tamias townsendii" ; Times: 1
+	Query: "Tamias quadrivittatus" ; Times: 1
+	Query: "Rangifer tarandus" ; Times: 1
+	Query: "vntype:specimen order:Dermoptera hasmass:1 haslength:1" ; Times: 1
+	Query: "Glaucomys volans" ; Times: 1
+	Query: "vulpes vulpes" ; Times: 1
+	Query: "Neotoma albigula" ; Times: 1
+	Query: "Dicrostonyx groenlandicus" ; Times: 1
+	Query: "microtus ochrogaster" ; Times: 1
+	Query: "Ovis dalli" ; Times: 1
+	Query: "lynx canadensis" ; Times: 1
+	Query: "Mus musculus" ; Times: 2
+	Query: "order:primates hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:floridanus genus:sylvilagus haslength:1" ; Times: 1
+	Query: "mustela erminea" ; Times: 1
+	Query: "Urocitellus columbianus" ; Times: 2
+	Query: "Spermophilus columbianus" ; Times: 1
+	Query: "Napaeozapus insignis" ; Times: 1
+	Query: "Panthera uncia" ; Times: 1
+	Query: "Tamiasciurus hudsonicus" ; Times: 2
+	Query: "Cynomys ludovicianus" ; Times: 2
+	Query: "black bear" ; Times: 1
+	Query: "eptesicus fuscus" ; Times: 1
+	Query: "Castor canadensis" ; Times: 1
+	Query: "Reithrodontomys fulvescens" ; Times: 1
+	Query: "Peromyscus truei" ; Times: 1
+	Query: "Peromyscus leucopus" ; Times: 1
+	Query: "Spermophilus saturatus" ; Times: 1
+	Query: "Microtus pinetorum" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "Bison bison" ; Times: 1
+	Query: "condylura cristata" ; Times: 1
+	Query: "Sus scrofa" ; Times: 1
+	Query: "Spermophilus tridecemlineatus" ; Times: 1
+	Query: "Sciurus niger" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "microtus chrotorrhinus" ; Times: 1
+	Query: "lepus americanus" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 1
+	Query: "microtus pinetorum" ; Times: 1
+	Query: "Geomys bursarius" ; Times: 1
+	Query: "Thomomys talpoides" ; Times: 1
+	Query: "Oryzomys palustris" ; Times: 1
+	Query: "Alces" ; Times: 1
+	Query: "Megaptera novaeangliae" ; Times: 1
+	Query: "panthera Leo" ; Times: 1
+	Query: "canis lupus arctos" ; Times: 1
+	Query: "Chaetodipus formosus" ; Times: 1
+	Query: "Dipodomys merriami" ; Times: 1
+	Query: "Odocoileus hemionus" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis family:Canidae (zoo OR captive) AND (NOT baileyi NOT familiaris NOT dingo) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Neotoma lepida" ; Times: 1
+	Query: "*Urocitellus columbianus" ; Times: 1
+	Query: "Peromyscus polionotus" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "hassex:1 hasmass:1" ; Times: 1
+	Query: "class:mammalia massing &gt;= 300 lengthinmm &gt;= 250" ; Times: 1
+	Query: "Erethizon" ; Times: 1
+	Query: "specificepithet:rosmarus genus:Odobenus hasmass:1 haslength:1" ; Times: 1
+	Query: "Procyon lotor stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "Ictidomys tridecemlineatus" ; Times: 1
+	Query: "Dipodomys microps" ; Times: 1
+	Query: "Oreamnos americanus" ; Times: 1
+	Query: "Ovis canadensis" ; Times: 1
+	Query: "Sciurus aberti" ; Times: 1
+	Query: "Callospermophilus saturatus" ; Times: 1
+	Query: "cryptotis parva" ; Times: 2
+	Query: "felidae hasmass:1 haslength:1" ; Times: 1
+	Query: "Spermophilus lateralis" ; Times: 1
+	Query: "syncerus caffer" ; Times: 1
+	Query: "vntype:specimen order:Artiodactyla hasmass:1 haslength:1" ; Times: 1
+	Query: "Spermophilus undulatus" ; Times: 1
+	Query: "dipodomys ordii" ; Times: 1
+	Query: "specificepithet:floridanus genus:Sylvilagus haslength:1" ; Times: 1
+	Query: "Callospermophilus lateralis" ; Times: 1
+	Query: "vntype:specimen class:Mammalia massing &gt;= 8000 hasmass:1" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "specificepithet:arctos genus:ursus hasmass:1" ; Times: 1
+	Query: "myodes gapperi" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "myotis lucifugus" ; Times: 1
+	Query: "Panthera pardus" ; Times: 1
+	Query: "myotis leibii" ; Times: 1
+	Query: "lasionycteris noctivagans" ; Times: 1
+	Query: "Sigmodon hispidus" ; Times: 2
+	Query: "Perognathus longimembris" ; Times: 1
+	Query: "Chiropodomys gliroides" ; Times: 1
+	Query: "genus:Ursus americanus hassex:1 haslength:1" ; Times: 1
+	Query: "Onychomys leucogaster" ; Times: 1
+	Query: "class:Mammalia distance(location,geopoint(43.28527581657787,-75.5302745103836))&lt;191856.53137782737" ; Times: 1
+	Query: "genus:megaptera year &gt;= 2000 year &lt;= 2010" ; Times: 1
+	Query: "vntype:specimen family:Ursidae hasmass:1 haslength:1" ; Times: 1
+	Query: "glaucomys sabrinus" ; Times: 1
+	Query: "Myodes gapperi" ; Times: 1
+
+
+End of report.
